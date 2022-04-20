@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{AA9898DA-9534-442C-A707-9BCC750A3710}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{51782431-19CF-4903-995E-A492C73B514D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{8B1C85F1-F144-4619-A75F-F889B5746A79}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{81E00E5F-5175-4656-9361-3DB10C095193}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{C109566B-7677-4136-8979-358E8FBCD90F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{71151691-4AE1-4C79-823C-C9E83EBFBF6B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{16BDEC60-C242-43CD-A2A5-3FBFB054CAD1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{6262F271-45DA-4C99-AC45-BA413BBEF740}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{C2517DCD-1DAF-4619-A4C0-DCB9FDDA6795}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{70702F6B-99D9-4309-9954-1A66CFFC78E3}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{F1AE7500-2B98-4662-9EEC-F55C8A950C65}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{22B6A09F-7692-4439-A5DF-F67366F8C033}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{0456FB53-F200-4401-B668-EEEDE48AC83F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{7171ECAA-25FF-49D9-BBF9-34DBFDDCCD69}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{668D2632-9DEE-401C-8B3F-CA75094D16CE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="PDFUtils" key="{1EBF34DA-23DA-463C-8BBC-FFC35F60B915}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+			<child name="Portefeuille_Get_functions" key="{C7E0B685-D09A-48A6-9608-0C7930F109C7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{D1DD9DD4-51C3-49C5-AC1E-B5D5A2EE3556}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{6E697DF0-5939-4BEF-A717-492595808122}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{52254DFB-B149-4C5B-A5FD-5387A79FAA84}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+		</folder>
+		<child name="PreExecution" key="{863DCAB3-DF59-4DFF-AFB4-4DA50156804E}" path="PreExecution.sj" />
+		<child name="Global_variables" key="{38661B16-B5C6-4E84-99E3-A387173A028A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{49C22C3D-0A80-41E4-B6CD-678A0E4A5160}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

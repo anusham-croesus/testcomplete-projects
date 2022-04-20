@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{99425D5A-7E27-4B13-8684-027BD8909C09}">
+	<children>
+		<child name="Agenda" key="{C36095D9-696C-4675-854B-32186E3EA399}" path="Agenda\Agenda.mds" />
+		<child name="Billing" key="{DBFCC98A-3C64-4869-8405-9C521E0478EE}" path="Billing\Billing.mds" />
+		<child name="Clients" key="{D9E3EDE5-C854-4B2D-845B-91441A328A89}" path="Clients\Clients.mds" />
+		<child name="Comptes" key="{64206B17-415D-4351-98ED-AA3652F12258}" path="Comptes\Comptes.mds" />
+		<child name="Dashboard" key="{2939E389-9609-4F99-9F2F-D33521877B33}" path="Dashboard\Dashboard.mds" />
+		<child name="Modeles" key="{6B757F76-6DB5-48A6-A6FF-BF89572496CA}" path="Modeles\Modeles.mds" />
+		<child name="Ordres" key="{2F3B6E43-5999-4B86-BF79-F74DA15FAE79}" path="Ordres\Ordres.mds" />
+		<child name="Portefeuille" key="{F0E6B0D3-B90B-4B7C-B018-6D017958DC29}" path="Portefeuille\Portefeuille.mds" />
+		<child name="Rapports" key="{710BB25B-D1BD-4B5F-8223-A7D89644822A}" path="Rapports\Rapports.mds" />
+		<child name="Relations" key="{EB452AB2-D3FC-4977-9236-289DB6F3E725}" path="Relations\Relations.mds" />
+		<child name="Sleeves" key="{58F495DE-1473-4026-AE94-5923E92303E1}" path="Sleeves\Sleeves.mds" />
+		<child name="Titres" key="{A2BB1B85-E546-4845-AD33-76500F9D41A4}" path="Titres\Titres.mds" />
+		<child name="Transactions" key="{78BF8A92-A1D5-4C17-A10E-25F4D0B262CB}" path="Transactions\Transactions.mds" />
+		<child name="PreExecution" key="{486A57A2-EF25-420F-B1E2-6B7EBB8CE5A3}" path="PreExecution\PreExecution.mds" />
+		<child name="Project CompareXML" key="{7A046C3B-940E-440A-9F00-372571EB9032}" path="CompareXML\Project CompareXML.mds" />
+	</children>
+	<testItems key="{C4274EDF-493A-4B7B-ADE5-8B1A9722BDB0}">
+		<children>
+			<testItem key="{486A57A2-EF25-420F-B1E2-6B7EBB8CE5A3}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{78BF8A92-A1D5-4C17-A10E-25F4D0B262CB}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{710BB25B-D1BD-4B5F-8223-A7D89644822A}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{6B757F76-6DB5-48A6-A6FF-BF89572496CA}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{58F495DE-1473-4026-AE94-5923E92303E1}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{D9E3EDE5-C854-4B2D-845B-91441A328A89}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{A2BB1B85-E546-4845-AD33-76500F9D41A4}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{64206B17-415D-4351-98ED-AA3652F12258}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{EB452AB2-D3FC-4977-9236-289DB6F3E725}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{F0E6B0D3-B90B-4B7C-B018-6D017958DC29}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{2F3B6E43-5999-4B86-BF79-F74DA15FAE79}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{2939E389-9609-4F99-9F2F-D33521877B33}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{C36095D9-696C-4675-854B-32186E3EA399}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{DBFCC98A-3C64-4869-8405-9C521E0478EE}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{7A046C3B-940E-440A-9F00-372571EB9032}" enabled="False" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{1DCD5848-A659-4001-9BDA-381AFDA72909}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="BNC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{A43BA88B-B21C-4372-B29A-87FFE40909A0}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

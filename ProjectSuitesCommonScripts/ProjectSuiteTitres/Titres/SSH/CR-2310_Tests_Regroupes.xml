@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+<dynData xmlns="http://www.croesus.com/DynXML"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.croesus.com/DynXML /usr/lib/finansoft/loader/schemas/generic_data.xsd"
+	version="2.0">
+
+	<header xmlns="http://www.croesus.com/CFXML" timeStamp="2020-06-17T12:25:06" dest="UNI" noElem="45" />
+
+	<entity id="MF_INFO" seqNo="1">
+		<elem key="Symbol" value="AGF102"/>
+		<elem key="RRSPMinInvest" value="12345678"/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value="22345678"/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="2">
+		<elem key="Symbol" value="AGF104"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="32345678"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="42345678"/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="3">
+		<elem key="Symbol" value="AGF110"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="52345678"/>
+		<elem key="PACSubInvest" value="62345678"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="4">
+		<elem key="Symbol" value="AGF201"/>
+		<elem key="RRSPMinInvest" value="12345678901.12"/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value="22345678901.34"/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="5">
+		<elem key="Symbol" value="AGF202"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="323456789.567"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="423456789.890"/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="6">
+		<elem key="Symbol" value="AGF210"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="52345678910.123"/>
+		<elem key="PACSubInvest" value="62345678910.456"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="7">
+		<elem key="Symbol" value="AGF304"/>
+		<elem key="RRSPMinInvest" value="1234567890.12"/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value="2234567890.34"/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="8">
+		<elem key="Symbol" value="AGF306"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="3234567890.56"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="4234567890.78"/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="9">
+		<elem key="Symbol" value="AGF307"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="5234567890.90"/>
+		<elem key="PACSubInvest" value="6234567890.00"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="10">
+		<elem key="Symbol" value="AGF410"/>
+		<elem key="RRSPMinInvest" value="12345.67"/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value="22345.67"/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="11">
+		<elem key="Symbol" value="AGF414"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="32345.67"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="42345.67"/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="12">
+		<elem key="Symbol" value="AGF418"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="52345.67"/>
+		<elem key="PACSubInvest" value="62345.67"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="13">
+		<elem key="Symbol" value="AIC117"/>
+		<elem key="RRSPMinInvest" value="101"/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="14">
+		<elem key="Symbol" value="AIC118"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="201"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="15">
+		<elem key="Symbol" value="AIC119"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="301"/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="16">
+		<elem key="Symbol" value="AIC301"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value="102"/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="17">
+		<elem key="Symbol" value="AIC302"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="202"/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="18">
+		<elem key="Symbol" value="AIC310"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value="302"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="19">
+		<elem key="Symbol" value="AIC402"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="20">
+		<elem key="Symbol" value="AIC446"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="21">
+		<elem key="Symbol" value="AIC450"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="22">
+		<elem key="Symbol" value="ABC123"/>
+		<elem key="RRSPMinInvest" value="123"/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value="124"/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="23">
+		<elem key="Symbol" value="DFE456"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="456"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="457"/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="24">
+		<elem key="Symbol" value="GHI789"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="789"/>
+		<elem key="PACSubInvest" value="790"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="25">
+		<elem key="Symbol" value=""/>
+		<elem key="RRSPMinInvest" value="123"/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value="124"/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="26">
+		<elem key="Symbol" value=""/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="456"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="457"/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="27">
+		<elem key="Symbol" value=""/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="789"/>
+		<elem key="PACSubInvest" value="790"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="28">
+		<elem key="Symbol" value="AIM1231"/>
+		<elem key="RRSPMinInvest" value="1231"/>
+		<elem key="NonRRSPMinInvest" value="2231"/>
+		<elem key="RRSPSubInvest" value="1241"/>
+		<elem key="NonRRSPSubInvest" value="2241"/>
+		<elem key="PACMinInvest" value="3231"/>
+		<elem key="PACSubInvest" value="3241"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="29">
+		<elem key="Symbol" value="AIM1233"/>
+		<elem key="RRSPMinInvest" value="1233"/>
+		<elem key="NonRRSPMinInvest" value="2233"/>
+		<elem key="RRSPSubInvest" value="1243"/>
+		<elem key="NonRRSPSubInvest" value="2243"/>
+		<elem key="PACMinInvest" value="3233"/>
+		<elem key="PACSubInvest" value="3243"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="30">
+		<elem key="Symbol" value="AIM1235"/>
+		<elem key="RRSPMinInvest" value="1235"/>
+		<elem key="NonRRSPMinInvest" value="2235"/>
+		<elem key="RRSPSubInvest" value="1245"/>
+		<elem key="NonRRSPSubInvest" value="2245"/>
+		<elem key="PACMinInvest" value="3235"/>
+		<elem key="PACSubInvest" value="3245"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="31">
+		<elem key="Symbol" value="AIM1511"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="2511"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="2521"/>
+		<elem key="PACMinInvest" value="3511"/>
+		<elem key="PACSubInvest" value="3521"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="32">
+		<elem key="Symbol" value="AIM1512"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="2512"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="2522"/>
+		<elem key="PACMinInvest" value="3512"/>
+		<elem key="PACSubInvest" value="3522"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="33">
+		<elem key="Symbol" value="AIM1513"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="2513"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="2523"/>
+		<elem key="PACMinInvest" value="3513"/>
+		<elem key="PACSubInvest" value="3523"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="34">
+		<elem key="Symbol" value="AIM1641"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="3641"/>
+		<elem key="PACSubInvest" value="3651"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="35">
+		<elem key="Symbol" value="AIM1643"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="3643"/>
+		<elem key="PACSubInvest" value="3653"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="36">
+		<elem key="Symbol" value="AIM1645"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="3645"/>
+		<elem key="PACSubInvest" value="3655"/>
+	</entity>
+	
+		<entity id="MF_INFO" seqNo="37">
+		<elem key="Symbol" value="AIM1721"/>
+		<elem key="RRSPMinInvest" value="1721"/>
+		<elem key="NonRRSPMinInvest" value="2721"/>
+		<elem key="RRSPSubInvest" value="1722"/>
+		<elem key="NonRRSPSubInvest" value="2722"/>
+		<elem key="PACMinInvest" value="3721"/>
+		<elem key="PACSubInvest" value="3722"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="38">
+		<elem key="Symbol" value="AIM1731"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="2731"/>
+		<elem key="RRSPSubInvest" value="1732"/>
+		<elem key="NonRRSPSubInvest" value="2732"/>
+		<elem key="PACMinInvest" value="3731"/>
+		<elem key="PACSubInvest" value="3732"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="39">
+		<elem key="Symbol" value="AIM1733"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value="1734"/>
+		<elem key="NonRRSPSubInvest" value="2734"/>
+		<elem key="PACMinInvest" value="3733"/>
+		<elem key="PACSubInvest" value="3734"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="40">
+		<elem key="Symbol" value="AIM1735"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="2736"/>
+		<elem key="PACMinInvest" value="3735"/>
+		<elem key="PACSubInvest" value="3736"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="41">
+		<elem key="Symbol" value="AIM1741"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="3741"/>
+		<elem key="PACSubInvest" value="3742"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="42">
+		<elem key="Symbol" value="AIM1743"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value="3744"/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="43">
+		<elem key="Symbol" value="760929"/>
+		<elem key="RRSPMinInvest" value="7609.29"/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value="7619.29"/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="44">
+		<elem key="Symbol" value="760931"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value="7609.31"/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value="7619.31"/>
+		<elem key="PACMinInvest" value=""/>
+		<elem key="PACSubInvest" value=""/>
+	</entity>
+	
+	<entity id="MF_INFO" seqNo="45">
+		<elem key="Symbol" value="760943"/>
+		<elem key="RRSPMinInvest" value=""/>
+		<elem key="NonRRSPMinInvest" value=""/>
+		<elem key="RRSPSubInvest" value=""/>
+		<elem key="NonRRSPSubInvest" value=""/>
+		<elem key="PACMinInvest" value="7609.43"/>
+		<elem key="PACSubInvest" value="7619.43"/>
+	</entity>
+</dynData>

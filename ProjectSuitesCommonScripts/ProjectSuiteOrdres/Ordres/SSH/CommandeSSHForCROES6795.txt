@@ -1,0 +1,9 @@
+yes | cp /var/lib/finansoft/configs/* /etc/finansoft
+service cffixproxy restart
+cd /var/lib/finansoft/Simulator
+mono --debug Simulator.exe >Simulator.log 2>&1 &
+service cfordermanagementserver restart
+ps -ef | grep mono
+
+SLEEP 20
+ps -ef | grep mono

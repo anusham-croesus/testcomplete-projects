@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{8BBC5AB1-9C73-4684-A6AC-9A2773E380EF}">
+	<children>
+		<child name="Titres" key="{2735DA2A-CD94-469B-82F9-88DB5A40D65C}" path="Titres\Titres.mds" />
+	</children>
+	<testItems key="{E7870215-A850-4799-8A49-A8174299C09A}">
+		<children>
+			<testItem key="{2735DA2A-CD94-469B-82F9-88DB5A40D65C}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{130D195F-F5BD-4686-9CAC-9882398C57D0}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="RJ" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{407DBCE5-4320-4982-AA57-E3A1AF35564F}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

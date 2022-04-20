@@ -1,0 +1,2226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" version="14.0">
+	<children>
+		<child name="Script" key="{05261BEA-F0B4-40E1-85E3-458F7C003CDF}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
+		<child name="NameMapping" key="{43EC5015-C1AE-42C6-B781-6736FB240ADF}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="..\..\..\ProjectSuiteLibrary\Library\NameMapping\NameMapping.tcNM" />
+		<child name="NetworkSuite" key="{E2143D06-1BB8-42C7-848F-2D576BCFE2D6}" type="Network Suite Core" typeId="{342AA317-C8C7-4232-8A60-069723AAFC67}" pluginName="Network Suite Core" path="NetworkSuite\NetworkSuite.tcNetSuite" />
+		<child name="Events" key="{A9090C50-7830-49CB-B97D-45608E6F74B1}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" pluginName="" path="Events\Events.tcAX" />
+	</children>
+	<config language="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" />
+	<testItems key="{BC163463-8161-4ABE-B09D-98486D035D1A}" version="14">
+		<children>
+			<testItem name="PreExecution" key="{C2D4D3EC-A99D-4E2F-99CC-0C67B034C503}" group="False" enabled="True" testMoniker="{379F5C2F-DCF2-4CD9-BF06-DAA2A81CD6A8}PreExecution" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="CR1352" key="{351C50D6-96B2-457F-BF0F-7F8ED52B3183}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{73B814F3-0805-4583-AC7A-6BA5B8368441}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_MouseWheel" key="{96EBE41B-42B2-4750-9CF0-795E5ADFAE8F}" group="False" enabled="True" testMoniker="{F8928217-2F02-4C65-83AA-A78C60A629C5}CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_MouseWheel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_DownKey" key="{E12DC5C2-F224-43E3-A527-D78A6A63A294}" group="False" enabled="True" testMoniker="{5C13127A-9E12-4646-9860-7F04ED1171CF}CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_DownKey" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_CROES_8230_Cli_TestDeSelectionMultipleAvecShift_ScrollDown" key="{FBBB0BFE-90BE-422D-9916-5BE9BA90493A}" group="False" enabled="False" testMoniker="{A0AF567D-1D97-44C2-A412-DA5E17E2AFCF}CR1352_CROES_8230_Cli_TestDeSelectionMultipleAvecShift_ScrollDown" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Client_Grid" key="{14210690-AA84-4C5D-9C37-B84C4D298470}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Contextual_Menu" key="{070D7C7B-F875-4E8C-ADCD-6657E8213F34}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="CR1352_2020_Cli_EditSegmentation_OneClient_Yes" key="{FAC34D79-0435-4636-B913-BF164F812979}" group="False" enabled="True" testMoniker="{11E4F7F3-85FC-42E7-A483-C86485D93E54}CR1352_2020_Cli_EditSegmentation_OneClient_Yes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2020_Cli_EditSegmentation_SeveralClients_Non" key="{4D80734B-04D4-44F1-A82D-E145A5EB796F}" group="False" enabled="True" testMoniker="{4F3B3956-DAB1-48C0-A07F-6341734DADEA}CR1352_2020_Cli_EditSegmentation_SeveralClients_Non" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2020_Cli_EditSegmentation_SeveralClients_Yes" key="{87F8887E-1393-4312-99B1-F75DC1E1FE85}" group="False" enabled="True" testMoniker="{BA4F10A0-649B-42EC-9D31-9F20CCD23E3F}CR1352_2020_Cli_EditSegmentation_SeveralClients_Yes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Detail_Section" key="{D1078668-BE13-436E-91B7-E4219429552E}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="CR1352_1983_Cli_ContextualMenu_ForRootClientAndRel" key="{4D45DE81-3856-4B6E-BBF0-0E005D474817}" group="False" enabled="True" testMoniker="{31095824-D5C6-444D-AA7D-C524896EA61C}CR1352_1983_Cli_ContextualMenu_ForRootClientAndRel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1983_Cli_ContextualMenu_ForSecondaryRootClient" key="{EA7F6589-411F-4BC9-8C1F-F93B7FB5B57B}" group="False" enabled="True" testMoniker="{23F26A33-B67D-4156-9A49-025A027BE816}CR1352_1983_Cli_ContextualMenu_ForSecondaryRootClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1985_Cli_ContextualMenu_Details_Ungroup" key="{757B4E87-8286-4A3A-82EF-3DE10381F7C0}" group="False" enabled="True" testMoniker="{928D476C-38CC-4724-8758-618EFF31E9D3}CR1352_1985_Cli_ContextualMenu_Details_Ungroup" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1986_Cli_ContextualMenu_Details_RestrictionRootClient" key="{BACF4199-D8EA-471B-9EA4-F39E5BDBB597}" group="False" enabled="True" testMoniker="{B09E4379-028E-40A2-B233-2EC2982D93DA}CR1352_1986_Cli_ContextualMenu_Details_RestrictionRootClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1986_Cli_ContextualMenu_Details_RestrictionSecRootClient" key="{E92DD79E-3F29-4030-91A1-D4BFC175989A}" group="False" enabled="True" testMoniker="{858CC285-2F40-4AE4-8DA3-E011AF3D84B9}CR1352_1986_Cli_ContextualMenu_Details_RestrictionSecRootClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2052_Cli_DetailSection_Information_RootClient" key="{90B6EF0C-0136-49BE-B0A7-EEACE69F2674}" group="False" enabled="True" testMoniker="{AC867074-1688-4507-A276-8A638C5C482C}CR1352_2052_Cli_DetailSection_Information_RootClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2053_Cli_DetailSection_Overview" key="{3AAD48C8-61C9-4E4E-A52B-9D32E562D4A6}" group="False" enabled="True" testMoniker="{3A514803-E98D-400F-AE7F-04537C1F067C}CR1352_2053_Cli_DetailSection_Overview" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2054_Cli_DetailSection_Information_SecondaryRootClient" key="{962F9168-FE13-4B46-ABA2-D0494334CB2A}" group="False" enabled="True" testMoniker="{5C5D7A0D-D568-498C-BB9A-555489A9E80A}CR1352_2054_Cli_DetailSection_Information_SecondaryRootClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2071_Cli_DetailSection_btnPlus" key="{B2DFBF4E-1D39-4BA8-A200-21D903500D68}" group="False" enabled="True" testMoniker="{CCD94BF9-E51E-4A76-A77D-AFDFA0DEDF3D}CR1352_2071_Cli_DetailSection_btnPlus" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2072_Cli_DetailSection_dblClick" key="{6A83888F-0818-4BF3-8A83-796599CF0041}" group="False" enabled="True" testMoniker="{157FFC7F-5408-4298-A137-9EEF365F2564}CR1352_2072_Cli_DetailSection_dblClick" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2073_Cli_FamilyRepresentative_in_DetailSection" key="{9DF3BC3E-D62D-454B-A34D-BA652C1E8367}" group="False" enabled="True" testMoniker="{CE2A6D74-BE60-43DB-92B7-D7AA1E8A0677}CR1352_2073_Cli_FamilyRepresentative_in_DetailSection" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2074_Cli_NewFields_InfoClient" key="{E249FF7D-06D3-44C7-850E-B7454A5F00E7}" group="False" enabled="True" testMoniker="{00F2B047-5BBB-4854-9F4E-71E40B8EFC17}CR1352_2074_Cli_NewFields_InfoClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2075_Cli_Add_AgendaEvent" key="{0C3D93D1-F564-404A-9009-A4644959CF75}" group="False" enabled="True" testMoniker="{253B244A-E8AF-46E9-B87E-C4ABDC7A9211}CR1352_2075_Cli_Add_AgendaEvent" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2075_Cli_Edit_SecondaryRootClient" key="{C28C7B52-26F7-412F-B731-A7EAAA7CE66C}" group="False" enabled="True" testMoniker="{6DB7E99D-BF3C-42AC-BEC6-8CECC12FD6B7}CR1352_2075_Cli_Edit_SecondaryRootClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2075_Cli_Edit_SegmentationInfoClient" key="{BF177BC3-4329-4812-BA03-6C586C043A9B}" group="False" enabled="True" testMoniker="{9880985C-36A6-4DE0-87D3-9DA511B765CC}CR1352_2075_Cli_Edit_SegmentationInfoClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2076_Cli_Visibility_inDetailsSection" key="{CE3BF33F-5789-4E31-8D6C-CF6BB40750D8}" group="False" enabled="False" testMoniker="{DA7EBF17-2121-4866-BB8A-046CF65999E1}CR1352_2076_Cli_Visibility_inDetailsSection" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2077_Cli_Drag_FromRelatioships" key="{6D50B930-5D79-4D51-8700-B7A6216468C1}" group="False" enabled="True" testMoniker="{04340480-27C5-473E-AE69-7F27AF81F937}CR1352_2077_Cli_Drag_FromRelatioships" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2077_Cli_Drag_FromsameAddress" key="{AAEB8AD1-CED5-4A75-9E5C-E925D06B6531}" group="False" enabled="True" testMoniker="{BCB379A6-4344-448A-AD6F-484CE6DA10AE}CR1352_2077_Cli_Drag_FromsameAddress" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2077_Cli_Drag_MainRoot_FromDetailsSection" key="{F6EF1F6D-547D-4B25-B6F5-11ED9FEA4ACD}" group="False" enabled="True" testMoniker="{F9F89BF6-5F55-4C3D-B8C7-A9A3618B8DC2}CR1352_2077_Cli_Drag_MainRoot_FromDetailsSection" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2077_Cli_Drag_SecondaryRoot_FromDetailsSection" key="{2A4DDDEE-2A61-4EEA-947E-81AD3C82295A}" group="False" enabled="True" testMoniker="{D521BCDD-C487-4090-A8FC-1ABDCFAA8008}CR1352_2077_Cli_Drag_SecondaryRoot_FromDetailsSection" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2078_Cli_Add_RestrictionToClient" key="{E1D24A51-C737-4DCA-B9C1-9CDFF3112D06}" group="False" enabled="True" testMoniker="{84D5E98D-3079-4499-B441-B9B59623FFDA}CR1352_2078_Cli_Add_RestrictionToClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="General" key="{FE4DFCDD-0C63-4D3D-955E-7B9AAC63495B}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="CR1352_2022_Cli_Add_Addresses_toClients" key="{D427BFAE-F1FB-4926-B9EC-DCBA9D4C1223}" group="False" enabled="True" testMoniker="{74C6B6CF-151F-41D7-87CE-29EFF950794A}CR1352_2022_Cli_Add_Addresses_toClients" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2021_Cli_Edit_InfoClient" key="{4EF1FF10-EE24-4FA1-BDCA-178DCDCA3083}" group="False" enabled="True" testMoniker="{D4F38B56-A258-43AA-8201-F9BE49FDC335}CR1352_2021_Cli_Edit_InfoClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2021_Cli_Edit_InfoClient_Helpdsk" key="{A1F27495-F859-4A1C-AF9D-5D932F329841}" group="False" enabled="True" testMoniker="{C9093AE4-95D0-4C25-802E-8979E5AFEC61}CR1352_2021_Cli_Edit_InfoClient_Helpdsk" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2100_AssociateClient_with_relationship" key="{1FDC028C-569F-4F75-975D-DBD3902862F6}" group="False" enabled="True" testMoniker="{0E828D42-77AF-44C5-AD1A-CED9C91EF34B}CR1352_2100_AssociateClient_with_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Sum" key="{C882A192-AE88-4686-92F2-0EB402E59CA2}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="CR1352_2013_Cli_NoSelection_inClientGrid" key="{501719C1-7144-4C91-A0A5-FCC145E01E4A}" group="False" enabled="True" testMoniker="{676A9BC4-E1B6-4B38-978A-9BC084A13DEB}CR1352_2013_Cli_NoSelection_inClientGrid" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2014_Cli_ApplySum_ToFilterResult" key="{EE3C5162-905F-4526-BA79-7C003EDF9F94}" group="False" enabled="True" testMoniker="{720D533C-7FEF-4B05-9C68-A6112AC71A18}CR1352_2014_Cli_ApplySum_ToFilterResult" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2015_Cli_ApplySum_ToManualListResult" key="{0E542C7E-3621-41DA-AE92-391B963267C3}" group="False" enabled="True" testMoniker="{F8913BDA-2577-468A-9407-1095AC89BA9D}CR1352_2015_Cli_ApplySum_ToManualListResult" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2018_Cli_ApplySum_AfterDragging" key="{6ED2CE96-4905-4C49-9D4E-6AF17DDD3FB8}" group="False" enabled="True" testMoniker="{6CD0D2DF-2E26-4843-B1DA-E668A2EDD923}CR1352_2018_Cli_ApplySum_AfterDragging" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_2019_Cli_Sum_pref_enable_client_Grouping" key="{C80D315A-0FD1-48BA-8149-08F5615D45D1}" group="False" enabled="False" testMoniker="{1A5503BD-2F6C-4137-9B67-F4FB34D8EECF}CR1352_2019_Cli_Sum_pref_enable_client_Grouping" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Drag_Filters" key="{67902A56-004B-439D-9B7E-CF9AA09001E6}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_1455_Cli_DragAccounts_toClientModule" key="{5DA33BEC-0F57-44A0-B970-2841BBBDA7C9}" group="False" enabled="True" testMoniker="{8411B33D-A311-49AF-912B-DBFEAD1E4DFF}CR1352_1455_Cli_DragAccounts_toClientModule" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1456_Cli_DragClients_toClientModule" key="{588522BC-9BE6-44EB-A589-04510FFBFBB8}" group="False" enabled="False" testMoniker="{7028DE9F-EBE7-421C-9E3F-B93E0B1FCA8D}CR1352_1456_Cli_DragClients_toClientModule" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1457_Cli_Deactivate_DraggedFilter" key="{3898B654-4629-4011-B31A-956FDAF3E9E5}" group="False" enabled="False" testMoniker="{52006299-7DC9-44D4-8A83-68D04F1DBC9A}CR1352_1457_Cli_Deactivate_DraggedFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1458_Cli_DragRelationships_toClientModule" key="{2184E95E-620E-4F45-BDF4-2AE5D116841E}" group="False" enabled="False" testMoniker="{FEE49A86-9887-428E-A34B-D7B2DAC005F5}CR1352_1458_Cli_DragRelationships_toClientModule" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1459_Cli_Apply_QuickFilter_onDraggedFilter" key="{F07619AF-4AA9-4ACD-A622-02C2E8AE1BA7}" group="False" enabled="False" testMoniker="{1DFA0DEB-43DC-46CB-B709-89D1B9B955FD}CR1352_1459_Cli_Apply_QuickFilter_onDraggedFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Manage_Criteria_forRestrictions" key="{2BC4A2A4-07AF-4649-9E71-762D076CA955}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_1975_Cli_Add_SerachCriteria_btnAdd" key="{2C24E7CE-0F60-4896-9858-DE58BB03E776}" group="False" enabled="True" testMoniker="{6CA18603-9B83-4EBA-ABF9-8EBAC44F9569}CR1352_1975_Cli_Add_SerachCriteria_btnAdd" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1975_Cli_Add_SerachCriteria_ClickR" key="{9460FD53-D48B-44DC-A369-180AFDC9CA49}" group="False" enabled="True" testMoniker="{B225F44A-A6C6-4927-9F3A-0C87AE410970}CR1352_1975_Cli_Add_SerachCriteria_ClickR" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1976_Cli_Edit_SerachCriteria_btnEdit" key="{6BCA1877-3B12-408D-8F9A-0DB0DBB9EFB1}" group="False" enabled="True" testMoniker="{BA44BAE6-CC59-4888-8E7D-38C4CD72E944}CR1352_1976_Cli_Edit_SerachCriteria_btnEdit" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1976_Cli_Edit_SerachCriteria_ClickR" key="{3A09EAAA-B27B-4F6B-9F17-00F25B0F2F38}" group="False" enabled="True" testMoniker="{98226B3A-937B-4729-92C5-378288DDAA17}CR1352_1976_Cli_Edit_SerachCriteria_ClickR" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1981_Cli_Delete_SerachCriteria" key="{B1F9D7F6-2A80-4FCE-93C2-4781FE527F44}" group="False" enabled="True" testMoniker="{7D6EEBAB-BB42-4DB6-929D-4CDB8195A4E8}CR1352_1981_Cli_Delete_SerachCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1982_Cli_ContextualMenu" key="{7C229381-D903-49BA-ADA0-C37F9E4BCEAA}" group="False" enabled="True" testMoniker="{5226A7AF-8FBA-477A-ABFA-9B22138776A4}CR1352_1982_Cli_ContextualMenu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1982_Cli_ContextualMenu_Copy" key="{8DD3807D-0315-419F-A917-1984691CE905}" group="False" enabled="True" testMoniker="{EDD0B06E-FD65-4BB6-B41A-9B017C82BF66}CR1352_1982_Cli_ContextualMenu_Copy" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1982_Cli_ContextualMenu_CopyWithHeader" key="{A6B9D972-0640-49B1-8A57-0E9B19B8237B}" group="False" enabled="True" testMoniker="{BB243926-79AD-44C5-BBFC-41925D08DFE5}CR1352_1982_Cli_ContextualMenu_CopyWithHeader" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1982_Cli_ContextualMenu_ExportToExcel" key="{4D9E6B41-2374-4E93-9587-458DF8F81C21}" group="False" enabled="True" testMoniker="{C4483898-68D9-46B7-A434-C3E6BD7CFB8E}CR1352_1982_Cli_ContextualMenu_ExportToExcel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1982_Cli_ContextualMenu_ExportToFile" key="{7EAA67D2-8374-4F69-96E9-284587F4B24D}" group="False" enabled="True" testMoniker="{F45499FB-5D93-45A2-91AE-B9EAC2214D39}CR1352_1982_Cli_ContextualMenu_ExportToFile" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1982_Cli_ContextualMenu_IndexHelp" key="{082A1697-2FC7-441A-BFF6-4E3B78755DB8}" group="False" enabled="False" testMoniker="{AA01E995-A692-4637-AEA1-1397DAE5F9D4}CR1352_1982_Cli_ContextualMenu_IndexHelp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1982_Cli_Contextualmenu_SensitiveHelp" key="{CCB1AC06-79F9-412E-B81F-4CE4FD63247E}" group="False" enabled="False" testMoniker="{A16443A9-55AD-472B-AA61-AC7168702E03}CR1352_1982_Cli_Contextualmenu_SensitiveHelp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Manage_Filters" key="{307402EF-1F1E-4AD9-BAA7-4BD6760FDEDF}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_1440_Cli_Cancel_Print" key="{91D8DB10-7A72-4E6E-8029-D9CB518F8135}" group="False" enabled="True" testMoniker="{437E325B-8A47-49FF-9EDC-F4D50D0B57B9}CR1352_1440_Cli_Cancel_Print" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1441_Cli_StateOfBtns_forGlobalAccessFilter" key="{FBFBE23A-D3A8-4B87-BB02-ABC92EDDFA31}" group="False" enabled="True" testMoniker="{B25E5374-BB22-4162-A6F7-BB873A6C55EE}CR1352_1441_Cli_StateOfBtns_forGlobalAccessFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1441_Cli_StateOfBtns_forUserAccessFilter" key="{53799725-D646-4432-97FA-9913F25DCD69}" group="False" enabled="True" testMoniker="{34FE0BDB-D78D-4355-91F0-D2FB145312E9}CR1352_1441_Cli_StateOfBtns_forUserAccessFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1442_Cli_ColumnSorting_inManageFilter" key="{80FAB076-04AB-4BC4-A645-F2EEB6A76749}" group="False" enabled="True" testMoniker="{1BD866E5-4C35-4EC0-BEE1-EAD8C51D1FC0}CR1352_1442_Cli_ColumnSorting_inManageFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1443_Cli_Configuration_ManageFilter" key="{437AD1CB-F2E9-4986-9B9E-AAC01ACF7D03}" group="False" enabled="True" testMoniker="{8795CF82-11F8-4DDF-A833-2E7BD2A290E4}CR1352_1443_Cli_Configuration_ManageFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1444_Cli_ContextualMenu_Copy_inManageFilter" key="{9B21A60C-E749-48CA-9AB1-CDEDDB46EBC3}" group="False" enabled="True" testMoniker="{F22EA29F-E0CE-429A-B5E6-074ABB4DA024}CR1352_1444_Cli_ContextualMenu_Copy_inManageFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1445_Cli_ContentsIndexHelp_inManageFilter" key="{FC205F60-EE5C-42CC-8F5B-B990283C9660}" group="False" enabled="False" testMoniker="{F1959342-B7C3-41CE-AD68-933BF53FFD6B}CR1352_1445_Cli_ContentsIndexHelp_inManageFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1445_Cli_ContextSensitiveHelp_inManageFilter" key="{5CBBD064-CBED-4C22-B0C2-99F984E13331}" group="False" enabled="False" testMoniker="{92B2EDDA-D387-44BE-801A-A7E37C3C7761}CR1352_1445_Cli_ContextSensitiveHelp_inManageFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1446_Cli_ContextualMenu_ExportToFile_inManageFilter" key="{38BFDD08-3339-4598-A4F3-30DF053E4092}" group="False" enabled="True" testMoniker="{CB12F07B-D304-47B9-B8AD-5F3B7A777E4B}CR1352_1446_Cli_ContextualMenu_ExportToFile_inManageFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1447_Cli_ContextualMenu_ExportToExcel_inManageFilter" key="{32A8F445-56AB-43B0-97D4-4E21D33F4AFE}" group="False" enabled="True" testMoniker="{A58612AD-5068-405C-A551-F81CF2B91B7D}CR1352_1447_Cli_ContextualMenu_ExportToExcel_inManageFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1449_Cli_ContextualMenu_CopyWithHeader_inManageFilter" key="{E52DE239-37C8-4712-8E14-99BA3C1E77E1}" group="False" enabled="True" testMoniker="{DF6D15A3-6319-4D05-A8D7-3960CFB1A92F}CR1352_1449_Cli_ContextualMenu_CopyWithHeader_inManageFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1452_Cli_Search_inManageFilter" key="{1E5BC4D4-4E2E-4F2B-A7C2-F641B89D039B}" group="False" enabled="True" testMoniker="{280D46AE-D9D2-495E-926D-F7B3B521723F}CR1352_1452_Cli_Search_inManageFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1454_Cli_Open_ManageFilter_viaSearchMenu" key="{174F0E66-B1E4-4473-AFE5-4CEB7780178F}" group="False" enabled="True" testMoniker="{22F7425F-525A-4F3E-AC61-AD0925A30ED8}CR1352_1454_Cli_Open_ManageFilter_viaSearchMenu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Manual_List" key="{046AAE5E-AF71-43DB-8E91-E843B6195BD5}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_1966_Cli_Create_ManualList" key="{0329EBB0-5D27-45F4-8F99-F443D4CBCDF7}" group="False" enabled="True" testMoniker="{D45A7D22-CD02-4525-82AC-1217600226E9}CR1352_1966_Cli_Create_ManualList" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1967_Edit_ManualList" key="{53C860F9-FDF6-4943-9495-34A180207213}" group="False" enabled="False" testMoniker="{2B57ACEF-91CB-4ECA-989B-92F0659455E1}CR1352_1967_Edit_ManualList" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1968_Cli_Copy_ManualList" key="{5A390E72-A050-45A4-A116-F29B9017571B}" group="False" enabled="False" testMoniker="{5DF5A36D-3E80-46FF-BE45-983CB40F291E}CR1352_1968_Cli_Copy_ManualList" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Quick_Permanent_Filters" key="{BD293247-DB79-4DC3-A534-086E80E47DD6}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_1153_Cli_Create_PerCurrencyFilter_Icon_Y" key="{E9B3A55A-5F9F-4D96-BC37-784D3B0C7BEB}" group="False" enabled="True" testMoniker="{DABB9DF8-F6A3-47DC-8251-292322761BD3}CR1352_1153_Cli_Create_PerCurrencyFilter_Icon_Y" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1154_Cli_Create_FilterFromManageFilters" key="{14AB5E71-06FC-4A16-8969-04B166EC6677}" group="False" enabled="True" testMoniker="{2B4289FE-FF1C-4757-8610-3B4E5728C824}CR1352_1154_Cli_Create_FilterFromManageFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1164_Cli_Create_PerNoCLientFilter_FromTemFilter" key="{EF2C88D5-5B65-4DE9-A17B-4FFAE4943B85}" group="False" enabled="True" testMoniker="{52D745EC-498B-4F25-B56E-FD72892412A4}CR1352_1164_Cli_Create_PerNoCLientFilter_FromTemFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1165_Cli_Create_GlobalAccessFilter" key="{FA4922FF-B6B7-4AC2-9518-EA937840B940}" group="False" enabled="False" testMoniker="{9C5C0471-3836-4678-BA3E-3563D84B2288}CR1352_1165_Cli_Create_GlobalAccessFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1166_Cli_Create_FirmAccessFilter" key="{2415A0F8-2A67-467C-A5C3-2F009FBF3513}" group="False" enabled="True" testMoniker="{DEA6A375-388A-4C09-94B8-0D9CA652BBB6}CR1352_1166_Cli_Create_FirmAccessFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1167_Cli_Create_BranchAccessFilter" key="{82A58A03-F01D-4094-96D3-93839F99E775}" group="False" enabled="True" testMoniker="{2F2A2587-126C-4446-AED6-61EB08C495EB}CR1352_1167_Cli_Create_BranchAccessFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1168_Cli_Create_WorkGroupAccessFilte" key="{96EC7E6C-DBBD-4079-9728-8CEADCCEC488}" group="False" enabled="True" testMoniker="{32788245-2785-44D8-ABA5-053F915C44CD}CR1352_1168_Cli_Create_WorkGroupAccessFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1169_Cli_Create_UserAccessFilter" key="{EDBC5CA5-3A19-44CC-B6F0-CDBC084B943E}" group="False" enabled="True" testMoniker="{1B66766A-F136-47EF-99D3-DF8ACFF36CC5}CR1352_1169_Cli_Create_UserAccessFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1170_Cli_UniqueFiltreName_ForAccesLevel" key="{2CDE079B-F745-4660-962B-F67338E59E0C}" group="False" enabled="True" testMoniker="{E5318995-B00F-4A49-A018-61BB5F2F95F5}CR1352_1170_Cli_UniqueFiltreName_ForAccesLevel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1171_Cli_Edit_PerGlobalFilter" key="{02201CAD-8B29-4079-952E-BFAE0ADCE223}" group="False" enabled="False" testMoniker="{BEA43813-5AB2-4AE9-98C3-2487EFD7207C}CR1352_1171_Cli_Edit_PerGlobalFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1172_Cli_Edit_PerFiltre" key="{17E15D2C-4813-4097-A25E-25C57977038E}" group="False" enabled="False" testMoniker="{F056DC9D-5E50-4FD6-834B-593F8077AC77}CR1352_1172_Cli_Edit_PerFiltre" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1173_Cli_Edit_AppliedFilter" key="{C59D26D3-2B50-4A52-A2BB-FE151C135055}" group="False" enabled="False" testMoniker="{8CFF6AA5-ECC4-4E42-9784-AE7B04D9FC67}CR1352_1173_Cli_Edit_AppliedFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1174_Cli_Apply_FilterWithoutResults" key="{49B3DB11-2AA4-4DF1-A9F2-2605B112C730}" group="False" enabled="True" testMoniker="{242E3B2F-647A-442D-96F3-B0D8556FD0F6}CR1352_1174_Cli_Apply_FilterWithoutResults" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1175_Cli_Delete_AppliedFilter" key="{CF0423DA-ECC3-480D-AAD8-2DDF58860D67}" group="False" enabled="True" testMoniker="{F24D34EE-1345-4556-9DD9-50D5A08208EA}CR1352_1175_Cli_Delete_AppliedFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1175_Cli_Delete_FilterFromManageFilters" key="{CC4A37F7-1EE7-465E-ABE5-D67456D54576}" group="False" enabled="True" testMoniker="{D0586FFD-63B0-475C-A965-A507A7E9BAF3}CR1352_1175_Cli_Delete_FilterFromManageFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1176_Cli_DeactivatePerFilter" key="{1105ED80-934C-478E-889C-3C98C52CC7BA}" group="False" enabled="False" testMoniker="{4F587A7E-E293-4958-9A1F-0AAFFD57D724}CR1352_1176_Cli_DeactivatePerFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1177_Cli_Loading_PerFilter_AfterStartUp" key="{3A66EB08-8324-487F-A23F-F36A40A85601}" group="False" enabled="False" testMoniker="{B7878F38-0BB7-4E75-8D1F-4C032A92AACF}CR1352_1177_Cli_Loading_PerFilter_AfterStartUp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1177_Cli_LoadingSeveral_PerFilter_AfterStartUp" key="{D5F9CD50-923F-4931-8612-EA7954B79E58}" group="False" enabled="False" testMoniker="{D868A4FF-E7E6-42CF-ABA7-4D7EA24B1CCD}CR1352_1177_Cli_LoadingSeveral_PerFilter_AfterStartUp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1177_Cli_LoadingSeveral_PerFilter_AfterStartUp" key="{E26219F4-0C6D-42D0-B00B-729A6489F83B}" group="False" enabled="False" testMoniker="{FC5D28BF-BF10-4768-B97C-F5ABCD1E9DA4}CR1352_1177_Cli_LoadingSeveral_PerFilter_AfterStartUp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1410_Cli_Loading_InactivePerFilter_AfterStartUp" key="{91D054CF-F4E6-4779-B0A6-A5FA9842DB89}" group="False" enabled="False" testMoniker="{F506D61B-0ABD-4A47-AAE3-336DF45F538A}CR1352_1410_Cli_Loading_InactivePerFilter_AfterStartUp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1410_Cli_LoadingSeveral_PerFilter_AfterStartUp" key="{5B62A7AA-C589-477D-9FBC-07C6806D684D}" group="False" enabled="False" testMoniker="{239CF51B-EDB1-403F-9544-E44D05A61850}CR1352_1410_Cli_LoadingSeveral_PerFilter_AfterStartUp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1412_Cli_Displaying_Predefined_Filters_inFiltersMenu" key="{1754518B-A9E8-499D-9165-9B8281BB396D}" group="False" enabled="True" testMoniker="{27529D91-2E42-4104-AFE9-9676C2129A1B}CR1352_1412_Cli_Displaying_Predefined_Filters_inFiltersMenu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1436_Cli_Delete_AppliedFilter_asTemFilter" key="{E6938033-4C7A-4E55-952B-ACA120F9D865}" group="False" enabled="False" testMoniker="{AF499450-D827-4305-AA45-7691ECA4617C}CR1352_1436_Cli_Delete_AppliedFilter_asTemFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1437_Cli_Remove_Filter_btnRedisplay" key="{A32638FA-0576-413D-969A-FF658F94E901}" group="False" enabled="False" testMoniker="{11703947-9B3B-4BB4-838D-1764A3D6AEF8}CR1352_1437_Cli_Remove_Filter_btnRedisplay" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1450_Cli_Remove_Filter_btnX" key="{4F8AC680-5FAA-4FD6-9A04-A1312463F294}" group="False" enabled="False" testMoniker="{EAA1E872-91A0-4626-81EC-EDA88B860261}CR1352_1450_Cli_Remove_Filter_btnX" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1451_Cli_AddScroll_underFiltersBar" key="{05C7F55A-1BD6-4B73-83F4-A4A59839F603}" group="False" enabled="False" testMoniker="{99069A55-332A-4046-B9A8-455F73FA37BD}CR1352_1451_Cli_AddScroll_underFiltersBar" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1453_Cli_Create_PerCurrencyFilter_MenuBar_SearchAddFilter" key="{2029FF19-B073-4092-AFE8-3AFA105BE313}" group="False" enabled="True" testMoniker="{8DC1621F-6FEB-434E-99B5-FE99C6AA8DAB}CR1352_1453_Cli_Create_PerCurrencyFilter_MenuBar_SearchAddFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Quick_Temporary_Filters" key="{4D449B34-8903-4CD5-A66F-310AA25A19FF}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_1037_Cli_Create_TempCPFilter_ToolBar_btnQuickFilters" key="{06444872-A534-441F-8119-D207EEE2C567}" group="False" enabled="True" testMoniker="{FC36982A-8082-4A0A-89AF-3E79E8F7297C}CR1352_1037_Cli_Create_TempCPFilter_ToolBar_btnQuickFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1038_Cli_Edit_TempFilter" key="{7D8C239F-25B9-4A55-9169-4F0360AD5B16}" group="False" enabled="False" testMoniker="{F39F942E-04D7-47D5-93F0-633096145360}CR1352_1038_Cli_Edit_TempFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1039_Cli_Edit_TempFilter_ByPermanentFilter" key="{4782972B-D9DD-4F53-B84D-17A10458D77D}" group="False" enabled="False" testMoniker="{7956C0BD-20BF-48C7-92F4-52CCEDAF9B4B}CR1352_1039_Cli_Edit_TempFilter_ByPermanentFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1040_Cli_Create_TempTotalValueFilter_ToolBar_btnQuickFilters" key="{4C8631A0-0922-451F-8E56-D9B44F68A233}" group="False" enabled="False" testMoniker="{0C494438-7704-4972-9A8A-50E9D17F437D}CR1352_1040_Cli_Create_TempTotalValueFilter_ToolBar_btnQuickFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1041_Cli_Create_TempDateFilter_ToolBar_btnQuickFilters" key="{469ECEFE-8C6C-473A-AEA7-55FF64B6CA10}" group="False" enabled="True" testMoniker="{BECD586C-D706-4FD1-8FF4-0064689E61F4}CR1352_1041_Cli_Create_TempDateFilter_ToolBar_btnQuickFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1042_Cli_Create_TempAddressFilter_ToolBar_btnQuickFilters" key="{2639FE0E-F325-4035-86A9-997346ECE480}" group="False" enabled="True" testMoniker="{0FA67FD1-1216-422D-831A-6C6C4405D057}CR1352_1042_Cli_Create_TempAddressFilter_ToolBar_btnQuickFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1043_Cli_Create_TempCurrencyFilter_ToolBar_btnQuickFilters" key="{45CA68CD-EB59-4F0C-93AB-9C0C09E33D45}" group="False" enabled="True" testMoniker="{CB0B8914-0709-4F84-A1E0-5C92E16252B6}CR1352_1043_Cli_Create_TempCurrencyFilter_ToolBar_btnQuickFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1044_Cli_Create_TempMarginFilter_ToolBar_btnQuickFilters" key="{65BC19A2-07B5-4B6D-BDE3-75568B379CF5}" group="False" enabled="False" testMoniker="{10A7E404-F1E3-4CC8-B80F-2F1E6D037A26}CR1352_1044_Cli_Create_TempMarginFilter_ToolBar_btnQuickFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1045_Cli_Create_TempSINFilter_ToolBar_btnQuickFilters" key="{0C882730-5123-4F3B-B78D-A662A5B057FE}" group="False" enabled="False" testMoniker="{2019B530-4966-46CF-916D-D4BA00FF98B5}CR1352_1045_Cli_Create_TempSINFilter_ToolBar_btnQuickFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1046_Cli_Create_TempSegmentationFilter_ToolBar_btnQuickFilters" key="{E26F3403-30B6-49DA-914C-33E34442CA97}" group="False" enabled="False" testMoniker="{E2A76F94-4D5C-4659-A941-4FD070594E4F}CR1352_1046_Cli_Create_TempSegmentationFilter_ToolBar_btnQuickFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1047_Cli_Create_TempLanguageFilter_ToolBar_btnQuickFilters" key="{A661A4F2-1F5D-4FA1-B4E8-BC93F9F69EF3}" group="False" enabled="False" testMoniker="{1677C05B-AC0A-4D3D-8B32-00A45D18E6B9}CR1352_1047_Cli_Create_TempLanguageFilter_ToolBar_btnQuickFilters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1048_Cli_CancelEdition_TempFilter" key="{C274B3F0-CC98-48CD-8590-BD76768D096E}" group="False" enabled="False" testMoniker="{7619828F-CB2E-4BB5-AA69-6B29917F8A87}CR1352_1048_Cli_CancelEdition_TempFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1049_Cli_Deactivate_TempFilter" key="{0668B7EE-3F36-4FAB-A237-568AAB930C20}" group="False" enabled="False" testMoniker="{2FEC782F-C3BC-42F5-96C4-EAE332A3B941}CR1352_1049_Cli_Deactivate_TempFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1050_Cli_EditInactive_TempFilter" key="{10A0C8B7-5D75-458C-A47D-24F457319450}" group="False" enabled="False" testMoniker="{354811DD-4CBB-4AE9-BB28-783AEC6F5368}CR1352_1050_Cli_EditInactive_TempFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1051_Cli_Delete_TempFilter" key="{E0F983CD-C02D-46CC-B39A-EB236C99FD1E}" group="False" enabled="False" testMoniker="{BF2B1C41-188C-43B6-B320-48CF4D2CD035}CR1352_1051_Cli_Delete_TempFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1053_Cli_Create_SeveralTempFilter" key="{A6E06F7E-63E9-4A4A-A40A-0C5F3011CF21}" group="False" enabled="True" testMoniker="{FBA0E08D-1485-4DEB-A4A7-B60219F72AD1}CR1352_1053_Cli_Create_SeveralTempFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1054_Cli_ApplySimultaneously_SeveralTempFilter" key="{F6EFABE6-B505-4ACB-848F-1965BE3DCA1E}" group="False" enabled="False" testMoniker="{8FA02398-2D25-4868-965A-F2E978B80BE5}CR1352_1054_Cli_ApplySimultaneously_SeveralTempFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1055_Cli_TempFilter_IsNotLoaded_AfterStartup" key="{3788BDA5-4432-4E0A-A9BF-765F66F901E3}" group="False" enabled="False" testMoniker="{7A761DD3-2FDB-435A-A056-5DAB1EC2E2A0}CR1352_1055_Cli_TempFilter_IsNotLoaded_AfterStartup" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1056_Cli_TempFilter_SavedAndLoaded_AfterStartup" key="{CE86FB3A-31B3-4292-8188-E38937782041}" group="False" enabled="False" testMoniker="{D81CD548-0340-4C26-8179-1D76DC4E8A1E}CR1352_1056_Cli_TempFilter_SavedAndLoaded_AfterStartup" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1345_Cli_TemporaryFilter_SavedAndLoaded_AfterStartup_WithInitialSate" key="{3BA74E13-EB0E-4DBE-BBDF-787C48E2BB87}" group="False" enabled="False" testMoniker="{D90E79BF-7CA5-496F-8631-347454692450}CR1352_1345_Cli_TemporaryFilter_SavedAndLoaded_AfterStartup_WithInitialSate" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1413_Cli_Delete_AppliedProfile_asPerFilter" key="{07408B7E-0F87-4C00-983A-3D90548FB7A8}" group="False" enabled="False" testMoniker="{D3A7A3B2-CFE9-4A16-995E-5731744FFF62}CR1352_1413_Cli_Delete_AppliedProfile_asPerFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1435_Cli_Delete_AppliedProfile_asTemFilter" key="{CE0E43A4-2F86-4265-A341-6A0D891D8967}" group="False" enabled="False" testMoniker="{ADB97167-65DC-4EE9-A1E7-37013F29BC20}CR1352_1435_Cli_Delete_AppliedProfile_asTemFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1435_Cli_GroupProfil" key="{8AE34ED6-2127-46B6-B9D7-B1B8B871CB0F}" group="False" enabled="False" testMoniker="{71F1D8D9-052C-4015-9F66-67EE135C5ED0}CR1352_1435_Cli_GroupProfil" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_1460_Cli_Create_TempCPFilter_Icon_Y" key="{E0C7CAB7-AFCD-4283-8FB2-2B32F58E7531}" group="False" enabled="False" testMoniker="{04BF5AE4-AAD7-43F5-9C30-01A0EBBC7D7F}CR1352_1460_Cli_Create_TempCPFilter_Icon_Y" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Search_Criteria" key="{3814A2F0-53A3-4519-BDA2-9C54AF8959D2}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Advanced_SearchCriteria" key="{C274D04D-BE51-4A74-849B-3B8A0554DF1D}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="CR1352_1485_Cli_StateOfBtns_forSearchCriteria" key="{0596E503-8FB7-432E-A9FB-C2F03EA60356}" group="False" enabled="True" testMoniker="{B65EAD8A-C853-4D07-97BE-90EEA958E8D0}CR1352_1485_Cli_StateOfBtns_forSearchCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1486_Cli_StateOfBtns_forSearchCriteriaTemplate" key="{6A3C8E05-A991-4B24-BD1C-4BC67D37FC7E}" group="False" enabled="True" testMoniker="{EE45A83B-E1D0-42F8-99FD-1E1EA851D327}CR1352_1486_Cli_StateOfBtns_forSearchCriteriaTemplate" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1487_Cli_StateOfBtns_forSearchCriteriaManualList" key="{25024E0B-F70F-4085-BF43-BAE76646F422}" group="False" enabled="True" testMoniker="{30B839C9-4E42-44DD-822C-E2D8D4D43733}CR1352_1487_Cli_StateOfBtns_forSearchCriteriaManualList" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1488_Cli_Create_AdvancedSearchCriteria" key="{F27E3669-6286-475E-BC97-E33A80786B16}" group="False" enabled="True" testMoniker="{4E4409EB-FE38-4F3E-8677-8368505EBBD9}CR1352_1488_Cli_Create_AdvancedSearchCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1503_Cli_Apply_SearchCriteria" key="{B43C0F8D-77F6-4CA6-9269-CE985E302895}" group="False" enabled="True" testMoniker="{7C030EB4-D11B-4FF8-BA06-9E68F810E016}CR1352_1503_Cli_Apply_SearchCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1506_Cli_UniqueName_OfSearchCriteria_DifferentLevelAccess" key="{91683C5C-1168-49B3-8E66-47BE7112A284}" group="False" enabled="True" testMoniker="{815039E2-F3AC-4C48-90CF-ACA73C33CDA3}CR1352_1506_Cli_UniqueName_OfSearchCriteria_DifferentLevelAccess" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1506_Cli_UniqueName_OfSearchCriteria_SameLevelAccess" key="{5B004296-3F58-42C2-BC8C-AF8B95D3D41C}" group="False" enabled="True" testMoniker="{9DA50544-A953-4678-A2AF-F738E3C614EE}CR1352_1506_Cli_UniqueName_OfSearchCriteria_SameLevelAccess" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1507_Cli_CriteriaResults_RedisplayAllAndKeepCheckmarks" key="{FBBABF8F-314B-47E3-813E-5FBCBA7207BB}" group="False" enabled="True" testMoniker="{5D252496-A7AE-4B5B-B871-B09CAB1B5101}CR1352_1507_Cli_CriteriaResults_RedisplayAllAndKeepCheckmarks" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1508_Cli_ChangingSortOrder_forAdvancedCriteria" key="{7BBD19A9-D174-43CB-A714-953369F20D2F}" group="False" enabled="True" testMoniker="{34ECF7F8-9313-4140-B553-67DF900F0D08}CR1352_1508_Cli_ChangingSortOrder_forAdvancedCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaNon" key="{574EDA0A-1336-4B90-900D-F3E21F7B31AB}" group="False" enabled="True" testMoniker="{1A71C77B-47C2-453A-A1D5-03F9B6AE295F}CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaNon" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaYes" key="{B5D5EBDD-8344-4949-B3C1-98842C49351C}" group="False" enabled="True" testMoniker="{8770D2CB-3E30-46D7-B970-F3E6CED75BA4}CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaYes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1510_Cli_EditCondition_OfAdvancedSearchCriteria" key="{EC9ABAC0-B03F-4215-90C8-A970F12161A5}" group="False" enabled="True" testMoniker="{D5C8CFCA-B991-41BE-BCD5-41AC43188B0F}CR1352_1510_Cli_EditCondition_OfAdvancedSearchCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccess" key="{14E289D9-E0FA-4B49-8870-7E59CB064F00}" group="False" enabled="True" testMoniker="{7CA0A2AA-D3BB-479D-90C7-50F112593CE3}CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccess" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccessEditable" key="{CCA2EA05-ED1A-4164-A0F5-9A683015EB2A}" group="False" enabled="True" testMoniker="{DC5E6DBC-A263-439A-9CAB-C177C3A8DF65}CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccessEditable" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1511_Cli_Create_SimpleSearchCriteria_FirmAccess" key="{7AE7850C-81BE-4D37-9621-B76A8E7C6541}" group="False" enabled="True" testMoniker="{A20EE808-1FF8-4078-B639-1DC692B2A5E4}CR1352_1511_Cli_Create_SimpleSearchCriteria_FirmAccess" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1511_Cli_Create_SimpleSearchCriteria_MyCriterion" key="{48546811-87AF-4B82-A9C8-AD35C2FACC6B}" group="False" enabled="True" testMoniker="{1B2B06A2-5BCD-4ABA-B502-7EB12E5AD842}CR1352_1511_Cli_Create_SimpleSearchCriteria_MyCriterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1511_Cli_Create_SimpleSearchCriteria_WorkgroupAccess" key="{84255E1F-A9EF-4496-9C6E-17109EBC8650}" group="False" enabled="True" testMoniker="{9DC496BB-B663-4901-A0C0-7738D804B908}CR1352_1511_Cli_Create_SimpleSearchCriteria_WorkgroupAccess" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1516_Cli_Edit_OfAdvancedSearchCriteria_StatusBar" key="{E470AB7C-0E41-48B1-8824-EA64352A07FC}" group="False" enabled="True" testMoniker="{61666EC5-37B8-4BDA-B5FB-3B080505EC6A}CR1352_1516_Cli_Edit_OfAdvancedSearchCriteria_StatusBar" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1522_Cli_Edit_OfAdvancedSearchCriteria_ContextualMenu" key="{4567C924-BBE7-4BA0-A8C2-022758869615}" group="False" enabled="True" testMoniker="{4DAD6465-9666-430E-9746-6BA66F643A09}CR1352_1522_Cli_Edit_OfAdvancedSearchCriteria_ContextualMenu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1523_Cli_EditSearchCriteria_fromSearchMenu" key="{DBA05B3F-318D-4E82-8B23-D025F76C39A5}" group="False" enabled="True" testMoniker="{2CB86090-EEEB-4C8E-8FEA-41B98BDACEF1}CR1352_1523_Cli_EditSearchCriteria_fromSearchMenu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1524_Cli_Remove_ActiveCriteria" key="{5EBA8AF4-9B7F-44D5-9F69-005BD14E4032}" group="False" enabled="True" testMoniker="{F679384E-2F66-4D7A-8ECA-D3CC37D2346E}CR1352_1524_Cli_Remove_ActiveCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1525_Cli_Delete_ActiveCriteria" key="{4F7BC0BB-7418-460A-AB8A-FFD626C7CFCB}" group="False" enabled="True" testMoniker="{D410919D-52A5-4F88-9B79-8094245F263C}CR1352_1525_Cli_Delete_ActiveCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1526_Cli_Edit_ActiveCriterion_SpaceBar" key="{85AA7EC4-1789-4C1F-8D12-D44328EEB648}" group="False" enabled="True" testMoniker="{FA14374E-EC67-417E-9E99-1EAA874083AB}CR1352_1526_Cli_Edit_ActiveCriterion_SpaceBar" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1527_Cli_Save_DefaultClientsListCriteria_AfterStartup" key="{E6756790-BD9E-4319-B1BB-A2570CD981E2}" group="False" enabled="True" testMoniker="{573D0A71-9939-4367-B848-7AD3AC736E85}CR1352_1527_Cli_Save_DefaultClientsListCriteria_AfterStartup" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Search_Criteria_Manager" key="{A9F80CDE-E0A3-4253-8ABA-EAE970E5A663}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="CR1352_1472_Cli_NewContextualMenu_inSearchCriteriaManage" key="{55AE9402-F41D-45F4-A607-B64AA264EB64}" group="False" enabled="True" testMoniker="{BBC9B8D0-58C0-4D8A-9A9F-D9B55B367C65}CR1352_1472_Cli_NewContextualMenu_inSearchCriteriaManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1475_Cli_SearchFonction_inSearchCriteriaManage" key="{EA1B0854-60AB-47EE-BE52-A27414078AFC}" group="False" enabled="True" testMoniker="{6D6E2E4A-16E3-403C-A829-537FBCA3B3F0}CR1352_1475_Cli_SearchFonction_inSearchCriteriaManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1476_Cli_ContextualMenu_CopyWithHeader_inSearchCriteriaManage" key="{4CE183D1-B077-4020-AF8F-43D9C2FC8061}" group="False" enabled="True" testMoniker="{6F370984-6B29-470A-BEE2-4E657D5BBFEC}CR1352_1476_Cli_ContextualMenu_CopyWithHeader_inSearchCriteriaManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1477_Cli_ContextualMenu_Copy_inSearchCriteriaManage" key="{E9FB1F87-7F15-48A7-A53E-F713880DDCFC}" group="False" enabled="True" testMoniker="{5F02930D-A730-4E91-817F-BEB0FFF5B2A4}CR1352_1477_Cli_ContextualMenu_Copy_inSearchCriteriaManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1478_Cli_ContextualMenu_ExportToFile_inSearchCriteriaManage" key="{64925282-727B-46F6-B6D5-52359B9CFC9A}" group="False" enabled="True" testMoniker="{5CFF947E-4433-4DB3-A3D3-81E0D94D2EF5}CR1352_1478_Cli_ContextualMenu_ExportToFile_inSearchCriteriaManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1479_Cli_ContextualMenu_ExportToExcel_inSearchCriteriaMange" key="{BB587E3F-C429-4394-B4F6-9D2391491116}" group="False" enabled="True" testMoniker="{1620F728-D6F1-45A4-9F55-7D4A6343DC74}CR1352_1479_Cli_ContextualMenu_ExportToExcel_inSearchCriteriaMange" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1480_Cli_ContextIndexHelp" key="{FD92CCB2-557B-42BE-B2EE-788AECF9CC09}" group="False" enabled="False" testMoniker="{130E41BF-7518-4006-8D2D-986FA546F789}CR1352_1480_Cli_ContextIndexHelp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1480_Cli_ContextSensitiveHelp" key="{F0FED6EB-E4A3-448D-982C-DDAAE90DA1B3}" group="False" enabled="False" testMoniker="{FA1CD151-D514-46D4-93B9-861D5A5C6D7B}CR1352_1480_Cli_ContextSensitiveHelp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1483_Cli_ColumnSorting_inSearchCriteriaManage" key="{617CCBA8-3DFA-4C41-A9AE-4FA842880B0B}" group="False" enabled="True" testMoniker="{F94922DA-BE93-45C4-8234-1F874E039A74}CR1352_1483_Cli_ColumnSorting_inSearchCriteriaManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1484_Cli_Configuration_SearchCriteriaManage" key="{6FBF9C30-B1EC-4B88-A500-8B1E0150AF3E}" group="False" enabled="True" testMoniker="{CB72A6E5-58A3-4CF9-8A09-8A814CA32A84}CR1352_1484_Cli_Configuration_SearchCriteriaManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="CR1352_1484_Cli_ConfigurationColStatus_SearchCriteriaManage" key="{4AB1613A-B150-436D-85D1-139DD4DEC568}" group="False" enabled="True" testMoniker="{52B30D28-AC22-4882-BB7A-A142F69A8A0B}CR1352_1484_Cli_ConfigurationColStatus_SearchCriteriaManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1483" key="{C5F02C10-6615-455D-8EF6-C6D60C924FFD}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="CR1483_Cli_Check_BranchSelection_IACodes" key="{62FDCF86-B20C-4C0D-B055-EB729034FBB9}" group="False" enabled="True" testMoniker="{F8F61E40-190B-4466-AE13-5E298E2740CB}CR1483_Cli_Check_BranchSelection_IACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Cli_Check_UserSelection_IACodes" key="{A8C0B8EC-B084-4E75-8071-C0A695C4519F}" group="False" enabled="True" testMoniker="{E8FA4166-69FD-4D14-8219-748E58F28B61}CR1483_Cli_Check_UserSelection_IACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Cli_CheckErrorMsgPrefMaxWorkAs" key="{DE0DB114-96B2-449B-A02C-8D3029D1913D}" group="False" enabled="True" testMoniker="{B56A331F-8FE3-4902-AD52-67BB4A571889}CR1483_Cli_CheckErrorMsgPrefMaxWorkAs" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Cli_CheckErrorMsgPrefMaxWorkAs_TabIACodes" key="{F35F10FC-84A7-4D81-B310-5E12A4B6682B}" group="False" enabled="True" testMoniker="{AEFB980E-FFDC-4587-BF73-4DCF3A3EBC8F}CR1483_Cli_CheckErrorMsgPrefMaxWorkAs_TabIACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Cli_CheckErrorMsgPrefMaxWorkAs_TabUsers" key="{98D6D6B0-E089-4D3E-9482-4CA04CB94849}" group="False" enabled="True" testMoniker="{3D4623E8-492E-4C18-B498-63076D3CA3BF}CR1483_Cli_CheckErrorMsgPrefMaxWorkAs_TabUsers" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Cli_RememberMySelection" key="{09D603AD-60DA-4CFF-B899-773315B6BF3C}" group="False" enabled="True" testMoniker="{44FF002E-A308-4A7C-8D29-499356137482}CR1483_Cli_RememberMySelection" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Cli_RememberMySelection_TabIACodes" key="{F2354E4F-0223-4E25-A588-9FF5B483EB1F}" group="False" enabled="True" testMoniker="{64B033E1-C0EB-4DE4-BB4E-49DBC1A1B21B}CR1483_Cli_RememberMySelection_TabIACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Cli_RememberMySelection_TabUsers" key="{A7D6AA0F-AC3D-482A-B1EB-09AC64172880}" group="False" enabled="True" testMoniker="{7B2FD13A-3C14-4451-9D5A-ADED66433F35}CR1483_Cli_RememberMySelection_TabUsers" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Cli_Survol_Users_Selection_TabBranches" key="{309491B4-982D-4665-84D2-B476D0E50F55}" group="False" enabled="True" testMoniker="{9C91274F-31B2-49E4-B44B-DBAEEA9B49FF}CR1483_Cli_Survol_Users_Selection_TabBranches" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Cli_Survol_Users_Selection_TabIACodes" key="{1B2E5A25-1601-4676-B9EC-F05B0CECEC39}" group="False" enabled="True" testMoniker="{F9A9910F-2F95-4735-ACA4-A9E4A2814340}CR1483_Cli_Survol_Users_Selection_TabIACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Cli_Survol_Users_Selection_TabUsers" key="{9356A88A-76F3-4310-BC73-E13EFA2652B7}" group="False" enabled="True" testMoniker="{46FB5E9D-7E30-4375-B805-C972EBCAA640}CR1483_Cli_Survol_Users_Selection_TabUsers" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1501" key="{6AD7D73E-075D-4E9E-90AA-57F1D69C8F4D}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{010FBE36-A8D9-453B-80B6-90DF48E89C7B}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CROES_10678_Cli_FieldDateReferenceNotesMustBeEmptyDefaults" key="{599363FF-D072-4CEF-9733-D0231D2310F7}" group="False" enabled="True" testMoniker="{E9CE5969-3BB2-4337-8420-B405F7072E6F}CROES_10678_Cli_FieldDateReferenceNotesMustBeEmptyDefaults" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CROES_11141_Cli_WhenAddingFilterByCreationDateTheCrashApplication" key="{1DF6B103-4A5A-449B-9C90-9AF790050E5E}" group="False" enabled="True" testMoniker="{A5BB3C01-9DD6-4284-9746-5B11295AC188}CROES_11141_Cli_WhenAddingFilterByCreationDateTheCrashApplication" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="CR1501_757_NoModification_OfNote_CreatedOnTheSameDayAndByTheSameUser" key="{27B8FE97-469C-40A6-9445-21EA724B0E62}" group="False" enabled="True" testMoniker="{C7BC21EF-519B-41D4-93FC-5E29E0BAE552}CR1501_757_NoModification_OfNote_CreatedOnTheSameDayAndByTheSameUser" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_759_NoModificationOfCreatedNoteInfoButtonTheSameDayAndByAnotherUser" key="{ECE739BC-6C3A-47B6-9492-5663402EE96B}" group="False" enabled="True" testMoniker="{873EA478-1295-4AEA-87F6-EE49605C606F}CR1501_759_NoModificationOfCreatedNoteInfoButtonTheSameDayAndByAnotherUser" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_777_Cli_FilterSearchByDateModifiedAndOperatorIsIsEarlierThan" key="{71989E8D-88C9-4A4D-BDE1-EB9C31940100}" group="False" enabled="True" testMoniker="{9DC463D0-262D-4A73-BC27-07E27F4748B0}CR1501_777_Cli_FilterSearchByDateModifiedAndOperatorIsIsEarlierThan" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_779_Cli_FilterSearchByDateModifiedAndOperatorIsBetween" key="{8E07EAD4-DF23-4831-A603-565E27978A8E}" group="False" enabled="True" testMoniker="{8D5E9F3A-AA0C-41BA-8783-3C06B802C63C}CR1501_779_Cli_FilterSearchByDateModifiedAndOperatorIsBetween" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_790_Cli_SearchWithFilterCreatedByAndOperatorIsExcluding" key="{FB767DAA-621E-451C-9404-4D54E029A593}" group="False" enabled="True" testMoniker="{335063DE-7702-459F-A4CF-A470807C9519}CR1501_790_Cli_SearchWithFilterCreatedByAndOperatorIsExcluding" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_800_Cli_ValidatAdditionPredefinSentenceWhenEnteringNotWithClickRight" key="{08FAE058-8DD0-412A-BB61-6EFDD68EECD6}" group="False" enabled="True" testMoniker="{83727DB1-E5EE-4702-8885-97B49FB3D91B}CR1501_800_Cli_ValidatAdditionPredefinSentenceWhenEnteringNotWithClickRight" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_804_Cli_ValidatModifPredefinSentenceWhenEnteringNotWithClickRight" key="{7C930FE5-DA09-4AE4-819D-C3C08775B7B4}" group="False" enabled="True" testMoniker="{591EE11F-05EB-4535-8DAF-0BF43EC32579}CR1501_804_Cli_ValidatModifPredefinSentenceWhenEnteringNotWithClickRight" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_806_Cli_ValidatDeletPredefinSentenceWhenEnteringNoteWithClickRight" key="{BCA49B26-B2EC-451F-8B29-7D9C5F81367E}" group="False" enabled="True" testMoniker="{05CA32D6-9494-435F-AC9E-251C9EA98E9D}CR1501_806_Cli_ValidatDeletPredefinSentenceWhenEnteringNoteWithClickRight" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_810_Cli__ValidatOperationDateTimebuttonWhenEnteringNotWithClickRight" key="{FEB226B6-681A-46E9-B6FD-5DD573C9F2F6}" group="False" enabled="True" testMoniker="{CE848FF7-089A-4F72-82D9-6D24A5B412C0}CR1501_810_Cli__ValidatOperationDateTimebuttonWhenEnteringNotWithClickRight" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_820_Cli_ValidatShadedFieldsAtBottomWindowAreReadOnlyWhenViewingNot" key="{55FBEDE6-6893-4258-8786-8D698C19FE83}" group="False" enabled="True" testMoniker="{CE53AEEC-29CB-412E-A9E6-27C797AACC2C}CR1501_820_Cli_ValidatShadedFieldsAtBottomWindowAreReadOnlyWhenViewingNot" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_823_Cli__ValidatInsertingNoteToSeveralClientsAtOnce" key="{6895BE27-CF0D-4875-9511-645B8B896C23}" group="False" enabled="True" testMoniker="{09FE82E1-2A42-4887-9391-DA6FDD93A367}CR1501_823_Cli__ValidatInsertingNoteToSeveralClientsAtOnce" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_828_Cli_ValidationAbsenceOfNoteIconInTheGridForNoteCreatedWithTheContextMenu" key="{4A136C28-E76A-423B-B76D-D0786DBC75FB}" group="False" enabled="True" testMoniker="{0D335330-297B-44B7-87C9-7507D19DF69E}CR1501_828_Cli_ValidationAbsenceOfNoteIconInTheGridForNoteCreatedWithTheContextMenu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_830_Cli_ValidatCopyingSelectedNoteTcustomersWithSameAddress" key="{EEC01EF9-9E4C-4E03-96FD-023DF62D2632}" group="False" enabled="False" testMoniker="{74428D1D-5441-4D8D-B195-CCE21CC311BC}CR1501_830_Cli_ValidatCopyingSelectedNoteTcustomersWithSameAddress" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_752_ValidateAddingNotes_ToAClientFromTheAddANotePopUpMenu" key="{02BAF1C8-DB93-4499-BE9F-548D8A729112}" group="False" enabled="False" testMoniker="{CB930D77-6C03-456E-9961-8209202414C0}CR1501_752_ValidateAddingNotes_ToAClientFromTheAddANotePopUpMenu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_760_ValidationDeletionOfANoteCreatedclickRightTheSameDayAndByTheSamUser" key="{48CB23A9-1C30-49F0-B62D-CFB83D8124EC}" group="False" enabled="False" testMoniker="{5F7DB97D-FF24-4262-8F3A-3FFAAAD8E061}CR1501_760_ValidationDeletionOfANoteCreatedclickRightTheSameDayAndByTheSamUser" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_754_ModificationOfANotClickRightCreatedTheSameDayAndByTheSameUser" key="{E745282F-B0AD-493F-9B50-44957F895943}" group="False" enabled="False" testMoniker="{4C49B485-5084-4160-868C-70C01E584BF5}CR1501_754_ModificationOfANotClickRightCreatedTheSameDayAndByTheSameUser" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR908" key="{24436AE4-670F-4EF5-AE2B-9A322900A94B}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="CR908_6260_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS1" key="{6B02076C-B7D7-42F8-97E4-8BC1506F3898}" group="False" enabled="True" testMoniker="{BC33FAF8-1A2D-4222-93FE-E8D53E83883F}CR908_6260_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS1" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR908_6261_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS2" key="{7AFC2BDC-5305-4568-B769-8CEE3FB78BA3}" group="False" enabled="True" testMoniker="{716738F0-B126-4171-AA9F-BCD0476C2ECE}CR908_6261_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS2" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR908_6262_Client_ReturnAccountsAndClientsToTheirInitialState" key="{BF5FFCF9-2FC1-4B72-BE61-7A6ACAEFFC1F}" group="False" enabled="True" testMoniker="{A4B11D32-9F19-4CC8-8C8C-473F131E4602}CR908_6262_Client_ReturnAccountsAndClientsToTheirInitialState" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR908_6259_Client_PreparationAccountsAndClientsEnvironment" key="{5CCAD916-3EA2-4E33-AE93-18C4E6E244EE}" group="False" enabled="True" testMoniker="{094334D7-B2C8-49CA-B8EA-E1AD8B470A6B}CR908_6259_Client_PreparationAccountsAndClientsEnvironment" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="Anomalies" key="{55B302DE-22E9-4E22-A7DA-0E8907893E12}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="CROES_7509_Rel_CrashInTheRightClickMenuRooClientInSectionDetail" key="{C997D9C1-A5EB-45E9-9471-CB86F0D68B4B}" group="False" enabled="False" testMoniker="{F4749A4D-1699-4E45-B9AF-04C48E609A63}CROES_7509_Rel_CrashInTheRightClickMenuRooClientInSectionDetail" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_7601_CreatRelatFromCustomerWhoIsAlreadyPartOfRelatDisplayMsgNotCorrect" key="{D99015E2-C43D-4A4A-9F18-F242B79813C6}" group="False" enabled="True" testMoniker="{946776FF-3E1F-40CC-BDA0-63463D60FEAD}CROES_7601_CreatRelatFromCustomerWhoIsAlreadyPartOfRelatDisplayMsgNotCorrect" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_8311_Cli_CrashAfterSearchingByCPCode" key="{89B7E5B3-726F-4BC3-9ED7-8CAFB773D959}" group="False" enabled="True" testMoniker="{32AA579D-8A0E-41FB-823A-1055F2182614}CROES_8311_Cli_CrashAfterSearchingByCPCode" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_9031_CliMissingColumnsInTheNotesGrid" key="{C5AD70B3-B73B-4655-B3BF-0FF363BE4A7C}" group="False" enabled="True" testMoniker="{557C8CAF-F8F0-4F96-8536-F538DD265239}CROES_9031_CliMissingColumnsInTheNotesGrid" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_9367_Cli_CrashWinTitleCategoriWhenTryToAddCategory" key="{E3BC7D06-C9A0-44F6-9259-A7374DB7C755}" group="False" enabled="False" testMoniker="{28981619-E554-498E-A962-25B2E0254958}CROES_9367_Cli_CrashWinTitleCategoriWhenTryToAddCategory" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_6760_CliCrashWhenDeletPredefSentence" key="{4AC0D9EC-6EF0-4D76-9FD9-9A20F48FCE92}" group="False" enabled="True" testMoniker="{5E0F18A1-3AD9-4719-BDDA-220307529FCB}CROES_6760_CliCrashWhenDeletPredefSentence" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_10346_ProfilColumnArNotUpdatautomatiAfterChangProfilValu" key="{0C0D2995-AC0F-4C83-93F0-ED0F8ADD1266}" group="False" enabled="False" testMoniker="{C294177E-5A93-4C98-A9EA-56FA98CD717C}CROES_10346_ProfilColumnArNotUpdatautomatiAfterChangProfilValu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_6661_ProfilesAreNotInAlphabeticalOrderInColumnConfiguration" key="{FF812482-082C-45B6-BED1-054573C1D81E}" group="False" enabled="True" testMoniker="{A0F4D65D-9E1F-43D6-821E-9268EA9A3947}CROES_6661_ProfilesAreNotInAlphabeticalOrderInColumnConfiguration" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromClientToAccomp" key="{8592F435-2F78-40A5-8AD8-CBDF55CCA52E}" group="False" enabled="True" testMoniker="{D43E3375-E628-4C76-B1D6-97EC411A958D}AnomalieMaillageFromClientToAccomp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromClientToModels" key="{3CAFAC1D-5D08-47F8-91F2-E893D00AB923}" group="False" enabled="True" testMoniker="{711EA4FF-3A7C-4F00-B2CD-642E5D5D43FC}AnomalieMaillageFromClientToModels" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromClientToPortfolio" key="{1D7225F6-EB74-4FC8-99E8-09F763008DE3}" group="False" enabled="True" testMoniker="{992564AF-A1F5-495D-B78D-4787D1F1FC6E}AnomalieMaillageFromClientToPortfolio" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromClientToTransaction" key="{696FC43F-E0F7-456B-A43B-C0EA13BAD823}" group="False" enabled="True" testMoniker="{EBB3172B-806E-44A4-92B2-DC6D647B6480}AnomalieMaillageFromClientToTransaction" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromClientToSecurities" key="{83D9EC63-6A29-4AC9-A830-C0216B7E412B}" group="False" enabled="True" testMoniker="{9F45C27D-D13E-47A2-96DF-3915A697F13F}AnomalieMaillageFromClientToSecurities" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromClientToRelationShip" key="{1B01D277-F777-4754-9D5A-EDA9613A7195}" group="False" enabled="True" testMoniker="{B3DA0541-55D9-4780-97ED-33F15A5606B0}AnomalieMaillageFromClientToRelationShip" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ExecutionLog" key="{87FF48B5-53EB-4FBC-A9DA-E2EA0AFF3739}" group="False" enabled="False" testMoniker="{52088521-DA26-4945-917F-3A4A25AB8323}ExecutionLog" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_11243_Copy_Note" key="{D7A57890-F74A-458E-830F-D6B388A12B5B}" group="False" enabled="True" testMoniker="{BB0FBB54-A5FE-436A-80FC-A7E370635DBB}CROES_11243_Copy_Note" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="Regression" key="{1FFCE81C-3E67-4EFA-901F-4969B56A18BE}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Regression_Croes_6279_Cli_ValidateAddAndDeleteDocuments" key="{5E8EE1DE-E3D2-4602-B15E-42D4D817ACAE}" group="False" enabled="True" testMoniker="{3A1EC620-9AB9-45A8-BDD1-3B510D377056}Regression_Croes_6279_Cli_ValidateAddAndDeleteDocuments" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_6272_Cli_ValidateSummationButtonFor2Clients" key="{BB3A7770-62D2-44DC-BE17-865C4B3E0753}" group="False" enabled="True" testMoniker="{749BB217-6B27-44E3-85A3-671E561D376E}Regression_Croes_6272_Cli_ValidateSummationButtonFor2Clients" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_6271_Cli_ValidateSearchClientsModule" key="{4A68D759-7106-4EF1-875B-99D7493BA4F6}" group="False" enabled="True" testMoniker="{CC76060E-0DD3-4F99-8E61-A7FCA1A70B21}Regression_Croes_6271_Cli_ValidateSearchClientsModule" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_6267_Cli_ValidateAddDiffrentTypesOfDocumentsWithInfoClient" key="{CC33C4DD-775E-4CF8-B7E3-CCB87D62B419}" group="False" enabled="True" testMoniker="{90F29DEB-6AB6-4EF7-82CB-BE883AD97358}Regression_Croes_6267_Cli_ValidateAddDiffrentTypesOfDocumentsWithInfoClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_6264_Cli_ValidateAddAndDeleteDocuments" key="{429EADAE-0DE4-4EEE-BAD8-27643C727AF9}" group="False" enabled="True" testMoniker="{4AC9AA4B-B388-47EB-B14D-6AA28F0B81C3}Regression_Croes_6264_Cli_ValidateAddAndDeleteDocuments" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_6264_Cli_ValidateAddAndDeleteDocuments" key="{6B22F181-9819-4FCF-98C2-D0E3A904F960}" group="False" enabled="True" testMoniker="{FC615F6C-4F05-4AFD-9ABB-904333AC8D12}Regression_Croes_4399_Cli_ValidateColumnsAndGridFunctions" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4322_Cli_AddProductsAndServicesToClient" key="{DF3658A7-F3E7-46BF-A3EF-1F3C82C30E4A}" group="False" enabled="True" testMoniker="{C0799CF0-1514-4FB0-B093-8AD56677275D}Regression_Croes_4322_Cli_AddProductsAndServicesToClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4318_Cli_ValidateCalculatedValues" key="{CAE2B4CB-FFED-445B-9AF0-F545CEBBA76B}" group="False" enabled="True" testMoniker="{ABE68D01-7A28-40C5-ACBF-09215920723A}Regression_Croes_4318_Cli_ValidateCalculatedValues" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4313_Cli_AddDeleteClientsContacts" key="{8E35F3AB-CBBB-41B3-BB18-00AE527C8D8A}" group="False" enabled="True" testMoniker="{6DF2ACDE-7B36-46EC-B5FF-2A6B56621E63}Regression_Croes_4313_Cli_AddDeleteClientsContacts" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4307_Cli_VlaidateOperationPerformanceButton" key="{D8735AD4-F5F9-4C1C-9551-1ED7DADE1324}" group="False" enabled="True" testMoniker="{B4409050-AF73-47F0-99D0-D0C737979E5D}Regression_Croes_4307_Cli_VlaidateOperationPerformanceButton" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4295_Cli_VlaidateOperationInfoButton" key="{EA8B7B70-69C6-4A75-9C96-A6AE1C5FF7B7}" group="False" enabled="True" testMoniker="{F453CD83-FE94-4241-B074-1AC8FE3D577B}Regression_Croes_4295_Cli_VlaidateOperationInfoButton" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4292_Cli_ProfilesClientsManagement" key="{4BC1A3CB-DE9E-4AE6-9333-D664FC43B7FD}" group="False" enabled="False" testMoniker="{23ED0BF2-B647-4FFA-AF49-3C21B044C631}Regression_Croes_4292_Cli_ProfilesClientsManagement" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4290_Cli_NotesManagement" key="{988E92BC-9977-40D4-B232-4691A3C4A08D}" group="False" enabled="True" testMoniker="{C979B99C-C932-4EF4-AF6F-57543DE1AE2D}Regression_Croes_4290_Cli_NotesManagement" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4283_Cli_DeleteSelectedClients" key="{8BC1837F-6A11-43B0-A7A2-434D215BF7BD}" group="False" enabled="True" testMoniker="{3E1A673A-1353-4121-B50B-95CBDCE42481}Regression_Croes_4283_Cli_DeleteSelectedClients" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4278_Cli_CreateRellationshipByRightClickAndEdit" key="{911A603F-EE20-42C3-B349-412FB77EF1B5}" group="False" enabled="True" testMoniker="{A0F26E34-1CBC-44F8-9395-DF811D990D35}Regression_Croes_4278_Cli_CreateRellationshipByRightClickAndEdit" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4272_Cli_EsitEmailAdresses" key="{39F6A6CD-ECCA-4E35-951A-3F3DC0BD124F}" group="False" enabled="True" testMoniker="{41E66E73-AF73-4A09-AEBA-0707DC42C2AC}Regression_Croes_4272_Cli_EsitEmailAdresses" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4271_Cli_AddEditDeleteClientsPhoneNumber" key="{1B2E9EB4-85FE-47A1-8C12-B55BE00F63FF}" group="False" enabled="True" testMoniker="{10174C83-9874-4408-A183-C51C4F9DA6B1}Regression_Croes_4271_Cli_AddEditDeleteClientsPhoneNumber" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4261_Cli_AddEditDeleteClientsAdresses" key="{824AE308-E436-4F68-9C66-AF35D7D237D9}" group="False" enabled="True" testMoniker="{30CF6D87-40A5-4727-B259-31A7FA1012D6}Regression_Croes_4261_Cli_AddEditDeleteClientsAdresses" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="Survol" key="{36707648-9F8F-40D4-BD35-2D0618569373}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Activities" key="{7611154B-4930-4B15-8CBE-562DD902F72E}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_ClientsBar_Activities" key="{C4A4F8A4-8C9B-4873-A5D4-FB071791855D}" group="False" enabled="True" testMoniker="{334F5315-4693-4183-AEFA-4D8C93FFAC40}Survol_Cli_ClientsBar_Activities" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ContextualMenu_Functions_Activities" key="{D29EA520-2AC9-4644-96CB-10D61733B8EF}" group="False" enabled="True" testMoniker="{B93AB79F-671F-400E-A46E-22C8410B3A76}Survol_Cli_ContextualMenu_Functions_Activities" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_EditFunctions_Activities" key="{2C81B271-3A8A-4007-9E8C-8A368C24F0D0}" group="False" enabled="True" testMoniker="{5B7FEE5C-970F-4408-A639-64699E6E6592}Survol_Cli_MenuBar_EditFunctions_Activities" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Add_Client" key="{B41D00CC-2097-45E7-8620-FEFA05B110DD}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="External" key="{E61C6967-A3FE-45ED-B686-C1CC4A9856C4}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ContextualMenu_AddExternal" key="{52B9C23D-07A6-42BE-9533-33061B4AD4B9}" group="False" enabled="True" testMoniker="{3CFCAE34-E68B-478B-82DC-990E253388F1}Survol_Cli_ContextualMenu_AddExternal" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_Edit_AddExternal" key="{5289580F-F763-48B6-9471-FEE36510C5E8}" group="False" enabled="True" testMoniker="{E6B52813-F0DD-4B48-BCBE-FC32F13F47E7}Survol_Cli_MenuBar_Edit_AddExternal" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_ToolBar_btnAdd_External" key="{865E2AA3-EDD4-4F94-8BA5-6FCD73CE2440}" group="False" enabled="True" testMoniker="{D1D4321B-42DF-4ED6-9F07-4B3A91B00C75}Survol_Cli_ToolBar_btnAdd_External" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Fictitious" key="{2CD85067-7447-4334-969B-6A129464D4CA}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ContextualMenu_AddFictitious" key="{947B1FA3-CEA9-4636-89BC-2503A802624B}" group="False" enabled="True" testMoniker="{CFD02B64-936F-4622-B0F8-EAE4F052C8F0}Survol_Cli_ContextualMenu_AddFictitious" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_ToolBar_btnAdd_Fictitious" key="{6C43EE2A-5764-4415-9635-1BB32CE50DA0}" group="False" enabled="True" testMoniker="{3CBAD2EA-4821-4B7B-B809-2E233BA2A747}Survol_Cli_ToolBar_btnAdd_Fictitious" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_ToolBar_btnAdd_Fictitious" key="{DAAFA201-8520-4A30-9C95-CCB464FFEAC9}" group="False" enabled="True" testMoniker="{27546143-9B6E-4D3A-B97B-AC2A3335D4CE}Survol_Cli_ToolBar_btnAdd_Fictitious" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Add_Filter" key="{89F301AB-FD60-47CD-8E3C-53B86B0A8733}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_MenuBar_SearchAddFilter" key="{C93C8F94-D6D1-47F3-BD5D-37BA86BA7978}" group="False" enabled="False" testMoniker="{8B9436A1-0E19-4125-8F48-B14AF4B77231}Survol_Cli_MenuBar_SearchAddFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ToolBar_btnQuickFilters_AddFilter" key="{63224F0D-FF97-4318-8B5C-C39627D096F7}" group="False" enabled="False" testMoniker="{BA3C443C-EC76-4229-BD80-6446C2D711FD}Survol_Cli_ToolBar_btnQuickFilters_AddFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Add_Search_Criterion" key="{494D244B-228D-43BD-A9FE-70AD94797332}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_MenuBar_SearchCriteriaSubmenuAddSearchCriterion" key="{0E24617F-B5C0-48C5-BE91-A151916F6669}" group="False" enabled="False" testMoniker="{1CE44AFC-D8A7-465B-8B18-B3AB7AF3E51A}Survol_Cli_MenuBar_SearchCriteriaSubmenuAddSearchCriterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_Toolbar_BtnAddSearchCriterion" key="{7FBD6A77-9709-4038-A1AB-E2ED819BDF5C}" group="False" enabled="False" testMoniker="{024645F8-02B2-44B3-935B-B00467820557}Survol_Cli_Toolbar_BtnAddSearchCriterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Agenda" key="{065C79C7-EB29-454A-A905-8DF2AF46B595}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_Agenda_Ctrl_Maj_L" key="{6DA3522C-5CF2-4B67-9958-E7838107ABB9}" group="False" enabled="False" testMoniker="{369E9599-0207-4988-BDF9-C01106E4AA8A}Survol_Cli_Agenda_Ctrl_Maj_L" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_ToolsAgenda" key="{00D23723-E37B-4FED-9307-4F2B0DF61DF4}" group="False" enabled="False" testMoniker="{D9AC5057-A89D-4591-9BC6-3014B55DA4F9}Survol_Cli_MenuBar_ToolsAgenda" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ToolBar_btnAgenda" key="{5C2792FF-B67C-467C-943A-18FD339EA0A7}" group="False" enabled="False" testMoniker="{82812471-6C3C-40BB-A011-E52F5E8E4355}Survol_Cli_ToolBar_btnAgenda" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Archive_Documents" key="{6AD6B7E9-0175-4C85-91FC-6BE7C2305AAE}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_ArchiveDoc_Ctrl_Maj_A" key="{A775C079-E6FD-46D1-8EF3-5FABC20CAA87}" group="False" enabled="False" testMoniker="{03CBEC47-8B72-46AF-88F8-3F5A37943039}Survol_Cli_ArchiveDoc_Ctrl_Maj_A" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_btnArchiveMyDocuments" key="{D313CAAA-6536-4555-8B93-BEE2D7B11C3A}" group="False" enabled="False" testMoniker="{31874AD8-E55F-48A6-98BB-06DBACCBCF33}Survol_Cli_MenuBar_btnArchiveMyDocuments" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ToolBar_btnArchiveMyDocuments" key="{D93B6C58-1DF7-46D0-93AA-72E08726FEA9}" group="False" enabled="False" testMoniker="{C61572B3-FEC6-4221-B3A0-BDFFDC8F60F9}Survol_Cli_ToolBar_btnArchiveMyDocuments" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Bon_Calculator" key="{4B35379C-DC19-48DE-BA36-5D142395D7B0}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_Calculator_Ctrl_Maj_O" key="{1C9938E5-2320-48AC-96C2-E0F87AA93E92}" group="False" enabled="True" testMoniker="{B63A01A9-A67F-4CA5-8976-42AFD5A5CE34}Survol_Cli_Calculator_Ctrl_Maj_O" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_Tools_btnCalculator" key="{C71F8CDA-3849-4F44-AC63-4C14AE01F19B}" group="False" enabled="True" testMoniker="{2FA836D9-AB78-4F09-83A0-FC76EF6B1A1C}Survol_Cli_MenuBar_Tools_btnCalculator" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_Toolbar_btnBondCalculator" key="{334D070D-BD59-4E02-8589-80691F6D83F9}" group="False" enabled="True" testMoniker="{A59BA89A-F16E-4DFD-942A-8EFC1F64F8D7}Survol_Cli_Toolbar_btnBondCalculator" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Clients_Reports" key="{2AECEB56-FB8C-4CC6-896E-37869D7ABDA3}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_MenuBar_ReportsClients" key="{04595A51-B782-42F7-AAB3-2F344178EF97}" group="False" enabled="True" testMoniker="{1207EC65-6882-48F4-9AC8-9E4358D60639}Survol_Cli_MenuBar_ReportsClients" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ToolBar_btnReportsAndGraphs" key="{C3F903E3-50A8-4DBE-9382-07A282DD9CDA}" group="False" enabled="True" testMoniker="{E0FC600D-CC83-4C9C-9048-A1C9039A0427}Survol_Cli_ToolBar_btnReportsAndGraphs" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Close_Application" key="{7398CD43-651B-42CE-A6B3-82068253B13F}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_AltF4" key="{D807BBE1-ED82-4413-8F7C-A43C4506597D}" group="False" enabled="False" testMoniker="{12DFFB75-7513-4509-B375-DF9BEA25842A}Survol_Cli_AltF4" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_AltQ" key="{2C1B9024-D01D-40C0-B98A-B155096EE4AB}" group="False" enabled="False" testMoniker="{35037A67-F3CE-4A5B-B2FF-154B4F6B39BA}Survol_Cli_AltQ" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_Quitter" key="{6D04B63C-4AFD-4083-960F-CD4FDACAAD65}" group="False" enabled="False" testMoniker="{6E6677CE-3529-4E44-8FCC-4E744BF2127D}Survol_Cli_Quitter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_SysClose" key="{8DBF69D4-A4E9-40F3-A444-C26347FC30D0}" group="False" enabled="False" testMoniker="{153C56A5-56E3-4B44-AEB4-1823804ABA71}Survol_Cli_SysClose" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_X" key="{7528B6BB-ED18-4173-A278-F703B50D5ABD}" group="False" enabled="False" testMoniker="{3EAD42BB-C9A8-4C68-810C-89351BE83589}Survol_Cli_X" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Compose_Address" key="{9AFC6F92-563F-4F47-90E3-692BECA7F014}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_Internet_ComposeAddress_CtrlO" key="{FE53E71D-C150-49AE-B518-9C83E45E8F4D}" group="False" enabled="False" testMoniker="{7326CA9D-FCD4-41FF-BFE7-0D663AF26A49}Survol_Cli_Internet_ComposeAddress_CtrlO" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_Tools_Internet_ComposeAddress" key="{9A2DE4B4-822B-4052-8AD2-3C5E6F4FDCA4}" group="False" enabled="False" testMoniker="{3AF572A7-4282-460B-B665-CB22CDEBCB52}Survol_Cli_MenuBar_Tools_Internet_ComposeAddress" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ToolBar_BtnInternet_ComposeAddress" key="{A404D2C7-C834-483D-A593-E3417D4FBA64}" group="False" enabled="False" testMoniker="{0BD39EDA-BFF1-4136-A82B-5BC61EB3DF6D}Survol_Cli_ToolBar_BtnInternet_ComposeAddress" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Info" key="{48503218-3E8A-4697-BB47-B5F9DBA0169C}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_ClientsBar_BtnInfo" key="{608E1846-85A5-4B35-BFA0-18F790F010EE}" group="False" enabled="True" testMoniker="{439B1CAF-FB19-43A7-8386-CEDB320D7DB1}Survol_Cli_ClientsBar_BtnInfo" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ContextualMenu_Functions_Info" key="{DE52D1B0-7415-4D9A-BEE7-AC5D3AA0F638}" group="False" enabled="True" testMoniker="{2F9F1029-8A14-4204-A487-B391107BC845}Survol_Cli_ContextualMenu_Functions_Info" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_EditFunctions_Info" key="{C79ECE93-C355-45FB-A3ED-664125230BA8}" group="False" enabled="True" testMoniker="{40377A13-B70E-4B80-AD8E-A882AF0CEF79}Survol_Cli_MenuBar_EditFunctions_Info" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Info(i)" key="{9408C0D6-6B6F-46BA-85FB-59663EAF83EA}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_ContextualMenu_i" key="{5EC885D6-0763-49EE-9CF3-B38F1BB587FF}" group="False" enabled="False" testMoniker="{94AC7D67-8DD0-4129-AD3D-1375AF1AF483}Survol_Cli_ContextualMenu_i" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_i_Ctrl_L" key="{63F62A09-F69D-47B8-AC44-66C5F23EBC92}" group="False" enabled="False" testMoniker="{BB358FFF-A979-410C-84E0-E9EA07903A65}Survol_Cli_i_Ctrl_L" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_Edit_i" key="{003501B9-4779-4581-B213-BC823A4D4A9F}" group="False" enabled="False" testMoniker="{C1673EE2-6BED-4DB7-A065-C5B551D39366}Survol_Cli_MenuBar_Edit_i" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ToolBar_Btn_i" key="{B35F9009-45A2-4823-9593-C4879A65A99A}" group="False" enabled="False" testMoniker="{ADE64D0E-8B73-44E9-8697-E328D9A2D604}Survol_Cli_ToolBar_Btn_i" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Info_list" key="{BE612DEC-A790-47D2-AADD-890A6E358DAF}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Addresses" key="{C235AC49-AC56-419B-BB43-AA5EF8213B3C}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_Addresses" key="{D461FAA8-D6BE-4EBE-9B6F-1DCB6A51BEE8}" group="False" enabled="True" testMoniker="{A38F0C0A-540F-48B8-86CB-789515E77DF7}Survol_Cli_ClientsBar_BtnInfo_Addresses" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoAddresses" key="{28FDE869-9082-41FE-A288-411E10CFFF3F}" group="False" enabled="False" testMoniker="{B343715A-4A83-4EE4-9A2C-71385B15F310}Survol_Cli_MenuBar_EditFunctions_InfoAddresses" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Agenda" key="{99471031-9A03-4178-886F-488B026226B2}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_Agenda" key="{5DCFB7EF-6311-4C34-BE9A-7C67A809C17A}" group="False" enabled="True" testMoniker="{755A4FE8-9A8B-45DF-B465-BEA521C35A1C}Survol_Cli_ClientsBar_BtnInfo_Agenda" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoAgenda" key="{3A09F97D-CEF8-44CF-AF2B-6897D8AFA1F8}" group="False" enabled="False" testMoniker="{A5B9DB92-7E46-46EC-9A33-D042E3446C95}Survol_Cli_MenuBar_EditFunctions_InfoAgenda" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Campaigns" key="{4916AA6B-9A44-44E7-AA0D-6E8B965D18F8}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_Campaigns" key="{6D6CD912-1189-45C1-8E2E-2EF7723C2432}" group="False" enabled="True" testMoniker="{1C4215B3-572C-4D29-97CA-19B4F20952B2}Survol_Cli_ClientsBar_BtnInfo_Campaigns" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_Campaigns" key="{96E8E320-E272-41D4-B63D-E06539A4F5DB}" group="False" enabled="True" testMoniker="{E35FDB38-739E-4D9A-A5AF-C89C69347F35}Survol_Cli_ClientsBar_BtnInfo_Campaigns" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Costumer Network" key="{62FE1547-3497-4905-962B-092749ECD61A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_ClientNetwork" key="{F30EBE8C-0500-43C2-B3FD-DEAAF0406161}" group="False" enabled="True" testMoniker="{CB327D80-8E4B-4C83-AB0C-1FDF2A2348F1}Survol_Cli_ClientsBar_BtnInfo_ClientNetwork" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoClientNetwork" key="{F0405E1C-25A2-48D6-8C4A-808C07905F6C}" group="False" enabled="False" testMoniker="{A2BBEAA2-58D4-4991-9EEE-AC3D60BCFA82}Survol_Cli_MenuBar_EditFunctions_InfoClientNetwork" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Default Indices" key="{4DE9012A-B153-4B72-8384-5E21F8C1B052}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_DefaultIndices" key="{1EBC53BB-294E-416B-B4D0-0CD01ED2F775}" group="False" enabled="True" testMoniker="{90E4350A-68AA-41AA-AD6F-6F6BF2D980B4}Survol_Cli_ClientsBar_BtnInfo_DefaultIndices" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoDefaultIndices" key="{ED6CAC72-CCE0-42B1-9CBD-A1689DF9B85F}" group="False" enabled="True" testMoniker="{45FE2BD5-B344-47A7-899E-3C1C001712B6}Survol_Cli_MenuBar_EditFunctions_InfoDefaultIndices" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Default Reports" key="{E6018EAE-276B-4843-9F72-5E2DA8ACFF7A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_DefaultReports" key="{DB502647-A8B8-4707-A679-19F189B66C5F}" group="False" enabled="True" testMoniker="{D1096B99-D558-422E-ABE3-97E71CB33762}Survol_Cli_ClientsBar_BtnInfo_DefaultReports" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoDefaultReports" key="{1E640DDE-2078-4663-AD5D-4BDC9D0DAA85}" group="False" enabled="True" testMoniker="{1F931028-02DF-42FB-B01E-F8D4A4C40CD8}Survol_Cli_MenuBar_EditFunctions_InfoDefaultReports" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Documents" key="{3D3B1F2E-44DB-49FA-9F6F-258A7CF70A80}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_Documents" key="{ED3A9747-6B28-48C4-9D2F-E69587EA3D61}" group="False" enabled="True" testMoniker="{0437FE25-23DB-47C7-B071-05D4F7519559}Survol_Cli_ClientsBar_BtnInfo_Documents" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoDocuments" key="{BD04E241-CDE1-4E42-923C-714E1BCB54D3}" group="False" enabled="False" testMoniker="{DCC98F07-9CC6-4833-906F-84CCC78BA8D5}Survol_Cli_MenuBar_EditFunctions_InfoDocuments" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Email" key="{F2C1968D-D725-404D-B91C-F66427D1EE6A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_Email" key="{EE42F326-E806-41B3-848B-5EBBC8AB5B42}" group="False" enabled="True" testMoniker="{8D5F6F76-1C5D-47CF-A8BF-1300CC32D6AB}Survol_Cli_ClientsBar_BtnInfo_Email" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoEmail" key="{47F2854C-9588-49BD-9E6D-B94086E88670}" group="False" enabled="False" testMoniker="{BBA82F9A-B5F2-4E80-ABC8-01548F0148F3}Survol_Cli_MenuBar_EditFunctions_InfoEmail" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Info" key="{63952C09-F01F-4A93-BFB5-38F10AECEE6C}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_Info" key="{80101682-C40D-4299-933B-C4395EBAD823}" group="False" enabled="True" testMoniker="{6B769B30-038C-4DA5-BD91-52E855B71280}Survol_Cli_ClientsBar_BtnInfo_Info" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoInfo" key="{E4737300-95E2-46C4-82D9-FA6669BB5588}" group="False" enabled="False" testMoniker="{0672BDDA-C18C-4556-9FE3-FF94812621C6}Survol_Cli_MenuBar_EditFunctions_InfoInfo" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="InvestmentObjective" key="{7FA86093-CC89-4E78-AC25-2AA02D392320}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoInvestmentObjective" key="{264A0F55-3946-4345-930B-CA188C530C77}" group="False" enabled="True" testMoniker="{EAFC5FD1-F6F2-4F66-9BA5-574D3EE4391B}Survol_Cli_MenuBar_EditFunctions_InfoInvestmentObjective" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_InvestmentObjective" key="{776E8B30-C267-41B1-A39C-BA2127BEE619}" group="False" enabled="True" testMoniker="{13919298-A797-4A24-880C-395ABC4E0A60}Survol_Cli_ClientsBar_BtnInfo_InvestmentObjective" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Notes" key="{974ABC50-E0A4-49FB-B5F6-94B6192EF6C7}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_Notes" key="{1387B6F9-267C-4C43-8240-AAA4EC59FD47}" group="False" enabled="True" testMoniker="{CC5077E5-E296-48D8-98C5-B546A16D26D1}Survol_Cli_ClientsBar_BtnInfo_Notes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoNotes" key="{90936CF3-3002-41C6-A62A-535E8CBBB85C}" group="False" enabled="True" testMoniker="{ED298478-D7FB-4339-86C8-4900E999D33C}Survol_Cli_MenuBar_EditFunctions_InfoNotes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Products_Services" key="{4DCFC0CB-D22C-4EDC-AE4C-23CD7FB996AD}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_ProductsServices" key="{6106608C-D4DF-4FA4-98F0-EA81FDF5E0EB}" group="False" enabled="True" testMoniker="{BB3954F3-79B9-4EAE-B11A-A0D9DD0E69E3}Survol_Cli_ClientsBar_BtnInfo_ProductsServices" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_ProductsServices" key="{721F5A30-E7BE-4103-BE0E-E0955B3B236C}" group="False" enabled="False" testMoniker="{255FECEA-53AE-412C-8CE1-EEE219FE9833}Survol_Cli_MenuBar_EditFunctions_ProductsServices" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Profiles" key="{0B71C675-67EC-4D74-A13B-8D13AB0B7300}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_Profiles" key="{F9344C45-0D9D-4E93-959B-75347525568F}" group="False" enabled="True" testMoniker="{F9E9187D-9E2E-4A40-BB5D-6226B9F8B011}Survol_Cli_ClientsBar_BtnInfo_Profiles" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_Profiles" key="{168FCA40-39AF-4D92-AC29-A8DC33F00C75}" group="False" enabled="True" testMoniker="{CC07656D-0138-4B49-9646-B3FF21AB2090}Survol_Cli_MenuBar_EditFunctions_Profiles" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Telephones" key="{9AA99C1C-5EB6-4F1C-909C-73DB6F5C783F}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_ClientsBar_BtnInfo_Telephones" key="{DF95F9A8-0BF4-432D-BD95-7C2A1710B839}" group="False" enabled="True" testMoniker="{95A35A10-20FA-4CFE-BCA6-9DB00F23DCC6}Survol_Cli_ClientsBar_BtnInfo_Telephones" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Cli_MenuBar_EditFunctions_Telephones" key="{EC4ED224-BFFE-471E-A339-EE9D395C42F9}" group="False" enabled="False" testMoniker="{4D3A9161-F4B9-45C1-BA31-5F163AED4F01}Survol_Cli_MenuBar_EditFunctions_Telephones" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_EditFunctions_InfoGrouped" key="{1A3737DC-AA4F-4F2D-94EA-FED79F08EDB9}" group="False" enabled="True" testMoniker="{F8F34E98-356B-4837-904A-A827698DFA0A}Survol_Cli_MenuBar_EditFunctions_InfoGrouped" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Internet" key="{8653DFF0-0129-4722-B38E-093207BE2BED}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_MenuBar_Tools_Internet" key="{B041FB27-D34F-44CB-AAF8-9178DB29DF5E}" group="False" enabled="False" testMoniker="{0D0C1BBF-DB70-40E1-8F88-ADFEAAB68764}Survol_Cli_MenuBar_Tools_Internet" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ToolBar_btnInternet" key="{EFDB55D2-E0CC-4631-BDB0-EE8D4EA5C67E}" group="False" enabled="False" testMoniker="{ECC6557C-CA6D-45BB-B4B5-B4283ECFBE01}Survol_Cli_ToolBar_btnInternet" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Lock_Application" key="{5C1AA506-32C5-4AB6-98D2-DFBC95CFC79C}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_MenuBar_FileLock_BtnOk_WithoutPSW" key="{C97C9478-A78B-4DA2-A249-E52307B4D737}" group="False" enabled="False" testMoniker="{F259D603-D41A-474C-887A-BA395370CDAA}Survol_Cli_MenuBar_FileLock_BtnOk_WithoutPSW" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_FileLock_BtnQuit" key="{219B7A10-E046-42E5-8CA3-62C66B58D72D}" group="False" enabled="False" testMoniker="{CF11E125-0BBC-4CF1-9D9D-4587A5D1DDE6}Survol_Cli_MenuBar_FileLock_BtnQuit" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ToolBar_BtnLockTheApplication_BtnOk_WithPSW" key="{54A13904-7DBF-44F2-B43E-C952AD0ECD71}" group="False" enabled="False" testMoniker="{C4EF7FDA-490E-4872-9456-FB0A72504888}Survol_Cli_ToolBar_BtnLockTheApplication_BtnOk_WithPSW" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="MainWin" key="{66B109F3-F78D-403B-B409-FBAD09D8CAA5}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Details" key="{08B5D6D5-4454-4D33-8786-CDCB466BC4FA}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_MainWin_Details" key="{C2C8F04E-C1D0-4295-A610-F8F998F7547C}" group="False" enabled="True" testMoniker="{A8CFBD55-4680-40D2-A2EF-9916839547D7}Survol_Cli_MainWin_Details" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Grid_column_header" key="{EA38C7C1-AC36-410C-AA16-B7FCBE89BD37}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Cli_Grid_column_header" key="{B66FF52F-E28A-41C9-B5EC-B67CEF9AE9C0}" group="False" enabled="True" testMoniker="{8B183B97-5C2B-486B-894D-744858ADBA6F}Survol_Cli_Grid_column_header" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Performance" key="{B06DD651-6067-4D48-BF37-850F8CCCD24E}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_ClientsBar_Performance" key="{9C890BFB-FEDD-4755-8A6B-5FDB51547902}" group="False" enabled="False" testMoniker="{B3D44A56-C877-413A-8F0B-73A16BB68A3F}Survol_Cli_ClientsBar_Performance" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ContextualMenu_Functions_Performance" key="{7E27AA73-9630-4B3B-B656-2BCDFDA7F7D8}" group="False" enabled="False" testMoniker="{535D4FE5-0534-4FB0-9AFA-D74F020E6525}Survol_Cli_ContextualMenu_Functions_Performance" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_EditFunctions_Performance" key="{6237941D-C3E1-4CC0-98CB-23C0457C9BB6}" group="False" enabled="False" testMoniker="{3D544C52-34E6-4311-AF44-9CF1891A4CA4}Survol_Cli_MenuBar_EditFunctions_Performance" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Print" key="{5B012341-F108-439E-911D-A1A99AC405DE}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_MenuBar_FilePrint" key="{406F2AB4-9666-4979-B849-E0BF479315A9}" group="False" enabled="False" testMoniker="{1A60018E-69FE-4CE6-906A-928285A02AEB}Survol_Cli_MenuBar_FilePrint" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_Print_AltP" key="{85B7FD3A-44EF-4F7C-8AC6-EDDC854BB39E}" group="False" enabled="False" testMoniker="{6FD6C1BB-594C-4201-A974-EA15EE01E550}Survol_Cli_Print_AltP" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_CLi_ToolBar_btnPrint" key="{49FFA502-8F3C-41C3-BDD1-DAC83F24DF14}" group="False" enabled="False" testMoniker="{C63469ED-9185-43CE-8C2E-6F59F8E8453B}Survol_CLi_ToolBar_btnPrint" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_Print_ClickR" key="{F0F1CEAF-43C5-4E8E-857C-C4E5B82C9FB4}" group="False" enabled="False" testMoniker="{74E355EE-138E-4325-91EC-072DAB1881BC}Survol_Cli_Print_ClickR" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Quick_Filters" key="{DE562126-4428-4814-A503-73D790655CF6}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Search" key="{0BBC4745-CE74-49F6-A2B2-F3C00A18578D}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_ToolBar_btnSearch" key="{C901A31E-5429-4A3A-BAB6-2BF96D5E34A3}" group="False" enabled="False" testMoniker="{6EFEDF7E-2107-45D4-9C05-3E8464E572C0}Survol_Cli_ToolBar_btnSearch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_Search_KeyboardSearch" key="{A7C79529-F4D9-4C06-8EEF-DAA10171A554}" group="False" enabled="False" testMoniker="{F57BEE71-4D8F-405A-8F86-0B9E4B109861}Survol_Cli_Search_KeyboardSearch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_EditSearch" key="{7B2DC522-3DA4-4205-830F-4F6581E01127}" group="False" enabled="False" testMoniker="{24E61641-8F62-416E-8D46-38972B77379C}Survol_Cli_MenuBar_EditSearch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Search_Manage" key="{ACA3A5AC-900C-474B-91AA-E636667FA966}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_MenuBar_SearchCriteriaSubmenuSearchManage" key="{95B64923-BA1F-4395-9ACE-7A95A535E6F4}" group="False" enabled="False" testMoniker="{B4F27FEC-4AEA-4879-BC3F-CF75714F3453}Survol_Cli_MenuBar_SearchCriteriaSubmenuSearchManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ToolBar_btnManageSearchCriteria" key="{E4096FDA-ACAC-4B88-A7C7-316885DE4A12}" group="False" enabled="False" testMoniker="{7A9B9494-65AA-47A1-87AE-BA54E3F1E1FE}Survol_Cli_ToolBar_btnManageSearchCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Sum" key="{86E29655-B20F-4921-8D1D-747E1C59C426}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Cli_MenuBar_EditSum" key="{65DAB4B4-8C47-46FF-A63C-A640A12CCAB9}" group="False" enabled="False" testMoniker="{EC903DB9-A295-4B0A-868A-0A5174D95945}Survol_Cli_MenuBar_EditSum" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_MenuBar_EditSum" key="{913F594F-3315-4946-82D2-9BA2C86FDC4A}" group="False" enabled="False" testMoniker="{A434AA9C-4804-406C-AB99-06DCE646BF8D}Survol_Cli_MenuBar_EditSum" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Cli_ToolBar_btnSum" key="{957AE275-079A-4C93-8DF7-9152EC3830F5}" group="False" enabled="False" testMoniker="{9F45597F-3FD7-4850-BC61-2B4404A0BFAA}Survol_Cli_ToolBar_btnSum" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="ExecutionLog" key="{28630A98-67F6-4ECF-A7AA-33A148ECE091}" group="False" enabled="True" testMoniker="{52088521-DA26-4945-917F-3A4A25AB8323}ExecutionLog" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+				<testParameters />
+				<children />
+			</testItem>
+		</children>
+	</testItems>
+	<variables key="{71C12D67-1D13-47A6-894E-3964D43BBCAB}">
+		<data Version="3">
+			<Items>
+				<Variable Name="MyTable" Type="{4AD4881B-176C-4C96-8288-FBBB7E3D1FE3}" Local="False">
+					<DefValue RowCount="0" ColumnCount="0">
+						<Columns />
+					</DefValue>
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<settings key="{99250FE6-95CF-4A21-8EFB-11A45496F3A4}">
+		<settingsVersion value="14.30" />
+		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />
+		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Use all processes" />
+				<row val0="Use only tested applications" />
+				<row val0="Use only selected processes" />
+				<row val0="Ignore selected processes" />
+				<row val0="Ignore all processes" />
+			</data>
+		</setting>
+		<setting name="ApplicationHangingProcessList" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="ApplicationHangingTimeout" type="2" value="30000" />
+		<setting name="AzureDevOps_CollectionID" type="5" value="" />
+		<setting name="AzureDevOps_ProjectID" type="5" value="" />
+		<setting name="AzureDevOps_ServerName" type="5" value="" />
+		<setting name="AzureDevOps_TeamProject" type="5" value="" />
+		<setting name="AzureDevOps_TeamProjectCollection" type="5" value="" />
+		<setting name="AzureDevOps_URL" type="5" value="" />
+		<setting name="CLRBridge_PreferredApartmentModel" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Does not matter" />
+				<row val0="Single-threaded apartment" />
+				<row val0="Multi-threaded apartment" />
+			</data>
+		</setting>
+		<setting name="CLRBridge_PreferredArchitecture" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="The same as the operating system" />
+				<row val0="32-bit" />
+				<row val0="64-bit" />
+			</data>
+		</setting>
+		<setting name="CLRBridge_SelectedComponents" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="1" enabled="True" />
+			</columns>
+			<data>
+				<row val0="System.Management.Automation, version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" val1="True" />
+			</data>
+		</setting>
+		<setting name="CountProcessesOfAllUsers" type="1" value="True" />
+		<setting name="DbgServices_Active" type="1" value="True" />
+		<setting name="DbgServices_DepthShown" type="2" value="10" />
+		<setting name="DbgServices_EnableEvents" type="1" value="True" />
+		<setting name="DbgServices_Priority" type="6" rowIndex="3" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="pmLowest" />
+				<row val0="pmLower" />
+				<row val0="pmNormal" />
+				<row val0="pmHigher" />
+				<row val0="pmHighest" />
+			</data>
+		</setting>
+		<setting name="DbgServices_UseExtendedDebugger" type="1" value="True" />
+		<setting name="DraggingDelay" type="2" value="5" />
+		<setting name="General_CurrentImageFormat" type="5" value="126_0_0_0_97_113_115_111_1_0_0_0_4_0_0_0_114_0_111_0_111_0_116_0_1_0_0_0_9_0_0_0_102_0_111_0_114_0_109_0_97_0_116_0_107_0_101_0_121_0_1_0_0_0_38_0_0_0_123_0_66_0_65_0_55_0_52_0_53_0_49_0_54_0_57_0_45_0_70_0_51_0_52_0_68_0_45_0_52_0_55_0_49_0_48_0_45_0_66_0_51_0_55_0_70_0_45_0_68_0_53_0_69_0_70_0_69_0_56_0_65_0_53_0_49_0_51_0_51_0_57_0_125_0_1_0_0_0_16_0_0_0_112_0_110_0_103_0_99_0_111_0_110_0_102_0_105_0_103_0_117_0_114_0_97_0_116_0_105_0_111_0_110_0_2_0_0_0_16_0_0_0_99_0_111_0_109_0_112_0_114_0_101_0_115_0_115_0_105_0_111_0_110_0_108_0_101_0_118_0_101_0_108_0_0_0_0_0_4_0_0_0_10_0_0_0_105_0_110_0_116_0_101_0_114_0_108_0_97_0_99_0_101_0_100_0_5_0_0_0_0_0_0_0_0_0_" />
+		<setting name="General_DisableDWMBeforeCapturingImage" type="1" value="True" />
+		<setting name="General_ImageFormat" type="5" value="Format: PNG; Compression level: 4" />
+		<setting name="General_ObjectTreeModel" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Tree" />
+				<row val0="Flat" />
+			</data>
+		</setting>
+		<setting name="General_ProjectLogLocation" type="5" value="Log" />
+		<setting name="General_UnitsEncoding" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="UTF-16" />
+				<row val0="UTF-8" />
+				<row val0="ANSI" />
+				<row val0="Auto" />
+			</data>
+		</setting>
+		<setting name="HipTest_ProjectID" type="2" value="-1" />
+		<setting name="HipTest_ProjectName" type="5" value="The current project is not bound to HipTest." />
+		<setting name="HipTest_SaveResults" type="1" value="True" />
+		<setting name="HipTest_SynchronizeBeforeRun" type="1" value="True" />
+		<setting name="HipTest_SynchronizeOnOpening" type="1" value="True" />
+		<setting name="HipTest_SynchronizeTestRun" type="1" value="False" />
+		<setting name="HipTest_TestRunID" type="5" value="" />
+		<setting name="HipTest_TestRunName" type="5" value="[Test run created last]" />
+		<setting name="JavaBridge_Classes" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="JavaBridge_ClassPaths" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="JavaFXOpenApp_DoNotRecognizeJavaFXStageAsAWTComponent" type="1" value="True" />
+		<setting name="JavaFXOpenApp_ExposedCustomNodes" type="6" rowIndex="-1" colIndex="2">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="JavaFXOpenApp_NodeByClassNameFilters" type="6" rowIndex="7" colIndex="2">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="1" enabled="True" />
+			</columns>
+			<data>
+				<row val0="False" val1="*" val2="False" />
+				<row val0="True" val1="javafx.scene.SubScene" val2="True" />
+				<row val0="True" val1="javafx.scene.control.Control" val2="True" />
+				<row val0="True" val1="javafx.scene.web.WebView" val2="False" />
+				<row val0="False" val1="javafx.scene.canvas.Canvas" val2="True" />
+				<row val0="False" val1="javafx.scene.image.ImageView" val2="True" />
+				<row val0="False" val1="javafx.scene.media.MediaView" val2="True" />
+				<row val0="True" val1="com.sun.javafx.scene.control.skin.ContextMenuContent$MenuItemContainer" val2="True" />
+			</data>
+		</setting>
+		<setting name="JavaOpenApp_DoNotRecognizeChildSWTAsParent" type="1" value="False" />
+		<setting name="KeyPressingDelay" type="2" value="0" />
+		<setting name="MouseMovementDelay" type="2" value="0" />
+		<setting name="ObjectMapping_Objects" type="6" rowIndex="-1" colIndex="3">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="OpenApps_ActivateSystemProcesses" type="1" value="False" />
+		<setting name="OpenApps_DbgAgent_AdvancedExceptionHandling" type="1" value="True" />
+		<setting name="OpenApps_DbgAgent_CombineClassDefinitions" type="1" value="False" />
+		<setting name="OpenApps_DbgAgent_EnableDebugAgent" type="1" value="True" />
+		<setting name="OpenApps_DbgAgent_StringLengthLimit" type="2" value="1024" />
+		<setting name="OpenApps_DbgAgent_UseStaticLibs" type="1" value="True" />
+		<setting name="OpenApps_EnableMultipleNamesForObjects" type="1" value="False" />
+		<setting name="OpenApps_FlashFlex_InstallFlashInjector" type="1" value="False" />
+		<setting name="OpenApps_FlashFlex_TrustedLocations" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="True" val1="%PRODUCT_LOCATION%\Open Apps\Flex\FlashInjector.swf" />
+			</data>
+		</setting>
+		<setting name="OpenApps_HybridMobile_AccessPolicy" type="1" value="False" />
+		<setting name="OpenApps_HybridMobile_DynamicIdentifiers" type="6" rowIndex="30" colIndex="9">
+			<columns>
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Yahoo! UI library" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;yui-gen&quot;" val5="Wildcard" val6="yui-gen*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;yui_3_&quot;" val5="Wildcard" val6="*yui_3_*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="jQuery UI library" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="3" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;ui-id-&quot;" val5="Wildcard" val6="ui-id-*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Dojo toolkit" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="5" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;dijit_&quot;" val5="Wildcard" val6="dijit_*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Other" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Do not use IDs containing GUID" val5="RegExp" val6="\h+-\h+-\h+-\h+-\h+" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Remove leading characters from IDs like &quot;c1114509959-searchform&quot;" val5="RegExp" val6="^[A-Za-z](\d\d\d\d\d+){[A-Za-z-]*}$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Remove trailing digits from IDs like &quot;unique-123456&quot;" val5="RegExp" val6="^{[A-Za-z-]+}(\d\d\d\d\d+)$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="ASP.NET" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="11" val1="-1" val2="False" val3="True" val4="Do not use IDs ending with a string like &quot;ctl00&quot;" val5="RegExp" val6="^(.*[-_$])?(ctl[0-9]+)$" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="11" val1="-1" val2="False" val3="True" val4="Remove GUIDs and ctl00-like prefixes from Sharepoint IDs" val5="RegExp" val6="(.+?_(\h+_\h+_\h+_\h+_\h+))+(.*ctr?l[0-9]+)?[_$]?{.*}$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="11" val1="-1" val2="False" val3="True" val4="For IDs containing a string like &quot;ctl00_&quot;, leave only symbols after this string" val5="RegExp" val6=".*(ctl[0-9]+[-_$]+){.*}" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha ExtJS" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-gen&quot;" val5="RegExp" val6="^(.*-)?ext-gen" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-comp&quot;" val5="RegExp" val6="^(.*-)?ext-comp" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;extdd-&quot;" val5="Wildcard" val6="extdd-*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Remove digits from IDs like &quot;treepicker-1038&quot; or &quot;treepicker-1038-inputEl&quot;" val5="RegExp" val6="^{[A-Za-z-]+}-{\d\d\d\d+}{.*}$" val7="$1$3" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha Touch" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="20" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha Touch IDs" val5="RegExp" val6="^ext-{.*}-\d+$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="JavaServer Faces" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;_t14&quot;" val5="RegExp" val6="^{_t}{[0-9]+}$" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;j_id23&quot; or &quot;j_idt23&quot;" val5="RegExp" val6="^{j_idt?}{[0-9]+}$" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;frm:menuLinks:0:link&quot;" val5="RegExp" val6="(.+):{[^0-9]+}$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;frm:menuLinks:3:link&quot;" val5="RegExp" val6="(.+):(.*)" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Google Web Toolkit" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="27" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;gwt-uid-370_runButton&quot;" val5="RegExp" val6="^(gwt-uid-[0-9]+)(_{.*})?$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="27" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha GXT IDs" val5="RegExp" val6="^(x-((widget)|(auto))-.*[0-9]+)([-_]{.*})?$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Custom" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+			</data>
+		</setting>
+		<setting name="OpenApps_HybridMobile_IdentificationAttribute" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="ID" />
+				<row val0="Name" />
+			</data>
+		</setting>
+		<setting name="OpenApps_MethodInvokeTimeout" type="2" value="3000" />
+		<setting name="OpenApps_MSAA_ListOfAcceptedWindows" type="6" rowIndex="11" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="False" val1="*" />
+				<row val0="True" val1="MsoCommandBar*" />
+				<row val0="True" val1="_Ww*" />
+				<row val0="True" val1="OpusApp" />
+				<row val0="True" val1="Vfp*" />
+				<row val0="True" val1="bosa_sdm_Microsoft Word *" />
+				<row val0="False" val1="Internet Explorer_Server" />
+				<row val0="True" val1="XTPToolBar" />
+				<row val0="True" val1="XTPDockingPaneTabbedContainer" />
+				<row val0="True" val1="XTPTaskPanel" />
+				<row val0="True" val1="XTPReport" />
+				<row val0="True" val1="XTPPopupBar" />
+			</data>
+		</setting>
+		<setting name="OpenApps_MSAA_TreeModel" type="1" value="False" />
+		<setting name="OpenApps_PriorityOfObjects" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="NativeClrObject" />
+				<row val0="NativeSlObject" />
+				<row val0="NativeWebObject" />
+				<row val0="NativeVBObject" />
+				<row val0="NativeSafariObject" />
+				<row val0="NativeDelphiObject" />
+				<row val0="NativeOperaObject" />
+				<row val0="NativeTextObject" />
+				<row val0="NativeJavaObject" />
+				<row val0="NativeChromeObject" />
+				<row val0="NativeCPPObject" />
+				<row val0="NativeFirefoxObject" />
+				<row val0="NativeJavaFXObject" />
+				<row val0="NativeQtObject" />
+				<row val0="NativeUIAObject" />
+				<row val0="NativeMSAA" />
+			</data>
+		</setting>
+		<setting name="OpenApps_ProcessFilter_ProcessFilterMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Use all processes" />
+				<row val0="Use only tested applications" />
+				<row val0="Use only selected processes" />
+				<row val0="Ignore selected processes" />
+			</data>
+		</setting>
+		<setting name="OpenApps_ProcessFilter_ProcessList" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="OpenApps_UIA_ListOfAcceptedWindows" type="6" rowIndex="2" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="False" val1="*" />
+				<row val0="True" val1="DirectUIHWND" />
+				<row val0="True" val1="Windows.UI.Core.CoreWindow" />
+			</data>
+		</setting>
+		<setting name="OpenApps_UseNativeObjectNames" type="1" value="True" />
+		<setting name="OpenApps_Web_AddCommentsForWaitMethod" type="1" value="False" />
+		<setting name="OpenApps_Web_CSSTransitionForPagePicture" type="1" value="True" />
+		<setting name="OpenApps_Web_CustomAttributes_AttributesForNameMapping" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="True" val1="data-test-id" />
+				<row val0="True" val1="data-testid" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_EnableSupportForWebComponents" type="1" value="True" />
+		<setting name="OpenApps_Web_ObjIdentification_DynamicIdentifiers" type="6" rowIndex="29" colIndex="9">
+			<columns>
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Yahoo! UI library" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;yui-gen&quot;" val5="Wildcard" val6="yui-gen*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;yui_3_&quot;" val5="Wildcard" val6="*yui_3_*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="jQuery UI library" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="3" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;ui-id-&quot;" val5="Wildcard" val6="ui-id-*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Dojo toolkit" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="5" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;dijit_&quot;" val5="Wildcard" val6="dijit_*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Other" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Do not use IDs containing GUID" val5="RegExp" val6="\h+-\h+-\h+-\h+-\h+" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Remove trailing digits from IDs like &quot;unique-123456&quot;" val5="RegExp" val6="^{[A-Za-z-]+}(\d\d\d\d\d\d+)$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="ASP.NET" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="10" val1="-1" val2="False" val3="True" val4="Do not use IDs ending with a string like &quot;ctl00&quot;" val5="RegExp" val6="^(.*[-_$])?(ctl[0-9]+)$" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="10" val1="-1" val2="False" val3="True" val4="Remove GUIDs and ctl00-like prefixes from Sharepoint IDs" val5="RegExp" val6="(.+?_(\h+_\h+_\h+_\h+_\h+))+(.*ctr?l[0-9]+)?[_$]?{.*}$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="10" val1="-1" val2="False" val3="True" val4="For IDs containing a string like &quot;ctl00_&quot;, leave only symbols after this string" val5="RegExp" val6=".*(ctl[0-9]+[-_$]+){.*}" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha ExtJS" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-gen&quot;" val5="RegExp" val6="^(.*-)?ext-gen" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-comp&quot;" val5="RegExp" val6="^(.*-)?ext-comp" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;extdd-&quot;" val5="Wildcard" val6="extdd-*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Remove digits from IDs like &quot;treepicker-1038&quot; or &quot;treepicker-1038-inputEl&quot;" val5="RegExp" val6="^{[A-Za-z-]+}-{\d\d\d\d+}{.*}$" val7="$1$3" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha Touch" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="19" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha Touch IDs" val5="RegExp" val6="^ext-{.*}-\d+$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="JavaServer Faces" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;_t14&quot;" val5="RegExp" val6="^{_t}{[0-9]+}$" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;j_id23&quot; or &quot;j_idt23&quot;" val5="RegExp" val6="^{j_idt?}{[0-9]+}$" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;frm:menuLinks:0:link&quot;" val5="RegExp" val6="(.+):{[^0-9]+}$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;frm:menuLinks:3:link&quot;" val5="RegExp" val6="(.+):(.*)" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Google Web Toolkit" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="26" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;gwt-uid-370_runButton&quot;" val5="RegExp" val6="^(gwt-uid-[0-9]+)(_{.*})?$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="26" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha GXT IDs" val5="RegExp" val6="^(x-((widget)|(auto))-.*[0-9]+)([-_]{.*})?$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Custom" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_ObjIdentification_IdentificationAttribute" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="ID" />
+				<row val0="Name" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_RecordTestedHost" type="5" value="" />
+		<setting name="OpenApps_Web_TestedHost" type="5" value="" />
+		<setting name="OpenApps_Web_TreeModel" type="6" rowIndex="3" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="DOM" />
+				<row val0="Tag" />
+				<row val0="Hybrid" />
+				<row val0="Tree" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_URLProcessing_DynamicParameters" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="*" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_URLProcessing_IgnoreDynamicURLParameters" type="1" value="True" />
+		<setting name="OpenApps_Web_UseCSSPixels" type="1" value="True" />
+		<setting name="OpenApps_Web_UseLegacyWebTestingFeatures" type="1" value="False" />
+		<setting name="OpenApps_Web_VirtBrowsers_AdvancedMode" type="1" value="False" />
+		<setting name="OpenApps_Web_VirtBrowsers_AutoLaunchWhenRecording" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="None" />
+				<row val0="Apple iPad" />
+				<row val0="Apple iPhone 3" />
+				<row val0="Apple iPhone 5" />
+				<row val0="Blackberry Z10" />
+				<row val0="Nokia Lumia 800" />
+				<row val0="Samsung Galaxy Mini" />
+				<row val0="Samsung Galaxy S3" />
+				<row val0="Samsung Nexus 10" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_VirtBrowsers_List" type="6" rowIndex="7" colIndex="9">
+			<columns>
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="4" enabled="True" />
+			</columns>
+			<data>
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Apple iPad" val6="Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25" val7="768" val8="1024" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Apple iPhone 3" val6="Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16" val7="320" val8="480" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Apple iPhone 5" val6="Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25" val7="320" val8="568" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Blackberry Z10" val6="Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.9.2372 Mobile Safari/537.10+" val7="342" val8="570" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Nokia Lumia 800" val6="Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800)" val7="480" val8="800" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Samsung Galaxy Mini" val6="Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; GT-S5570I Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" val7="240" val8="320" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Samsung Galaxy S3" val6="Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" val7="360" val8="640" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Samsung Nexus 10" val6="Mozilla/5.0 (Linux; Android 4.2.1; Nexus 10 Build/JOP40D) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.37 Safari/537.22" val7="800" val8="1280" val9="1" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_WebPageLoadingTimeout" type="2" value="60000" />
+		<setting name="OpenApps_WPF_CompositeControls" type="6" rowIndex="2" colIndex="0">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="True" val1="ToggleButton" val2="" />
+				<row val0="True" val1="MessageWindow" val2="" />
+				<row val0="True" val1="SplitDropDownButton" val2="" />
+			</data>
+		</setting>
+		<setting name="OpenApps_WPF_ItemsTemplates" type="6" rowIndex="-1" colIndex="2">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="OpenApps_WPF_SimplifiedWPFObjectTree" type="1" value="True" />
+		<setting name="PerformanceCounters_List" type="6" rowIndex="-1" colIndex="5">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="1" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="Playback_ErrHandling_OnError" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Continue running" val1="0" />
+				<row val0="Stop project" val1="1" />
+				<row val0="Stop test item" val1="2" />
+			</data>
+		</setting>
+		<setting name="Playback_ErrHandling_OnObjectRecognitionError" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Continue running" val1="0" />
+				<row val0="Stop project" val1="1" />
+				<row val0="Stop test item" val1="2" />
+			</data>
+		</setting>
+		<setting name="Playback_ErrHandling_OnWarning" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Continue running" val1="0" />
+				<row val0="Stop project" val1="1" />
+				<row val0="Stop test item" val1="2" />
+			</data>
+		</setting>
+		<setting name="Playback_ErrHandling_ShowErrorDialog" type="1" value="False" />
+		<setting name="Playback_Log_AutosaveInterval" type="2" value="0" />
+		<setting name="Playback_Log_EventCount" type="2" value="0" />
+		<setting name="Playback_Log_PostImageOnError" type="1" value="True" />
+		<setting name="Playback_ObjectSearchStrategy" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Depth-first" />
+				<row val0="Breadth-first" />
+			</data>
+		</setting>
+		<setting name="Playback_OverlappingWindow_IgnoreOverlappingWindow" type="1" value="False" />
+		<setting name="Playback_Runtime_AutoWaitTimeout" type="2" value="50000" />
+		<setting name="Playback_Runtime_DelayBetweenEvents" type="2" value="200" />
+		<setting name="Playback_Runtime_DisableMouse" type="1" value="False" />
+		<setting name="Playback_Runtime_MinimizeBeforePlayback" type="1" value="False" />
+		<setting name="Playback_Runtime_UseCaseSensitiveParameters" type="1" value="False" />
+		<setting name="Playback_StopOnError" type="1" value="False" />
+		<setting name="Playback_StopOnObjectRecognitionError" type="1" value="False" />
+		<setting name="Playback_StopOnWarning" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_ClickOnFocusedControl" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_IgnoreUnexpectedWindow" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_PressEnter" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_PressEsc" type="1" value="True" />
+		<setting name="Playback_UnexpectedWndHandling_SendCloseCommand" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_StopExecution" type="1" value="False" />
+		<setting name="Recording_TestedAppsOnly" type="1" value="False" />
+		<setting name="RecreateActiveXObjects" type="1" value="False" />
+		<setting name="RunStandaloneServer" type="1" value="False" />
+		<setting name="StandaloneServerAdditionalOptions" type="5" value="" />
+		<setting name="StandaloneServerPort" type="2" value="4444" />
+		<setting name="TextRecognizer_AcceptedProcesses" type="6" rowIndex="-1" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="TextRecognizer_AcceptedWindows" type="6" rowIndex="-1" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="Visualizer_AutoUpdate" type="1" value="False" />
+		<setting name="Visualizer_AutoUpdateMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Update existing frames and capture new frames, if needed" />
+				<row val0="Update existing frames only" />
+			</data>
+		</setting>
+		<setting name="Visualizer_BindToSCC" type="1" value="False" />
+		<setting name="Visualizer_CaptureStyle" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Top-level parent" />
+				<row val0="Desktop" />
+			</data>
+		</setting>
+		<setting name="Visualizer_DeleteAll" type="1" value="True" />
+		<setting name="Visualizer_PlaybackCaptureProperties" type="1" value="False" />
+		<setting name="Visualizer_PlaybackCollectMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Off" />
+				<row val0="Capture images" />
+			</data>
+		</setting>
+		<setting name="Visualizer_RecordingCaptureProperties" type="1" value="False" />
+		<setting name="Visualizer_RecordingCollectMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Off" />
+				<row val0="Capture images" />
+			</data>
+		</setting>
+		<setting name="Visualizer_UseDuringPlayback" type="1" value="True" />
+		<setting name="Visualizer_UseDuringRecording" type="1" value="True" />
+		<setting name="ZFJ_Cycle" type="5" value="" />
+		<setting name="ZFJ_ExecutionStatus_Failed" type="5" value="FAIL" />
+		<setting name="ZFJ_ExecutionStatus_Passed" type="5" value="PASS" />
+		<setting name="ZFJ_ExecutionStatus_Wip" type="5" value="WIP" />
+		<setting name="ZFJ_ExecutionStepStatus_Unexecuted" type="5" value="UNEXECUTED" />
+		<setting name="ZFJ_InstanceType" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Zephyr for Jira Server" />
+				<row val0="Zephyr for Jira Cloud" />
+			</data>
+		</setting>
+		<setting name="ZFJ_JiraLogin" type="5" value="" />
+		<setting name="ZFJ_JiraPassword" type="5" value="" />
+		<setting name="ZFJ_JiraProject" type="5" value="" />
+		<setting name="ZFJ_JiraUrl" type="5" value="" />
+		<setting name="ZFJ_TestIssueTypeName" type="5" value="Test" />
+		<setting name="ZFJ_Version" type="5" value="" />
+		<setting name="ZFJ_ZephyrAccessKey" type="5" value="" />
+		<setting name="ZFJ_ZephyrSecretKey" type="5" value="" />
+	</settings>
+	<analysis key="{20CF3AA2-C5BA-4239-84E2-F07BBC4BC2C4}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<issueTracking key="{DBCCC6EE-56C2-44A4-949D-A37CC70A71DA}">
+		<Templates>
+			<Template Id="{1EB17ADF-E4EB-404D-97DC-AD758A1E8C1D}" ConnectionId="{00000000-0000-0000-0000-000000000000}" Description="This template is used by TestComplete&apos;s Log subsystem to post test results to an issue-tracking system. You can also use it at your desire." Name="CreateWorkItem" IsSystem="True" ItemTypeName="" ProjectName="" IsEditing="False" ItemId="">
+				<Fields>
+					<Field ItemId="{6D1530CF-E36D-46D3-8363-A814F596337E}" AliasIsRequired="True" DBFieldNameIsRequired="False" Value="" DBFieldName="" Alias="Subject" />
+					<Field ItemId="{E45E435C-C8D1-4F56-9612-A06DE273FC57}" AliasIsRequired="True" DBFieldNameIsRequired="False" Value="" DBFieldName="" Alias="Description" />
+				</Fields>
+			</Template>
+		</Templates>
+	</issueTracking>
+</Root>

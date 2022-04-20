@@ -1,0 +1,8 @@
+#Looking for a Log file 
+#PathOfLog="/var/log/finansoft/FIX/OMSSupId6/FIX.4.2-CROESUS6-PROXY.messages.current.log"
+#echo $PathOfLog > /var/log/finansoft/FIX/OMSSupId6/FIX.4.2-CROESUS6-PROXY.messages.current.log
+cd /var/log/finansoft/FIX/OMSSupId6/
+
+grep -c "50=REAGAR" FIX.4.2-CROESUS6-PROXY.messages.current.log > /home/crweb/Test_CR1571/SearchResultsTCVE8207.txt
+
+truncate -s 0 FIX.4.2-CROESUS6-PROXY.messages.current.log

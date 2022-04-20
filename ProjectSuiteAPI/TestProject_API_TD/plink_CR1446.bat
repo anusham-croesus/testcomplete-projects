@@ -1,0 +1,1 @@
+echo y | plink -ssh root@qa40-bnc-naviplan -pw qa -m ssh_script_CR1446.txt > ssh_script_output_CR1446.txt

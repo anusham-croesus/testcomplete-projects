@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{13E6EAC0-16EF-45CA-8A97-EBA04BEFF11A}">
+	<children>
+		<child name="CroesusBuild" key="{CA86913E-4B84-4009-B5EB-5266FAC2CBF3}" path="CroesusBuild\CroesusBuild.mds" />
+	</children>
+	<testItems key="{86F6A177-7BDD-4826-9081-F61BB26139AF}">
+		<children>
+			<testItem key="{CA86913E-4B84-4009-B5EB-5266FAC2CBF3}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{D886C254-2017-4C29-A8E6-C3C9162F23D8}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="BNC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{7254900A-B28D-4B2E-B029-A13860F468DB}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

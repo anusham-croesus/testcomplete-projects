@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE traData SYSTEM "/usr/lib/finansoft/loader/dtd/trans_data.dtd">
+<!-- 04 ACCOUNTS WITH TRANSACTIONS EXAMPLE  -->
+<traData xmlns="TRA_NS">
+    <header timeStamp="20100125" dest="REAGAR" noElem="5"/>
+	<accTra accId="800024-RE" noTra="0000001">	
+		<tra total="-10008.16" note="Oblig ALCAN remplace NY Tel99999999999999999999999999999999999999999999999999999999999999999999999999999">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20090817" settled="20090819"/>
+			<traSec qty="87000">
+				<sec id="978805">
+					<priceInfo curr="CAD">
+						<price>99.582000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts accInt="-49.46" totFees="-0.50" totComm="-99.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>		
+	</accTra>
+	<accTra accId="800211-RE" noTra="0000001">	
+		<tra total="-10008.16" note="Oblig ALCAN remplace NY Tel">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20090817" settled="20090819"/>
+			<traSec qty="10000">
+				<sec id="978805">
+					<priceInfo curr="CAD">
+						<price>99.582000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts accInt="-49.46" totFees="-0.50" totComm="-99.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>		
+	</accTra>
+	<accTra accId="800217-SF" noTra="0000001">	
+		<tra total="-10008.16" note="Oblig ALCAN remplace NY Tel">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20090817" settled="20090819"/>
+			<traSec qty="87000">
+				<sec id="978805">
+					<priceInfo curr="CAD">
+						<price>99.582000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts accInt="-49.46" totFees="-0.50" totComm="-99.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>		
+	</accTra>
+	<accTra accId="800201NA" noTra="0000001">
+		<tra total="0.00" note="TRF-in JC Grp99999999999999999999999999999999999999999999999999999999999999999999">
+			<traType type="5" typeStr="TRF"/>
+			<traDates trade="20090401" settled="20090401"/>
+			<traSec qty="333">
+				<sec id="359131">
+					<priceInfo curr="CAD">
+						<price>17.250000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="0" isComm="0"/>
+		</tra>
+	</accTra>
+	<accTra accId="800003NA" noTra="0000001">
+		<tra total="0.00" note="TRF-in JC Grp99999999999999999999999999999999999999999999999999999999999999999999">
+			<traType type="5" typeStr="TRF"/>
+			<traDates trade="20090401" settled="20090401"/>
+			<traSec qty="333">
+				<sec id="359131">
+					<priceInfo curr="CAD">
+						<price>17.250000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="0" isComm="0"/>
+		</tra>
+	</accTra>
+</traData>

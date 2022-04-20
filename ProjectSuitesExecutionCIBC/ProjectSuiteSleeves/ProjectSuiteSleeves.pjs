@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{1B6954D8-E675-45BF-A68A-C0FD819AD58E}">
+	<children>
+		<child name="Sleeves" key="{A80EBF0F-705B-4689-A53C-06D08FB73867}" path="Sleeves\Sleeves.mds" />
+	</children>
+	<testItems key="{776586BE-CE3E-43D2-9147-701EE53D37A2}">
+		<children>
+			<testItem key="{A80EBF0F-705B-4689-A53C-06D08FB73867}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{721B1F35-454C-4084-B5A4-7540343D76C5}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="CIBC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{EFC85494-5F7F-4639-A9D8-CB2BA47FC0A0}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

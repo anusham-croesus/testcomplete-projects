@@ -1,0 +1,44 @@
+Determining Croesus Finansoft package list for run level 3... done.
+Stopping Task Services (.Net Core):   [  Ok  ]
+Stopping RCM Services (.Net Core):   [  Ok  ]
+Stopping Croesus Services (.Net Core):   [  Ok  ]
+Stopping CROESUS Report Server (ReportServer):   [  Ok  ]
+Stopping CROESUS Report Generator (ReportGenerator):   [  Ok  ]
+Stopping CROESUS OrderManagementServer (Mono):   [  Ok  ]
+Stopping CROESUS (CresusServer):   [  Ok  ]
+Stopping CROESUS CMFA Server (Mono):   [  Ok  ]
+Stopping CROESUS Chart Service (NodeJS):   [  Ok  ]
+Stopping CROESUS Chart Server (Mono):   [  Ok  ]
+Stopping CROESUS Agent Server (Mono):   [  Ok  ]
+Stopping CROESUS Framework Server (Mono):   [  Ok  ]
+Stopping Router (CTPRouter):   [  Ok  ]
+Sleeping 5 seconds... done.
+Starting Router (CTPRouter):   [  Ok  ]
+Starting CROESUS Framework Server (Mono):   [  Ok  ]
+Starting CROESUS Agent Server (Mono):   [  Ok  ]
+Starting CROESUS Chart Server (Mono):   [  Ok  ]
+Starting CROESUS Chart Service (NodeJS):   [  Ok  ]
+Starting CROESUS CMFA Server (Mono):   [  Ok  ]
+Starting CROESUS (CresusServer):   [  Ok  ]
+Starting CROESUS OrderManagementServer (Mono):   [  Ok  ]
+Starting CROESUS Report Generator (ReportGenerator):   [  Ok  ]
+Starting CROESUS Report Server (ReportServer):   [  Ok  ]
+Starting Croesus Services (.Net Core):   [  Ok  ]
+Starting RCM Services (.Net Core):   [  Ok  ]
+Starting Task Services (.Net Core):   [  Ok  ]
+Determining Croesus Finansoft package list for run level 3... done.
+cfctprouter               running
+cfframeworkserver         running
+cfagentserver             running
+cfchartserver             running
+cfchartservice            running
+cfcmfaserver              running
+cfcroesus                 running
+cfordermanagementserver   not running (crashed)
+cfreportgenerator         running
+cfreportserver            running
+cfcroesusservices         running
+cfrcmservices             running
+cftaskservices            running
+
+

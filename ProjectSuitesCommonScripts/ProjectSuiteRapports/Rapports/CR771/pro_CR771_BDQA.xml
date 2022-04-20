@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE proData SYSTEM "/usr/lib/finansoft/loader/dtd/profile_data.dtd">
+<proData xmlns="PRO_NS">
+	<header timeStamp="20000101" dest="UNI" noElem="3"/>
+	<cli xmlns="CLI_NS" id="800049" rep="AC42" branch="AC"/>
+    <acc xmlns="ACC_NS" accId="800049NA" accRep="AC42">
+        <accInfo accName="ARVIS ARMAND" curr="CAD">
+            <accType key="1" value="A"/>
+			<accType key="2" value="CU-C315"/>
+			<accType key="ASC_PLAN" value="CU-C315"/>
+		</accInfo>
+	</acc>
+	<acc xmlns="ACC_NS" accId="800049OB" accRep="AC42">
+        <accInfo accName="ARVIS ARMAND" curr="USD">
+            <accType key="1" value="A"/>
+			<accType key="2" value="MU-C330"/>		
+			<accType key="ASC_PLAN" value="MU-C330"/>
+		</accInfo>
+    </acc>
+</proData>
+

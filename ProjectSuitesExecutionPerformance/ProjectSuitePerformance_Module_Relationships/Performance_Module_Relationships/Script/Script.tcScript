@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{F7724894-2C9E-4677-9E2B-0B691B5FA238}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{EB19F994-189A-4E38-8998-A9228377E492}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{68A68C7A-8E46-40E6-ABF8-C80F54A55956}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{0CFFBEF2-343D-4FD6-BD8B-3B33A5EC39C1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{F044D797-43C7-4074-816B-EF296579AFA6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{564CD809-B5BD-4FFA-803C-08293EB72B0F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{D3C2106A-7FA3-44F4-9D74-055BF583F93B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{4D96C6CF-4ED7-46AE-BF5B-5261C5542D59}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{3E7AF246-EB5E-436B-B070-8D40FED1FBD8}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{BEE53927-15FA-4BB2-9FBD-D482CCBED02A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{56BC6605-8A63-46B3-94BB-3ED732353F5B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{4FB61B2E-4AFE-4F78-B71D-EB76FA3FFD9F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{EBBC0225-5DCC-4CCC-BC29-A6444005C6D5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{2E20480A-BCEC-42F0-9593-FA0776879806}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{47B6B63D-239B-4C69-BAAC-EA66D99B66F8}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{6BE88919-2A21-4677-8420-7E97662B6993}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{912B8AEA-3746-4F8F-BC98-3C7164B6B14C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{8D5F3B46-4ACC-4BF0-89B4-F8D23A69BDFB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{22882C5C-8574-4ADB-BEB9-3A0C00051809}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+		</folder>
+		<child name="Performance_Rel_ClickModule" key="{46604183-F03B-4A4F-82F8-8310A7D86AFC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_ClickModule.sj" />
+		<child name="Performance_Rel_DeleteAccount_FromRelationships" key="{35152BFD-1030-494A-9DBC-6B846234F6FE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_DeleteAccount_FromRelationships.sj" />
+		<child name="Performance_Rel_Drap_FromAccounts" key="{8E165DCA-5F4D-4F10-AE24-110CE0535FE3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Drap_FromAccounts.sj" />
+		<child name="Performance_Rel_Drap_FromClients" key="{99CC96E9-E698-48BC-ADBA-E409ADC5A607}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Drap_FromClients.sj" />
+		<child name="Performance_Rel_Drap_FromTitres" key="{992AA5D2-3C85-4F38-BBDD-93F8D2582967}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Drap_FromTitres.sj" />
+		<child name="Performance_Rel_Drap_FromTransactions" key="{FAA6F767-6F1B-421E-B88A-936B3D72A045}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Drap_FromTransactions.sj" />
+		<child name="Performance_Rel_InfoBtn" key="{F9396624-3BD7-487E-9777-AF069B69DA36}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_InfoBtn.sj" />
+		<child name="Performance_Rel_JoinAccounts_To_Relationships" key="{A222C762-692B-4676-AD5D-D6546D0D8699}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_JoinAccounts_To_Relationships.sj" />
+		<child name="Performance_Rel_JoinClients_To_Relationships" key="{4D39EA53-1C51-4E47-BD62-3F159D7F0765}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_JoinClients_To_Relationships.sj" />
+		<child name="Performance_Rel_View_HierarchyPanel" key="{77379A56-D2B6-4CF8-ACF7-DDDAECB26287}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_View_HierarchyPanel.sj" />
+		<child name="Global_variables" key="{F4A4190A-6437-4ACD-84A4-30E93B6C94CF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="Performance_Rel_Add_NewRelationships" key="{4815565D-340D-45B3-9478-DC97C42D7CB0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Add_NewRelationships.sj" />
+		<child name="ExecutionLog" key="{ECB13A25-1F21-473D-A762-C68D3F83920A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\ExecutionLog.sj" />
+	</children>
+</Root>

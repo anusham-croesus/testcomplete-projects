@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{342AA317-C8C7-4232-8A60-069723AAFC67}" version="14.0">
+	<children>
+		<child name="Hosts" key="{EDDEB4D9-54EF-479D-ADDE-22D6E174DD05}" type="Hosts" typeId="{1478418C-D916-49E9-8E78-BF4561C164F9}" pluginName="Network Suite Core" path="Hosts.tcNetSuiteHosts" />
+		<child name="Jobs" key="{05CBAB8B-D277-45DA-934E-B3C6D9BC276F}" type="Jobs" typeId="{54BD767E-85A4-491D-A3B2-EC88685BF3C8}" pluginName="Network Suite Core" path="Jobs.tcNetSuiteJobs" />
+		<child name="SynchPoints" key="{6802BE4F-1226-47C9-A42D-066037D58F80}" type="SynchPoints" typeId="{0A9D19D7-1488-4023-B51C-2B5D64692E77}" pluginName="Network Suite Core" path="SynchPoints.tcNetSuiteSynchPoints" />
+	</children>
+	<variables key="{0E3E9CD8-F209-480A-9431-4FB3C3323F57}" />
+	<settings key="{BE9C5B62-87BB-4524-BA09-70164E540139}">
+		<settingsVersion value="14.81" />
+		<setting name="NetworkSuite_DeployMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Manual" />
+				<row val0="Automatic" />
+			</data>
+		</setting>
+		<setting name="NetworkSuite_Domain" type="5" value="" />
+		<setting name="NetworkSuite_Password" type="5" value="" />
+		<setting name="NetworkSuite_SharedPath" type="5" value="" />
+		<setting name="NetworkSuite_UserName" type="5" value="" />
+	</settings>
+</Root>

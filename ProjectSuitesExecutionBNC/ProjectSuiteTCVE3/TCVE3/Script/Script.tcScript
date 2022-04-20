@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Survol">
+			<folder name="Search_Manage">
+				<child name="Survol_Mod_MenuBar_SearchCriteriaSubmenuSearchManage" key="{F29B7634-142D-4DA8-9AF8-1F1EC270F2DD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_SearchCriteriaSubmenuSearchManage.sj" />
+				<child name="Survol_Mod_ToolBar_btnManageSearchCriteria" key="{A63D4936-5CAA-4A0C-86C1-B737A060CA07}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ToolBar_btnManageSearchCriteria.sj" />
+			</folder>
+			<folder name="Assign">
+				<child name="Survol_Mod_Details_Assign_Accounts" key="{5B77EBB9-29FF-4228-AD6C-9CB9ED22B2BC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Details_Assign_Accounts.sj" />
+				<child name="Survol_Mod_Details_Assign_Clients" key="{324994A8-3D8C-4D0D-871C-821FAE18CD3D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Details_Assign_Clients.sj" />
+				<child name="Survol_Mod_Details_Assign_Relationships" key="{1AD4B2C1-0FEE-4DF5-A86C-3FF1EBB7BCE3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Details_Assign_Relationships.sj" />
+			</folder>
+			<folder name="Financial_Instrument_Selector">
+				<folder name="Create_Sell_Order">
+					<child name="Survol_Mod_Toolbar_btnCreateSellOrder" key="{2EB41C6E-E94C-471A-9805-68BFFC787312}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Toolbar_btnCreateSellOrder.sj" />
+				</folder>
+				<folder name="Create_Buy_Order">
+					<child name="Survol_Mod_Toolbar_btnCreateBuyOrder" key="{A1A22EC6-1D98-4F24-98B5-1264D05C67C4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Toolbar_btnCreateBuyOrder.sj" />
+				</folder>
+			</folder>
+			<folder name="Under.Performance">
+				<child name="Survol_Mod_ContextualMenu_Functions_UnderPerfomance" key="{B2FD8382-FDFE-45D4-AF37-89E08A64F3E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ContextualMenu_Functions_UnderPerfomance.sj" />
+				<child name="Survol_Mod_MenuBar_UnderPerfomance" key="{A57C61CB-6411-414E-ADD1-7E67EB031FF3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_UnderPerfomance.sj" />
+				<child name="Survol_Mod_ModelsBar_UnderPerfomance" key="{7BDCDD8A-7C14-4125-AB88-06A16E11AB95}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ModelsBar_UnderPerfomance.sj" />
+			</folder>
+			<folder name="Bon_Calculator">
+				<child name="Survol_Mod_Calculator_Ctrl_Maj_O" key="{87E6CF77-E4B8-4D83-8F16-61FF42CD8856}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Calculator_Ctrl_Maj_O.sj" />
+				<child name="Survol_Mod_MenuBar_Tools_btnCalculator" key="{41171C18-286D-42D3-A14A-7DAECDF0D0D8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_Tools_btnCalculator.sj" />
+				<child name="Survol_Mod_Toolbar_btnBondCalculator" key="{868534C0-71D2-4ABC-9D35-B1A00764CB4A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Toolbar_btnBondCalculator.sj" />
+			</folder>
+			<folder name="Models_Reports">
+				<child name="Survol_Mod_MenuBar_ReportsModels" key="{ABE1DE6E-F6B6-469D-8D45-93A2AD949D10}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_ReportsModels.sj" />
+				<child name="Survol_Mod_ToolBar_btnReportsAndGraphs" key="{505A9F8C-AE66-4973-A7AE-A1BCC5DAC8AA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ToolBar_btnReportsAndGraphs.sj" />
+			</folder>
+			<folder name="Add_Model">
+				<child name="Survol_Mod_Add_ClickR" key="{C3936AB1-14D3-4237-9ACD-D6A6F812E3F4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Add_ClickR.sj" />
+				<child name="Survol_Mod_Add_Security_Ctrl_N" key="{DB552ADE-9312-4C87-A925-8CA4C085B075}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Add_Security_Ctrl_N.sj" />
+				<child name="Survol_Mod_MenuBar_EditAdd" key="{863D365F-E20B-4E1A-8A89-0815BD3EE4A0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_EditAdd.sj" />
+				<child name="Survol_Mod_ToolBar_btnAdd" key="{E8C2346A-595B-43B7-823A-12853D3830F5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ToolBar_btnAdd.sj" />
+			</folder>
+			<folder name="Restrictions">
+				<child name="Survol_Mod_MenuBar_EditFunctions_Restrictions" key="{BF54C4F8-F637-4234-A113-B1501F1931A9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_EditFunctions_Restrictions.sj" />
+				<child name="Survol_Mod_ModelsBar_Restrictions" key="{4CBA22E0-232B-4A46-BE79-CFC3D1D9E2BA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ModelsBar_Restrictions.sj" />
+				<child name="Survol_Mod_Restrictions_CombinedAccessMethods" key="{B787FFE3-31DD-4495-AF5D-EA42CFA6DC5B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Restrictions_CombinedAccessMethods.sj" />
+			</folder>
+			<folder name="Rebalance">
+				<child name="Survol_Mod_ModelsBar_Rebalance" key="{70D43E69-8E9B-4FCE-B3BC-85D7086497CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ModelsBar_Rebalance.sj" />
+			</folder>
+			<folder name="Search">
+				<child name="Survol_Mod_MenuBar_EditSearch" key="{5907768F-1E0A-4912-9850-8854AD24181B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_EditSearch.sj" />
+				<child name="Survol_Mod_Search_KeybordSearch" key="{35B0F262-AA6F-4B7C-9F1C-4ABD9A9ADEE1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Search_KeybordSearch.sj" />
+				<child name="Survol_Mod_ToolBar_btnSearch" key="{95C6B360-D049-4E82-9743-C6A5FEE9B6C0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ToolBar_btnSearch.sj" />
+			</folder>
+			<folder name="Info">
+				<child name="Survol_Mod_ContextualMenu_Edit" key="{29EDFD1F-4CC6-4C6F-9091-45FDBA8BFBB0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ContextualMenu_Edit.sj" />
+				<child name="Survol_Mod_ContextualMenu_Functions_Info" key="{2AF8A2D8-9249-4C73-92F9-5FBE8C3DC3BF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ContextualMenu_Functions_Info.sj" />
+				<child name="Survol_Mod_Info_Ctrl_E" key="{8A3CE57C-E22D-4E13-B3C7-7BA70C422A51}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Info_Ctrl_E.sj" />
+				<child name="Survol_Mod_MenuBar_EditFunctions_Info" key="{0887B1AA-8A53-4D1A-8F7A-E3DE146AC544}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_EditFunctions_Info.sj" />
+				<child name="Survol_Mod_ModelsBar_BtnInfo" key="{FCB55B8B-FCA0-4A67-A0E4-FAC41F334206}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ModelsBar_BtnInfo.sj" />
+				<child name="Survol_Mod_Info_CombinedAccessMethods" key="{C24387F2-B884-42F2-A799-77F666624BD2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Info_CombinedAccessMethods.sj" />
+			</folder>
+			<folder name="Print">
+				<child name="Survol_Mod_MenuBar_FilePrint" key="{371B3436-4E08-46D7-9415-723FC2050804}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_FilePrint.sj" />
+				<child name="Survol_Mod_Print_AltP" key="{199081CB-C5AB-44BD-AA8E-2DC32DA19BDC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Print_AltP.sj" />
+				<child name="Survol_Mod_Print_ClickR" key="{22F76FBF-4700-4C19-AF38-E1E398F6A4CB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Print_ClickR.sj" />
+				<child name="Survol_Modr_ToolBar_btnPrint" key="{CB86103B-9591-4994-BA58-B5BE79A32C51}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Modr_ToolBar_btnPrint.sj" />
+			</folder>
+			<folder name="Info(i)">
+				<child name="Survol_Mod_i_Ctrl_L" key="{79F5C8D5-8B53-4CB3-8476-F5D5BA33B11F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_i_Ctrl_L.sj" />
+				<child name="Survol_Mod_MenuBar_Edit_i_" key="{0B31F81B-7740-43BD-8941-26BC79B8C181}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_Edit_i_.sj" />
+				<child name="Survol_Mod_ToolBar_Btn_i_" key="{AE92F15E-1FE4-4DBA-98FF-2D5894A4E15B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ToolBar_Btn_i_.sj" />
+			</folder>
+			<folder name="Lock_Application">
+				<child name="Survol_Mod_MenuBar_FileLock_BtnOk_WithoutPSW" key="{12EC7233-1FB8-4E32-92E7-DCD79A39ED11}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_FileLock_BtnOk_WithoutPSW.sj" />
+				<child name="Survol_Mod_MenuBar_FileLock_BtnQuit" key="{9F936E13-E04B-43BF-A887-79B3B899C7A9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_FileLock_BtnQuit.sj" />
+				<child name="Survol_Mod_ToolBar_btnLockTheApplication_btnOk_withPSW" key="{480E3F07-96A6-4893-9FF0-E2FB19D541A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ToolBar_btnLockTheApplication_btnOk_withPSW.sj" />
+			</folder>
+			<folder name="Documents">
+				<child name="Survol_Mod_MenuBar_EditFunctions_Documents" key="{3B4A74A9-AA00-46EF-A104-AE0A848038EA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_EditFunctions_Documents.sj" />
+				<child name="Survol_Mod_ModelsBar_EditFunctions_Documents" key="{FE3C8BAB-1879-4405-88AF-51BC6F29B9EF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ModelsBar_EditFunctions_Documents.sj" />
+			</folder>
+			<folder name="Add_Search_Criterion">
+				<child name="Survol_Mod_MenuBar_SearchCriteriaSubmenuAddSearchCriterion" key="{90D15C26-A550-41C5-8CB3-E40C9CE5C10A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_SearchCriteriaSubmenuAddSearchCriterion.sj" />
+				<child name="Survol_Mod_Toolbar_BtnAddSearchCriterion" key="{D078A911-E909-40F5-9D84-A75DAE51CFFC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Toolbar_BtnAddSearchCriterion.sj" />
+			</folder>
+			<folder name="Close_Application">
+				<child name="Survol_Mod_AltF4" key="{79DBACC4-F498-4445-ACAE-0BAEDB1F7B7F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_AltF4.sj" />
+				<child name="Survol_Mod_AltQ" key="{8DCDEC8E-7DA4-4702-83EF-FB2C7E94D2B2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_AltQ.sj" />
+				<child name="Survol_Mod_Quitter" key="{B00D096D-DA86-4ABA-ABB1-ED714E78F495}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Quitter.sj" />
+				<child name="Survol_Mod_SysClose" key="{22A628F4-06A5-483C-B447-55731827074B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_SysClose.sj" />
+				<child name="Survol_Mod_X" key="{17011774-DDEB-4D59-B34E-B89238A29F2A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_X.sj" />
+			</folder>
+			<folder name="Agenda">
+				<child name="Survol_Mod_Agenda_Ctrl_Maj_L" key="{95F33EA3-B591-4B88-AB30-CDC7E5B1FF4E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Agenda_Ctrl_Maj_L.sj" />
+				<child name="Survol_Mod_MenuBar_ToolsAgenda" key="{19E17BEA-AC50-4F9F-8018-D001797E69B1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_ToolsAgenda.sj" />
+				<child name="Survol_Mod_ToolBar_btnAgenda" key="{8789958B-55FB-4FAE-9432-B36A38C364D9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ToolBar_btnAgenda.sj" />
+				<child name="Survol_Mod_Agenda_CombinedAccessMethods" key="{FBD44668-EC58-4540-A8EC-603261EA5C2C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Agenda_CombinedAccessMethods.sj" />
+			</folder>
+			<folder name="Archive_Documents">
+				<child name="Survol_Mod_ArchiveDoc_Ctrl_Maj_A" key="{60CF290D-BA60-45CF-A6FE-FE6579F9E92D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ArchiveDoc_Ctrl_Maj_A.sj" />
+				<child name="Survol_Mod_MenuBar_Tools_btnArchiveMyDocuments" key="{C3B3951C-815B-4EB9-8472-65408D230390}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_Tools_btnArchiveMyDocuments.sj" />
+				<child name="Survol_Mod_ToolBar_btnArchiveMyDocuments" key="{1670672F-0B8A-4FFC-A8E9-4C29C7F8B603}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ToolBar_btnArchiveMyDocuments.sj" />
+			</folder>
+			<folder name="Compose_Address">
+				<child name="Survol_Mod_Internet_ComposeAddress_CtrlO" key="{769A2BA4-883D-467C-A8F1-36926EE26B07}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Internet_ComposeAddress_CtrlO.sj" />
+				<child name="Survol_Mod_MenuBar_Tools_Internet_ComposeAddress" key="{F43F06C4-D9D4-484E-9833-647C95F51515}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_Tools_Internet_ComposeAddress.sj" />
+				<child name="Survol_Mod_ToolBar_BtnInternet_ComposeAddress" key="{A5E9E279-D77F-4C11-8441-C834B2744A82}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ToolBar_BtnInternet_ComposeAddress.sj" />
+			</folder>
+			<folder name="Internet">
+				<child name="Survol_Mod_MenuBar_Tools_Internet" key="{B5C43215-0637-4AA6-8773-8366415A826E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MenuBar_Tools_Internet.sj" />
+				<child name="Survol_Mod_ToolBar_btnInternet" key="{8A92D3DC-803A-4109-9B45-F268CA933339}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_ToolBar_btnInternet.sj" />
+			</folder>
+			<folder name="MainWin">
+				<folder name="MainWin_Details">
+					<child name="Survol_Mod_MainWin_Details_Basket" key="{096E8FB9-89F2-4DDE-B3EE-8D3170BF0ED2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MainWin_Details_Basket.sj" />
+					<child name="Survol_Mod_MainWin_Details_FirmModel" key="{3B1AC4B6-2E39-4E79-8DE7-761FE50F2F96}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MainWin_Details_FirmModel.sj" />
+				</folder>
+				<folder name="MainWin_Grid_column_header">
+					<child name="Survol_Mod_Grid_column_header" key="{9733DA83-C36E-4882-A225-D191F177A1E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_Grid_column_header.sj" />
+				</folder>
+				<child name="Survol_Mod_MainWin_CombinedDetailsHeader" key="{CCA52A15-73CC-4654-8C91-DE9359F9EB70}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Survol_Mod_MainWin_CombinedDetailsHeader.sj" />
+			</folder>
+		</folder>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{B8554323-E1DC-4F74-9BBB-C13BA6058C99}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{E5640799-A8E4-42A1-B968-076D4844CB07}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{C2D032C4-C9E1-4A14-A747-59640CEE2770}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{430DA17A-FD96-4A17-906D-01E8184484E8}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{83C400D9-D32B-4A73-B4BD-A9187BED51FA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{BBE0AB09-074A-4730-B0AB-AF2DEC377D19}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{3D2691F4-F3D1-44B7-8476-2EE41565C1F7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="ExcelUtils" key="{51060F37-A608-4E0F-8267-82718C15B2DF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="CommonCheckpoints" key="{B071159D-EC6B-43CD-B6B6-06B48298F3AD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Agenda_Get_functions" key="{EB39FCCD-E94C-4AE8-A937-DC91FBE3B7FF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{742D94E9-23C3-4B04-B9A7-8CB02754C940}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{1B650C82-4DF4-4B5E-8908-2AA6C20B31AB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{467F36EE-0205-485C-AE73-187363ED83FF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{5CBF2D27-8ED4-4404-8DB1-2C0BCEBE0AD7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{4C1BC69E-DCAB-4FF8-BAD2-856892AC087C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{5FC35886-AB21-4ABC-8437-07A0F3C8F43B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{966CF9FF-49F2-4AB4-BB69-0863DA8F1B13}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{70F286A0-16DB-4D7E-B58B-03B231E2358C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{EB10BE7A-570D-4C06-B5AC-7F9FBB0EFB21}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="DBA" key="{606A9A30-7AFE-4FE4-AE9E-BE778B263638}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="PDFUtils" key="{5254D4F1-DF0D-4DF7-B5EF-151A4193A6D5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR1709">
+			<folder name="Environment_Preparation">
+				<folder name="Creation_of_Model">
+					<child name="Creation_Discounted_Sec" key="{1CE815D7-061E-44F9-9BB2-EC963828CF39}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Creation_Discounted_Sec.js" />
+					<child name="Creation_TEST_CALCUL" key="{E00D1AE2-8B0B-4F4D-83E7-D2FDC9BDF797}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Creation_TEST_CALCUL.js" />
+					<child name="Creation_Test_CP" key="{CFA3058F-CD6A-4FCD-B0E6-26EE05C9F451}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Creation_Test_CP.js" />
+					<child name="Creation_Test_Global" key="{3E61F957-D182-4521-81C5-FC8F66D3A723}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Creation_Test_Global.js" />
+				</folder>
+				<folder name="Creation_Models_3120">
+					<child name="Creation_Models_3120" key="{A657017B-D55B-4FCD-AAB9-382BB8088863}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Creation_Models_3120.sj" />
+				</folder>
+				<child name="UnassignRelationship_ModelCROES984" key="{FC93CA47-14B3-4C06-A322-17DDE23A49D9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\UnassignRelationship_ModelCROES984.js" />
+			</folder>
+			<folder name="Sprint1">
+				<folder name="MOD2-21">
+					<child name="CR1709_2251_Check_Adding_Columns" key="{86D428D8-7D2C-45D9-B72A-B14BF0A3FC80}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2251_Check_Adding_Columns.js" />
+					<child name="CR1709_2251_Check_Adding_Columns_KEYNEJ" key="{FA3A3ECD-D24A-4EEC-9A96-17CDB252B839}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2251_Check_Adding_Columns_KEYNEJ.js" />
+					<child name="CR1709_2307_Check_GPColumn_ExistingPosition" key="{47A5A199-AD0A-459F-9F42-F4A5CB83968E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2307_Check_GPColumn_ExistingPosition.js" />
+					<child name="CR1709_2307_Check_GPColumn_ExistingPosition_TargetValue" key="{8119506B-2600-4A02-B8C7-6ABCBF3BB5E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2307_Check_GPColumn_ExistingPosition_TargetValue.js" />
+					<child name="CR1709_2324_Check_GPColumn_ClosingReducingPosition_Firm" key="{F7FF75EA-E572-4157-B927-771378C33A62}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2324_Check_GPColumn_ClosingReducingPosition_Firm.js" />
+					<child name="CR1709_2366_Check_GP_Recalculation" key="{9D3A402C-2483-45EB-89AE-F45922C7C0F7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2366_Check_GP_Recalculation.js" />
+					<child name="CR1709_2452_Check_GPColumn_ClosingReducingPosition_CP" key="{91C4BCDD-F962-4452-849D-FA259CA60183}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2452_Check_GPColumn_ClosingReducingPosition_CP.js" />
+					<child name="CR1709_2511_Check_GP_Recalculation_QuantityModification" key="{110C3F92-4885-422D-863F-4249C467E9C6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2511_Check_GP_Recalculation_QuantityModification.js" />
+					<child name="CR1709_2523_Check_GPColumn_US" key="{4FFE567C-F5E7-41E8-AD6F-6F574DD77F98}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2523_Check_GPColumn_US.js" />
+					<child name="CR1709_2594_CheckCalculGP" key="{607A1D1F-6C4D-4830-82A9-F032F6AC1248}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2594_CheckCalculGP.js" />
+					<child name="CR1709_2892_GainsLosses_RegisteredAccounts" key="{71AC17DE-635A-4C96-8D48-055D78CE5FA8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2892_GainsLosses_RegisteredAccounts.js" />
+					<child name="CR1709_3118_Pref_Addition" key="{3850E072-CD5C-4823-A4FC-138F2EF13823}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3118_Pref_Addition.js" />
+					<child name="CR1709_3537_Check_GPColumn_During_PriceModification" key="{F339EF22-980E-47CC-9D5C-42F09E8614DD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3537_Check_GPColumn_During_PriceModification.js" />
+					<child name="CR1709_2512_Check_GP_Recalculation_DuringAddPosition" key="{2CE27145-7353-43DD-AC63-055D26297253}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2512_Check_GP_Recalculation_DuringAddPosition.js" />
+					<child name="CR1709_4528_Check_GPColumn_Basket" key="{B7BEF8B4-B364-4BE4-A152-76BF680BF574}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_4528_Check_GPColumn_Basket.sj" />
+				</folder>
+				<folder name="MOD2-24">
+					<child name="CR1709_2166_Edit_Price_CP_Model" key="{9ACE1B74-77BF-41F3-AB42-002493E94375}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2166_Edit_Price_CP_Model.sj" />
+					<child name="CR1709_2209_Edit_Price_UMA_Model1" key="{4B13C74E-8F67-4974-8BDA-5F0DA0E49FBA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2209_Edit_Price_UMA_Model1.js" />
+					<child name="CR1709_2209_Edit_Price_UMA_Model2" key="{2EBA81B7-00FD-4CCA-A9B8-2608F778FC5C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2209_Edit_Price_UMA_Model2.js" />
+					<child name="CR1709_2210_Edit_Price_Ambassadeur_Model" key="{56840DC1-A83A-436C-8B78-F0CE093A95CE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2210_Edit_Price_Ambassadeur_Model.js" />
+					<child name="CR1709_2218_Edit_Price_CP_Model" key="{ED77C24E-523A-4110-B533-23C3233901CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2218_Edit_Price_CP_Model.js" />
+					<child name="CR1709_2219_Edit_Price_Model_Firm" key="{E8ACE5D2-9702-4571-968B-AAABAF327F1B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2219_Edit_Price_Model_Firm.js" />
+					<child name="CR1709_2219_Edit_Price_Model_Firm_Manual" key="{1745F161-05CD-4E5A-B78B-E31A347D2C98}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2219_Edit_Price_Model_Firm_Manual.js" />
+					<child name="CR1709_2219_Edit_Price_Model_Firm_SelectedModel" key="{6AF0640F-02CC-4234-8C95-ABB722EAB176}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2219_Edit_Price_Model_Firm_SelectedModel.js" />
+					<child name="CR1709_3309_Edit_Price_CP_Model_Panier" key="{F0FAA052-FD3E-4D9B-889B-290CCF31EB69}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3309_Edit_Price_CP_Model_Panier.js" />
+				</folder>
+			</folder>
+			<folder name="Sprint2">
+				<folder name="MOD2-108">
+					<folder name="Regression rebalancing modele_sousModele">
+						<child name="CR1709_3120_Option1_Error_Message_Cas1" key="{7B865C51-791D-42A0-A8D4-C0E15C81D82D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas1.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas10" key="{B416A4B2-8691-4F70-A738-12C3CE56E421}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas10.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas11" key="{588BD755-DCC8-428B-BE42-F95FC28A26A0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas11.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas12" key="{8D18B152-D378-4AEC-97C0-74964A02E7BD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas12.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas13" key="{653B15EE-A070-4462-9635-0C5C86C8EB71}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas13.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas14" key="{98FF795D-3616-476F-A609-479EF10137A8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas14.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas15" key="{9F455078-2A24-4402-B4DD-5DBCFBB18C9E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas15.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas16" key="{A5F24BD3-7BCF-4FAD-8294-900D4BA4AB12}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas16.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas2" key="{1C8B353A-CE3B-42C4-B3F4-FD6C9BAB0AAE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas2.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas3" key="{1FF49C2E-3B08-444E-8E9C-CEDB66219A46}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas3.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas4" key="{996DAE29-EBA1-49FA-9017-7B06A7205AE9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas4.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas5" key="{DD07C125-4BCB-41D8-A9E1-6E68555B70E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas5.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas6" key="{DF0A4D29-5C7B-4401-9D50-8FD5C6F984B2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas6.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas7" key="{50EA4779-65F9-4A66-8540-E9664E1B01F0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas7.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas8" key="{5508E5A8-7033-45AA-916B-7AE837523A1A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas8.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas9" key="{B07C79CF-6DAC-40C6-8688-D546EA8B2B78}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3120_Option1_Error_Message_Cas9.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas1" key="{C4889D2A-C432-48AE-A60F-72721F8C74B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas2" key="{8489A995-F6A0-4B90-B507-D55B7FEC7313}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas3" key="{F53FAEFC-0FB0-429D-9B23-8D94086F55A5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas3.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas4" key="{FDD42CF1-EA92-48DA-9121-708305834A2B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas4.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas5_1" key="{62F76CC5-E4CD-43F7-A7E9-F6C89A51B5CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas5_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas5_2" key="{E2C08AB9-256F-4992-9A7B-0CD119B84324}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas5_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas6_1" key="{44397A05-EC19-4EAA-A25D-BE7FF3F5AAE7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas6_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas6_2" key="{CDD473C4-B0E2-418F-8228-9A19A7CE4B1A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas6_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas7" key="{F032A705-45A3-484F-8342-767590EF4A08}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas7.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas8" key="{2AF9DD32-4BEC-4947-8550-00C35CE28FC2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas8.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas10_1" key="{3821B47A-6142-4CD8-BB74-B607C90A7EA1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas10_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas10_2" key="{0FBEB96D-D8C3-4FC4-9C8E-DDE5B779F109}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas10_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas11" key="{535C0209-6489-49B9-A39C-9CA1006CB834}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas11.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas9_1" key="{CB453D9B-D9B2-4E43-8260-73B368CA7822}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas9_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas9_2" key="{06DD7F3F-BB2F-454F-81F5-6C9679370015}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas9_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas12" key="{85D677F4-3946-47DF-A18B-BD15A14AD5CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas12.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas13_1" key="{64B346BB-68A3-4562-935D-9F9CDF891151}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas13_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas13_2" key="{D313D506-010F-4384-A265-A779E9A1BA33}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas13_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas14_1" key="{78C578D3-AAAF-4ADC-9E2A-38580F00C715}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas14_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas14_2" key="{A078F7FF-4203-4F96-933D-0A8ECA365DC0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas14_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas15" key="{4F1AD75C-1D56-4494-9DC4-EA517C92B323}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas15.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas16" key="{00190B0D-EF74-4026-9BF1-1569BBAD9F70}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3152_Option2_Error_Message_Cas16.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas1" key="{93F5C179-4007-42E0-947D-26678BA90B96}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas1.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas10_1" key="{4000AC0F-68CD-43A6-9678-E99573D66B85}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas10_1.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas10_2" key="{28041AD4-C8ED-45D8-BAF8-3904B768AEEE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas10_2.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas11" key="{072874E6-04AE-45A9-A7F5-EAD2B6D5B24B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas11.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas12" key="{A94B1247-D227-433C-A776-95BF23B21760}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas12.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas13" key="{F1AE2E1F-C550-46E3-81A5-42191E1093B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas13.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas14" key="{0851814D-9946-4820-BB39-8C25E0DE0803}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas14.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas15" key="{0E0123C3-50CF-4C60-8AC5-200CBF1BC575}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas15.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas16" key="{03FBED5B-83A6-4AF2-A660-1E1C8AF52AF3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas16.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas2" key="{9098813C-3453-4970-8A74-90E3733F28B0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas2.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas3" key="{E63E4CC1-9091-4B2C-B197-E63FF7D60EFF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas3.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas4" key="{E7A28781-C850-4562-AD47-D4C4E2308C7D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas4.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas5" key="{769980BA-5E3E-444F-B680-987993DE0BEC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas5.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas6" key="{BDF34C17-9C4E-428C-A139-DFFEB516D3AA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas6.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas7" key="{3B736544-5806-4AB5-B659-C32654437875}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas7.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas8" key="{CCA41A7D-584D-4901-9B66-4E62D44A6599}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas8.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas9" key="{98F216D0-A087-402D-BDBF-F81B05FB93F5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3157_Option3_Error_Message_Cas9.sj" />
+					</folder>
+					<folder name="Validate_new_option_added_to_Step1_of_rebalancing">
+						<folder name="2559_2561_2562">
+							<child name="CR1709_2559_Option1Added_to_rebalancing_Assigned_Model" key="{A650FBB0-BC24-48DE-BC29-5555D4195FA0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2559_Option1Added_to_rebalancing_Assigned_Model.sj" />
+							<child name="Preparation_FOR_2559_2561_2562" key="{B67A968F-678F-47F2-B897-C6F3B5B2ACBA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Preparation_FOR_2559_2561_2562.sj" />
+							<child name="Restore_FOR_2559_2561_2562" key="{910472DF-0A2A-4C0C-964F-A2F5C35B0FAC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Restore_FOR_2559_2561_2562.sj" />
+							<child name="CR1709_2561_Option2Added_to_rebalancing_Parent_Model" key="{986C4D34-6687-4B4A-8CB1-4BE7D59D7120}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2561_Option2Added_to_rebalancing_Parent_Model.sj" />
+							<child name="CR1709_2562_Option3Added_to_rebalancing_Assigned_Model" key="{EA309122-2C74-4DBE-8EEC-0A4CF6578159}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2562_Option3Added_to_rebalancing_Assigned_Model.sj" />
+						</folder>
+						<child name="CR1709_2632_Option1_Held_Security_Under_SubModel_and_ParentModel" key="{2BB598C0-4CD3-47A2-B684-0C848E873EDB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2632_Option1_Held_Security_Under_SubModel_and_ParentModel.sj" />
+						<child name="CR1709_2638_Option2_Held_Security_Under_SubModel_and_ParentModel" key="{A4E67B90-D9B3-482A-87C9-9A0D41F86CD5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2638_Option2_Held_Security_Under_SubModel_and_ParentModel.sj" />
+						<child name="CR1709_2639_Option3_Held_Security_Under_SubModel_and_ParentModel" key="{E76A7A3E-F52F-43F3-A3B6-256B1F1A5ECE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2639_Option3_Held_Security_Under_SubModel_and_ParentModel.sj" />
+					</folder>
+					<child name="CR1709_2560_Check_labels" key="{28CB6C8D-A332-439B-9757-30F04781BB15}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2560_Check_labels.sj" />
+				</folder>
+				<folder name="MOD2-9">
+					<child name="CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_1" key="{B0E3B6FD-D4AB-4AE6-B94A-BC2B19A8EAA7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_1.sj" />
+					<child name="CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_2" key="{0BCA4000-59DA-4497-AAE7-2AFC34F940A7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_2.sj" />
+					<child name="CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_3" key="{79CB2945-9A13-4BBB-93AE-6587521EAF0D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_3.sj" />
+					<child name="CR1709_2660_Check_Controls_of_TabCashManagement" key="{DE9A2E93-3921-4E1B-9667-02481C376DC2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2660_Check_Controls_of_TabCashManagement.sj" />
+					<child name="CR1709_2661_Check_BD_of_TabCashManagement" key="{A8D79294-1FFB-4224-97AF-08B713674B19}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2661_Check_BD_of_TabCashManagement.sj" />
+					<child name="CR1709_2662_Check_New_Columns" key="{8866C995-079C-4DA7-BCBA-217A80FD6580}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2662_Check_New_Columns.sj" />
+					<child name="CR1709_2863_Check_of_TabCashManagement" key="{056BB0C4-6C85-4498-AE7A-5C376DA4D6C5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2863_Check_of_TabCashManagement.sj" />
+					<child name="CR1709_2864_Check_Date_Field_Obligatory" key="{70F66C3D-E586-4B8A-9C9A-1D789FA4C0DF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2864_Check_Date_Field_Obligatory.sj" />
+					<child name="CR1709_2865_Check_Amount_Field_Obligatory" key="{27D89C1D-84CB-459B-960F-74E71662F432}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2865_Check_Amount_Field_Obligatory.sj" />
+					<child name="CR1709_2866_Check_DateAmount_Fields_Obligatory" key="{94EF5572-5B64-4100-BADA-94DF69020648}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2866_Check_DateAmount_Fields_Obligatory.sj" />
+					<child name="CR1709_2868_Check_Frequency_Field" key="{EF7A97CE-3368-490F-87B8-A867A38BFCA9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2868_Check_Frequency_Field.sj" />
+					<child name="CR1709_2925_Check_New_Columns" key="{40BD11ED-9909-477B-8346-E785967B46B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2925_Check_New_Columns.sj" />
+				</folder>
+				<folder name="MOD2-121">
+					<child name="Preparation" key="{15E75D92-0A1C-454B-88B0-D6A43EF62EB8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Preparation.sj" />
+					<child name="Restore" key="{1A0ACCCF-7C65-4074-9BBF-3C3940A55D5B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Restore.sj" />
+					<child name="CR1709_2843_Check_rebalancing_with_withdrawal" key="{5E240177-0240-4262-B836-DAF18C929D35}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2843_Check_rebalancing_with_withdrawal.sj" />
+					<child name="CR1709_2962_Check_rebalancing_with_withdrawal" key="{36EB0B3E-129D-49E9-BA28-2E5FADBD4314}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2962_Check_rebalancing_with_withdrawal.sj" />
+					<child name="CR1709_4471_Check_rebalancing_with_withdrawal" key="{4B91377F-BD49-4BE8-AA46-76DB496330CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_4471_Check_rebalancing_with_withdrawal.sj" />
+				</folder>
+				<folder name="MOD2-163">
+					<child name="CR1709_2902_Create_SearchCriteria_BasedOnWithdrawals" key="{877DC015-F5AF-4B26-AD0E-A82741EDE5C7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2902_Create_SearchCriteria_BasedOnWithdrawals.sj" />
+					<child name="CR1709_3306_AdvancedCriterion_OnWithdrawal" key="{4ED5717B-DB72-4A7C-81C3-AC94A3EF2C25}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3306_AdvancedCriterion_OnWithdrawal.sj" />
+					<child name="CR1709_4534_OperatorsOfSearchCriteria_BasedOnWithdrawals" key="{67D26D0E-9946-488A-96DD-F47E899FA581}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_4534_OperatorsOfSearchCriteria_BasedOnWithdrawals.sj" />
+				</folder>
+				<child name="CR1709_2548_Check_RebalancingParameter_depends_on_rebalance_submodel" key="{A865C33E-9F0B-4163-B150-C3C2445E3729}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2548_Check_RebalancingParameter_depends_on_rebalance_submodel.sj" />
+			</folder>
+			<folder name="Sprint4">
+				<folder name="MOD2-226">
+					<child name="CR1709_2975_CheckCreatorOfTheOrder_inAccumulator" key="{AD23F488-A4E6-4933-8C56-9C448A975539}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2975_CheckCreatorOfTheOrder_inAccumulator.sj" />
+					<child name="CR1709_2976_CheckCreator_WhenMergingOrders" key="{1AFD3BDF-E444-43CD-841E-00B9C29CAF66}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_2976_CheckCreator_WhenMergingOrders.sj" />
+					<child name="CR1709_3002_CheckCreator_WhenMergingOrders" key="{909558F4-FED5-40ED-89A7-AE3A5E97DA00}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3002_CheckCreator_WhenMergingOrders.sj" />
+					<child name="CR1709_4631_CheckCreator_WhenMergingOrders" key="{79DE352B-B0B1-4EB4-9BA5-5B28351EEA42}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_4631_CheckCreator_WhenMergingOrders.sj" />
+				</folder>
+				<folder name="MOD2-360">
+					<child name="CR1709_3201_Check_AlternativeSecurity_Basket" key="{FA2C62E5-6112-45E8-9149-5AAB71B8F624}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3201_Check_AlternativeSecurity_Basket.sj" />
+					<child name="CR1709_3202_Check_AlternativeSecurity_Basket" key="{6174398C-0CBD-4E41-85FC-29DF8F00F006}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3202_Check_AlternativeSecurity_Basket.sj" />
+					<child name="CR1709_3546_Check_PurchaseOfRechange_ifBasketImpossibleToBuy" key="{44E1E489-B6A1-4DB4-B9D9-0FAF4FD104A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3546_Check_PurchaseOfRechange_ifBasketImpossibleToBuy.sj" />
+				</folder>
+				<folder name="MOD2-7">
+					<child name="CR1709_3012_Check_PresenceOfCheckBox_BusinessAccount" key="{37C5D187-4ECA-4382-BF03-A433770B263D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3012_Check_PresenceOfCheckBox_BusinessAccount.sj" />
+					<child name="CR1709_3162_Check_CompanyAccount_when_CreatingAaccount" key="{550CD178-875C-4DB9-BBC1-223CC418D22D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3162_Check_CompanyAccount_when_CreatingAaccount.sj" />
+					<child name="CR1709_3164_Realancing_CriterionOnBusinessAccount" key="{3FE710B3-C4D5-4CB0-93E2-0B22AB259984}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3164_Realancing_CriterionOnBusinessAccount.sj" />
+				</folder>
+				<folder name="MOD2-868">
+					<child name="CR1709_3610_Check_AdditionOfSubstitution_Basket" key="{DE107CB1-4BE0-4D68-A1E6-F5E3FE408AA0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3610_Check_AdditionOfSubstitution_Basket.sj" />
+				</folder>
+				<folder name="MOD2-Validate intraday functionality for a specific branch">
+					<child name="CR1709_3026_Check_Activation_Intraday_for_SpecificBranch" key="{1778FD98-0778-4F86-8AE2-30DBF4BFFE5F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3026_Check_Activation_Intraday_for_SpecificBranch.sj" />
+					<child name="CR1709_3028_Check_Intraday_Functionality_fo_SpecificBranch" key="{13FDE8C9-4D93-45FB-9E5D-2AD72CAAC1C2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3028_Check_Intraday_Functionality_fo_SpecificBranch.sj" />
+					<child name="CR1709_4657_Check_Activation_intraday_Functionality3" key="{4CA4A4C5-1880-451E-97EF-C1FE72F0B25F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_4657_Check_Activation_intraday_Functionality3.sj" />
+					<child name="Pref_Activation_For_GDO" key="{FE3C3862-0AD5-4870-B11B-57598078209C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Pref_Activation_For_GDO.sj" />
+				</folder>
+			</folder>
+			<folder name="Sprint5">
+				<folder name="MOD2-STORY-Substitution">
+					<child name="CR1709_3099_SpecifySameComplementSecurity_OnMultiplePositions" key="{DBCE31A8-059E-4C50-A14E-2681D8EC15B9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3099_SpecifySameComplementSecurity_OnMultiplePositions.sj" />
+					<child name="CR1709_3103_ReplacementAndPrincipal_held_inPortfolio" key="{FBB2A85A-2C74-4BE3-BDFC-1AFCEE15B036}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3103_ReplacementAndPrincipal_held_inPortfolio.sj" />
+					<child name="CR1709_3104_OnlyReplacement_SecurityHeld_inPortfolio" key="{E7B64C2B-F3DE-483D-A43D-7293DDF538B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3104_OnlyReplacement_SecurityHeld_inPortfolio.sj" />
+					<child name="CR1709_3106_Validate_Rebalancing" key="{FFB6DD5E-A09F-4D23-BFCA-E713DE61F22A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3106_Validate_Rebalancing.sj" />
+					<child name="CR1709_3107_ValidateAdding_SubstitutionTypeBasket" key="{07D92D52-0D15-411B-9EDE-62BF836CB93A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3107_ValidateAdding_SubstitutionTypeBasket.sj" />
+					<child name="CR1709_3113_Check_Labels_SubstitutionTitle" key="{6B54C02E-5E36-45AE-81EA-411D647F309D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3113_Check_Labels_SubstitutionTitle.sj" />
+					<child name="CR1709_3115_UIValidation_User_NoAccesRights" key="{D4AA29AD-FC39-4048-BD9D-B059E2AB857D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3115_UIValidation_User_NoAccesRights.sj" />
+					<child name="CR1709_3183_Replacement_isNotHeld_in_Portfolio" key="{BE3E8744-09B1-4436-8F5B-5969293DAF5A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3183_Replacement_isNotHeld_in_Portfolio.sj" />
+					<child name="CR1709_3814_CheckRebalancing_withBlockedComplement" key="{EA659033-E12D-4009-810A-AE38A7C5EEF7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3814_CheckRebalancing_withBlockedComplement.sj" />
+					<child name="CR1709_3108_AlternativeSecurity_DefinedOn_LockedPosition" key="{6601FE58-E24E-4139-9D14-EDA2AA51CC9A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3108_AlternativeSecurity_DefinedOn_LockedPosition.sj" />
+					<child name="CR1709_3110_Validate_AlternativeSecurity_Creation_On_ReplacementSecurity" key="{FA86D2DE-F65E-48CB-AB9C-D137E142D22E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3110_Validate_AlternativeSecurity_Creation_On_ReplacementSecurity.sj" />
+					<child name="CR1709_3111_Validate_GeneratedOrders_if_AlternativeSecurity_Held_inPortfolio" key="{32B74384-6218-411D-B1A3-9541CF3B8DC9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3111_Validate_GeneratedOrders_if_AlternativeSecurity_Held_inPortfolio.sj" />
+					<child name="CR1709_3129_ValidateBuyOrderOnAlternativeSecurity" key="{25CB09CC-2A6B-40CE-8B65-D207BE91C507}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3129_ValidateBuyOrderOnAlternativeSecurity.sj" />
+					<child name="CR1709_3137_Validate_Rebalancing_if_AltSecurities_Defined_inSubModel" key="{161DACF9-8167-4CD3-BC0C-CBD8DEB520FB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3137_Validate_Rebalancing_if_AltSecurities_Defined_inSubModel.sj" />
+					<child name="CR1709_3138_ValidateFallBack_IfOwnedInAccount" key="{715D59B1-F97E-4ED1-B522-8DF5CAC4B75F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3138_ValidateFallBack_IfOwnedInAccount.sj" />
+					<child name="CR1709_3139_FallBackIs_A_ModelPosition" key="{B2C8D693-FDD0-43DB-B2AE-700663B57070}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3139_FallBackIs_A_ModelPosition.sj" />
+					<child name="CR1709_3273_Validate_Rebalancing_Replacement_With_Locked_Position" key="{530A4D5F-7471-4915-B11E-ABE42E1C375F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3273_Validate_Rebalancing_Replacement_With_Locked_Position.sj" />
+					<child name="CR1709_3548_PrincipalSecurityCannotBeAReplacementSecurity" key="{3D991893-00D6-4159-9698-91EA6239C1A6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3548_PrincipalSecurityCannotBeAReplacementSecurity.sj" />
+					<child name="CR1709_3318_ValidateOrdersOnSubstitute_if_Security_hasMinimumPurchase" key="{EC2C7A8C-ED99-43A4-B313-CB0E39880073}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3318_ValidateOrdersOnSubstitute_if_Security_hasMinimumPurchase.sj" />
+					<child name="CR1709_3544_Validate_Rebalancing_Replacement_With_Replacement_Position" key="{117800E0-5E72-4BEE-B355-E37ACDAC41EA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3544_Validate_Rebalancing_Replacement_With_Replacement_Position.sj" />
+					<child name="CR1709_4102_ValidateMinimumPurchaseWhenSubstitute_isNotHeld_inPortfolio" key="{7D25BFB6-D8C4-4A34-B491-18B858DE4C2E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_4102_ValidateMinimumPurchaseWhenSubstitute_isNotHeld_inPortfolio.sj" />
+				</folder>
+			</folder>
+			<folder name="Sprint7">
+				<child name="CR1709_3204_Release_AmountCash_in_CorrectAccounts" key="{7F601F00-4233-4D6E-B798-90E1EF6B91B0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3204_Release_AmountCash_in_CorrectAccounts.sj" />
+				<child name="CR1709_3549_ValidateNonRedeemableSecurityRebalancingAnd_CashManagement" key="{1E716A05-CEA1-4D41-A10A-1E702F0ED894}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3549_ValidateNonRedeemableSecurityRebalancingAnd_CashManagement.sj" />
+				<child name="CR1709_4688_Algorithm_FocusOn_Sale_of_FallBack_Securities" key="{AA5FA835-8D10-4368-A398-556CFC371A38}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_4688_Algorithm_FocusOn_Sale_of_FallBack_Securities.sj" />
+				<child name="CR1709_3308_Validate_that_sale_prioritizes_SellExcessCash" key="{70B1FD61-926D-4526-A541-FBFE8A1B393F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3308_Validate_that_sale_prioritizes_SellExcessCash.sj" />
+				<child name="CR1709_3580_Release_CashAmount_in_the_appropriateAccounts" key="{09E37CD7-4886-4A4B-A766-5E37FD74121A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1709_3580_Release_CashAmount_in_the_appropriateAccounts.sj" />
+			</folder>
+		</folder>
+		<folder name="Regression">
+			<child name="Regression_Model_AideContextuelle" key="{BE3A9525-2664-4221-B9B9-21B4CA0D1ED7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AideContextuelle.sj" />
+			<child name="Regression_Model_AjouterModeleParBouton" key="{14140E95-1B1A-49D2-98F7-FB766B1CBAA7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AjouterModeleParBouton.sj" />
+			<child name="Regression_Model_AjouterModeleParClicDroit" key="{BBC7ACD5-D9D7-4745-AB29-600B2E885056}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AjouterModeleParClicDroit.sj" />
+			<child name="Regression_Model_AjouterModeleParMenu" key="{AB1BCF6C-8AFF-43C1-9F5D-D49C7E670CB5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AjouterModeleParMenu.sj" />
+			<child name="Regression_Model_AjouterModeleParRaccourci" key="{207F91E4-2F04-4B77-99A9-77904A056A0A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AjouterModeleParRaccourci.sj" />
+			<child name="Regression_Model_AjouterObjectifPlacement" key="{13FFFDAC-4BC0-46B1-9E61-E5CBB0A8E6B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AjouterObjectifPlacement.sj" />
+			<child name="Regression_Model_AjouterRestriction" key="{51532179-47BC-46CB-92A6-6437F8EB0C6E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AjouterRestriction.sj" />
+			<child name="Regression_Model_AssocierClient" key="{E9F94DF0-EF65-4903-A1BC-BC1A4C16EE78}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AssocierClient.sj" />
+			<child name="Regression_Model_AssocierCompte" key="{E81E63E1-019C-4C59-ADAF-80D3C0DCC597}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AssocierCompte.sj" />
+			<child name="Regression_Model_AssocierRelation" key="{C3BBB84F-0657-4143-AF2D-08F9DB4A2F2C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AssocierRelation.sj" />
+			<child name="Regression_Model_AssocierRelationDejaAssociee" key="{58EE44BC-DEF7-479D-BBAF-B7886CC4B22A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_AssocierRelationDejaAssociee.sj" />
+			<child name="Regression_Model_ChainerCompteAPartirDeModele" key="{B4DD012D-8517-44BF-83DA-FF18CF94D6B3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerCompteAPartirDeModele.sj" />
+			<child name="Regression_Model_ChainerModeleAutres" key="{754D2686-01F7-41EC-B7FA-112209E2D0DC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModeleAutres.sj" />
+			<child name="Regression_Model_ChainerModeleClient" key="{535DDEE9-60F6-4CC0-BD91-04D92CD00A27}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModeleClient.sj" />
+			<child name="Regression_Model_ChainerModeleClient_Relation" key="{F2435F75-BB83-48E0-9698-839B56E9AAAA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModeleClient_Relation.sj" />
+			<child name="Regression_Model_ChainerModeleCompte" key="{1B71E1FF-11C7-4701-81A3-517474C8510D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModeleCompte.sj" />
+			<child name="Regression_Model_ChainerModeleCompte_DroitDacces" key="{ECFBF993-4545-4F4D-B868-DE60DFE2F0C2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModeleCompte_DroitDacces.sj" />
+			<child name="Regression_Model_ChainerModelePlusieursClients" key="{6CB0A2BD-F057-4DE8-9F0C-533358557DDC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModelePlusieursClients.sj" />
+			<child name="Regression_Model_ChainerModelePlusieursComptes" key="{6D4346C6-A180-4FDC-A6D5-0D8B7EC624E7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModelePlusieursComptes.sj" />
+			<child name="Regression_Model_ChainerModelePortefeuille" key="{172BEA3F-B8AD-4F96-8CF5-86976F4BDD89}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModelePortefeuille.sj" />
+			<child name="Regression_Model_ChainerModeleRelation" key="{41C1430B-852B-4349-B9FE-5F2F55DAF8B3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModeleRelation.sj" />
+			<child name="Regression_Model_ChainerModeleRelation_Client" key="{4702DD63-7632-4A66-864E-FDE5642F1888}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModeleRelation_Client.sj" />
+			<child name="Regression_Model_ChainerModules" key="{82EF02FD-57BA-451D-8470-C5FB2B6C248E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChainerModules.sj" />
+			<child name="Regression_Model_ChangerTriClicDroit" key="{9AD6F344-B8FC-49A5-AC63-3EAA877CB0BB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChangerTriClicDroit.sj" />
+			<child name="Regression_Model_ChangerTriColonnes" key="{20D7C94B-4613-40C6-8ECC-77D122EA4C89}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChangerTriColonnes.sj" />
+			<child name="Regression_Model_ChangerTriReequilibrage" key="{3580761F-C0EB-48AD-8DEF-9D0ECB0C31F4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ChangerTriReequilibrage.sj" />
+			<child name="Regression_Model_ClicDroitFonctions" key="{64CB4750-2167-4F23-A9BF-51A71750BF5D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ClicDroitFonctions.sj" />
+			<child name="Regression_Model_ClientDejaAssocie" key="{AE3F42C9-5CE4-4077-B66A-52BB50F4A2D7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ClientDejaAssocie.sj" />
+			<child name="Regression_Model_CompteDejaAssocie" key="{249E001A-6CC0-418C-B3D2-C98DC7EC8675}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_CompteDejaAssocie.sj" />
+			<child name="Regression_Model_DeplacerColonnes" key="{6BF8B71E-A6AD-44CA-B025-8A4AC4D87BA9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_DeplacerColonnes.sj" />
+			<child name="Regression_Model_EnleverClient" key="{9B2FCF42-1CFE-49FD-B60D-57E69228FB90}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_EnleverClient.sj" />
+			<child name="Regression_Model_EnleverColonne" key="{B44C0FCA-73CF-4EED-9A7C-210F2974A9B8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_EnleverColonne.sj" />
+			<child name="Regression_Model_EnleverCompte" key="{F3BB7C5D-785E-47C8-8961-A3B91B3B0D59}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_EnleverCompte.sj" />
+			<child name="Regression_Model_EnleverRelation" key="{0DD76200-189D-464A-BFF3-B3386219005C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_EnleverRelation.sj" />
+			<child name="Regression_Model_ExporterExcel" key="{CD9D642A-E135-41C2-86F8-91A8A4C39B6F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ExporterExcel.sj" />
+			<child name="Regression_Model_ExporterFichier" key="{0652AC5A-C314-4ABC-81D3-E6F35E410D40}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ExporterFichier.sj" />
+			<child name="Regression_Model_Imprimer" key="{B1F9BB1B-E605-4BD2-9EB6-1406FAC346EF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_Imprimer.sj" />
+			<child name="Regression_Model_MenuClicDroit" key="{E4999335-7D6D-42EE-8862-9216F902BB83}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_MenuClicDroit.sj" />
+			<child name="Regression_Model_MenuContext_Copier" key="{F6004985-4B8B-4E4D-9032-B55B020C09C2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_MenuContext_Copier.sj" />
+			<child name="Regression_Model_MenuContext_CopierAvecEntete" key="{DEADD104-0A35-4A8A-B811-232BEC02BE4B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_MenuContext_CopierAvecEntete.sj" />
+			<child name="Regression_Model_ModifierModeleParBouton" key="{D85CA068-9F7B-4520-B912-081B16072EDE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ModifierModeleParBouton.sj" />
+			<child name="Regression_Model_ModifierModeleParClicDroit" key="{FA25DE96-1F13-4955-BECC-FCFC227B15CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ModifierModeleParClicDroit.sj" />
+			<child name="Regression_Model_ModifierModeleParMenu" key="{56D57536-1E73-457D-9AEC-52B4BE11EF24}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ModifierModeleParMenu.sj" />
+			<child name="Regression_Model_ModifierModeleParRaccourci" key="{12883ADF-48EE-4665-B83C-9E77B15307C3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ModifierModeleParRaccourci.sj" />
+			<child name="Regression_Model_SupprimerModeleParBouton" key="{64D9E85B-9050-40AE-A46B-41E2E55CD81A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_SupprimerModeleParBouton.sj" />
+			<child name="Regression_Model_SupprimerModeleParClavier" key="{1FC310AA-0D46-4CC6-BC6C-F85B66986A1C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_SupprimerModeleParClavier.sj" />
+			<child name="Regression_Model_SupprimerModeleParClicDroit" key="{2A60CCDA-CF2D-4BC4-90AB-C15123DA11B1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_SupprimerModeleParClicDroit.sj" />
+			<child name="Regression_Model_SupprimerModeleParMenu" key="{E9226192-BBD4-424E-8784-1E23AFA5D7E2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_SupprimerModeleParMenu.sj" />
+			<child name="Regression_Model_TesterBoutonTousPortefeuille" key="{9A80E110-261A-42A4-B124-FE1A7F036023}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_TesterBoutonTousPortefeuille.sj" />
+			<child name="Regression_Model_ModifierOrdreProposeSurPanier" key="{17FA7289-7E0C-4065-A5B6-5FCE41A831F4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\Regression_Model_ModifierOrdreProposeSurPanier.sj" />
+		</folder>
+		<folder name="Anomalies">
+			<child name="BNC_1628_CrashAtstep4OfTheRebalancinWhenPriceTheReplacementTitleIsZero" key="{35C708C8-92E1-4A86-B98A-520A6FDBC862}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\BNC_1628_CrashAtstep4OfTheRebalancinWhenPriceTheReplacementTitleIsZero.sj" />
+			<child name="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupJEFFET" key="{B5347186-932B-4A33-AD87-16AF59AE3122}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupJEFFET.sj" />
+			<child name="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupKEYNEJ" key="{01B25430-23FF-40A9-867C-DAD05D3BB2DF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupKEYNEJ.sj" />
+			<child name="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupREAGAR" key="{8AFABE35-1116-4808-B583-2942AA712A74}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupREAGAR.sj" />
+			<child name="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupUNI00" key="{9807732A-FBBA-444B-9DD8-9CD40EBF2B87}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupUNI00.sj" />
+			<child name="CROES_8369_CrashAtstep1OfRebalanciWhenEnteringNbMonthsInTheFieldSystematicWithdrawals" key="{8649EFAA-F4AD-414A-AA23-8DA26E81B3C9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_8369_CrashAtstep1OfRebalanciWhenEnteringNbMonthsInTheFieldSystematicWithdrawals.sj" />
+			<child name="CROES_8527_IntradayBtnNotActivWhenLadderClienOrRelationshipToPortfolio" key="{ADF2A3CB-031D-4AA7-BFFE-4FF433AFAE20}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_8527_IntradayBtnNotActivWhenLadderClienOrRelationshipToPortfolio.sj" />
+			<child name="CROES_9031_ModMissingColumnsInTheNotesGrid" key="{DA6FDC92-A424-4D6B-B2D2-4BB59CFBE3FF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_9031_ModMissingColumnsInTheNotesGrid.sj" />
+			<child name="BNC_1615_RebalancingNotRespectRebalancingCriterionAssociatedwithModel" key="{F5C8CEC3-EDEE-48A0-BCB9-4E227EC4B96C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\BNC_1615_RebalancingNotRespectRebalancingCriterionAssociatedwithModel.sj" />
+			<child name="CROES_9642_DeletCPCodFieldWhenChangTypModelCreatFromFRMToCP" key="{3BDC2ACF-09C9-430C-B5EC-5C9E8C9B65B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_9642_DeletCPCodFieldWhenChangTypModelCreatFromFRMToCP.sj" />
+			<child name="CROES_9345_Mod_CheckExcelExportData" key="{209E5370-520E-4D3F-91B2-EC779CB6EFA1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_9345_Mod_CheckExcelExportData.sj" />
+			<child name="CROES_9345_ModDetPos_CheckExcelExportData" key="{87714E4B-CC15-446E-83CC-CEE98E2B1AF8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_9345_ModDetPos_CheckExcelExportData.sj" />
+			<child name="BNC_2433_Mod_PercentIsZeroInAssetAllocationGraph" key="{20141C72-3457-44DC-BBDC-7AC193A8D435}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\BNC_2433_Mod_PercentIsZeroInAssetAllocationGraph.sj" />
+			<child name="AnomalieMaillageFromModelToAccomp" key="{B4CE7494-CF59-4D16-833B-7277CFC6FE75}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\AnomalieMaillageFromModelToAccomp.js" />
+			<child name="AnomalieMaillageFromModelToClient" key="{7CB4E273-2358-4BFE-AF8B-6C9CD4EA7C5D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\AnomalieMaillageFromModelToClient.js" />
+			<child name="AnomalieMaillageFromModelToPortfolio" key="{1BF66ABB-148D-49DD-86F3-5FF35A5F4446}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\AnomalieMaillageFromModelToPortfolio.js" />
+			<child name="AnomalieMaillageFromModelToRelationShip" key="{3BB4A385-4BCD-4327-A68C-C30DADB1F6EC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\AnomalieMaillageFromModelToRelationShip.js" />
+			<child name="CROES_6479_Jira_CROES_9741_CashManagementLiquidityReserve" key="{4A01F5EA-A113-48DA-A00C-05D148720923}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_6479_Jira_CROES_9741_CashManagementLiquidityReserve.sj" />
+			<child name="CROES_6529_OrdersAreReflected_inUniqueness" key="{8A21633E-96A4-47E2-A855-72905A126D3E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_6529_OrdersAreReflected_inUniqueness.sj" />
+			<child name="CROES_6527_BasketPositionDisappears_WhenUpdatingQuantityVariation_inProjectedPortfolio" key="{82307A5F-716E-4C6A-90FC-F35EEBAB243E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_6527_BasketPositionDisappears_WhenUpdatingQuantityVariation_inProjectedPortfolio.sj" />
+			<child name="CROES_6480_Jira_CROES_3417_ManagementOfExcessCashOnModel" key="{53BB981D-8A0F-49BA-AF80-64EFED78CDA0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_6480_Jira_CROES_3417_ManagementOfExcessCashOnModel.sj" />
+			<child name="CROES_6503_Jira_BNC_2296_OrderAdditionBasketInProjectedPortfolio" key="{6852D438-F1B0-4915-A79D-157429AFB2CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_6503_Jira_BNC_2296_OrderAdditionBasketInProjectedPortfolio.sj" />
+			<child name="CROES_6543_TheFocusShouldNot_HaveChanged_During_aDeletionInProjectedPortfolio" key="{39E0109F-FBAE-4F46-B32F-3615AFEBEEDC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_6543_TheFocusShouldNot_HaveChanged_During_aDeletionInProjectedPortfolio.sj" />
+			<child name="CROES_6481_RestrictionOnRelationAssociatedWithAModel" key="{BF478AB5-16DE-4481-9EA3-74D967ACDAB2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_6481_RestrictionOnRelationAssociatedWithAModel.sj" />
+			<child name="CROES_6811_Jira_CROES_11093_CashManagementAccountAssocieteRelation" key="{EC7D9734-EBDB-43FE-91DC-0FF355A6C344}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_6811_Jira_CROES_11093_CashManagementAccountAssocieteRelation.sj" />
+			<child name="TCVE1790_MOD1423_Validate_ThatItIs_NotPossibleToCreate_AThreeLevelModel_DisplayAnErrorMessage" key="{7BE57C7D-424B-48FE-9BAD-C5D71DB838A5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE1790_MOD1423_Validate_ThatItIs_NotPossibleToCreate_AThreeLevelModel_DisplayAnErrorMessage.sj" />
+			<child name="TCVE_2991_MID_19_Validate_RebalancingUMAAccount_With_LiquidityTransfers_And_ModificationTheExchangeRate_InStep1" key="{BB8959D7-A4AB-45E3-8862-AE5941A6F4E3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE_2991_MID_19_Validate_RebalancingUMAAccount_With_LiquidityTransfers_And_ModificationTheExchangeRate_InStep1.sj" />
+			<child name="TCVE_2027_MOD_2239_Validate_The_Labels_Substitutes_AddedToModel_are_DisplayedInEnglishAndInFrench" key="{A4CA96DF-4A49-4D01-AE04-39303B4118D6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE_2027_MOD_2239_Validate_The_Labels_Substitutes_AddedToModel_are_DisplayedInEnglishAndInFrench.sj" />
+			<child name="TCVE_2984_MID_571_Validate_the_Possibility_To_ModifyAndSave_ParentModel_Possess_SubModel_Including_Basket" key="{648EBD95-D4E6-4BDC-AA72-6CB96A8F7A73}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE_2984_MID_571_Validate_the_Possibility_To_ModifyAndSave_ParentModel_Possess_SubModel_Including_Basket.sj" />
+			<child name="TCVE_17016_6380_MIB_4120_3508_Validate_DateUptateModelchange_WhenModifyingSubstitutes_And_ValidateRoundingQuantities_DuringPartialRebalancing" key="{1CE2DD1F-F4AB-4C69-94F9-6A6B4AD4E3D7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE_17016_6380_MIB_4120_3508_Validate_DateUptateModelchange_WhenModifyingSubstitutes_And_ValidateRoundingQuantities_DuringPartialRebalancing.sj" />
+			<child name="TCVE_7195_MOD_2095_ValidateRebalancingClient_WithMinimumAmountPerOrder_AndUuncheckingReplacementSecurityCreated_DuringCashReductionProcess" key="{DC0A53CA-833C-4BF7-AB68-90355E399477}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE_7195_MOD_2095_ValidateRebalancingClient_WithMinimumAmountPerOrder_AndUuncheckingReplacementSecurityCreated_DuringCashReductionProcess.sj" />
+			<child name="TCVE_7197_MOD_2236_Validate_TheChangeTargetMarketValue_SubModel_IsCalculatedAndCorrectlySaved_InTheParentModel" key="{9354D38E-E579-47A9-B4FA-2462D865816A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE_7197_MOD_2236_Validate_TheChangeTargetMarketValue_SubModel_IsCalculatedAndCorrectlySaved_InTheParentModel.sj" />
+		</folder>
+		<folder name="CR1869">
+			<child name="CR1869_AffichagePortChargement" key="{D6E20DEE-164A-42E0-9485-B375C7050422}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_AffichagePortChargement.sj" />
+			<child name="CR1869_ChangerAssignePortfProj" key="{43BCBF1B-2154-4CAD-8373-6D239C208A76}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_ChangerAssignePortfProj.sj" />
+			<child name="CR1869_ColonnesFixes" key="{DAA7352A-42F7-4E2B-9B00-E50DCAE83E6B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_ColonnesFixes.sj" />
+			<child name="CR1869_ColonnesParTitreNonModif" key="{DD0BE4BC-6054-46B8-9002-B868C2D723E1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_ColonnesParTitreNonModif.sj" />
+			<child name="CR1869_ModifierPositionParTitre" key="{5440D895-E7DA-44E8-8B74-AAB7D2CB5BF5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_ModifierPositionParTitre.sj" />
+			<child name="CR1869_NomAbregeDansGrille" key="{A49D3448-EA64-4295-9529-08DB534FAAA7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_NomAbregeDansGrille.sj" />
+			<child name="CR1869_NomRepartition" key="{B05AB2FD-DEC8-475C-B7E0-EF6A2FFD1A24}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_NomRepartition.sj" />
+			<child name="CR1869_OrdreColonnesCible" key="{E75673B0-A5C8-43A7-B1EB-A5424B256E1C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_OrdreColonnesCible.sj" />
+			<child name="CR1869_AffichageRepartitionsDActifsClient" key="{3897382F-5743-48FB-9931-CA7F94B16893}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_AffichageRepartitionsDActifsClient.sj" />
+			<child name="CR1869_AffichageRepartitionsDActifsRelation" key="{2B764850-33EE-49ED-A694-24A7AFFFB4F8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_AffichageRepartitionsDActifsRelation.sj" />
+			<child name="CR1869_AffichageSegmentModele" key="{438064CA-6F54-497C-8165-DBEEC6494649}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_AffichageSegmentModele.sj" />
+			<child name="CR1869_AfficherUnCompteParCompte" key="{BA227CF6-28E3-48FF-8C56-9EC8B678F41F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_AfficherUnCompteParCompte.sj" />
+			<child name="CR1869_ColonnesCible" key="{F0979E62-7FD2-4C01-9F3B-F5CA55A538BE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_ColonnesCible.sj" />
+			<child name="CR1869_DeplacerPositionInactif" key="{BFA52644-00E1-499A-963C-739BAEF75833}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_DeplacerPositionInactif.sj" />
+			<child name="CR1869_FormatNomColonne" key="{9B017F98-A681-4418-92C9-45624586F69A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_FormatNomColonne.sj" />
+			<child name="CR1869_ModifierPositionSolde" key="{C7CEC9BF-A3C0-42E5-A459-9BCA276C8C91}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1869_ModifierPositionSolde.sj" />
+		</folder>
+		<folder name="CR1483">
+			<child name="CR1483_Mod_CheckErrorMsgPrefMaxWorkAs" key="{267FDBE0-591A-4ED3-ABA8-D3E4DA1F04E1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_CheckErrorMsgPrefMaxWorkAs.sj" />
+			<child name="CR1483_Mod_RememberMySelection" key="{0CCB08E2-09F1-418E-A5A2-BE93097EA325}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_RememberMySelection.sj" />
+			<child name="CR1483_Mod_Survol_Users_Selection_TabBranches" key="{897E13B8-6F7D-434B-A00E-EA32A996D2B6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_Survol_Users_Selection_TabBranches.sj" />
+			<child name="CR1483_Mod_Check_BranchSelection_IACodes" key="{58C971E5-390C-49F2-921A-CEB497F4BF9D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_Check_BranchSelection_IACodes.sj" />
+			<child name="CR1483_Mod_Check_UserSelection_IACodes" key="{63984854-F25E-43A0-A8AD-393D49830463}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_Check_UserSelection_IACodes.sj" />
+			<child name="CR1483_Mod_CheckErrorMsgPrefMaxWorkAs_TabIACodes" key="{846D692D-EF25-45E6-AD53-314F26B3730E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_CheckErrorMsgPrefMaxWorkAs_TabIACodes.sj" />
+			<child name="CR1483_Mod_CheckErrorMsgPrefMaxWorkAs_TabUsers" key="{E805F759-8179-4E74-8A73-064BB6A93A3A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_CheckErrorMsgPrefMaxWorkAs_TabUsers.sj" />
+			<child name="CR1483_Mod_Common_Functions" key="{6DB01097-B63F-419E-A5BE-8ECD9B9D916F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_Common_Functions.sj" />
+			<child name="CR1483_Mod_RememberMySelection_TabIACodes" key="{050FB8E4-54F5-43C3-B923-0EAD742E6DF4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_RememberMySelection_TabIACodes.sj" />
+			<child name="CR1483_Mod_RememberMySelection_TabUsers" key="{32BE5960-6988-4D63-9D38-3D8477D44CF3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_RememberMySelection_TabUsers.sj" />
+			<child name="CR1483_Mod_Survol_Users_Selection_TabIACodes" key="{EE55320A-11F0-4E2B-A6D3-ACC6011DF73D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_Survol_Users_Selection_TabIACodes.sj" />
+			<child name="CR1483_Mod_Survol_Users_Selection_TabUsers" key="{F39BDE60-3537-4E06-8C0E-FAB95F249166}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1483_Mod_Survol_Users_Selection_TabUsers.sj" />
+		</folder>
+		<folder name="CR1501">
+			<folder name="Anomalies">
+				<child name="CROES_10678_Model_FieldDateReferenceNotesMustBeEmptyDefaults" key="{210F01B5-4DBE-4BB7-AC21-437567559317}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CROES_10678_Model_FieldDateReferenceNotesMustBeEmptyDefaults.sj" />
+			</folder>
+			<child name="CR1501_1259_ValidationOfNon_presence_of_the_columnRevision" key="{74A6EB71-FEAF-426B-88CE-D3B649BBAFC4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_1259_ValidationOfNon_presence_of_the_columnRevision.sj" />
+			<child name="CR1501_940_Model_ModificOfNotCreatedInTheSameDayAndbyTheSameUser" key="{193E6DD1-737A-42B6-8940-ADCCF12C9647}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_940_Model_ModificOfNotCreatedInTheSameDayAndbyTheSameUser.sj" />
+			<child name="CR1501_941_NoModificationOfANoteCreatedTheSameDayAndByAnotherUser" key="{13D5794A-5897-494D-AC6A-73AC6C316DC5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_941_NoModificationOfANoteCreatedTheSameDayAndByAnotherUser.sj" />
+			<child name="CR1501_943_NoModificationOfANoteCreatesTheSameDayAndByTheSameUser" key="{34A6892B-0096-433C-995A-50FC15261B81}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_943_NoModificationOfANoteCreatesTheSameDayAndByTheSameUser.sj" />
+			<child name="CR1501_948_NoDeletingANoteIsNotcreatedOnTheSameDayButWithTheSameUser" key="{816E56EA-7D3E-4B4B-B4B6-D21F8D887CBC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_948_NoDeletingANoteIsNotcreatedOnTheSameDayButWithTheSameUser.sj" />
+			<child name="CR1501_950_DeletingCreatedNoteTheSameDayAndByTheSameUser" key="{BB00C9B8-D7A3-43C2-AEC3-DFE8DCD8CEA1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_950_DeletingCreatedNoteTheSameDayAndByTheSameUser.sj" />
+			<child name="CR1501_953_ValidationOfTheSearchWithTheFilterByDateCreationAndOperatorIsNotEqual" key="{D833A598-E2AB-40E7-BA7A-67E5209209D2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_953_ValidationOfTheSearchWithTheFilterByDateCreationAndOperatorIsNotEqual.sj" />
+			<child name="CR1501_960_SearchByFilterByDateModifiedAndOperatorIsNot_equal" key="{0F7C0E77-1957-43E9-96FC-F588E61D7E3C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_960_SearchByFilterByDateModifiedAndOperatorIsNot_equal.sj" />
+			<child name="CR1501_968_SearchWithFilterByNoteAndOperatorIsContaining" key="{A6559A59-95E7-4B22-9EB5-C63C97829738}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_968_SearchWithFilterByNoteAndOperatorIsContaining.sj" />
+			<child name="CR1501_969_SearchWithFilterByNoteAndOperatorIsNotContaining" key="{0FE4BFBB-2564-45CF-823E-1D82397584BE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_969_SearchWithFilterByNoteAndOperatorIsNotContaining.sj" />
+			<child name="CR1501_975_SearchWithTheFilterByCreatedByAndOperatorIsAmong" key="{D2F4B742-6487-4FE4-86D8-F1F06FF5B318}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_975_SearchWithTheFilterByCreatedByAndOperatorIsAmong.sj" />
+			<child name="CR1501_986_Model_ValidationOfAbsenceOfNoteIconInTheGridForNoteCreatedFromInfo" key="{B34CF927-D4CC-4D73-A9A5-48EE9E691C44}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_986_Model_ValidationOfAbsenceOfNoteIconInTheGridForNoteCreatedFromInfo.sj" />
+			<child name="CR1501_964_FilterSearchByDateModifiedAndOperatorIsIsEqualToOrEarlierThan" key="{93B0E528-CC0C-4C7C-94B1-9897AD5F9851}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_964_FilterSearchByDateModifiedAndOperatorIsIsEqualToOrEarlierThan.sj" />
+			<child name="CR1501_980_Model_ValidateThePrintingOfNotesWithThePrintButton" key="{92452E8A-AA20-43C2-B815-F62F1965477D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_980_Model_ValidateThePrintingOfNotesWithThePrintButton.sj" />
+			<child name="CR1501_1117_NotModifyingNoteNotCreatedTheSameDayFromInfoAndBySameUser" key="{C0E39CCE-FE12-43BB-92E1-DDA97C239764}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_1117_NotModifyingNoteNotCreatedTheSameDayFromInfoAndBySameUser.sj" />
+			<child name="CR1501_949_NotDeletingANoteCreatedOnTheSameDayAndByTheSameUser" key="{0D33694D-D0FF-41AD-9E93-F2D70146D760}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_949_NotDeletingANoteCreatedOnTheSameDayAndByTheSameUser.sj" />
+			<child name="CR1501_951_NotDeletingCreatedNoteTheSameDayAndByAnotherUser" key="{E220B614-12D1-4646-B924-7E7FB1590699}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1501_951_NotDeletingCreatedNoteTheSameDayAndByAnotherUser.sj" />
+		</folder>
+		<folder name="CR2141">
+			<folder name="TestCase mode=2 pref=2">
+				<child name="CR2070_CR2141_6348_Mod_PreparationCaseCreateModelsPrefAndProfile" key="{3A54A408-9017-40A6-A286-26B7B15CD9F4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6348_Mod_PreparationCaseCreateModelsPrefAndProfile.sj" />
+				<child name="CR2070_CR2141_6349_Mod_ValidateNewParameter_AssignedDiscretionaryOrNotDiscretionary" key="{C0FAA3F5-3B3C-47D2-9F59-D2C46B0CC2E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6349_Mod_ValidateNewParameter_AssignedDiscretionaryOrNotDiscretionary.sj" />
+				<child name="CR2070_CR2141_6352_Mod_AssociateClientWithCptDiscrAndNotDiscToModel_AccountsDiscAndNotDisc" key="{A1B3F945-519D-405F-9EDE-3FD846F5CEC9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6352_Mod_AssociateClientWithCptDiscrAndNotDiscToModel_AccountsDiscAndNotDisc.sj" />
+				<child name="CR2070_CR2141_6355_Mod_AssociateNotDiscClientWithModelAllNotDiscAccounts" key="{E5D39218-80CB-42E5-A0B2-E59333EA8DF1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6355_Mod_AssociateNotDiscClientWithModelAllNotDiscAccounts.sj" />
+				<child name="CR2070_CR2141_6361_Mod_RebalancingNotDiscAccountAssociatedWithInternalModelOrAMBA" key="{B74E6E86-4828-4450-8441-1008254BFE44}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6361_Mod_RebalancingNotDiscAccountAssociatedWithInternalModelOrAMBA.sj" />
+				<child name="CR2070_CR2141_6363_RebalancingDiscClientAssociatedWithInternalModelOrAMBA_AllDiscCpts" key="{411CEAAD-BC36-495C-B441-236C8F5865DE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6363_RebalancingDiscClientAssociatedWithInternalModelOrAMBA_AllDiscCpts.sj" />
+				<child name="CR2070_CR2141_6367_RebalancingDiscRelationshipAssociatedWithInternalModelOrAMBA_AllDiscCpts" key="{B9E6A392-C6A8-45A1-8186-FE03AC769D45}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6367_RebalancingDiscRelationshipAssociatedWithInternalModelOrAMBA_AllDiscCpts.sj" />
+				<child name="CR2070_CR2141_6370_Mod_AssociateAndRebalanceNotDiscretionarySleeve_AMBAModel" key="{228CEA20-63CE-4F95-BCC9-A00E0F464836}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6370_Mod_AssociateAndRebalanceNotDiscretionarySleeve_AMBAModel.sj" />
+				<child name="CR2070_CR2141_6371_Mod_AssociateAndRebalanceDiscSleeve_InternalModelAndAMBA" key="{38220AF8-8AC0-4542-86DA-463EC3EBB817}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6371_Mod_AssociateAndRebalanceDiscSleeve_InternalModelAndAMBA.sj" />
+				<child name="CR2070_CR2141_6458_Mod_IdentificationOfDiscNotDiscAccounts" key="{AB484D28-8D94-41A7-A608-293BCB52A204}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6458_Mod_IdentificationOfDiscNotDiscAccounts.sj" />
+				<child name="CR2070_CR2141_6463_Mod_DiscAndNotDiscAccountsTiggers" key="{DCE1A34C-0B04-47E8-B27F-FDBC0F870CDD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6463_Mod_DiscAndNotDiscAccountsTiggers.sj" />
+				<child name="CR2070_CR2141_6532_Mod_CasePreparationToPutBackBDInInitialStateBNC" key="{DE99BE53-A0C2-45DD-9071-5F49876F01A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6532_Mod_CasePreparationToPutBackBDInInitialStateBNC.sj" />
+			</folder>
+			<child name="CR2141_6312_Mod_AssociateAccCliRelWithDelegatedManagementModel" key="{33C48815-4B94-4EE4-B5DA-17838B2BBA1E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6312_Mod_AssociateAccCliRelWithDelegatedManagementModel.sj" />
+			<child name="CR2141_6320_Mod_AssociateAssignedDiscOrNonDiscToInternalModelAndAMBA_Pref_Model_Discretio" key="{FB7E19E1-A70F-48A3-9186-8FD8268457D1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6320_Mod_AssociateAssignedDiscOrNonDiscToInternalModelAndAMBA_Pref_Model_Discretio.sj" />
+			<child name="CR2141_6322_Mod_ValidateRebalancingOfDiscOrNonDdiscAccount_Pref_Model_Discretionary_M" key="{D047C140-BB4B-4B43-B629-EBD5C99F373E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6322_Mod_ValidateRebalancingOfDiscOrNonDdiscAccount_Pref_Model_Discretionary_M.sj" />
+			<child name="CR2141_6324_Mod_RebalancingDiscClientAndNotDisc_Pref_Model_Discretionary_ModeIs1" key="{41D9DF93-C3C9-4807-AB08-BDAC5584C07E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6324_Mod_RebalancingDiscClientAndNotDisc_Pref_Model_Discretionary_ModeIs1.sj" />
+			<child name="CR2141_6325_Mod_AssociateAndRebalanceDiscretionarySleeve_Mode1" key="{E2EE4F56-781D-4439-8D73-C361657560CE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6325_Mod_AssociateAndRebalanceDiscretionarySleeve_Mode1.sj" />
+			<child name="CR2141_6328_Mod_AssociateRebalanceNonDiscretionaryRelationshipToModel_AllDiscreteAccountsAndModeIs1" key="{8C771FDE-0EA1-43B6-AE83-3CD1D451C1CA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6328_Mod_AssociateRebalanceNonDiscretionaryRelationshipToModel_AllDiscreteAccountsAndModeIs1.sj" />
+			<child name="CR2141_6329_Mod_ValidateRebalancingOfDiscAccountOnAmbassadorModel" key="{31842A32-113E-4D6E-AE44-65AE5587B159}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6329_Mod_ValidateRebalancingOfDiscAccountOnAmbassadorModel.sj" />
+			<child name="CR2141_6341_Mod_PreparationCases_CreateModelsWithDelegatedManagementAndPref" key="{BA131178-978A-44E2-BF50-56A8A54CC36F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6341_Mod_PreparationCases_CreateModelsWithDelegatedManagementAndPref.sj" />
+			<child name="CR2141_6344_Mod_AssociateAndRebalanceNonDiscSleeve_Mode1" key="{C3031399-8537-4221-B236-8D27F998938D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6344_Mod_AssociateAndRebalanceNonDiscSleeve_Mode1.sj" />
+		</folder>
+		<folder name="CR2083">
+			<child name="CR2083_6280_Anomaly_1_5_Validation" key="{A8249C42-66BE-4AB1-8B6A-901F8ADAB304}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2083_6280_Anomaly_1_5_Validation.sj" />
+			<child name="CR2083_6283_Anomaly2_Validation" key="{EC970A99-937A-4ADA-B0BC-67A3F9FED65F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2083_6283_Anomaly2_Validation.sj" />
+			<child name="CR2083_6307_Anomaly11_Validation" key="{ECE63E2B-A386-4294-B613-B96E3CDAE072}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2083_6307_Anomaly11_Validation.sj" />
+		</folder>
+		<folder name="CR2031">
+			<folder name="Environnement_Preparation">
+				<child name="CR2031_6389_PrefsAndBasicConfigurationsForCR2031Tests" key="{8E5DA627-9CFA-419E-BA06-05C5192EC2DA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6389_PrefsAndBasicConfigurationsForCR2031Tests.sj" />
+				<child name="CR2031_6398_PreparationOfTolerances_ForEachModel" key="{D6A443FE-030E-4D10-A451-031A55CADE64}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6398_PreparationOfTolerances_ForEachModel.sj" />
+			</folder>
+			<child name="CR2031_6391_ValidateThatTheTargetOfBalancePositionIsIgnoredDuringRebalancing" key="{92B0A583-ACA1-477E-8F78-FE17AA8F46E6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6391_ValidateThatTheTargetOfBalancePositionIsIgnoredDuringRebalancing.sj" />
+			<child name="CR2031_6394_ValidateBalanceTolerancesOfClient_whereAccounts_Have1VMi_greaterThan_TolAnd1VMi" key="{57A77735-DC30-43A5-9E6E-3E4611873447}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6394_ValidateBalanceTolerancesOfClient_whereAccounts_Have1VMi_greaterThan_TolAnd1VMi.sj" />
+			<child name="CR2031_6397_ValidateBalanceTolerancesOfRelationship_with_PrincipalTitle_NotLocked_AndLockedReplacement" key="{6A26B227-A120-4F63-9CC2-8193E0AF601E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6397_ValidateBalanceTolerancesOfRelationship_with_PrincipalTitle_NotLocked_AndLockedReplacement.sj" />
+			<child name="CR2031_6400_ValidateBalanceTolerancesOfClient_withBlockedPositions_whichVMilt_TargetAndComplement" key="{2786D974-7751-4B9A-95A8-EDA6459A5E80}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6400_ValidateBalanceTolerancesOfClient_withBlockedPositions_whichVMilt_TargetAndComplement.sj" />
+			<child name="CR2031_6404_ValidateBalanceTolerances_withPositiveCashManagement" key="{0368091C-CF1E-4B98-AFE4-5E74307AC7D9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6404_ValidateBalanceTolerances_withPositiveCashManagement.sj" />
+			<child name="CR2031_6412_ValidateBalanceTolerance_withBasketIt_Tol_Fallback_and_ExcessCash" key="{8F5434EA-41B8-4376-B44F-CAD70DEB5D37}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6412_ValidateBalanceTolerance_withBasketIt_Tol_Fallback_and_ExcessCash.sj" />
+			<child name="CR2031_6415_ValidateBalanceTolerances_with_a_ParentModel" key="{54A6BD07-EEF1-4FFD-886B-944B9EFAF7AE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6415_ValidateBalanceTolerances_with_a_ParentModel.sj" />
+			<child name="CR2031_6417_ValidateBalanceTolerances_with_a_Segment" key="{1B3ACAC7-C945-49EF-BCAE-41EA68FB8FDB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6417_ValidateBalanceTolerances_with_a_Segment.sj" />
+			<child name="CR2031_6418_ValidateCustomerBalanceTolerancesWithNonRebalancingCriteria" key="{0ECE1DF9-BECB-498C-BC22-1995DACD4551}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_6418_ValidateCustomerBalanceTolerancesWithNonRebalancingCriteria.sj" />
+			<child name="CR2031_Restore" key="{25A55D83-EDB4-427A-A217-76E141674EBB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2031_Restore.sj" />
+		</folder>
+		<folder name="CompareXML">
+			<child name="CompareXMLtestsResults" key="{266B4CEB-BB9F-4CE5-B973-C33FA039DDA4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\CompareXMLtestsResults.sj" />
+		</folder>
+		<folder name="CR2160">
+			<child name="CR2160_6875_Mod_CasePrepartionCreateModelsAndRelationship" key="{1160A779-DDD4-479D-8D92-09FE1FE6281A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2160_6875_Mod_CasePrepartionCreateModelsAndRelationship.sj" />
+			<child name="CR2160_6876_Mod_ValidateMultipleRebalancing_DifferentUserYes" key="{D5959118-C141-44A5-886F-30EA0179F23B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2160_6876_Mod_ValidateMultipleRebalancing_DifferentUserYes.sj" />
+			<child name="CR2160_6877_Mod_ValidateSomColumPrevCashMgmt_DifferentAccount1" key="{F3234F9E-FCBD-4B5C-AD83-F1CAB0AEEA1C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2160_6877_Mod_ValidateSomColumPrevCashMgmt_DifferentAccount1.sj" />
+			<child name="CR2160_6878_Mod_ValidateSomColumPrevCashMgmt_DifferentUser" key="{1FFF1510-00D2-4334-BA97-E91EA74578F2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2160_6878_Mod_ValidateSomColumPrevCashMgmt_DifferentUser.sj" />
+			<child name="CR2160_6879_Mod_ValidateSomColumPrevCashMgmt_DifferentUserRelationship1" key="{A5349F4E-73A5-4804-AAB1-20F1ABD3C1CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2160_6879_Mod_ValidateSomColumPrevCashMgmt_DifferentUserRelationship1.sj" />
+			<child name="CR2160_6880_Mod_ValidateSomColumPrevCashMgmt_MultipleAssignees_SameUser" key="{C3A81035-C284-4BEE-962C-3504901F2D1F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2160_6880_Mod_ValidateSomColumPrevCashMgmt_MultipleAssignees_SameUser.sj" />
+			<child name="CR2160_Common_functions" key="{910D2F0F-B7A4-4362-8877-D0D937693264}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2160_Common_functions.sj" />
+		</folder>
+		<folder name="CR1990">
+			<child name="CR1990_MOD_1515_ValidateBalanceColumnInModelsAndRebalancingWindow" key="{14BBD513-A56C-488B-948F-BA26443E91EA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR1990_MOD_1515_ValidateBalanceColumnInModelsAndRebalancingWindow.sj" />
+		</folder>
+		<folder name="CR2270">
+			<child name="CR2270_TCVE67_MOD1352_ValidateRebalanceRel_Whith_MinimumAmount" key="{F111074A-FE4F-4246-A60D-95A69FCD3511}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2270_TCVE67_MOD1352_ValidateRebalanceRel_Whith_MinimumAmount.sj" />
+			<child name="CR2270_TCVE67_Mod1396_1397_CasePrepartionCreateModelsAndRelationship" key="{2A865792-0241-448F-8644-BFE504E6F219}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2270_TCVE67_Mod1396_1397_CasePrepartionCreateModelsAndRelationship.sj" />
+		</folder>
+		<folder name="FBNTestCase">
+			<child name="TCVE_1039_Validate_Modification_RecipientAccount_BuyOrder_Relationship" key="{927EE6C2-FDBF-44CC-93A0-2E4C781321F7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE_1039_Validate_Modification_RecipientAccount_BuyOrder_Relationship.sj" />
+			<child name="TCVE1040_UnderlyingPortfolioS_savedAs_FictionnalAccount" key="{9B99309D-D09B-4D8F-A82E-196683D0A26E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE1040_UnderlyingPortfolioS_savedAs_FictionnalAccount.sj" />
+			<child name="TCVE935_PartialRebalancing" key="{E24237CC-C023-4704-918F-6A47065DE9B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE935_PartialRebalancing.sj" />
+			<child name="TCVE982_PartialRebalancing_WithSubModel_BasketAndExcessCash" key="{953F5BDF-62C0-436B-81AC-AF14A0FD87E7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE982_PartialRebalancing_WithSubModel_BasketAndExcessCash.sj" />
+			<child name="TCVE_981_RebalancingCriterion" key="{FC3E802F-9447-4FA1-B7F1-DD0442E19FB4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE_981_RebalancingCriterion.sj" />
+		</folder>
+		<folder name="TCVE1323_TCVE1322_CasWithdrawal">
+			<child name="TCVE1322_MOD1163_ValidateRebalancing_RelWithwithdrawalFromAccount_NegativeCashFlow_SaleAndPurchas_SecurityAnotherAccount_pref_0" key="{2BFDBD5D-0665-4D3D-8A3B-77670AF4CFCA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE1322_MOD1163_ValidateRebalancing_RelWithwithdrawalFromAccount_NegativeCashFlow_SaleAndPurchas_SecurityAnotherAccount_pref_0.sj" />
+			<child name="TCVE1322_MOD1166_ValidateRebalancing_RelWithwithdrawalFromAccount_PositiveCashFlow_SaleAndPurchas_SecurityAnotherAccount_pref_1" key="{3638C3EA-18F6-4BD5-B9AE-775B12FA36A9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE1322_MOD1166_ValidateRebalancing_RelWithwithdrawalFromAccount_PositiveCashFlow_SaleAndPurchas_SecurityAnotherAccount_pref_1.sj" />
+			<child name="TCVE1323_1322_CasePrepartionCreateModelsAndRelationship" key="{EB5FD722-2C98-4054-87A5-92B8B9E408ED}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE1323_1322_CasePrepartionCreateModelsAndRelationship.sj" />
+			<child name="TCVE1323_MOD1193_ValidateRebalancingRelWithdrawal_SaleAndPurchase_SecurityOnAnotherAccount_withUncheckAndmanualcheck_pref_2" key="{E3EE2F69-5F63-4075-9FCB-C3D1066E6B62}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE1323_MOD1193_ValidateRebalancingRelWithdrawal_SaleAndPurchase_SecurityOnAnotherAccount_withUncheckAndmanualcheck_pref_2.sj" />
+			<child name="TCVE1323_MOD2088_ValidateRebalancingRelWithdrawal_SaleAndPurchase_SecurityOnAnotherAccount_withUncheckAndManualCheck_pref_3" key="{B1CCA7CA-0FD5-472A-82B1-4045913E98AC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE1323_MOD2088_ValidateRebalancingRelWithdrawal_SaleAndPurchase_SecurityOnAnotherAccount_withUncheckAndManualCheck_pref_3.sj" />
+		</folder>
+		<folder name="VueParCompte">
+			<child name="TCVE1697_TheAdvancedRebalancingfunctions__ViewByAccount_CR1869_CR2044_CR2059" key="{9A2520CD-9D4A-4B95-87B4-D8830560EB3B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE1697_TheAdvancedRebalancingfunctions__ViewByAccount_CR1869_CR2044_CR2059.sj" />
+		</folder>
+		<folder name="PreExecution">
+			<child name="PreExecution" key="{17F5DF7D-D996-4B72-BB83-0EE32E3D72B3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\PreExecution.sj" />
+		</folder>
+		<folder name="CR2436">
+			<child name="CR2436_TCVE_4617_ManagementOfRestrictionsByNote" key="{7820B775-7486-4A3D-A567-2E897B156BFB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2436_TCVE_4617_ManagementOfRestrictionsByNote.sj" />
+			<child name="CR2436_Common_Functions" key="{F767C1DA-0743-438F-BDA6-D9B4E73147C2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2436_Common_Functions.sj" />
+			<child name="CR2436_TCVE_4639_ValidateNoteTypeFirmRestrictionsForAccountAndRelationship" key="{61DF5C09-6899-4693-B566-3DF0D2675E48}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2436_TCVE_4639_ValidateNoteTypeFirmRestrictionsForAccountAndRelationship.sj" />
+		</folder>
+		<child name="Global_variables" key="{D1DBAA1A-087C-4522-9757-D8B858871ED7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{8265C5BD-2A17-458F-AA91-C0C69ABD9B32}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\ExecutionLog.sj" />
+		<child name="GetListOfTestsToBeRun" key="{27830D7E-229E-4593-84D6-096BDBCEAB6F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="TCVE1335_CR1869CR2044CR2059_ViewOfTheProjectedPortfolioByAccount" key="{86FC9C93-65D3-42C1-84FB-F4EA32B911FC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE1335_CR1869CR2044CR2059_ViewOfTheProjectedPortfolioByAccount.sj" />
+	</children>
+</Root>

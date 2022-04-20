@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Survol">
+			<folder name="Search_Manage">
+				<child name="Survol_Mod_ToolBar_btnManageSearchCriteria" key="{467A02C8-3367-4435-B56F-EC218782E3D0}" path="Survol_Mod_ToolBar_btnManageSearchCriteria.sj" />
+				<child name="Survol_Mod_MenuBar_SearchCriteriaSubmenuSearchManage" key="{54326809-35FC-4919-866E-BFEE83A4FC7C}" path="Survol_Mod_MenuBar_SearchCriteriaSubmenuSearchManage.sj" />
+			</folder>
+			<folder name="Assign">
+				<child name="Survol_Mod_Details_Assign_Clients" key="{EA16C8C8-FC9E-40F4-B5D0-A52C1C15F128}" path="Survol_Mod_Details_Assign_Clients.sj" />
+				<child name="Survol_Mod_Details_Assign_Accounts" key="{356CE47F-3F42-4F9C-9959-75BE995F6870}" path="Survol_Mod_Details_Assign_Accounts.sj" />
+				<child name="Survol_Mod_Details_Assign_Relationships" key="{604D8D86-F9A3-4D5F-8C58-6B39482E8B62}" path="Survol_Mod_Details_Assign_Relationships.sj" />
+			</folder>
+			<folder name="Financial_Instrument_Selector">
+				<folder name="Create_Sell_Order">
+					<child name="Survol_Mod_Toolbar_btnCreateSellOrder" key="{138B6BDD-E515-4D58-8CBD-3B49D24E2C78}" path="Survol_Mod_Toolbar_btnCreateSellOrder.sj" />
+				</folder>
+				<folder name="Create_Buy_Order">
+					<child name="Survol_Mod_Toolbar_btnCreateBuyOrder" key="{1B9A8F73-E75B-402F-8AAF-F8170C8582B9}" path="Survol_Mod_Toolbar_btnCreateBuyOrder.sj" />
+				</folder>
+			</folder>
+			<folder name="Under.Performance">
+				<child name="Survol_Mod_ModelsBar_UnderPerfomance" key="{1F42568D-93D7-4420-9C5F-DB6A150D6499}" path="Survol_Mod_ModelsBar_UnderPerfomance.sj" />
+				<child name="Survol_Mod_ContextualMenu_Functions_UnderPerfomance" key="{E55FA53B-97BA-481C-976B-0A22786FD2A2}" path="Survol_Mod_ContextualMenu_Functions_UnderPerfomance.sj" />
+				<child name="Survol_Mod_MenuBar_UnderPerfomance" key="{B684A925-72B9-4BCF-B2F3-58D91C364AA0}" path="Survol_Mod_MenuBar_UnderPerfomance.sj" />
+			</folder>
+			<folder name="Bon_Calculator">
+				<child name="Survol_Mod_Calculator_Ctrl_Maj_O" key="{3FDD4636-4CB9-48D3-B02C-EACBA3E2E2EF}" path="Survol_Mod_Calculator_Ctrl_Maj_O.sj" />
+				<child name="Survol_Mod_MenuBar_Tools_btnCalculator" key="{046783D8-97B3-4900-BABC-D6E87B444A5D}" path="Survol_Mod_MenuBar_Tools_btnCalculator.sj" />
+				<child name="Survol_Mod_Toolbar_btnBondCalculator" key="{3DD4D9F4-114E-4933-B32B-2DFD2C40AF9F}" path="Survol_Mod_Toolbar_btnBondCalculator.sj" />
+			</folder>
+			<folder name="Models_Reports">
+				<child name="Survol_Mod_MenuBar_ReportsModels" key="{2F5960A5-4A1E-40DF-B459-D971AE275DE5}" path="Survol_Mod_MenuBar_ReportsModels.sj" />
+				<child name="Survol_Mod_ToolBar_btnReportsAndGraphs" key="{D4C1DC4C-05AC-4F50-A483-E2F6C7886CE8}" path="Survol_Mod_ToolBar_btnReportsAndGraphs.sj" />
+			</folder>
+			<folder name="Add_Model">
+				<child name="Survol_Mod_MenuBar_EditAdd" key="{75F01A7E-19F3-48F3-B53E-B09DF2CCE2E8}" path="Survol_Mod_MenuBar_EditAdd.sj" />
+				<child name="Survol_Mod_ToolBar_btnAdd" key="{D7FBD977-1481-48B3-A3C9-65BC426F55DD}" path="Survol_Mod_ToolBar_btnAdd.sj" />
+				<child name="Survol_Mod_Add_ClickR" key="{A692BB54-F891-4196-BFC7-94E4D7193402}" path="Survol_Mod_Add_ClickR.sj" />
+				<child name="Survol_Mod_Add_Security_Ctrl_N" key="{9135D842-FFA7-4C7D-9B0B-38C1D973260E}" path="Survol_Mod_Add_Security_Ctrl_N.sj" />
+			</folder>
+			<folder name="Restrictions">
+				<child name="Survol_Mod_MenuBar_EditFunctions_Restrictions" key="{3C5F4B6B-6A2D-4368-B3F4-2E527E4B59D1}" path="Survol_Mod_MenuBar_EditFunctions_Restrictions.sj" />
+				<child name="Survol_Mod_ModelsBar_Restrictions" key="{F8A03EC0-089B-448C-AC76-5A6873061E51}" path="Survol_Mod_ModelsBar_Restrictions.sj" />
+				<child name="Survol_Mod_Restrictions_CombinedAccessMethods" key="{BFA6A431-B5E5-4B71-98F6-92953102C8E1}" path="Survol_Mod_Restrictions_CombinedAccessMethods.sj" />
+			</folder>
+			<folder name="Rebalance">
+				<child name="Survol_Mod_ModelsBar_Rebalance" key="{5A44BCA9-2F9E-46AD-A952-9241369E4FD0}" path="Survol_Mod_ModelsBar_Rebalance.sj" />
+			</folder>
+			<folder name="Search">
+				<child name="Survol_Mod_Search_KeybordSearch" key="{1F50CF8D-EBE7-4D82-8141-A063F2CDC332}" path="Survol_Mod_Search_KeybordSearch.sj" />
+				<child name="Survol_Mod_ToolBar_btnSearch" key="{46DBB3EB-0EBC-4D95-B03A-82D8D4C8EE00}" path="Survol_Mod_ToolBar_btnSearch.sj" />
+				<child name="Survol_Mod_MenuBar_EditSearch" key="{F5DE2540-738D-42BF-8056-70A11511F341}" path="Survol_Mod_MenuBar_EditSearch.sj" />
+			</folder>
+			<folder name="Info">
+				<child name="Survol_Mod_ModelsBar_BtnInfo" key="{01A32C50-1DF9-4B11-9F2C-D568E4F3367E}" path="Survol_Mod_ModelsBar_BtnInfo.sj" />
+				<child name="Survol_Mod_Info_Ctrl_E" key="{9A87764F-0A0A-4298-A832-8C0102A06961}" path="Survol_Mod_Info_Ctrl_E.sj" />
+				<child name="Survol_Mod_ContextualMenu_Edit" key="{334298B9-1393-4FE2-87B2-0E8A3DCA05FE}" path="Survol_Mod_ContextualMenu_Edit.sj" />
+				<child name="Survol_Mod_ContextualMenu_Functions_Info" key="{2DA8DEE5-ED8F-4B40-9F08-0BA4C7EB6B8A}" path="Survol_Mod_ContextualMenu_Functions_Info.sj" />
+				<child name="Survol_Mod_MenuBar_EditFunctions_Info" key="{3C5C56ED-4C63-47A8-AA88-DC614C4545C6}" path="Survol_Mod_MenuBar_EditFunctions_Info.sj" />
+				<child name="Survol_Mod_Info_CombinedAccessMethods" key="{E2A675C2-65A1-4F17-BFDF-86B2F8FB6D42}" path="Survol_Mod_Info_CombinedAccessMethods.sj" />
+			</folder>
+			<folder name="Print">
+				<child name="Survol_Mod_Print_ClickR" key="{F7284C17-9A6F-469D-BC70-04D5158DF671}" path="Survol_Mod_Print_ClickR.sj" />
+				<child name="Survol_Mod_MenuBar_FilePrint" key="{A909FD5E-6AE8-49B0-BBF5-DA978BA8C399}" path="Survol_Mod_MenuBar_FilePrint.sj" />
+				<child name="Survol_Modr_ToolBar_btnPrint" key="{1D7B841C-B91B-46B4-AA12-39635E3CB9AF}" path="Survol_Modr_ToolBar_btnPrint.sj" />
+				<child name="Survol_Mod_Print_AltP" key="{591019BA-553B-47FF-B77E-8D4C387AF65E}" path="Survol_Mod_Print_AltP.sj" />
+			</folder>
+			<folder name="Info(i)">
+				<child name="Survol_Mod_ToolBar_Btn_i_" key="{2ADB7FA3-E25B-4B47-91E7-D9F1B64B3AA2}" path="Survol_Mod_ToolBar_Btn_i_.sj" />
+				<child name="Survol_Mod_MenuBar_Edit_i_" key="{ADC7F38A-45B5-417A-8977-FFE63BC0192A}" path="Survol_Mod_MenuBar_Edit_i_.sj" />
+				<child name="Survol_Mod_i_Ctrl_L" key="{510ECE98-2BBD-4658-8C58-4C6FB5D3D60A}" path="Survol_Mod_i_Ctrl_L.sj" />
+			</folder>
+			<folder name="Lock_Application">
+				<child name="Survol_Mod_MenuBar_FileLock_BtnOk_WithoutPSW" key="{DDF19C9C-C3F4-4FD9-834F-4C3F3C4D1529}" path="Survol_Mod_MenuBar_FileLock_BtnOk_WithoutPSW.sj" />
+				<child name="Survol_Mod_MenuBar_FileLock_BtnQuit" key="{DC7A7EF2-5EB0-4323-9F19-285D91F562A2}" path="Survol_Mod_MenuBar_FileLock_BtnQuit.sj" />
+				<child name="Survol_Mod_ToolBar_BtnLockTheApplication_BtnOk_WithPSW" key="{AA13C54B-2E77-4A40-83A0-A099B3475826}" path="Survol_Mod_ToolBar_BtnLockTheApplication_BtnOk_WithPSW.sj" />
+			</folder>
+			<folder name="Documents">
+				<child name="Survol_Mod_ModelsBar_EditFunctions_Documents" key="{1CEB0D2B-B8CC-479A-BECF-9F01C188DADD}" path="Survol_Mod_ModelsBar_EditFunctions_Documents.sj" />
+				<child name="Survol_Mod_MenuBar_EditFunctions_Documents" key="{6C3F856C-505A-44A8-9466-DBD0D9F24706}" path="Survol_Mod_MenuBar_EditFunctions_Documents.sj" />
+			</folder>
+			<folder name="Add_Search_Criterion">
+				<child name="Survol_Mod_Toolbar_BtnAddSearchCriterion" key="{6E20617B-8A21-4B2F-9498-48CB180AB776}" path="Survol_Mod_Toolbar_BtnAddSearchCriterion.sj" />
+				<child name="Survol_Mod_MenuBar_SearchCriteriaSubmenuAddSearchCriterion" key="{DB8E0F3D-2E2B-4892-8906-6A9CFDC6E07F}" path="Survol_Mod_MenuBar_SearchCriteriaSubmenuAddSearchCriterion.sj" />
+			</folder>
+			<folder name="Close_Application">
+				<child name="Survol_Mod_Quitter" key="{0F71A065-BDD1-46DF-A8E9-488DCCE2D877}" path="Survol_Mod_Quitter.sj" />
+				<child name="Survol_Mod_AltQ" key="{668604A4-1399-46F2-9ED1-9F0D61B6FD2A}" path="Survol_Mod_AltQ.sj" />
+				<child name="Survol_Mod_AltF4" key="{35572CC0-423B-474F-B597-03F33A061314}" path="Survol_Mod_AltF4.sj" />
+				<child name="Survol_Mod_SysClose" key="{A8F75132-A035-49CE-864D-3920DD98DC9A}" path="Survol_Mod_SysClose.sj" />
+				<child name="Survol_Mod_X" key="{DC848CF9-AF07-4AFF-AF4F-44B5F27A27EE}" path="Survol_Mod_X.sj" />
+			</folder>
+			<folder name="Agenda">
+				<child name="Survol_Mod_ToolBar_btnAgenda" key="{F843D3B4-D9A4-4E26-AE11-5DC5BF3C74D0}" path="Survol_Mod_ToolBar_btnAgenda.sj" />
+				<child name="Survol_Mod_Agenda_Ctrl_Maj_L" key="{1FDF50A3-92D1-4A2D-86A2-2635039C462F}" path="Survol_Mod_Agenda_Ctrl_Maj_L.sj" />
+				<child name="Survol_Mod_MenuBar_ToolsAgenda" key="{2464FDE5-A1D5-4690-BCFA-4C588C1E611C}" path="Survol_Mod_MenuBar_ToolsAgenda.sj" />
+				<child name="Survol_Mod_Agenda_CombinedAccessMethods" key="{D7B36CB8-BA82-46A4-B0BF-FD0BF58FE8FA}" path="Survol_Mod_Agenda_CombinedAccessMethods.sj" />
+			</folder>
+			<folder name="Archive_Documents">
+				<child name="Survol_Mod_ArchiveDoc_Ctrl_Maj_A" key="{E9829FED-0A2B-4E07-8E7F-C6ED0A6A331C}" path="Survol_Mod_ArchiveDoc_Ctrl_Maj_A.sj" />
+				<child name="Survol_Mod_MenuBar_Tools_btnArchiveMyDocuments" key="{D1D57F6F-77EA-430D-8A7A-E225F7BB1A00}" path="Survol_Mod_MenuBar_Tools_btnArchiveMyDocuments.sj" />
+				<child name="Survol_Mod_ToolBar_btnArchiveMyDocuments" key="{D12090E3-F1BB-4640-8F0B-ED0C7F19E361}" path="Survol_Mod_ToolBar_btnArchiveMyDocuments.sj" />
+			</folder>
+			<folder name="Compose_Address">
+				<child name="Survol_Mod_Internet_ComposeAddress_CtrlO" key="{A6153A4D-CDA2-418A-B275-758190610539}" path="Survol_Mod_Internet_ComposeAddress_CtrlO.sj" />
+				<child name="Survol_Mod_MenuBar_Tools_Internet_ComposeAddress" key="{FF0D0721-6FCB-4BD7-9433-D4C0FE114A5E}" path="Survol_Mod_MenuBar_Tools_Internet_ComposeAddress.sj" />
+				<child name="Survol_Mod_ToolBar_BtnInternet_ComposeAddress" key="{99586830-98A8-47D9-94D2-33053B5E7542}" path="Survol_Mod_ToolBar_BtnInternet_ComposeAddress.sj" />
+			</folder>
+			<folder name="Internet">
+				<child name="Survol_Mod_MenuBar_Tools_Internet" key="{27A38756-4C99-4923-845C-C0C190E158C9}" path="Survol_Mod_MenuBar_Tools_Internet.sj" />
+				<child name="Survol_Mod_ToolBar_btnInternet" key="{A55A5469-A13D-4CDD-9851-C3D104D5C281}" path="Survol_Mod_ToolBar_btnInternet.sj" />
+			</folder>
+			<folder name="MainWin">
+				<folder name="MainWin_Details">
+					<child name="Survol_Mod_MainWin_Details_Basket" key="{3650523F-5800-4B24-84B5-1E2CF8CA3598}" path="Survol_Mod_MainWin_Details_Basket.sj" />
+					<child name="Survol_Mod_MainWin_Details_FirmModel" key="{43940B2B-E4A5-49AC-9D75-E823EAD7462E}" path="Survol_Mod_MainWin_Details_FirmModel.sj" />
+				</folder>
+				<folder name="MainWin_Grid_column_header">
+					<child name="Survol_Mod_Grid_column_header" key="{8E0998C2-0037-4925-A538-01BC58CA7927}" path="Survol_Mod_Grid_column_header.sj" />
+				</folder>
+				<child name="Survol_Mod_MainWin_CombinedDetailsHeader" key="{E396D0C3-7ED0-4F8E-9F17-B540521F0BF2}" path="Survol_Mod_MainWin_CombinedDetailsHeader.sj" />
+			</folder>
+			<child name="Transactions_Get_functions" key="{DDB202B2-8827-4D71-8C78-31157FB194E4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+		</folder>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{5947A267-842E-45D0-BB7C-6A58FFECCF9A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{E5B6006C-4D0E-4FB0-B2BE-9A6219C85A0E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{9BBAC458-19B6-4A11-8C81-7C3BC7933AC5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{C19F571A-4134-40FD-BAA0-B25F6AF81D69}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{3AEB662B-A921-4EED-A152-F29911B8CF34}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{8C53CC0D-C8DD-4B3B-9BEA-A1589A98576C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{A63101AC-87C5-4B3D-A5A5-961F8AC525E6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{A4040BD1-3131-4465-AFA5-84B58DB399E5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{3E6DF740-271A-4874-B248-21F7A8D1C80F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{D62E88D4-4479-48AF-AF89-3DEBFCA46488}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{977B12D7-DFB6-4DC6-BBEB-05221B91CC01}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{7879216C-607E-4D15-ABCE-9B7BB013B205}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{42E5727E-0D14-4400-A99B-8C3333F295D4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{E61571D9-B1F9-4883-BA2C-D04A19D40A03}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{09DA63E4-DD73-4A6F-860B-59D2CFAB8A1E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{019A9520-6952-4168-A9BD-4ADFA5A8F134}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{04B7D5CB-30C1-4565-A1B1-463D9AC9AC6B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{FC0A91FB-1F12-4EA0-AFD2-A77D7BFA80D7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="CommonCheckpoints" key="{BF360F4A-86AD-470D-A1AA-3DA0C1DE3B7D}" path="..\..\..\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="PDFUtils" key="{5EDB62AC-904C-4038-AF07-107BBE89DBC9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR1709">
+			<folder name="Environnement_Preparation">
+				<folder name="Creation_of_Model">
+					<folder name="Pour le cas 3120">
+						<child name="Creation_Models_3120" key="{AC919537-A075-410B-B7C0-4D6EED435011}" path="Creation_Models_3120.sj" />
+					</folder>
+					<child name="Creation_Discounted_Sec" key="{913EDB15-7B27-4FDF-B79C-2E41DE192F5A}" path="Creation_Discounted_Sec.js" />
+					<child name="Creation_TEST_CALCUL" key="{5459ED24-B9C0-49E7-B2DF-ABE4F0087513}" path="Creation_TEST_CALCUL.js" />
+					<child name="Creation_Test_CP" key="{C0FB64BF-4DB4-4626-B297-A84710A156DF}" path="Creation_Test_CP.js" />
+					<child name="Creation_Test_Global" key="{8C1331FD-0DC5-40BC-B6B1-02A43C639E5A}" path="Creation_Test_Global.js" />
+				</folder>
+				<child name="UnassignRelationship_ModelCROES984" key="{069B3FC3-C130-4ACD-BD8D-230C14CE0CD7}" path="UnassignRelationship_ModelCROES984.js" />
+			</folder>
+			<folder name="Sprint1">
+				<folder name="MOD2-21">
+					<child name="CR1709_2251_Check_Adding_Columns" key="{9F8544FB-DEA5-42A8-B18B-19CADA07FE0C}" path="CR1709_2251_Check_Adding_Columns.js" />
+					<child name="CR1709_2251_Check_Adding_Columns_KEYNEJ" key="{40EFCA06-D4FB-434F-A642-9986DB6B8617}" path="CR1709_2251_Check_Adding_Columns_KEYNEJ.js" />
+					<child name="CR1709_2307_Check_GPColumn_ExistingPosition" key="{5D986D1C-3896-4EFA-AED1-510348D25515}" path="CR1709_2307_Check_GPColumn_ExistingPosition.js" />
+					<child name="CR1709_2307_Check_GPColumn_ExistingPosition_TargetValue" key="{A2EC78BC-7E56-4697-81AD-253FE4E4A673}" path="CR1709_2307_Check_GPColumn_ExistingPosition_TargetValue.js" />
+					<child name="CR1709_2324_Check_GPColumn_ClosingReducingPosition_Firm" key="{4D6AF14D-30CF-421C-98A5-D042068B6B0B}" path="CR1709_2324_Check_GPColumn_ClosingReducingPosition_Firm.js" />
+					<child name="CR1709_2366_Check_GP_Recalculation" key="{22FA104E-5D14-4FD4-A997-2D4C8EB93F10}" path="CR1709_2366_Check_GP_Recalculation.js" />
+					<child name="CR1709_2452_Check_GPColumn_ClosingReducingPosition_CP" key="{F5BA41DF-6394-48BD-87EA-3B589264EF6A}" path="CR1709_2452_Check_GPColumn_ClosingReducingPosition_CP.js" />
+					<child name="CR1709_2511_Check_GP_Recalculation_QuantityModification" key="{2E435C3D-FD9A-48FF-A2B7-8267CE0FA6AC}" path="CR1709_2511_Check_GP_Recalculation_QuantityModification.js" />
+					<child name="CR1709_2512_Check_GP_Recalculation_DuringAddPosition" key="{2141733E-77FD-4ABB-8803-FA6194F0E91C}" path="CR1709_2512_Check_GP_Recalculation_DuringAddPosition.js" />
+					<child name="CR1709_2523_Check_GPColumn_US" key="{754F22E4-E9FF-4AA6-9A69-DA78A1868FAC}" path="CR1709_2523_Check_GPColumn_US.js" />
+					<child name="CR1709_2594_CheckCalculGP" key="{26285448-C2E3-4642-9416-52937C9CA354}" path="CR1709_2594_CheckCalculGP.js" />
+					<child name="CR1709_2892_GainsLosses_RegisteredAccounts" key="{D20D32DC-43D7-49B2-896B-72F21AD30468}" path="CR1709_2892_GainsLosses_RegisteredAccounts.js" />
+					<child name="CR1709_3118_Pref_Addition" key="{3AAD5C2E-1761-4558-8E2B-8E4540CD364A}" path="CR1709_3118_Pref_Addition.js" />
+					<child name="CR1709_3537_Check_GPColumn_During_PriceModification" key="{866428E7-B3F3-4D28-8F09-9EFB566B97CF}" path="CR1709_3537_Check_GPColumn_During_PriceModification.js" />
+					<child name="CR1709_4528_Check_GPColumn_Basket" key="{66B98A24-13CB-4938-84A1-1BD61A116133}" path="CR1709_4528_Check_GPColumn_Basket.sj" />
+				</folder>
+				<folder name="MOD2-24">
+					<child name="CR1709_2166_Edit_Price_CP_Model" key="{1D5F0CB6-CE04-4001-82B7-9126643E7350}" path="CR1709_2166_Edit_Price_CP_Model.sj" />
+					<child name="CR1709_2209_Edit_Price_UMA_Model1" key="{4C1D721F-5DAD-465C-8DCB-65E675F49A87}" path="CR1709_2209_Edit_Price_UMA_Model1.js" />
+					<child name="CR1709_2209_Edit_Price_UMA_Model2" key="{F8AB2DD7-4AC4-44A0-B7A3-84CC662FC6B0}" path="CR1709_2209_Edit_Price_UMA_Model2.js" />
+					<child name="CR1709_2210_Edit_Price_Ambassadeur_Model" key="{3B324085-0D28-4831-9D9D-C6EA9337705B}" path="CR1709_2210_Edit_Price_Ambassadeur_Model.js" />
+					<child name="CR1709_2218_Edit_Price_CP_Model" key="{100F126D-5851-4D1E-86E4-9905578147A3}" path="CR1709_2218_Edit_Price_CP_Model.js" />
+					<child name="CR1709_2219_Edit_Price_Model_Firm" key="{2A8BADBD-1E06-4D08-9611-39DB8E147652}" path="CR1709_2219_Edit_Price_Model_Firm.js" />
+					<child name="CR1709_2219_Edit_Price_Model_Firm_Manual" key="{FEE25E96-96DC-4534-9ACC-E25347CDFA29}" path="CR1709_2219_Edit_Price_Model_Firm_Manual.js" />
+					<child name="CR1709_2219_Edit_Price_Model_Firm_SelectedModel" key="{E78F3C0D-1C7B-4CA8-8DE3-B0C5EBA10AF2}" path="CR1709_2219_Edit_Price_Model_Firm_SelectedModel.js" />
+					<child name="CR1709_3309_Edit_Price_CP_Model_Panier" key="{0A19F3C3-17DD-4A06-9B0B-0F64AF786A9E}" path="CR1709_3309_Edit_Price_CP_Model_Panier.js" />
+				</folder>
+			</folder>
+			<folder name="Sprint2">
+				<folder name="MOD2-108">
+					<folder name="Validate_new_option_added_to_Step1_of_rebalancing">
+						<folder name="2559_2561_2562">
+							<child name="CR1709_2562_Option3Added_to_rebalancing_Assigned_Model" key="{EB126486-5464-458E-954F-7988AF4747B9}" path="CR1709_2562_Option3Added_to_rebalancing_Assigned_Model.sj" />
+							<child name="Preparation_FOR_2559_2561_2562" key="{BD324DA8-B763-4393-B957-A28A46367538}" path="Preparation_FOR_2559_2561_2562.sj" />
+							<child name="Restore_FOR_2559_2561_2562" key="{4CFAE63D-04CF-4AD8-B468-C9B40DCE1698}" path="Restore_FOR_2559_2561_2562.sj" />
+							<child name="CR1709_2559_Option1Added_to_rebalancing_Assigned_Model" key="{6A35D7C3-7AF8-4668-B4F8-35A58C5C668B}" path="CR1709_2559_Option1Added_to_rebalancing_Assigned_Model.sj" />
+							<child name="CR1709_2561_Option2Added_to_rebalancing_Parent_Model" key="{DBB2077A-2E66-4F7D-BE4E-344B4688899A}" path="CR1709_2561_Option2Added_to_rebalancing_Parent_Model.sj" />
+						</folder>
+						<child name="CR1709_2632_Option1_Held_Security_Under_SubModel_and_ParentModel" key="{A7828DA5-CA11-4CB1-A90F-200866FBD9AE}" path="CR1709_2632_Option1_Held_Security_Under_SubModel_and_ParentModel.sj" />
+						<child name="CR1709_2638_Option2_Held_Security_Under_SubModel_and_ParentModel" key="{17600B42-3E12-4918-900E-B8DE136CA5C2}" path="CR1709_2638_Option2_Held_Security_Under_SubModel_and_ParentModel.sj" />
+						<child name="CR1709_2639_Option3_Held_Security_Under_SubModel_and_ParentModel" key="{A0964372-2137-481B-AD26-78DE5BC41DEF}" path="CR1709_2639_Option3_Held_Security_Under_SubModel_and_ParentModel.sj" />
+					</folder>
+					<folder name="Regression rebalancing modele_sousModele">
+						<child name="CR1709_3120_Option1_Error_Message_Cas1" key="{61AB9F90-33F9-4E59-8567-68735257610C}" path="CR1709_3120_Option1_Error_Message_Cas1.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas2" key="{F72741A9-5433-4FC4-B59C-CFB9AF2B80C1}" path="CR1709_3120_Option1_Error_Message_Cas2.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas3" key="{A57122EE-8BD6-4F33-BD5B-84F45ED59E9E}" path="CR1709_3120_Option1_Error_Message_Cas3.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas4" key="{586923C8-27F3-46DF-8F38-50AC9645213E}" path="CR1709_3120_Option1_Error_Message_Cas4.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas5" key="{9A434C71-110F-4C41-B63D-F89AE91E5072}" path="CR1709_3120_Option1_Error_Message_Cas5.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas6" key="{71B1B4E1-C269-498D-9734-50771BDDEC36}" path="CR1709_3120_Option1_Error_Message_Cas6.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas7" key="{10DB780A-5EC7-460B-8F84-152E09ABCCE0}" path="CR1709_3120_Option1_Error_Message_Cas7.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas8" key="{6B97E92D-9155-4118-90FF-E6C5F0B8D7F4}" path="CR1709_3120_Option1_Error_Message_Cas8.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas9" key="{1E7A271E-C7AA-4F1A-A5EF-9DA957794ED9}" path="CR1709_3120_Option1_Error_Message_Cas9.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas10" key="{8D4CC577-08A7-4D91-B76A-5AA0142E4CE5}" path="CR1709_3120_Option1_Error_Message_Cas10.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas11" key="{171E5DA9-8446-463D-96ED-12F222313007}" path="CR1709_3120_Option1_Error_Message_Cas11.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas12" key="{BD5650BB-B874-4778-A622-5E72646E8C81}" path="CR1709_3120_Option1_Error_Message_Cas12.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas13" key="{69C4B497-EFB9-490C-8C6F-2BE65F76A33A}" path="CR1709_3120_Option1_Error_Message_Cas13.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas14" key="{0BFDAD1C-722B-4554-AABF-466DC69757C7}" path="CR1709_3120_Option1_Error_Message_Cas14.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas15" key="{A9433AF3-2533-4C3E-8B3E-E2B318407B7A}" path="CR1709_3120_Option1_Error_Message_Cas15.sj" />
+						<child name="CR1709_3120_Option1_Error_Message_Cas16" key="{E6D86110-7575-4DA0-BEA6-A750E4718E4A}" path="CR1709_3120_Option1_Error_Message_Cas16.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas1" key="{07969927-8362-402F-8B5B-87AAC859BAC8}" path="CR1709_3152_Option2_Error_Message_Cas1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas2" key="{7C5DB984-00AE-40B2-9D9F-87DDE565373C}" path="CR1709_3152_Option2_Error_Message_Cas2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas3" key="{D1BE21F6-7376-4C2D-AD8E-D8B1A9E04D68}" path="CR1709_3152_Option2_Error_Message_Cas3.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas4" key="{2D329D77-3BB8-41DB-AD94-30072CE616E0}" path="CR1709_3152_Option2_Error_Message_Cas4.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas5_1" key="{B29849D4-6A1D-4E99-B335-1A38CB51FC8F}" path="CR1709_3152_Option2_Error_Message_Cas5_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas5_2" key="{8D38286C-F36C-446A-A99D-C7C4E3D7CA28}" path="CR1709_3152_Option2_Error_Message_Cas5_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas6_1" key="{DB4BCCD8-D829-4753-9D68-DD41EE00CF7D}" path="CR1709_3152_Option2_Error_Message_Cas6_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas6_2" key="{E290CFFC-BD06-4D80-B367-04D419827DF1}" path="CR1709_3152_Option2_Error_Message_Cas6_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas7" key="{9E7D287D-50DF-4B59-B9FE-E60AA4CDF232}" path="CR1709_3152_Option2_Error_Message_Cas7.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas8" key="{D308BA99-4036-4895-8349-F616FE3CDE32}" path="CR1709_3152_Option2_Error_Message_Cas8.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas9_1" key="{ACB7D06B-0FB0-467F-8718-7ABE2B5EBA51}" path="CR1709_3152_Option2_Error_Message_Cas9_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas9_2" key="{0F961C12-6911-4D48-8655-EE1237D5EA75}" path="CR1709_3152_Option2_Error_Message_Cas9_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas10_1" key="{1FFAB8FD-33A0-45D3-A088-739F6A0060F0}" path="CR1709_3152_Option2_Error_Message_Cas10_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas10_2" key="{0211F416-5F4E-4BBB-88C6-A63AE30F52D2}" path="CR1709_3152_Option2_Error_Message_Cas10_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas11" key="{20AA5AB2-7D94-4499-845A-5CF4234A2D42}" path="CR1709_3152_Option2_Error_Message_Cas11.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas12" key="{6ADFC5D8-D897-46F3-A290-73C3E181BAAA}" path="CR1709_3152_Option2_Error_Message_Cas12.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas13_1" key="{5FA9F26B-5FAE-4B7D-B46C-E0F6B133BC01}" path="CR1709_3152_Option2_Error_Message_Cas13_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas13_2" key="{0410BD2C-8AEF-4C58-9ED6-4C87C48695E6}" path="CR1709_3152_Option2_Error_Message_Cas13_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas14_1" key="{3160F5B6-FFFE-435C-9471-E367644D3C80}" path="CR1709_3152_Option2_Error_Message_Cas14_1.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas14_2" key="{7F56A1D8-0A3E-4202-950B-461BEA004C6B}" path="CR1709_3152_Option2_Error_Message_Cas14_2.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas15" key="{0AD6789F-B6A1-4786-8EE4-4FDE7E43A00D}" path="CR1709_3152_Option2_Error_Message_Cas15.sj" />
+						<child name="CR1709_3152_Option2_Error_Message_Cas16" key="{C9D82AB3-43B2-4A8B-8A2F-15A337232DC4}" path="CR1709_3152_Option2_Error_Message_Cas16.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas1" key="{06FDFE79-9068-496F-9B52-4ED0FD8E5EFE}" path="CR1709_3157_Option3_Error_Message_Cas1.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas2" key="{C33C5BA9-A217-4686-9FCD-969FD73E52BF}" path="CR1709_3157_Option3_Error_Message_Cas2.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas3" key="{E6676265-5B03-411B-94FD-ACBF8BDAC5F3}" path="CR1709_3157_Option3_Error_Message_Cas3.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas4" key="{8A8130F5-40BB-49FF-B2A4-ACFBBF1C0EEE}" path="CR1709_3157_Option3_Error_Message_Cas4.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas5" key="{0968BB09-9FF4-498D-8D5B-544BD2955C89}" path="CR1709_3157_Option3_Error_Message_Cas5.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas6" key="{55D8346E-9AEC-47BE-9DDD-30B5E72073F0}" path="CR1709_3157_Option3_Error_Message_Cas6.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas7" key="{0AB100E3-DB33-447B-9CC2-3314DD15F059}" path="CR1709_3157_Option3_Error_Message_Cas7.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas8" key="{A7F9DFFB-AC6E-4E85-B268-12398CDCC7DF}" path="CR1709_3157_Option3_Error_Message_Cas8.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas9" key="{6DF44B7D-A8CB-4121-A0C3-2BD68C868742}" path="CR1709_3157_Option3_Error_Message_Cas9.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas11" key="{2BF0897E-C478-4984-BD9C-67794FFB670F}" path="CR1709_3157_Option3_Error_Message_Cas11.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas12" key="{0D9DA1FE-EBEC-433C-9669-8837161FB5E3}" path="CR1709_3157_Option3_Error_Message_Cas12.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas15" key="{FA54FE11-F39D-4418-9260-1EC6F7051B33}" path="CR1709_3157_Option3_Error_Message_Cas15.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas16" key="{6D2DFC39-769D-4CA1-8F6B-1B762B22DFA9}" path="CR1709_3157_Option3_Error_Message_Cas16.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas10_1" key="{ACBAB3F0-C830-4893-BA6D-4820A64DDD09}" path="CR1709_3157_Option3_Error_Message_Cas10_1.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas13" key="{6F5F9913-3A2C-4204-8851-A751F24CDD35}" path="CR1709_3157_Option3_Error_Message_Cas13.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas14" key="{061D4DE5-46FC-4FE6-9470-6A1C1F5A0F98}" path="CR1709_3157_Option3_Error_Message_Cas14.sj" />
+						<child name="CR1709_3157_Option3_Error_Message_Cas10_2" key="{610BA824-AFF4-4853-8EF7-04A9C3B841D0}" path="CR1709_3157_Option3_Error_Message_Cas10_2.sj" />
+					</folder>
+					<child name="CR1709_2560_Check_labels" key="{089FDA00-31A6-4ADB-AC13-223526219481}" path="CR1709_2560_Check_labels.sj" />
+				</folder>
+				<folder name="MOD2-9">
+					<child name="CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_1" key="{C5068C93-E9D1-4620-99A0-731C0F01C1AA}" path="CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_1.sj" />
+					<child name="CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_2" key="{FAC257B3-0BDF-472D-9197-CD28E2266417}" path="CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_2.sj" />
+					<child name="CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_3" key="{6A9549C2-CE28-4CDD-AAA2-F330F718DBDE}" path="CR1709_2659_Check_PREF_ENABLE_ACCOUNT_CASH_MANAGEMENT_3.sj" />
+					<child name="CR1709_2660_Check_Controls_of_TabCashManagement" key="{C34A5EA1-7A3D-48AB-97D9-E51D48EA0A77}" path="CR1709_2660_Check_Controls_of_TabCashManagement.sj" />
+					<child name="CR1709_2661_Check_BD_of_TabCashManagement" key="{07C2B656-EC06-4312-9DE9-4F8F0D878010}" path="CR1709_2661_Check_BD_of_TabCashManagement.sj" />
+					<child name="CR1709_2863_Check_of_TabCashManagement" key="{004C6CF0-76F5-41F0-B2CB-94CF2FD81D01}" path="CR1709_2863_Check_of_TabCashManagement.sj" />
+					<child name="CR1709_2865_Check_Amount_Field_Obligatory" key="{A2A9F31B-5060-4D47-9021-171EC97FC83A}" path="CR1709_2865_Check_Amount_Field_Obligatory.sj" />
+					<child name="CR1709_2864_Check_Date_Field_Obligatory" key="{5DA67F7B-EF90-4686-B402-6B91F82F19A4}" path="CR1709_2864_Check_Date_Field_Obligatory.sj" />
+					<child name="CR1709_2866_Check_DateAmount_Fields_Obligatory" key="{0A4556E8-AEA1-482C-A55F-2A8B157A53BC}" path="CR1709_2866_Check_DateAmount_Fields_Obligatory.sj" />
+					<child name="CR1709_2662_Check_New_Columns" key="{B0ADB511-D24D-4736-8841-5A485F6B6E51}" path="CR1709_2662_Check_New_Columns.sj" />
+					<child name="CR1709_2925_Check_New_Columns" key="{6A54C555-A049-4596-99CD-224FF7021313}" path="CR1709_2925_Check_New_Columns.sj" />
+					<child name="CR1709_2868_Check_Frequency_Field" key="{44EC3B11-A20D-42EF-903F-AEA478993DEC}" path="CR1709_2868_Check_Frequency_Field.sj" />
+				</folder>
+				<folder name="MOD2-121">
+					<child name="Preparation" key="{59920423-59A3-4523-94DD-6FE9A2A0E00A}" path="Preparation.sj" />
+					<child name="Restore" key="{D88F20A6-8F5A-406A-9643-08144C518CAE}" path="Restore.sj" />
+					<child name="CR1709_2843_Check_rebalancing_with_withdrawal" key="{41C98C64-F5FC-46F8-8B52-1AF0073F4475}" path="CR1709_2843_Check_rebalancing_with_withdrawal.sj" />
+					<child name="CR1709_4471_Check_rebalancing_with_withdrawal" key="{B54BDC66-2CE8-44F1-BA56-4AA766BEB19B}" path="CR1709_4471_Check_rebalancing_with_withdrawal.sj" />
+					<child name="CR1709_2962_Check_rebalancing_with_withdrawal" key="{9A10FEFE-D2D4-4235-BD27-9FD8F757E8C5}" path="CR1709_2962_Check_rebalancing_with_withdrawal.sj" />
+				</folder>
+				<folder name="MOD2-163">
+					<child name="CR1709_2902_Create_SearchCriteria_BasedOnWithdrawals" key="{C7873A48-A48B-463C-A3D8-522FEE000CB4}" path="CR1709_2902_Create_SearchCriteria_BasedOnWithdrawals.sj" />
+					<child name="CR1709_3306_AdvancedCriterion_OnWithdrawal" key="{6DEDFA84-EF2A-43BC-886A-5FB9417347E7}" path="CR1709_3306_AdvancedCriterion_OnWithdrawal.sj" />
+					<child name="CR1709_4534_OperatorsOfSearchCriteria_BasedOnWithdrawals" key="{A578EDB0-1E1A-478C-BEE7-2B1345F083FB}" path="CR1709_4534_OperatorsOfSearchCriteria_BasedOnWithdrawals.sj" />
+				</folder>
+				<child name="CR1709_2548_Check_RebalancingParameter_depends_on_rebalance_submodel" key="{817B52C7-7FDF-4E33-A8A1-0D2975104FF8}" path="CR1709_2548_Check_RebalancingParameter_depends_on_rebalance_submodel.sj" />
+			</folder>
+			<folder name="Sprint4">
+				<folder name="MOD2-226">
+					<child name="CR1709_2975_CheckCreatorOfTheOrder_inAccumulator" key="{4B8C9820-22BF-4437-84BA-0606651D20D3}" path="CR1709_2975_CheckCreatorOfTheOrder_inAccumulator.sj" />
+					<child name="CR1709_2976_CheckCreator_WhenMergingOrders" key="{6CC0271D-24F0-42AF-B1BE-D515BB0BEFF1}" path="CR1709_2976_CheckCreator_WhenMergingOrders.sj" />
+					<child name="CR1709_3002_CheckCreator_WhenMergingOrders" key="{8CEA6FC7-C53D-432B-BE07-7DA2FC72F67A}" path="CR1709_3002_CheckCreator_WhenMergingOrders.sj" />
+					<child name="CR1709_4631_CheckCreator_WhenMergingOrders" key="{2B7BE286-8F0A-43F8-B2D1-A16F709D5786}" path="CR1709_4631_CheckCreator_WhenMergingOrders.sj" />
+				</folder>
+				<folder name="MOD2-360">
+					<child name="CR1709_3201_Check_AlternativeSecurity_Basket" key="{BAC36AEA-0C8F-4DCF-B0BA-A5A517C3C11F}" path="CR1709_3201_Check_AlternativeSecurity_Basket.sj" />
+					<child name="CR1709_3202_Check_AlternativeSecurity_Basket" key="{B8D14C8C-3AA3-490B-91D6-31710C7407BF}" path="CR1709_3202_Check_AlternativeSecurity_Basket.sj" />
+					<child name="CR1709_3546_Check_PurchaseOfRechange_ifBasketImpossibleToBuy" key="{18D4CD1D-1337-4ABA-B823-5F4958F98E8F}" path="CR1709_3546_Check_PurchaseOfRechange_ifBasketImpossibleToBuy.sj" />
+				</folder>
+				<folder name="MOD2-7">
+					<child name="CR1709_3012_Check_PresenceOfCheckBox_BusinessAccount" key="{E9288E1D-4136-45E4-A13E-8263C1B2A3ED}" path="CR1709_3012_Check_PresenceOfCheckBox_BusinessAccount.sj" />
+					<child name="CR1709_3162_Check_CompanyAccount_when_CreatingAaccount" key="{D092A0D2-9794-456B-945C-942D1FE89153}" path="CR1709_3162_Check_CompanyAccount_when_CreatingAaccount.sj" />
+					<child name="CR1709_3164_Realancing_CriterionOnBusinessAccount" key="{74292815-7B18-418B-86C7-80AAAFDE429E}" path="CR1709_3164_Realancing_CriterionOnBusinessAccount.sj" />
+				</folder>
+				<folder name="MOD2-868">
+					<child name="CR1709_3610_Check_AdditionOfSubstitution_Basket" key="{D92616CD-AC1F-4B82-94A9-11D07626E1FF}" path="CR1709_3610_Check_AdditionOfSubstitution_Basket.sj" />
+				</folder>
+				<folder name="MOD2-Validate intraday functionality for a specific branch">
+					<child name="CR1709_3026_Check_Activation_Intraday_for_SpecificBranch" key="{64C60CBC-FCE9-4507-A969-AA9668D3FFCD}" path="CR1709_3026_Check_Activation_Intraday_for_SpecificBranch.sj" />
+					<child name="CR1709_3028_Check_Intraday_Functionality_fo_SpecificBranch" key="{0467DCCB-11E1-4726-8EF8-7E6068E2EF65}" path="CR1709_3028_Check_Intraday_Functionality_fo_SpecificBranch.sj" />
+					<child name="CR1709_4657_Check_Activation_intraday_Functionality3" key="{B1119C99-6C81-484B-9137-B06DC101125E}" path="CR1709_4657_Check_Activation_intraday_Functionality3.sj" />
+					<child name="Pref_Activation_For_GDO" key="{1ADA7AB6-3060-4E21-BC9E-80541F118660}" path="Pref_Activation_For_GDO.sj" />
+				</folder>
+			</folder>
+			<folder name="Sprint5">
+				<folder name="MOD2-STORY-Substitutions">
+					<child name="CR1709_3115_UIValidation_User_NoAccesRights" key="{6198608E-68A8-4A44-9BE2-704D23A96B50}" path="CR1709_3115_UIValidation_User_NoAccesRights.sj" />
+					<child name="CR1709_3273_Validate_Rebalancing_Replacement_With_Locked_Position" key="{0E0A0881-1884-46F6-9B41-A6A8D7AF17C1}" path="CR1709_3273_Validate_Rebalancing_Replacement_With_Locked_Position.sj" />
+					<child name="CR1709_3099_SpecifySameComplementSecurity_OnMultiplePositions" key="{B232FBE1-3810-48E4-BBDC-2CD8962596BA}" path="CR1709_3099_SpecifySameComplementSecurity_OnMultiplePositions.sj" />
+					<child name="CR1709_3103_ReplacementAndPrincipal_held_inPortfolio" key="{DC623AD5-5563-4307-91D1-81CA8DFC2FBE}" path="CR1709_3103_ReplacementAndPrincipal_held_inPortfolio.sj" />
+					<child name="CR1709_3104_OnlyReplacement_SecurityHeld_inPortfolio" key="{F68DF2BD-3B39-4F58-9A0A-17590515979D}" path="CR1709_3104_OnlyReplacement_SecurityHeld_inPortfolio.sj" />
+					<child name="CR1709_3106_Validate_Rebalancing" key="{12FF014D-8375-4F42-9471-CD60C31F7737}" path="CR1709_3106_Validate_Rebalancing.sj" />
+					<child name="CR1709_3107_ValidateAdding_SubstitutionTypeBasket" key="{7B751A39-A5FF-4892-9B7F-1090D0DCB6DF}" path="CR1709_3107_ValidateAdding_SubstitutionTypeBasket.sj" />
+					<child name="CR1709_3113_Check_Labels_SubstitutionTitle" key="{AE6F368D-A2A6-4ECA-B835-ECE1A646655F}" path="CR1709_3113_Check_Labels_SubstitutionTitle.sj" />
+					<child name="CR1709_3183_Replacement_isNotHeld_in_Portfolio" key="{8F1B4107-78EB-43D4-806C-9C04CC18C69E}" path="CR1709_3183_Replacement_isNotHeld_in_Portfolio.sj" />
+					<child name="CR1709_3814_CheckRebalancing_withBlockedComplement" key="{76370ACC-3622-49DE-A823-AB805E2164AF}" path="CR1709_3814_CheckRebalancing_withBlockedComplement.sj" />
+					<child name="CR1709_3544_Validate_Rebalancing_Replacement_With_Replacement_Position" key="{44DDB0DD-B2DD-4A5B-A4DC-1154E4551B8F}" path="CR1709_3544_Validate_Rebalancing_Replacement_With_Replacement_Position.sj" />
+					<child name="CR1709_3548_PrincipalSecurityCannotBeAReplacementSecurity" key="{1E1DCB61-2F46-4375-B63C-DC80571D9DC8}" path="CR1709_3548_PrincipalSecurityCannotBeAReplacementSecurity.sj" />
+					<child name="CR1709_3138_ValidateFallBack_IfOwnedInAccount" key="{52FAD71C-EFC0-48EB-9C38-48174A9D2DD4}" path="CR1709_3138_ValidateFallBack_IfOwnedInAccount.sj" />
+					<child name="CR1709_3129_ValidateBuyOrderOnAlternativeSecurity" key="{945880CE-E39B-491B-8E94-B3F372724FEB}" path="CR1709_3129_ValidateBuyOrderOnAlternativeSecurity.sj" />
+					<child name="CR1709_3110_Validate_AlternativeSecurity_Creation_On_ReplacementSecurity" key="{75B50FC2-E51D-4697-BB74-A9FC18950BDE}" path="CR1709_3110_Validate_AlternativeSecurity_Creation_On_ReplacementSecurity.sj" />
+					<child name="CR1709_3111_Validate_GeneratedOrders_if_AlternativeSecurity_Held_inPortfolio" key="{4DC9D65A-64BD-452A-9AB3-FD7BF4F6C1AC}" path="CR1709_3111_Validate_GeneratedOrders_if_AlternativeSecurity_Held_inPortfolio.sj" />
+					<child name="CR1709_3137_Validate_Rebalancing_if_AltSecurities_Defined_inSubModel" key="{9EC2264F-78CE-4659-A2FA-C44DAAD60433}" path="CR1709_3137_Validate_Rebalancing_if_AltSecurities_Defined_inSubModel.sj" />
+					<child name="CR1709_3139_FallBackIs_A_ModelPosition" key="{E298078B-CD31-4EC3-8AF0-11DAD38F98A8}" path="CR1709_3139_FallBackIs_A_ModelPosition.sj" />
+					<child name="CR1709_3108_AlternativeSecurity_DefinedOn_LockedPosition" key="{9C1AB735-2B43-4734-821D-9E17C723F119}" path="CR1709_3108_AlternativeSecurity_DefinedOn_LockedPosition.sj" />
+					<child name="CR1709_3318_ValidateOrdersOnSubstitute_if_Security_hasMinimumPurchase" key="{424FA77E-DBDB-4611-BF7A-92CAE66EF9BB}" path="CR1709_3318_ValidateOrdersOnSubstitute_if_Security_hasMinimumPurchase.sj" />
+					<child name="CR1709_4102_ValidateMinimumPurchaseWhenSubstitute_isNotHeld_inPortfolio" key="{50A55480-CC81-4BC8-8F71-978FFEBCF589}" path="CR1709_4102_ValidateMinimumPurchaseWhenSubstitute_isNotHeld_inPortfolio.sj" />
+				</folder>
+			</folder>
+			<folder name="Sprint7">
+				<folder name="MOD2-122">
+					<child name="CR1709_4688_Algorithm_FocusOn_Sale_of_FallBack_Securities" key="{23469BEC-0BA9-4B08-AE02-CFD650A44A51}" path="CR1709_4688_Algorithm_FocusOn_Sale_of_FallBack_Securities.sj" />
+					<child name="CR1709_3204_Release_AmountCash_in_CorrectAccounts" key="{44D1C865-FA2E-4B37-AB30-9C3CA8308122}" path="CR1709_3204_Release_AmountCash_in_CorrectAccounts.sj" />
+					<child name="CR1709_3549_ValidateNonRedeemableSecurityRebalancingAnd_CashManagement" key="{B59BB613-B157-466B-99E3-ACB2A4374498}" path="CR1709_3549_ValidateNonRedeemableSecurityRebalancingAnd_CashManagement.sj" />
+					<child name="CR1709_3308_Validate_that_sale_prioritizes_SellExcessCash" key="{A94DD0FB-4ED1-41AF-BC5C-69FE26C1632B}" path="CR1709_3308_Validate_that_sale_prioritizes_SellExcessCash.sj" />
+					<child name="CR1709_3580_Release_CashAmount_in_the_appropriateAccounts" key="{0D48EAA7-6368-4BA1-BD21-7751B002DE23}" path="CR1709_3580_Release_CashAmount_in_the_appropriateAccounts.sj" />
+				</folder>
+			</folder>
+		</folder>
+		<folder name="Regression">
+			<child name="Regression_Model_AideContextuelle" key="{F35A7BF0-142E-43F4-81E0-E0D823D264D4}" path="Regression_Model_AideContextuelle.sj" />
+			<child name="Regression_Model_AjouterModeleParBouton" key="{B20A4DAF-F388-4A49-BFE1-F648D467F0D2}" path="Regression_Model_AjouterModeleParBouton.sj" />
+			<child name="Regression_Model_AjouterModeleParClicDroit" key="{805DC407-221F-467E-B0E0-D6E122A00BA2}" path="Regression_Model_AjouterModeleParClicDroit.sj" />
+			<child name="Regression_Model_AjouterModeleParMenu" key="{167EAF2E-39F8-4507-B233-178563ED0A5D}" path="Regression_Model_AjouterModeleParMenu.sj" />
+			<child name="Regression_Model_AjouterModeleParRaccourci" key="{E58E029E-0456-4485-ABEB-A70AC9BEF8B1}" path="Regression_Model_AjouterModeleParRaccourci.sj" />
+			<child name="Regression_Model_AjouterObjectifPlacement" key="{A639A918-83B6-403F-917E-C367AD5874C6}" path="Regression_Model_AjouterObjectifPlacement.sj" />
+			<child name="Regression_Model_AjouterRestriction" key="{1393EDAA-5ED4-47B8-8E53-C85C5F680B19}" path="Regression_Model_AjouterRestriction.sj" />
+			<child name="Regression_Model_AssocierClient" key="{4C62162B-A006-4B50-8145-8060E5BCDD4D}" path="Regression_Model_AssocierClient.sj" />
+			<child name="Regression_Model_AssocierCompte" key="{0306AD6C-5230-4A31-BA6E-0A56D61B2827}" path="Regression_Model_AssocierCompte.sj" />
+			<child name="Regression_Model_AssocierRelation" key="{BD64D4A4-778C-4C4C-A584-DE1459A70CA0}" path="Regression_Model_AssocierRelation.sj" />
+			<child name="Regression_Model_AssocierRelationDejaAssociee" key="{C851321C-0E38-4BD7-80F1-F7EB8D05F71C}" path="Regression_Model_AssocierRelationDejaAssociee.sj" />
+			<child name="Regression_Model_ChainerCompteAPartirDeModele" key="{2D622EAB-677C-46D0-A4E7-B238D24CC54E}" path="Regression_Model_ChainerCompteAPartirDeModele.sj" />
+			<child name="Regression_Model_ChainerModeleAutres" key="{8028E6F4-6498-4257-8D19-1A5BB2E594E7}" path="Regression_Model_ChainerModeleAutres.sj" />
+			<child name="Regression_Model_ChainerModeleClient" key="{377CA6EC-DFB6-43EA-B71C-E5265C1F7845}" path="Regression_Model_ChainerModeleClient.sj" />
+			<child name="Regression_Model_ChainerModeleClient_Relation" key="{42220AAB-3A29-4B0A-9E20-675F8EAFF363}" path="Regression_Model_ChainerModeleClient_Relation.sj" />
+			<child name="Regression_Model_ChainerModeleCompte" key="{1C068C49-F376-421C-BF96-95834A6C02A8}" path="Regression_Model_ChainerModeleCompte.sj" />
+			<child name="Regression_Model_ChainerModeleCompte_DroitDacces" key="{62EC9104-6193-43E3-9DB5-C29EC461AD5C}" path="Regression_Model_ChainerModeleCompte_DroitDacces.sj" />
+			<child name="Regression_Model_ChainerModelePlusieursClients" key="{1742C6F6-CE99-4405-937F-156618E9566B}" path="Regression_Model_ChainerModelePlusieursClients.sj" />
+			<child name="Regression_Model_ChainerModelePlusieursComptes" key="{E308EFE9-3C2C-48AE-90AB-EA911694AA4D}" path="Regression_Model_ChainerModelePlusieursComptes.sj" />
+			<child name="Regression_Model_ChainerModelePortefeuille" key="{88DE5540-1D85-4187-B246-D9F48966ED35}" path="Regression_Model_ChainerModelePortefeuille.sj" />
+			<child name="Regression_Model_ChainerModeleRelation" key="{C4EADC28-D8AA-41D0-A287-BA4E3824F496}" path="Regression_Model_ChainerModeleRelation.sj" />
+			<child name="Regression_Model_ChainerModeleRelation_Client" key="{4FF790FA-F819-4512-9647-835E944EC921}" path="Regression_Model_ChainerModeleRelation_Client.sj" />
+			<child name="Regression_Model_ChainerModules" key="{06FBD1EA-1E7D-4241-BFDE-A6E6F8822F78}" path="Regression_Model_ChainerModules.sj" />
+			<child name="Regression_Model_ChangerTriClicDroit" key="{6CFA8C0C-12FC-4FDD-82AF-A8EC97960DE6}" path="Regression_Model_ChangerTriClicDroit.sj" />
+			<child name="Regression_Model_ChangerTriColonnes" key="{23E56387-8FA8-4CB9-A803-5C691F86200B}" path="Regression_Model_ChangerTriColonnes.sj" />
+			<child name="Regression_Model_ChangerTriReequilibrage" key="{CA1010ED-5FD1-4815-8D86-4BAA7798B1D8}" path="Regression_Model_ChangerTriReequilibrage.sj" />
+			<child name="Regression_Model_ClicDroitFonctions" key="{EDD37D13-7DA3-4034-B1F2-1266D10B7615}" path="Regression_Model_ClicDroitFonctions.sj" />
+			<child name="Regression_Model_ClientDejaAssocie" key="{2F1890C3-AB97-4030-88CE-38FACAC62BAE}" path="Regression_Model_ClientDejaAssocie.sj" />
+			<child name="Regression_Model_CompteDejaAssocie" key="{2FB8FF83-885E-4448-BE15-AE2A94DD7D90}" path="Regression_Model_CompteDejaAssocie.sj" />
+			<child name="Regression_Model_DeplacerColonnes" key="{8D9219B0-5A53-401C-A6BF-38E25EF6E7E7}" path="Regression_Model_DeplacerColonnes.sj" />
+			<child name="Regression_Model_EnleverClient" key="{9C03CE74-12D9-414A-BC24-704890133C8D}" path="Regression_Model_EnleverClient.sj" />
+			<child name="Regression_Model_EnleverColonne" key="{B882F01D-B422-453D-B8D5-041A0382A212}" path="Regression_Model_EnleverColonne.sj" />
+			<child name="Regression_Model_EnleverCompte" key="{3683B4A1-57A5-44AE-B3E4-D0B1A8C77D73}" path="Regression_Model_EnleverCompte.sj" />
+			<child name="Regression_Model_EnleverRelation" key="{50324A5D-9380-408C-B5E1-DE1C086A7BB7}" path="Regression_Model_EnleverRelation.sj" />
+			<child name="Regression_Model_ExporterExcel" key="{768033B6-FBC3-4F91-A1B8-D71A21378007}" path="Regression_Model_ExporterExcel.sj" />
+			<child name="Regression_Model_ExporterFichier" key="{1ACD5DBA-24F0-4DD9-8832-3F5B38A7A881}" path="Regression_Model_ExporterFichier.sj" />
+			<child name="Regression_Model_Imprimer" key="{7C8F9B98-FAD8-4304-B7A3-D32A64B50473}" path="Regression_Model_Imprimer.sj" />
+			<child name="Regression_Model_MenuClicDroit" key="{58FAC877-6B17-4002-944A-E714DB1605EA}" path="Regression_Model_MenuClicDroit.sj" />
+			<child name="Regression_Model_MenuContext_Copier" key="{DED84C48-903E-4EC2-A7D1-468F1BBAE391}" path="Regression_Model_MenuContext_Copier.sj" />
+			<child name="Regression_Model_MenuContext_CopierAvecEntete" key="{CE21CD7C-10A2-49EC-8F3B-98638684CCEA}" path="Regression_Model_MenuContext_CopierAvecEntete.sj" />
+			<child name="Regression_Model_ModifierModeleParBouton" key="{4B82875F-1748-4B8B-9F5B-13E9B2F36F21}" path="Regression_Model_ModifierModeleParBouton.sj" />
+			<child name="Regression_Model_ModifierModeleParClicDroit" key="{2C4C72E0-A563-44C0-99F2-C90ED6DEF953}" path="Regression_Model_ModifierModeleParClicDroit.sj" />
+			<child name="Regression_Model_ModifierModeleParMenu" key="{651E540B-C875-4C4A-A8EB-7F245CEB156A}" path="Regression_Model_ModifierModeleParMenu.sj" />
+			<child name="Regression_Model_ModifierModeleParRaccourci" key="{2D05F68B-AB6E-4AA4-BF64-10C33A351406}" path="Regression_Model_ModifierModeleParRaccourci.sj" />
+			<child name="Regression_Model_SupprimerModeleParBouton" key="{BDD318E9-BE69-4E24-B822-3DBAF11CF0EF}" path="Regression_Model_SupprimerModeleParBouton.sj" />
+			<child name="Regression_Model_SupprimerModeleParClavier" key="{3EC1DCF2-66DC-4850-82D1-95B27E9D2A9E}" path="Regression_Model_SupprimerModeleParClavier.sj" />
+			<child name="Regression_Model_SupprimerModeleParClicDroit" key="{7590B72C-196B-4C53-8074-C54FCEDCB0B9}" path="Regression_Model_SupprimerModeleParClicDroit.sj" />
+			<child name="Regression_Model_SupprimerModeleParMenu" key="{DB60062E-5221-4F37-B28F-E57CBE923979}" path="Regression_Model_SupprimerModeleParMenu.sj" />
+			<child name="Regression_Model_TesterBoutonTousPortefeuille" key="{109CAC79-F70A-41C6-B596-C3E5CA4A4340}" path="Regression_Model_TesterBoutonTousPortefeuille.sj" />
+			<child name="Regression_Model_ModifierOrdreProposeSurPanier" key="{44982518-AD16-44BC-9A13-876389BCD817}" path="Regression_Model_ModifierOrdreProposeSurPanier.sj" />
+		</folder>
+		<folder name="Anomalies">
+			<child name="CROES_8369_CrashAtstep1OfRebalanciWhenEnteringNbMonthsInTheFieldSystematicWithdrawals" key="{B4C2C8D0-EAAE-40A2-AF04-0B77FE9D801E}" path="CROES_8369_CrashAtstep1OfRebalanciWhenEnteringNbMonthsInTheFieldSystematicWithdrawals.sj" />
+			<child name="CROES_8527_IntradayBtnNotActivWhenLadderClienOrRelationshipToPortfolio" key="{C4A8349F-2561-4AB1-8901-FC668D794EAE}" path="CROES_8527_IntradayBtnNotActivWhenLadderClienOrRelationshipToPortfolio.sj" />
+			<child name="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupREAGAR" key="{1805361C-69E3-473B-A6EB-65FC7AD5AB49}" path="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupREAGAR.sj" />
+			<child name="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupKEYNEJ" key="{0272A87C-5A3C-4353-8BFA-2AF6B6A5983B}" path="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupKEYNEJ.sj" />
+			<child name="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupJEFFET" key="{86B66B66-CFAC-4B0A-B5CB-D1D99725A06C}" path="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupJEFFET.sj" />
+			<child name="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupUNI00" key="{0BF1A5E6-F945-4825-9619-F106AEC66405}" path="BNC_1748_RebalaCriteriaForARepresentaTheDefaultAccessLevelShouldBeWorkgroupUNI00.sj" />
+			<child name="BNC_1628_CrashAtstep4OfTheRebalancinWhenPriceTheReplacementTitleIsZero" key="{1872FEED-27D2-43D7-B19C-58C27FAE1FBD}" path="BNC_1628_CrashAtstep4OfTheRebalancinWhenPriceTheReplacementTitleIsZero.sj" />
+			<child name="CROES_9031_ModMissingColumnsInTheNotesGrid" key="{CF232816-9715-4C66-B0AF-1C8D68980AC2}" path="CROES_9031_ModMissingColumnsInTheNotesGrid.sj" />
+			<child name="BNC_1615_RebalancingNotRespectRebalancingCriterionAssociatedwithModel" key="{DB98CA77-2682-4099-9A3B-0AF85D55C13F}" path="BNC_1615_RebalancingNotRespectRebalancingCriterionAssociatedwithModel.sj" />
+			<child name="CROES_9345_Mod_ExcelExportDoesNotRespectOrderOfColumnsInGrid" key="{81369E53-13F3-45E7-96B9-A40EB55AC90F}" path="CROES_9345_Mod_ExcelExportDoesNotRespectOrderOfColumnsInGrid.sj" />
+			<child name="CROES_9345_ModDetail_ExcelExportDoesNotRespectOrderOfColumnsInGrid" key="{CDAF220F-D3E3-4508-B208-39A4767F8484}" path="CROES_9345_ModDetail_ExcelExportDoesNotRespectOrderOfColumnsInGrid.sj" />
+			<child name="CROES_9345_ModDetPos_ExcelExportDoesNotRespectOrderOfColumnsInGrid" key="{3AE8010C-954E-446E-BA80-CFF9F66B91A1}" path="CROES_9345_ModDetPos_ExcelExportDoesNotRespectOrderOfColumnsInGrid.sj" />
+			<child name="CROES_9345_ModDetRebCri_ExcelExportDoesNotRespectOrderOfColumnsInGrid" key="{32DD3110-3130-46C6-B29F-66B8992A4564}" path="CROES_9345_ModDetRebCri_ExcelExportDoesNotRespectOrderOfColumnsInGrid.sj" />
+			<child name="CROES_9642_DeletCPCodFieldWhenChangTypModelCreatFromFRMToCP" key="{A63F246D-31F4-47D8-8219-85AEDC4485E3}" path="CROES_9642_DeletCPCodFieldWhenChangTypModelCreatFromFRMToCP.sj" />
+			<child name="BNC_1526_CrashStep4OfRebalancWhenOrderSelectIsExporToExcel" key="{EB97635A-07AF-4758-9F43-C6237907F6A7}" path="BNC_1526_CrashStep4OfRebalancWhenOrderSelectIsExporToExcel.sj" />
+			<child name="CROES_9345_Mod_CheckExcelExportData" key="{ABEFD3F5-B689-41E6-A798-6F6237FAF707}" path="CROES_9345_Mod_CheckExcelExportData.sj" />
+			<child name="CROES_9345_ModDetPos_CheckExcelExportData" key="{5B83354C-C6C7-4A48-B0D3-CE3BE0513784}" path="CROES_9345_ModDetPos_CheckExcelExportData.sj" />
+			<child name="BNC_2433_Mod_PercentIsZeroInAssetAllocationGraph" key="{173C8851-ACBA-49E5-A936-6BB1DFBE0171}" path="BNC_2433_Mod_PercentIsZeroInAssetAllocationGraph.sj" />
+			<child name="AnomalieMaillageFromModelToAccomp" key="{C2D58DB8-C267-495A-A824-1E5745426471}" path="AnomalieMaillageFromModelToAccomp.js" />
+			<child name="AnomalieMaillageFromModelToClient" key="{EE4B01C9-EEEF-4744-916E-D89628D4E118}" path="AnomalieMaillageFromModelToClient.js" />
+			<child name="AnomalieMaillageFromModelToPortfolio" key="{16FC5794-92D4-4EAE-A736-4977991AD630}" path="AnomalieMaillageFromModelToPortfolio.js" />
+			<child name="AnomalieMaillageFromModelToRelationShip" key="{5231B383-D5DE-47E5-9820-62C949096C6F}" path="AnomalieMaillageFromModelToRelationShip.js" />
+			<child name="CROES_6479_Jira_CROES_9741_CashManagementLiquidityReserve" key="{BA7AEF6D-3A0A-4BBA-BF20-6572432BFCDB}" path="CROES_6479_Jira_CROES_9741_CashManagementLiquidityReserve.sj" />
+			<child name="CROES_6480_Jira_CROES_3417_ManagementOfExcessCashOnModel" key="{05AC93C8-DA98-47E3-A229-F259A28F20F5}" path="CROES_6480_Jira_CROES_3417_ManagementOfExcessCashOnModel.sj" />
+			<child name="CROES_6529_OrdersAreReflected_inUniqueness" key="{62431091-3B31-4FBA-82D1-0CE4A5B95327}" path="CROES_6529_OrdersAreReflected_inUniqueness.sj" />
+			<child name="CROES_6527_BasketPositionDisappears_WhenUpdatingQuantityVariation_inProjectedPortfolio" key="{996E613B-0F6E-4578-ADD3-6ABECE6BB621}" path="CROES_6527_BasketPositionDisappears_WhenUpdatingQuantityVariation_inProjectedPortfolio.sj" />
+			<child name="CROES_6543_TheFocusShouldNot_HaveChanged_During_aDeletionInProjectedPortfolio" key="{4E04BEC7-BB3E-4988-B3EF-66C1FEF7941D}" path="CROES_6543_TheFocusShouldNot_HaveChanged_During_aDeletionInProjectedPortfolio.sj" />
+			<child name="CROES_6481_RestrictionOnRelationAssociatedWithAModel" key="{34AF2CF2-BD29-4D79-BFC8-F4F4B3D235F9}" path="CROES_6481_RestrictionOnRelationAssociatedWithAModel.sj" />
+			<child name="CROES_6503_Jira_BNC_2296_OrderAdditionBasketInProjectedPortfolio" key="{D3F2BEB4-A531-44F0-8057-3C3616EF4017}" path="CROES_6503_Jira_BNC_2296_OrderAdditionBasketInProjectedPortfolio.sj" />
+			<child name="CROES_6533_Jira_BNC_2258_BNC_2218_CROES_10795_OrdersRemainVisibleAfterPreview" key="{B5F4AE95-D431-4BDF-8DEA-0554637999CF}" path="CROES_6533_Jira_BNC_2258_BNC_2218_CROES_10795_OrdersRemainVisibleAfterPreview.sj" />
+			<child name="CROES_6531_RebalancingAnAccount_withMultipleSegmentsAndCashManagement" key="{C7453B4A-0769-4870-B4BB-14637D371EDF}" path="CROES_6531_RebalancingAnAccount_withMultipleSegmentsAndCashManagement.sj" />
+			<child name="CROES_6811_Jira_CROES_11093_CashManagementAccountAssocieteRelation" key="{51D3014F-D2FB-4374-BE8B-A88F33F74459}" path="CROES_6811_Jira_CROES_11093_CashManagementAccountAssocieteRelation.sj" />
+			<child name="CROES_6816_Jira_CROES_11404_et_CROES_11323_CrashDansModeleAssignationCompteEtFiltre" key="{B78A6CAF-B74A-4172-8168-8C4862A88157}" path="CROES_6816_Jira_CROES_11404_et_CROES_11323_CrashDansModeleAssignationCompteEtFiltre.sj" />
+			<child name="CROES_6855_BNC_1202_DistributionQuantiteTotaleDuCompteAverageEntreLesComptesPortefClient" key="{1A4877F1-9B7C-4862-AEDE-B29DA137A097}" path="CROES_6855_BNC_1202_DistributionQuantiteTotaleDuCompteAverageEntreLesComptesPortefClient.sj" />
+			<child name="CROES_6856_BNC_1202_DistributionQuantiteTotaleDuCompteAverageEntreLesComptesPortefClient" key="{7418D5D5-FD93-42F8-8A57-CAA3995B54AC}" path="CROES_6856_BNC_1202_DistributionQuantiteTotaleDuCompteAverageEntreLesComptesPortefClient.sj" />
+			<child name="TCVE1790_MOD1423_Validate_ThatItIs_NotPossibleToCreate_AThreeLevelModel_DisplayAnErrorMessage" key="{0C2F32AF-4BC7-4BB1-AD96-79C26476684A}" path="TCVE1790_MOD1423_Validate_ThatItIs_NotPossibleToCreate_AThreeLevelModel_DisplayAnErrorMessage.sj" />
+			<child name="TCVE_2027_MOD_2239_Validate_The_Labels_Substitutes_AddedToModel_are_DisplayedInEnglishAndInFrench" key="{A8600C3A-71F9-4D8E-8DAC-AAF489EDE4FC}" path="TCVE_2027_MOD_2239_Validate_The_Labels_Substitutes_AddedToModel_are_DisplayedInEnglishAndInFrench.sj" />
+			<child name="TCVE_2025_MOD_2334_Validate_RebalancingUMAAccount_withInterSegmentTransfers_GroupedOrdersOfZero_NotDisplayedInThe_ProposedOrders" key="{71302CF8-9440-4310-BFC5-14AF059C2599}" path="TCVE_2025_MOD_2334_Validate_RebalancingUMAAccount_withInterSegmentTransfers_GroupedOrdersOfZero_NotDisplayedInThe_ProposedOrders.sj" />
+			<child name="TCVE_2984_MID_571_Validate_the_Possibility_To_ModifyAndSave_ParentModel_Possess_SubModel_Including_Basket" key="{EFB27507-795B-483D-BD9F-5A9E69D7E24D}" path="TCVE_2984_MID_571_Validate_the_Possibility_To_ModifyAndSave_ParentModel_Possess_SubModel_Including_Basket.sj" />
+			<child name="TCVE_2991_MID_19_Validate_RebalancingUMAAccount_With_LiquidityTransfers_And_ModificationTheExchangeRate_InStep1" key="{8B7C0D61-47D3-488D-81DF-14D758BBA28A}" path="TCVE_2991_MID_19_Validate_RebalancingUMAAccount_With_LiquidityTransfers_And_ModificationTheExchangeRate_InStep1.sj" />
+			<child name="TCVE_17016_6380_MIB_4120_3508_Validate_DateUptateModelchange_WhenModifyingSubstitutes_And_ValidateRoundingQuantities_DuringPartialRebalancing" key="{A31C8F46-6172-4A13-B061-3FDDBDAD813F}" path="TCVE_17016_6380_MIB_4120_3508_Validate_DateUptateModelchange_WhenModifyingSubstitutes_And_ValidateRoundingQuantities_DuringPartialRebalancing.sj" />
+			<child name="TCVE_7195_MOD_2095_ValidateRebalancingClient_WithMinimumAmountPerOrder_AndUuncheckingReplacementSecurityCreated_DuringCashReductionProcess" key="{5A50DF23-CFF4-49CE-949E-67A281F373AC}" path="TCVE_7195_MOD_2095_ValidateRebalancingClient_WithMinimumAmountPerOrder_AndUuncheckingReplacementSecurityCreated_DuringCashReductionProcess.sj" />
+			<child name="TCVE_7197_MOD_2236_Validate_TheChangeTargetMarketValue_SubModel_IsCalculatedAndCorrectlySaved_InTheParentModel" key="{CEF47DF1-8474-4C35-BB94-1776A540146D}" path="TCVE_7197_MOD_2236_Validate_TheChangeTargetMarketValue_SubModel_IsCalculatedAndCorrectlySaved_InTheParentModel.sj" />
+			<child name="TCVE_8471_MOD_3237_MIB_21_ValidateMultipleRebalancing_WithPreviousCashManagementManualEntry_WithTwoUsers" key="{FB680B01-33FB-4013-8D74-43B1EF2236B9}" path="TCVE_8471_MOD_3237_MIB_21_ValidateMultipleRebalancing_WithPreviousCashManagementManualEntry_WithTwoUsers.sj" />
+			<child name="TCVE_8381_MIB_2007_Client_CrashInExcel_ExportOrders" key="{2FF08083-F0C7-45CA-9491-F5930184543A}" path="TCVE_8381_MIB_2007_Client_CrashInExcel_ExportOrders.sj" />
+		</folder>
+		<folder name="CR1869">
+			<child name="CR1869_ModifierPositionParTitre" key="{95A514E4-AD9D-4C96-8B05-CA8B27178842}" path="CR1869_ModifierPositionParTitre.sj" />
+			<child name="CR1869_ChangerAssignePortfProj" key="{64D36F3A-AB1C-481A-8F53-CE10BC543533}" path="CR1869_ChangerAssignePortfProj.sj" />
+			<child name="CR1869_ColonnesParTitreNonModif" key="{0FA21BAE-AEE6-47CE-BC52-F092CB66470B}" path="CR1869_ColonnesParTitreNonModif.sj" />
+			<child name="CR1869_ColonnesFixes" key="{D4D808CE-D903-46FA-A0B4-462437E2E2E1}" path="CR1869_ColonnesFixes.sj" />
+			<child name="CR1869_OrdreColonnesCible" key="{5B64CDBC-AAB0-46CD-9CDB-901291BEAEBF}" path="CR1869_OrdreColonnesCible.sj" />
+			<child name="CR1869_NomAbregeDansGrille" key="{6151A9EA-C441-40B6-ADC3-CD7F582E6AD1}" path="CR1869_NomAbregeDansGrille.sj" />
+			<child name="CR1869_NomRepartition" key="{2CCAE590-F070-484E-940E-8C69AEEE743A}" path="CR1869_NomRepartition.sj" />
+			<child name="CR1869_AffichagePortChargement" key="{50F3BCFF-206E-4D7E-8062-AE7963B654B0}" path="CR1869_AffichagePortChargement.sj" />
+			<child name="CR1869_ModifierPositionSolde" key="{A355412B-DB40-4410-9378-C3168FA30665}" path="CR1869_ModifierPositionSolde.sj" />
+			<child name="CR1869_AffichageSegmentModele" key="{6C75A4E1-8ABC-48AE-B379-DC608F131715}" path="CR1869_AffichageSegmentModele.sj" />
+			<child name="CR1869_AffichageRepartitionsDActifsRelation" key="{AAC5BE0D-F1F1-42BB-A718-893110AD71F4}" path="CR1869_AffichageRepartitionsDActifsRelation.sj" />
+			<child name="CR1869_AffichageRepartitionsDActifsClient" key="{0A2CB6E7-E0DC-4E2B-8A13-85AC24454600}" path="CR1869_AffichageRepartitionsDActifsClient.sj" />
+			<child name="CR1869_FormatNomColonne" key="{768E19E3-1C6F-4A6C-A30B-437AA90A99DE}" path="CR1869_FormatNomColonne.sj" />
+			<child name="CR1869_AfficherUnCompteParCompte" key="{C51FFE32-37E4-4642-BF35-215DD9E0D9F1}" path="CR1869_AfficherUnCompteParCompte.sj" />
+			<child name="CR1869_DeplacerPositionInactif" key="{59CC2F96-0474-435E-8F30-212904ED8CC8}" path="CR1869_DeplacerPositionInactif.sj" />
+			<child name="CR1869_ColonnesCible" key="{9FF399A9-6341-4930-95DE-1AE073D6325F}" path="CR1869_ColonnesCible.sj" />
+			<child name="CR1869_AfficherCiblePanier" key="{DAAFC74A-B8D9-4ECA-99F1-228ADEDAC46F}" path="CR1869_AfficherCiblePanier.sj" />
+			<child name="CR1869_TooltipAchatVenteClient" key="{83064F3B-8CCD-489A-AF53-08CFFCD48FD0}" path="CR1869_TooltipAchatVenteClient.sj" />
+			<child name="CR1869_TooltipAchatVenteCompte" key="{B3E939EB-1AB4-4AA3-8FDE-C37E491E6448}" path="CR1869_TooltipAchatVenteCompte.sj" />
+			<child name="CR1869_CalculEcartCible" key="{FD0C3783-7637-4049-9896-0CDD3672EB89}" path="CR1869_CalculEcartCible.sj" />
+			<child name="CR1869_CalculEcartCible_Relation" key="{21232C51-411E-449D-8323-D911F244D96C}" path="CR1869_CalculEcartCible_Relation.sj" />
+			<child name="CR1869_RafraichirRepartitionFonds" key="{39DC3073-F93A-4224-9099-3A375697471E}" path="CR1869_RafraichirRepartitionFonds.sj" />
+			<child name="CR1869_NomColEcartCible" key="{EC9770A5-2AEC-4A4F-9F35-5B5D3B993315}" path="CR1869_NomColEcartCible.sj" />
+			<child name="CR1869_BoutonGrouper" key="{8B7B6E33-F179-45D7-8092-99D98EFA0A42}" path="CR1869_BoutonGrouper.sj" />
+			<child name="CR1869_ChangerCompteOrdresProj" key="{0885B003-05F5-4192-8B59-94CCE17D1660}" path="CR1869_ChangerCompteOrdresProj.sj" />
+			<child name="CR1869_TooltipDeviseIncorrect" key="{8C9DC420-9F19-4535-9742-A1A9A79B1E81}" path="CR1869_TooltipDeviseIncorrect.sj" />
+		</folder>
+		<folder name="CR1483">
+			<child name="CR1483_Mod_Survol_Users_Selection_TabBranches" key="{1DB553D7-6989-490A-A3D3-587962C38A39}" path="CR1483_Mod_Survol_Users_Selection_TabBranches.sj" />
+			<child name="CR1483_Mod_CheckErrorMsgPrefMaxWorkAs" key="{BDCB742E-5889-4BFB-B9F3-1E291ACB7946}" path="CR1483_Mod_CheckErrorMsgPrefMaxWorkAs.sj" />
+			<child name="CR1483_Mod_RememberMySelection" key="{274FB5DD-4DBD-4E95-B35F-63F78300FF65}" path="CR1483_Mod_RememberMySelection.sj" />
+			<child name="CR1483_Mod_Check_BranchSelection_IACodes" key="{0C712394-F66B-457F-BC79-92622975123F}" path="CR1483_Mod_Check_BranchSelection_IACodes.sj" />
+			<child name="CR1483_Mod_Check_UserSelection_IACodes" key="{89515989-D2B9-4C62-9EEC-EA0069583FF8}" path="CR1483_Mod_Check_UserSelection_IACodes.sj" />
+			<child name="CR1483_Mod_CheckErrorMsgPrefMaxWorkAs_TabIACodes" key="{2043C1E1-6C2B-411A-9BD0-CEDCCC0B38D2}" path="CR1483_Mod_CheckErrorMsgPrefMaxWorkAs_TabIACodes.sj" />
+			<child name="CR1483_Mod_CheckErrorMsgPrefMaxWorkAs_TabUsers" key="{B3E7CA55-4C97-4421-8763-746D91893F92}" path="CR1483_Mod_CheckErrorMsgPrefMaxWorkAs_TabUsers.sj" />
+			<child name="CR1483_Mod_RememberMySelection_TabIACodes" key="{74BC216C-69B2-43E1-B389-08C554667153}" path="CR1483_Mod_RememberMySelection_TabIACodes.sj" />
+			<child name="CR1483_Mod_RememberMySelection_TabUsers" key="{C0CAE34B-1AC0-41E6-B225-CC2479CE94D4}" path="CR1483_Mod_RememberMySelection_TabUsers.sj" />
+			<child name="CR1483_Mod_Survol_Users_Selection_TabIACodes" key="{72272CC1-B726-4588-A006-12CFF3EF4AFA}" path="CR1483_Mod_Survol_Users_Selection_TabIACodes.sj" />
+			<child name="CR1483_Mod_Survol_Users_Selection_TabUsers" key="{60AC9877-B4DD-4FB4-8922-E67FB96A71E5}" path="CR1483_Mod_Survol_Users_Selection_TabUsers.sj" />
+			<child name="CR1483_Mod_Common_Functions" key="{2BC1D3E8-5DCC-4784-81D4-B118D7206BC6}" path="CR1483_Mod_Common_Functions.sj" />
+		</folder>
+		<folder name="CR1501">
+			<folder name="Anomalies">
+				<child name="CROES_10678_Model_FieldDateReferenceNotesMustBeEmptyDefaults" key="{E4FA281B-981E-4F8E-BFDE-F220F541DCA7}" path="CROES_10678_Model_FieldDateReferenceNotesMustBeEmptyDefaults.sj" />
+			</folder>
+			<child name="CR1501_941_NoModificationOfANoteCreatedTheSameDayAndByAnotherUser" key="{3DAB1017-DA06-429A-85B9-000D25046EE5}" path="CR1501_941_NoModificationOfANoteCreatedTheSameDayAndByAnotherUser.sj" />
+			<child name="CR1501_943_NoModificationOfANoteCreatesTheSameDayAndByTheSameUser" key="{A7B62F95-54F7-4E88-9A4E-F99198461CE1}" path="CR1501_943_NoModificationOfANoteCreatesTheSameDayAndByTheSameUser.sj" />
+			<child name="CR1501_948_NoDeletingANoteIsNotcreatedOnTheSameDayButWithTheSameUser" key="{3382AD2E-63B2-4A45-ADCE-18ECEBA67297}" path="CR1501_948_NoDeletingANoteIsNotcreatedOnTheSameDayButWithTheSameUser.sj" />
+			<child name="CR1501_950_DeletingCreatedNoteTheSameDayAndByTheSameUser" key="{E0D920D5-8049-4C78-BE2D-8BEFE2E547E6}" path="CR1501_950_DeletingCreatedNoteTheSameDayAndByTheSameUser.sj" />
+			<child name="CR1501_940_Model_ModificOfNotCreatedInTheSameDayAndbyTheSameUser" key="{C00D8A70-8FC0-4264-8C04-99B462ADF474}" path="CR1501_940_Model_ModificOfNotCreatedInTheSameDayAndbyTheSameUser.sj" />
+			<child name="CR1501_953_ValidationOfTheSearchWithTheFilterByDateCreationAndOperatorIsNotEqual" key="{140408A4-CA7E-4ABE-BCA8-6CF228086EFE}" path="CR1501_953_ValidationOfTheSearchWithTheFilterByDateCreationAndOperatorIsNotEqual.sj" />
+			<child name="CR1501_960_SearchByFilterByDateModifiedAndOperatorIsNot_equal" key="{6888C1CB-A9D7-4636-8A09-A672147B3751}" path="CR1501_960_SearchByFilterByDateModifiedAndOperatorIsNot_equal.sj" />
+			<child name="CR1501_968_SearchWithFilterByNoteAndOperatorIsContaining" key="{857830B4-8B91-4FC3-BE94-C8E54155A38F}" path="CR1501_968_SearchWithFilterByNoteAndOperatorIsContaining.sj" />
+			<child name="CR1501_969_SearchWithFilterByNoteAndOperatorIsNotContaining" key="{5BEA873D-ACC9-41C6-A43F-381182696CF9}" path="CR1501_969_SearchWithFilterByNoteAndOperatorIsNotContaining.sj" />
+			<child name="CR1501_975_SearchWithTheFilterByCreatedByAndOperatorIsAmong" key="{5BBE6A4B-153F-4522-9978-B7D8D6699BE6}" path="CR1501_975_SearchWithTheFilterByCreatedByAndOperatorIsAmong.sj" />
+			<child name="CR1501_1259_ValidationOfNon_presence_of_the_columnRevision" key="{8CFE3B74-E33C-425D-BF90-9F0DE7042D9A}" path="CR1501_1259_ValidationOfNon_presence_of_the_columnRevision.sj" />
+			<child name="CR1501_986_Model_ValidationOfAbsenceOfNoteIconInTheGridForNoteCreatedFromInfo" key="{645534C1-E60F-4AE3-8892-8378352B7B05}" path="CR1501_986_Model_ValidationOfAbsenceOfNoteIconInTheGridForNoteCreatedFromInfo.sj" />
+			<child name="CR1501_980_Model_ValidateThePrintingOfNotesWithThePrintButton" key="{BF84D2D2-310C-4360-9DF3-554C0AD3B226}" path="CR1501_980_Model_ValidateThePrintingOfNotesWithThePrintButton.sj" />
+			<child name="CR1501_964_FilterSearchByDateModifiedAndOperatorIsIsEqualToOrEarlierThan" key="{637DD81D-3958-4A9E-A966-AC51E8376F36}" path="CR1501_964_FilterSearchByDateModifiedAndOperatorIsIsEqualToOrEarlierThan.sj" />
+			<child name="CR1501_1117_NotModifyingNoteNotCreatedTheSameDayFromInfoAndBySameUser" key="{9A7016ED-71E1-4887-B12A-383C6B7BF978}" path="CR1501_1117_NotModifyingNoteNotCreatedTheSameDayFromInfoAndBySameUser.sj" />
+			<child name="CR1501_949_NotDeletingANoteCreatedOnTheSameDayAndByTheSameUser" key="{0CA65385-65F5-4445-AD35-B99BA3E57908}" path="CR1501_949_NotDeletingANoteCreatedOnTheSameDayAndByTheSameUser.sj" />
+			<child name="CR1501_951_NotDeletingCreatedNoteTheSameDayAndByAnotherUser" key="{53E83B0C-3BD9-4451-8097-3585D0959AFB}" path="CR1501_951_NotDeletingCreatedNoteTheSameDayAndByAnotherUser.sj" />
+		</folder>
+		<folder name="CR2141">
+			<folder name="TestCase mode=2 pref=2">
+				<child name="CR2070_CR2141_6348_Mod_PreparationCaseCreateModelsPrefAndProfile" key="{08440AE4-53ED-4DF7-B381-D5137ACB4702}" path="CR2070_CR2141_6348_Mod_PreparationCaseCreateModelsPrefAndProfile.sj" />
+				<child name="CR2070_CR2141_6349_Mod_ValidateNewParameter_AssignedDiscretionaryOrNotDiscretionary" key="{D8FC6C8A-55BE-4A92-8B09-D9BCA7CDCBE8}" path="CR2070_CR2141_6349_Mod_ValidateNewParameter_AssignedDiscretionaryOrNotDiscretionary.sj" />
+				<child name="CR2070_CR2141_6352_Mod_AssociateClientWithCptDiscrAndNotDiscToModel_AccountsDiscAndNotDisc" key="{76D5D119-3B46-40A2-B350-2998F57805F9}" path="CR2070_CR2141_6352_Mod_AssociateClientWithCptDiscrAndNotDiscToModel_AccountsDiscAndNotDisc.sj" />
+				<child name="CR2070_CR2141_6355_Mod_AssociateNotDiscClientWithModelAllNotDiscAccounts" key="{A6FD59BF-E462-4A61-9A78-88CFEE9615F9}" path="CR2070_CR2141_6355_Mod_AssociateNotDiscClientWithModelAllNotDiscAccounts.sj" />
+				<child name="CR2070_CR2141_6361_Mod_RebalancingNotDiscAccountAssociatedWithInternalModelOrAMBA" key="{9FA88A08-FCF2-43FE-BBAF-F60AC8FAE947}" path="CR2070_CR2141_6361_Mod_RebalancingNotDiscAccountAssociatedWithInternalModelOrAMBA.sj" />
+				<child name="CR2070_CR2141_6363_RebalancingDiscClientAssociatedWithInternalModelOrAMBA_AllDiscCpts" key="{4C9D1B69-62E6-4103-8266-9F233E187C55}" path="CR2070_CR2141_6363_RebalancingDiscClientAssociatedWithInternalModelOrAMBA_AllDiscCpts.sj" />
+				<child name="CR2070_CR2141_6367_RebalancingDiscRelationshipAssociatedWithInternalModelOrAMBA_AllDiscCpts" key="{FF58EAF2-6A33-4AE3-BFA0-F6AD33C166A0}" path="CR2070_CR2141_6367_RebalancingDiscRelationshipAssociatedWithInternalModelOrAMBA_AllDiscCpts.sj" />
+				<child name="CR2070_CR2141_6370_Mod_AssociateAndRebalanceNotDiscretionarySleeve_AMBAModel" key="{B86185CD-C77D-4968-B782-9BF6931F160C}" path="CR2070_CR2141_6370_Mod_AssociateAndRebalanceNotDiscretionarySleeve_AMBAModel.sj" />
+				<child name="CR2070_CR2141_6371_Mod_AssociateAndRebalanceDiscSleeve_InternalModelAndAMBA" key="{2E04353B-0C3D-47BB-8A7B-140C7E4D26DC}" path="CR2070_CR2141_6371_Mod_AssociateAndRebalanceDiscSleeve_InternalModelAndAMBA.sj" />
+				<child name="CR2070_CR2141_6458_Mod_IdentificationOfDiscNotDiscAccounts" key="{ED4D8676-8CA2-47E6-A1C4-7D2A85D30493}" path="CR2070_CR2141_6458_Mod_IdentificationOfDiscNotDiscAccounts.sj" />
+				<child name="CR2070_CR2141_6463_Mod_DiscAndNotDiscAccountsTiggers" key="{4AFCB267-7E09-4F81-B261-766E0520356D}" path="CR2070_CR2141_6463_Mod_DiscAndNotDiscAccountsTiggers.sj" />
+				<child name="CR2070_CR2141_6532_Mod_CasePreparationToPutBackBDInInitialStateBNC" key="{67F04781-780D-4D30-B8BA-E7D4AC0406AE}" path="CR2070_CR2141_6532_Mod_CasePreparationToPutBackBDInInitialStateBNC.sj" />
+			</folder>
+			<child name="CR2141_6341_Mod_PreparationCases_CreateModelsWithDelegatedManagementAndPref" key="{6F3B013D-CFEF-4346-AA14-58DC90976D4A}" path="CR2141_6341_Mod_PreparationCases_CreateModelsWithDelegatedManagementAndPref.sj" />
+			<child name="CR2141_6320_Mod_AssociateAssignedDiscOrNonDiscToInternalModelAndAMBA_Pref_Model_Discretio" key="{557B75E9-FBF4-4E68-BD1C-9C1983046C40}" path="CR2141_6320_Mod_AssociateAssignedDiscOrNonDiscToInternalModelAndAMBA_Pref_Model_Discretio.sj" />
+			<child name="CR2141_6312_Mod_AssociateAccCliRelWithDelegatedManagementModel" key="{2E637E74-A675-4133-975B-1E0A72BDA2E7}" path="CR2141_6312_Mod_AssociateAccCliRelWithDelegatedManagementModel.sj" />
+			<child name="CR2141_6328_Mod_AssociateRebalanceNonDiscretionaryRelationshipToModel_AllDiscreteAccountsAndModeIs1" key="{11FC45DA-D0E6-4A1E-B130-EE6B56320080}" path="CR2141_6328_Mod_AssociateRebalanceNonDiscretionaryRelationshipToModel_AllDiscreteAccountsAndModeIs1.sj" />
+			<child name="CR2141_6322_Mod_ValidateRebalancingOfDiscOrNonDdiscAccount_Pref_Model_Discretionary_M" key="{82078EC5-2CAC-42A1-92DE-3D8179FE17C2}" path="CR2141_6322_Mod_ValidateRebalancingOfDiscOrNonDdiscAccount_Pref_Model_Discretionary_M.sj" />
+			<child name="CR2141_6329_Mod_ValidateRebalancingOfDiscAccountOnAmbassadorModel" key="{738895C4-4E72-4677-9B7E-A63FBD34EACE}" path="CR2141_6329_Mod_ValidateRebalancingOfDiscAccountOnAmbassadorModel.sj" />
+			<child name="CR2141_6324_Mod_RebalancingDiscClientAndNotDisc_Pref_Model_Discretionary_ModeIs1" key="{AF94E404-9E6E-4F6A-8D30-F3B36A5BCBBC}" path="CR2141_6324_Mod_RebalancingDiscClientAndNotDisc_Pref_Model_Discretionary_ModeIs1.sj" />
+			<child name="CR2141_6325_Mod_AssociateAndRebalanceDiscretionarySleeve_Mode1" key="{06AA6C50-E436-42E3-8D15-0F78C03BA458}" path="CR2141_6325_Mod_AssociateAndRebalanceDiscretionarySleeve_Mode1.sj" />
+			<child name="CR2141_6344_Mod_AssociateAndRebalanceNonDiscSleeve_Mode1" key="{618EECE0-74CF-4C38-B861-637B2D7C9D9B}" path="CR2141_6344_Mod_AssociateAndRebalanceNonDiscSleeve_Mode1.sj" />
+		</folder>
+		<folder name="CR1806">
+			<folder name="DataHub Library">
+				<child name="CR1806_4548_Valider_le_format_du_extract_datahubextractor" key="{46A9F52A-01DF-4F83-AC78-AA0D0D8EF470}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4548_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{6825881C-111D-4696-AF57-C67C7C806F08}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.js" />
+				<child name="CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{72FC61CF-7D3A-4587-8960-F6F5650F2A56}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB" key="{3771B3D4-5881-4516-9729-9FED675B72A4}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{3FF23386-D941-4A42-9FF0-F96D78939593}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{A4989557-4661-4E7F-91A4-52EDBACA835E}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{5466265E-3EAF-4795-981F-501881ADB1A8}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{D30100FC-84A6-404F-9528-B12C48814738}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{845A5C8E-434B-4C52-9EC7-D3AEFD421A8D}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{7ECB43DE-9350-4B49-B1D9-C5EFB03313BF}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{FB86CDC3-B14C-4F71-AA17-36BD8D23BF3F}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+				<child name="CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE" key="{F27217F3-F0C6-4EE7-BBD4-65BCFD5AD144}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE.js" />
+				<child name="CR1806_Helper" key="{54FCBE28-A5BB-4136-994C-ACE4E0956052}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_Helper.js" />
+			</folder>
+			<child name="CR1806_4548_Mod_Valider_le_format_du_extract_datahubextractor" key="{F0CD47E4-85E0-4F45-925A-1C5F684EA38C}" path="CR1806_4548_Mod_Valider_le_format_du_extract_datahubextractor.sj" />
+			<child name="CR1806_4557_Mod_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{17AFC899-E0C5-4C37-AEDB-D0EA6F639450}" path="CR1806_4557_Mod_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.sj" />
+			<child name="CR1806_4558_Mod_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{1DE55139-2E5E-49B0-B2FB-B70A6A3832F5}" path="CR1806_4558_Mod_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.sj" />
+			<child name="CR1806_4558_Mod_Valider_les_records_dans_la_table_B_DATA_HUB" key="{B1C22F5C-FA91-4D20-B6CF-21E376B9C908}" path="CR1806_4558_Mod_Valider_les_records_dans_la_table_B_DATA_HUB.sj" />
+			<child name="CR1806_4615_Mod_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{7565D943-5254-4147-A3CE-BEAAC9B30359}" path="CR1806_4615_Mod_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.sj" />
+			<child name="CR1806_4615_Mod_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{C005747D-2FAB-49C2-BBDD-7759C01D467F}" path="CR1806_4615_Mod_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.sj" />
+			<child name="CR1806_4679_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{A787ECC8-AF63-4DA4-96BF-F478843AAD49}" path="CR1806_4679_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.sj" />
+			<child name="CR1806_4685_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{22D322AC-DBDC-4FF2-8E15-DAA7303794DB}" path="CR1806_4685_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.sj" />
+			<child name="CR1806_4685_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{32E0B5B6-A287-4A1C-AED7-27D3B32575D3}" path="CR1806_4685_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.sj" />
+			<child name="CR1806_4686_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{A54FCB4A-9237-4F6F-8749-8B7F26D37E88}" path="CR1806_4686_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.sj" />
+			<child name="CR1806_4686_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{FC534AF6-76CC-46F9-AE55-4725F4DBA2DC}" path="CR1806_4686_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.sj" />
+		</folder>
+		<folder name="CR2083">
+			<child name="CR2083_6280_Anomaly_1_5_Validation" key="{16E34803-FE30-490A-A92A-67A4589357C6}" path="CR2083_6280_Anomaly_1_5_Validation.sj" />
+			<child name="CR2083_6283_Anomaly2_Validation" key="{9647508F-9652-4172-8575-2B58928A8451}" path="CR2083_6283_Anomaly2_Validation.sj" />
+			<child name="CR2083_6307_Anomaly11_Validation" key="{4A8E53D0-0E6C-48AE-A65C-DC76E5E8E2A8}" path="CR2083_6307_Anomaly11_Validation.sj" />
+		</folder>
+		<folder name="CR2031">
+			<folder name="Environnement_Preparation">
+				<child name="CR2031_6398_PreparationOfTolerances_ForEachModel" key="{CC195B5A-6EB0-451A-9969-47A2059E1EF9}" path="CR2031_6398_PreparationOfTolerances_ForEachModel.sj" />
+				<child name="CR2031_6389_PrefsAndBasicConfigurationsForCR2031Tests" key="{949EDDE1-BACC-40AB-BA08-BE694E9D93CA}" path="CR2031_6389_PrefsAndBasicConfigurationsForCR2031Tests.sj" />
+			</folder>
+			<child name="CR2031_6391_ValidateThatTheTargetOfBalancePositionIsIgnoredDuringRebalancing" key="{8402B05E-53CE-4105-929F-4613636A7ECC}" path="CR2031_6391_ValidateThatTheTargetOfBalancePositionIsIgnoredDuringRebalancing.sj" />
+			<child name="CR2031_6394_ValidateBalanceTolerancesOfClient_whereAccounts_Have1VMi_greaterThan_TolAnd1VMi" key="{7425A562-C1C5-4D2E-9B8F-D195F33A04F3}" path="CR2031_6394_ValidateBalanceTolerancesOfClient_whereAccounts_Have1VMi_greaterThan_TolAnd1VMi.sj" />
+			<child name="CR2031_6418_ValidateCustomerBalanceTolerancesWithNonRebalancingCriteria" key="{FB3DB699-5028-4EDD-A040-B6CDF1067AF1}" path="CR2031_6418_ValidateCustomerBalanceTolerancesWithNonRebalancingCriteria.sj" />
+			<child name="CR2031_6397_ValidateBalanceTolerancesOfRelationship_with_PrincipalTitle_NotLocked_AndLockedReplacement" key="{3F3372F3-0AC6-4671-A529-7015E71E8175}" path="CR2031_6397_ValidateBalanceTolerancesOfRelationship_with_PrincipalTitle_NotLocked_AndLockedReplacement.sj" />
+			<child name="CR2031_6400_ValidateBalanceTolerancesOfClient_withBlockedPositions_whichVMilt_TargetAndComplement" key="{536E2393-6F36-44FA-8B69-ACC68BD093FD}" path="CR2031_6400_ValidateBalanceTolerancesOfClient_withBlockedPositions_whichVMilt_TargetAndComplement.sj" />
+			<child name="CR2031_6404_ValidateBalanceTolerances_withPositiveCashManagement" key="{04ADE37B-8E93-459B-BF37-FC7CC7008F6F}" path="CR2031_6404_ValidateBalanceTolerances_withPositiveCashManagement.sj" />
+			<child name="CR2031_6412_ValidateBalanceTolerance_withBasketIt_Tol_Fallback_and_ExcessCash" key="{72A32CE9-414D-4128-AB95-14C1ECAF3435}" path="CR2031_6412_ValidateBalanceTolerance_withBasketIt_Tol_Fallback_and_ExcessCash.sj" />
+			<child name="CR2031_6415_ValidateBalanceTolerances_with_a_ParentModel" key="{E3E62264-808A-4024-BB57-97FE65B9E021}" path="CR2031_6415_ValidateBalanceTolerances_with_a_ParentModel.sj" />
+			<child name="CR2031_6417_ValidateBalanceTolerances_with_a_Segment" key="{CB016F9B-1A0D-4EBD-80BA-E14A13FD86B2}" path="CR2031_6417_ValidateBalanceTolerances_with_a_Segment.sj" />
+			<child name="CR2031_Restore" key="{8D0A2A37-D7E9-4B65-BA9C-76DCEA9D99D4}" path="CR2031_Restore.sj" />
+		</folder>
+		<folder name="CR2160">
+			<child name="CR2160_6875_Mod_CasePrepartionCreateModelsAndRelationship" key="{52AF97A5-0AC6-47FA-BF08-90D7AC8E70AB}" path="CR2160_6875_Mod_CasePrepartionCreateModelsAndRelationship.sj" />
+			<child name="CR2160_6876_Mod_ValidateMultipleRebalancing_DifferentUserYes" key="{3A2DE089-93EE-4B84-BFEF-815AFED2CC65}" path="CR2160_6876_Mod_ValidateMultipleRebalancing_DifferentUserYes.sj" />
+			<child name="CR2160_6878_Mod_ValidateSomColumPrevCashMgmt_DifferentUser" key="{5B9B8836-0744-421B-A149-EFEAC8A5F87F}" path="CR2160_6878_Mod_ValidateSomColumPrevCashMgmt_DifferentUser.sj" />
+			<child name="CR2160_6879_Mod_ValidateSomColumPrevCashMgmt_DifferentUserRelationship1" key="{99A5C437-CB6C-487F-98F9-D960687A9024}" path="CR2160_6879_Mod_ValidateSomColumPrevCashMgmt_DifferentUserRelationship1.sj" />
+			<child name="CR2160_6877_Mod_ValidateSomColumPrevCashMgmt_DifferentAccount1" key="{2F1D788B-7452-4475-8A81-592D8411C90A}" path="CR2160_6877_Mod_ValidateSomColumPrevCashMgmt_DifferentAccount1.sj" />
+			<child name="CR2160_Common_functions" key="{112DDEA9-241A-4377-9F8A-704793384BD1}" path="CR2160_Common_functions.sj" />
+			<child name="CR2160_6880_Mod_ValidateSomColumPrevCashMgmt_MultipleAssignees_SameUser" key="{3B38F673-96D9-48C9-96F4-87DE25E07D50}" path="CR2160_6880_Mod_ValidateSomColumPrevCashMgmt_MultipleAssignees_SameUser.sj" />
+		</folder>
+		<folder name="CR1990">
+			<child name="CR1990_MOD_1515_ValidateBalanceColumnInModelsAndRebalancingWindow" key="{0F41866B-B0AB-4897-BDC5-4B8873526DB4}" path="CR1990_MOD_1515_ValidateBalanceColumnInModelsAndRebalancingWindow.sj" />
+		</folder>
+		<folder name="CR2270">
+			<child name="CR2270_TCVE67_Mod1396_1397_CasePrepartionCreateModelsAndRelationship" key="{A6E11A62-AADD-4B3E-AB50-34FEA8D300B6}" path="CR2270_TCVE67_Mod1396_1397_CasePrepartionCreateModelsAndRelationship.sj" />
+			<child name="CR2270_TCVE67_MOD1352_ValidateRebalanceRel_Whith_MinimumAmount" key="{36F0060B-6555-4B3B-9DF4-1AC0CE844B66}" path="CR2270_TCVE67_MOD1352_ValidateRebalanceRel_Whith_MinimumAmount.sj" />
+		</folder>
+		<folder name="FBNTestCase">
+			<child name="TCVE_1039_Validate_Modification_RecipientAccount_BuyOrder_Relationship" key="{B1D60E77-4A4F-45AB-9796-E5F65A61C6E8}" path="TCVE_1039_Validate_Modification_RecipientAccount_BuyOrder_Relationship.sj" />
+			<child name="TCVE935_PartialRebalancing" key="{85FBC668-5651-43D9-A6E7-04EB48542464}" path="TCVE935_PartialRebalancing.sj" />
+			<child name="TCVE982_PartialRebalancing_WithSubModel_BasketAndExcessCash" key="{E053BB5E-058F-47A3-9485-E5F8EEA9DADB}" path="TCVE982_PartialRebalancing_WithSubModel_BasketAndExcessCash.sj" />
+			<child name="TCVE_981_RebalancingCriterion" key="{86AAEA42-9899-4B80-B810-5433D7DB0DEA}" path="TCVE_981_RebalancingCriterion.sj" />
+			<child name="TCVE1040_UnderlyingPortfolioS_savedAs_FictionnalAccount" key="{C917B2A4-7C58-4124-9221-9934C0BBD93F}" path="TCVE1040_UnderlyingPortfolioS_savedAs_FictionnalAccount.sj" />
+		</folder>
+		<folder name="TCVE1323_TCVE1322_CasWithdrawal">
+			<child name="TCVE1323_1322_CasePrepartionCreateModelsAndRelationship" key="{EBBFC675-45CD-471C-A53C-EF4AE1986E07}" path="TCVE1323_1322_CasePrepartionCreateModelsAndRelationship.sj" />
+			<child name="TCVE1322_MOD1166_ValidateRebalancing_RelWithwithdrawalFromAccount_PositiveCashFlow_SaleAndPurchas_SecurityAnotherAccount_pref_1" key="{A8843EF7-D913-4AF8-AF50-71CD9BB465D0}" path="TCVE1322_MOD1166_ValidateRebalancing_RelWithwithdrawalFromAccount_PositiveCashFlow_SaleAndPurchas_SecurityAnotherAccount_pref_1.sj" />
+			<child name="TCVE1322_MOD1163_ValidateRebalancing_RelWithwithdrawalFromAccount_NegativeCashFlow_SaleAndPurchas_SecurityAnotherAccount_pref_0" key="{892DAC68-69FF-43FA-A938-E0E468EE4435}" path="TCVE1322_MOD1163_ValidateRebalancing_RelWithwithdrawalFromAccount_NegativeCashFlow_SaleAndPurchas_SecurityAnotherAccount_pref_0.sj" />
+			<child name="TCVE1323_MOD1193_ValidateRebalancingRelWithdrawal_SaleAndPurchase_SecurityOnAnotherAccount_withUncheckAndManualCheck_pref_2" key="{62AD7F08-3839-4609-917F-15C69AE0E1A9}" path="TCVE1323_MOD1193_ValidateRebalancingRelWithdrawal_SaleAndPurchase_SecurityOnAnotherAccount_withUncheckAndManualCheck_pref_2.sj" />
+			<child name="TCVE1323_MOD2088_ValidateRebalancingRelWithdrawal_SaleAndPurchase_SecurityOnAnotherAccount_withUncheckAndManualCheck_pref_3" key="{3BBEC245-4C57-496F-816B-932E1E1D691F}" path="TCVE1323_MOD2088_ValidateRebalancingRelWithdrawal_SaleAndPurchase_SecurityOnAnotherAccount_withUncheckAndManualCheck_pref_3.sj" />
+		</folder>
+		<folder name="VueParCompte">
+			<child name="TCVE1697_TheAdvancedRebalancingfunctions__ViewByAccount_CR1869_CR2044_CR2059" key="{F043684D-EF60-4113-9762-68252CB49328}" path="TCVE1697_TheAdvancedRebalancingfunctions__ViewByAccount_CR1869_CR2044_CR2059.sj" />
+		</folder>
+		<folder name="CR2436">
+			<child name="CR2436_TCVE_4617_ManagementOfRestrictionsByNote" key="{D3200732-D5F5-4A3E-84CC-A2DB66D8C06E}" path="CR2436_TCVE_4617_ManagementOfRestrictionsByNote.sj" />
+			<child name="CR2436_TCVE_4639_ValidateNoteTypeFirmRestrictionsForAccountAndRelationship" key="{D4532713-75F3-46FE-8254-9428FAA65453}" path="CR2436_TCVE_4639_ValidateNoteTypeFirmRestrictionsForAccountAndRelationship.sj" />
+			<child name="CR2436_Common_Functions" key="{A5C4D1F1-8265-418D-994A-8D134C0E62C5}" path="CR2436_Common_Functions.sj" />
+		</folder>
+		<folder name="CR2455">
+			<child name="TCVE6776_CR2455_MIB_2014_15_Validate_GenerationProposedorders_with_SmartDOption" key="{34C3F3A8-5A08-4F1B-93FA-DE04A9008F61}" path="TCVE6776_CR2455_MIB_2014_15_Validate_GenerationProposedorders_with_SmartDOption.sj" />
+		</folder>
+		<folder name="VMD_Discretionnaire_Mode">
+			<child name="TCVE_7392_Configuration_DiscretionaryAccounts_ForVMD" key="{79B7E5B5-F8BD-4A48-A321-28D426EFB2AA}" path="TCVE_7392_Configuration_DiscretionaryAccounts_ForVMD.sj" />
+		</folder>
+		<folder name="MIB_876">
+			<child name="TCVE_8219_MIB_876_ValidateTheSecuritiesPricesAreDisplayedInCorrectCurrency" key="{358EA24B-E37B-43F3-A91F-2535C3163CC6}" path="TCVE_8219_MIB_876_ValidateTheSecuritiesPricesAreDisplayedInCorrectCurrency.sj" />
+		</folder>
+		<child name="ExecutionLog" key="{0CBB2513-8111-4A54-9CC1-B42F1145073D}" path="ExecutionLog.sj" />
+		<child name="PreExecution" key="{D70334B0-E386-428A-B60B-27D06BFB5769}" path="PreExecution.sj" />
+		<child name="Global_variables" key="{CD2CB849-AB81-446E-9091-D48535328BE5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{366AC37D-EF76-46DF-9C5B-BC9034378465}" path="..\..\..\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="TCVE1335_CR1869CR2044CR2059_ViewOfTheProjectedPortfolioByAccount" key="{A8E8F225-F945-4770-B42C-29990ABD164E}" path="TCVE1335_CR1869CR2044CR2059_ViewOfTheProjectedPortfolioByAccount.sj" />
+	</children>
+</Root>

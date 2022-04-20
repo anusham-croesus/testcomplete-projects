@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE proData SYSTEM "/usr/lib/finansoft/loader/dtd/profile_data.dtd">
+<proData xmlns="PRO_NS">
+	<header timeStamp="20100125" dest="UNI" noElem="2"/>
+	
+	<cli xmlns="CLI_NS" id="800401" rep="AC42" branch="BD">
+		<cliInfo lang="F" gender="F" birth="" ssn="">
+			<name short="PROJ. INC. RPT" long="PROJECTED INCOME REPORT"/>
+			<addr>
+				<line></line>
+				<city></city>
+				<prov></prov>
+				<code></code>
+				<country></country>
+			</addr>
+			<phone phoneDesc="1" phoneNum="(450) 555-4444"/>
+			<phone phoneDesc="2" phoneNum="(450) 555-4441"/>
+			<phone phoneDesc="3" phoneNum="(450) 555-4442"/>
+			<email eDesc="1" eAddr=""/>
+		</cliInfo>
+	</cli>
+	<acc xmlns="ACC_NS" accId="800401NA" accRep="AC42">
+		<accInfo accName="PROJECTED INCOME REPORT" curr="CAD">
+			<accType key="1" value="A"/>
+		</accInfo>
+		</acc>
+	</proData>

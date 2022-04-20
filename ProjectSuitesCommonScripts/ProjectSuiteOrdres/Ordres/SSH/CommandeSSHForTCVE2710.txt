@@ -1,0 +1,10 @@
+:: Looking for a Json file taht was last modified 
+PathOfJSON=$(find /home/crweb/Test_CR1571 -type f -name "*.send" -cmin -0.5)
+echo $PathOfJSON > /home/crweb/Test_CR1571/JSONTCVE2710.txt
+
+
+grep -c '"dollarAmt": 24125.81' $PathOfJSON > /home/crweb/Test_CR1571/SearchResultsTCVE2710.txt
+grep -c '"symbolCd": "FID228"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE2710.txt
+grep -c '"accountNum": "800049NA"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE2710.txt
+grep -c '"actionCd": "PARTIAL_SWITCH"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE2710.txt
+grep -c '"actionCd": "FULL_SWITCH"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE2710.txt

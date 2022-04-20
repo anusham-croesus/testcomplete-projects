@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{DC22EAF9-6B0A-4E1B-BEDC-15E3897D1C1A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{B302943A-8F85-41AD-86D9-D117D10CB361}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{E486E056-D8F0-4092-8041-DA66A833E53F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{13ECDD16-944F-4290-B765-88A28D94741E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{D7AF68E8-1FCF-479C-953A-A5ADA168FD9E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{025CB42E-91DA-46C5-9F4C-CEBD00080A8E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{74CCD69F-ACB5-4A5F-8162-45D510EE434B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{ACD6A284-D51D-4C7C-B694-96AAA60F5971}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{1E5AA2D1-1133-428E-A783-6257596143EE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{C4C55CE9-4C04-42A5-8ED9-7D38E7CA6CFF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{2B5DEE75-C5C6-4F45-92E0-2FE5F60679F3}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{3BAD659A-FB88-49FC-AE6D-AAFC0E6BC7A7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{264062AC-2909-423E-8596-648948EA7714}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Global_variables" key="{E72AA763-9375-462F-A52F-5E83EC4B2B90}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+			<child name="Modeles_Get_functions" key="{B64B2DAA-CDF8-4235-B4C9-CD94368A9EB1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{3907E704-7121-41F6-9EF8-B7472BFE4BC0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{1D3A7424-2DE4-446A-A260-388851DCCAA0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{D18C0201-6E6D-488B-968C-7E117EDBA3E1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{91EAE341-D4BD-4C9B-9035-001BCF70001B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{D9E73A95-07AE-4F30-ABC7-1365F12F074C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="PDFUtils" key="{C41C29D8-D1BE-4EBE-A669-AC3D1AF5A843}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR1806">
+			<folder name="Modeles">
+				<child name="CR1806_4548_Mod_Valider_le_format_du_extract_datahubextractor" key="{2D883266-D666-4C40-B0DC-9635E4ED16AE}" path="CR1806_4548_Mod_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4558_Mod_Valider_les_records_dans_la_table_B_DATA_HUB" key="{0458D744-862C-4EB2-B1AD-A1EE282CDF07}" path="CR1806_4558_Mod_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Mod_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{AAED4536-941B-4F31-AFE5-4146FA3E1733}" path="CR1806_4615_Mod_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Mod_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{AB180A91-E560-4AE4-8418-AED825FF8281}" path="CR1806_4615_Mod_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{8170DE14-B47B-4C41-A59D-8C5A4F6F6EC2}" path="CR1806_4679_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{60AC0C49-C764-462D-AEF4-2A736301E1D3}" path="CR1806_4685_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{2358A155-DE30-46AC-A901-E69EC011970E}" path="CR1806_4685_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{7A0F09F6-4318-4908-8B3B-160B259BD663}" path="CR1806_4686_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{7495FDA8-5B1E-463F-BC7A-AEC8CD33ED62}" path="CR1806_4686_Mod_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+			</folder>
+			<folder name="Transactions">
+				<child name="CR1806_4548_Tra_Valider_le_format_du_extract_datahubextractor" key="{DA4F48E1-FAE6-4F97-A752-94A9465973F2}" path="CR1806_4548_Tra_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4558_Tra_Valider_les_records_dans_la_table_B_DATA_HUB" key="{28928B14-445F-4BB5-BD6E-1F32E0B6867E}" path="CR1806_4558_Tra_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Tra_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{63464E67-6446-44C6-BBFA-C97FCE8D8346}" path="CR1806_4615_Tra_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Tra_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{563D682D-56B3-4304-84DC-7EEFBBAB1689}" path="CR1806_4615_Tra_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Tra_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{91FE245A-C03B-455E-AC12-6F0D999B8C63}" path="CR1806_4679_Tra_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Tra_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{FE2747E4-F862-441E-B4DE-EE6401E8FF82}" path="CR1806_4685_Tra_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Tra_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{03802ED6-6FAA-4631-831A-5ABF6E9EC901}" path="CR1806_4685_Tra_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Tra_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{326A43D8-7DD5-4FF0-85C7-31045311E322}" path="CR1806_4686_Tra_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Tra_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{B0074B25-0D06-4E8A-81FE-44AB50798CB2}" path="CR1806_4686_Tra_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+			</folder>
+			<folder name="Titres">
+				<child name="CR1806_4548_Tit_Valider_le_format_du_extract_datahubextractor" key="{F8DE7DE9-34D3-4E53-B7F7-7BDF1D8E0A0F}" path="CR1806_4548_Tit_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4558_Tit_Valider_les_records_dans_la_table_B_DATA_HUB" key="{D760E810-DDA1-4187-927B-61D4EE048E77}" path="CR1806_4558_Tit_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4679_Tit_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{99D150B5-82F7-41C5-BEFA-DFDB2F187D9A}" path="CR1806_4679_Tit_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Tit_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{7F67E806-890F-4EF0-A11D-DEBF8C30250F}" path="CR1806_4685_Tit_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Tit_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{00E2F177-39C0-410D-B098-7BA27FC1185C}" path="CR1806_4685_Tit_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Tit_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{73FDA2CB-DF4C-4377-9BAB-A13C1B8C6DF2}" path="CR1806_4686_Tit_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Tit_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{FDB96047-BF9B-4BF8-BB8F-FB148BB38062}" path="CR1806_4686_Tit_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+				<child name="CR1806_4717_Tit_Valider_lexportation_des_donnees_des_rapports_MULTIPLE" key="{7B6C9413-3509-43EE-95B8-5FD30651569C}" path="CR1806_4717_Tit_Valider_lexportation_des_donnees_des_rapports_MULTIPLE.js" />
+			</folder>
+			<folder name="Clients">
+				<child name="CR1806_4548_Cli_Valider_le_format_du_extract_datahubextractor" key="{DD7418A0-B0B6-43D9-AAA9-3C9CA76088F0}" path="CR1806_4548_Cli_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4558_Cli_Valider_les_records_dans_la_table_B_DATA_HUB" key="{043B2B4E-8AF3-4CA8-BA40-2D59A9108377}" path="CR1806_4558_Cli_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{A7DEE4BC-AB02-4889-931E-FEC558F34A09}" path="CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{3221B736-5E6A-4A8B-BE63-7F095D25B1AB}" path="CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{24A8B8C6-DBBF-4A48-8932-6ECD9F2031C3}" path="CR1806_4679_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{69D1957A-21C9-4B86-9184-6578B9057AB7}" path="CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{113A5C68-8F59-4297-B480-85C8E3B79D09}" path="CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{8CC454FF-6F9A-403A-AF14-23F10B0043B2}" path="CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{92434D77-8FAC-433E-9451-8752CCC5175E}" path="CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+				<child name="CR1806_4717_Cli_Valider_lexportation_des_donnees_des_rapports_MULTIPLE" key="{85BF1C06-E157-401E-B9D4-5FF4905BBF40}" path="CR1806_4717_Cli_Valider_lexportation_des_donnees_des_rapports_MULTIPLE.js" />
+			</folder>
+			<folder name="Comptes">
+				<child name="CR1806_4548_Acc_Valider_le_format_du_extract_datahubextractor" key="{FAEAF8B0-2078-4752-A4E1-ADD5CDEE4A40}" path="CR1806_4548_Acc_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4558_Acc_Valider_les_records_dans_la_table_B_DATA_HUB" key="{1720A784-BBB2-42E2-BD9A-381E1EE4305A}" path="CR1806_4558_Acc_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{FB5C7C4B-9828-4286-9182-B78A1221AD49}" path="CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{BC29533E-6409-4F01-90A6-1E0B31D52ED7}" path="CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{011A2DFF-189F-4D60-85E6-726BA6688996}" path="CR1806_4679_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{11B2EEAE-407F-4D6F-9CFC-0A378318F4DE}" path="CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{04026294-24E1-4384-898E-21B426DDDFB2}" path="CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{BFEC8E96-3749-465C-8F20-825D19712E43}" path="CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{25064653-B96F-4A6B-B654-9D895FE3C77F}" path="CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+			</folder>
+			<folder name="Ordres">
+				<child name="CR1806_4548_Ord_Valider_le_format_du_extract_datahubextractor" key="{DB12C0AA-48E7-4433-A2DC-F5A0734EFB19}" path="CR1806_4548_Ord_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4558_Ord_Valider_les_records_dans_la_table_B_DATA_HUB" key="{66A28B3E-A813-4E6D-8E3A-C5C90E77B190}" path="CR1806_4558_Ord_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Ord_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{ECB962A7-217A-40B0-9BD0-3178507E379C}" path="CR1806_4615_Ord_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Ord_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{D0310554-3ECC-4AB9-8A75-B76E7FBB0996}" path="CR1806_4615_Ord_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Ord_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{7E9C64A2-B05C-4D16-A1CC-F43216D60687}" path="CR1806_4679_Ord_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Ord_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{3ECC9BDA-1854-41C7-BBE4-1B5799659101}" path="CR1806_4685_Ord_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Ord_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{0EA514CF-BA38-4550-A64D-1471CCC892A4}" path="CR1806_4685_Ord_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Ord_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{AF260D58-33A4-4E3F-A32B-29DEF1D9F3EF}" path="CR1806_4686_Ord_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Ord_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{CFAE309C-BFE7-4696-9E41-C4E82D6D3536}" path="CR1806_4686_Ord_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+			</folder>
+			<folder name="Relations">
+				<child name="CR1806_4548_Rel_Valider_le_format_du_extract_datahubextractor" key="{9FF13391-236D-4658-8E20-7B3C2CC93A66}" path="CR1806_4548_Rel_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4558_Rel_Valider_les_records_dans_la_table_B_DATA_HUB" key="{E1ABFF94-A7E5-43FB-9744-E95FC7B184C6}" path="CR1806_4558_Rel_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Rel_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{E902D54A-8226-4826-8C78-89046CCA426F}" path="CR1806_4615_Rel_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Rel_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{B90B89B7-ADF6-4E6B-B38F-BFDB6F182212}" path="CR1806_4615_Rel_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Rel_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{D88C9AD1-0962-4A17-9829-70E155E51C1C}" path="CR1806_4679_Rel_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Rel_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{D57DC5F1-6A8B-4892-957F-1529D3E0B5BD}" path="CR1806_4685_Rel_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Rel_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{BC547FE6-B84A-42C4-9BA9-7929364B1242}" path="CR1806_4685_Rel_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Rel_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{D4C5B69C-9DFC-46F6-8E7D-C6296174A31E}" path="CR1806_4686_Rel_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Rel_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{38BDB810-89E2-403A-9FF4-15160827D648}" path="CR1806_4686_Rel_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+			</folder>
+			<folder name="Portefeuille">
+				<child name="CR1806_4548_Por_Valider_le_format_du_extract_datahubextractor" key="{ED7F904D-5396-412B-82E6-F802547BB719}" path="CR1806_4548_Por_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4558_Por_Valider_les_records_dans_la_table_B_DATA_HUB" key="{EFFCCAF5-2FB5-4EAA-A62F-30648151C80E}" path="CR1806_4558_Por_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Por_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{C8FAC2F6-BC00-47AC-A178-A1B9005F2CAA}" path="CR1806_4615_Por_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4685_Por_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{DDC8B3AD-E071-4547-AA69-C328E33798BE}" path="CR1806_4685_Por_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Por_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{11C68970-ED05-482B-833D-AFE2CD39F0CA}" path="CR1806_4685_Por_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Por_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{9E81AD84-0388-49F5-8573-4A262FA6BC40}" path="CR1806_4686_Por_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Por_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{00D5B3FB-9393-450F-AA6E-3D9B3829E152}" path="CR1806_4686_Por_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+			</folder>
+			<folder name="SSH-DBA">
+				<child name="CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{EE562D7A-9CDF-44BF-BA7B-A74A22C73126}" path="CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.js" />
+				<child name="CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{0859B36A-F8C4-46C4-AE9B-4017C9E60609}" path="CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.js" />
+			</folder>
+			<folder name="BaseScripts_All-Modules">
+				<child name="CR1806_4548_Valider_le_format_du_extract_datahubextractor" key="{50FD0D57-54D9-4463-9F8E-15E77BC9232A}" path="CR1806_4548_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB" key="{64BEC29A-C49F-430F-B5F5-4F76D2A6E868}" path="CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{F5693CE4-6BF6-43EA-B0FB-DC413F42DA40}" path="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{6B3C3AAA-FE59-45B3-9E50-1EE1FE884983}" path="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{8271ED8D-6301-444B-BACE-896825D475E3}" path="CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{0AF7DFB3-A119-44E1-96C0-0E852A6536B3}" path="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{D2D1681A-E46D-445A-ABF1-166BEB46C883}" path="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{BF5F30A9-9DF6-48AB-84AA-CF00A23EAFF7}" path="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{C4BDCA43-DC23-44CA-A1AD-3D075DFD43E1}" path="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+				<child name="CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE" key="{73867F73-627B-43EA-B578-D002340DF99D}" path="CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE.js" />
+			</folder>
+			<child name="CR1806_Helper" key="{825B74DB-E34D-4C68-BD84-8480B80DF780}" path="CR1806_Helper.js" />
+		</folder>
+		<child name="GetListOfTestsToBeRun" key="{AE511F7C-87A9-4523-93D8-E1D9FF9AE6BB}" path="..\..\..\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="ExecutionLog" key="{C90C6F31-8946-47D7-B0C9-7D817B0D322C}" path="ExecutionLog.js" />
+		<child name="PreExecution" key="{C3D671B4-99F0-4C92-9A4A-AACF0A5E8043}" path="PreExecution.js" />
+	</children>
+</Root>

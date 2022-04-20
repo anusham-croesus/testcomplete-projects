@@ -1,0 +1,5 @@
+cd /home/crweb/Test_CR1571/
+newestFileName=$(ls -Art | tail -n 1)
+grep -oP '(?<="residencyCd": ")[^"]*' $newestFileName  > resultResidencyCdQC.txt
+
+grep -c "QC" $newestFileName > /home/crweb/Test_CR1571/ResultsQC.txt

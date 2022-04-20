@@ -1,0 +1,7 @@
+select * from B_COMPTE where NO_COMPTE in ('800229-NA', '800229-FS')
+and DATE_MAJ = 'Jan 25 2010 12:00AM' 
+and NO_REP = 'BD66'
+and NOM = 'BALLANTYNE MALIS'
+and FULLNAME = 'BALLANTYNE MALISKA'
+and DEVISE = 'CAD'
+and TYPE = 'A'

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{09398F32-9DC9-436A-A935-F08CF26DA6E5}">
+	<children>
+		<child name="AideEnLigne" key="{236DD862-C101-4717-87EB-D62DB1BC918C}" path="AideEnLigne\AideEnLigne.mds" />
+	</children>
+	<testItems key="{25F71B7A-047E-4E32-A754-E83F58A7201E}">
+		<children>
+			<testItem key="{236DD862-C101-4717-87EB-D62DB1BC918C}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{C1A7C120-6607-421E-AD45-544F4C1CCC26}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="CIBC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{5198D627-1D56-476C-91EE-FA6D6A0FE2E6}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

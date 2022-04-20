@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{A7872393-80B7-458C-9771-63B27FC05DEE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{53811DF1-1B19-4FE1-9E24-BAE548CD3616}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{41FAC2FD-FEEA-4555-829B-F1A9B2B8E36C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{FB8F2524-45CF-4B63-9A44-927E27DA3411}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{406FED6B-3BD7-441D-A774-50AE85AD1007}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{726179A8-25C4-4757-B261-7DB8EFD7FAAA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{0FF84219-55B6-4138-B4C5-948AA2CC8718}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{4AB4AF24-0224-4FD8-9577-6DA18EFF912E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{527305F8-29AE-48D4-86C1-C2F7DE3E255C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{A8188FFD-A67C-4CA5-A81F-2D4D49A87992}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{17B31EDE-81CA-4581-87C5-A38353B67209}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{3F3C841D-7F80-44ED-9E21-899F3A5BAB77}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{CF66E2C5-9E2D-4171-9794-9681307DC72A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{80B14768-F330-46C2-A847-76BF5A69D654}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{0CEDA338-7382-431C-A4AB-DE869912ED03}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{87998D88-7CA9-4AC1-9C19-4A27A9368AEF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{EF4259B9-D1CB-47BA-B5A3-FB0BB900E8F7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{639EA3DB-EEBD-4B8E-83CC-CAD8CECED9EE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{65CDD34A-963C-49EA-89EC-BD5DC175CA4C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="CommonCheckpoints" key="{676E8F01-5DA8-4B15-B56E-653DB4CA2A6C}" path="..\..\..\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="WebConfigurator_Get_functions" key="{E5D0646A-96C2-456E-BC5B-58A4DE3D5D2A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\WebConfigurator_Get_functions.sj" />
+			<child name="SmokeTest_ConfigurateurWeb" key="{13D2F60E-8DBE-4BA2-86DE-DA13C73382D8}" path="..\..\..\ProjectSuiteGeneral\General\Script\SmokeTest_ConfigurateurWeb.sj" />
+			<child name="PDFUtils" key="{5264FE47-8021-4F90-A7C5-D86761E16B84}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="RapportsPerformance">
+			<child name="PrepareDB" key="{D086FD66-4D45-4447-8102-F549B96CD658}" path="PrepareDB.sj" />
+		</folder>
+		<folder name="CR1485">
+			<folder name="001_INFO_CLIENT">
+				<child name="CR1485_001_Common_functions" key="{4E1BC0AD-53BC-4011-9CE9-D417BD069D1A}" path="CR1485_001_Common_functions.sj" />
+				<child name="CR1485_001_Cli_Profil_NumVis_AddBranch" key="{739C3C7C-3FA7-44A6-86BD-A18F49F0B53C}" path="CR1485_001_Cli_Profil_NumVis_AddBranch.sj" />
+				<child name="CR1485_001_Cli_Profile_Notes_Event_NumVis" key="{92A7F200-61AA-4392-9C2C-0C9CADAC2087}" path="CR1485_001_Cli_Profile_Notes_Event_NumVis.sj" />
+				<child name="CR1485_001_Cli_Notes_Histo_NumVis" key="{DBAB7C0D-CB44-4157-914F-DCDEC4888F8F}" path="CR1485_001_Cli_Notes_Histo_NumVis.sj" />
+			</folder>
+			<folder name="002_GAIN_PERTE">
+				<child name="CR1485_002_Common_functions" key="{D9ADE9FA-1E9C-460B-86A8-EB68BC95170A}" path="CR1485_002_Common_functions.sj" />
+				<child name="CR1485_002_Rel_PrevYear_DateDef_IntDiv_GroupSec_BookVl_SettDate" key="{421B22FD-23FE-4515-9D39-18B7AC0A3FB9}" path="CR1485_002_Rel_PrevYear_DateDef_IntDiv_GroupSec_BookVl_SettDate.sj" />
+				<child name="CR1485_002_Cli_DateModf_GLBrk_GroupSec_ByAcc_InvstCap_TradeDate_NumVis_Msg" key="{F2941C19-4CB6-4A54-841E-B7795F5E7328}" path="CR1485_002_Cli_DateModf_GLBrk_GroupSec_ByAcc_InvstCap_TradeDate_NumVis_Msg.sj" />
+				<child name="CR1485_002_Cli_PrevYear_DateModf_GLBrk_GroupSec_BookVl_TradeDate_NumVis_AddBranch_Msg" key="{9CA9A0AA-053E-4726-8393-AE3495BA8CEE}" path="CR1485_002_Cli_PrevYear_DateModf_GLBrk_GroupSec_BookVl_TradeDate_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_002_Acc_PrevYear_DateModf_GroupSec_BookVl_SettDate_NumHid_AddBranch_Group_Msg" key="{D77D7877-6EAD-4933-B689-60F80291D46A}" path="CR1485_002_Acc_PrevYear_DateModf_GroupSec_BookVl_SettDate_NumHid_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_002_Cli_2008_CptNonEnreg_InvstCap_TransDate_NumVis" key="{BA3F814E-710C-4A1E-97FE-CB416943EDEE}" path="CR1485_002_Cli_2008_CptNonEnreg_InvstCap_TransDate_NumVis.sj" />
+				<child name="CR1485_002_Acc_PrevYear_DateDef_CptNonEnreg_BookVl_SettDate_NumVis_TheoVL" key="{313B98E9-1BC5-4DC5-B3B8-134C07AEC9ED}" path="CR1485_002_Acc_PrevYear_DateDef_CptNonEnreg_BookVl_SettDate_NumVis_TheoVL.sj" />
+				<child name="CR1485_002_Cli_ExclAccAddress_CR2242" key="{48E3947B-66C2-4E06-B842-C8FE0BA09817}" path="CR1485_002_Cli_ExclAccAddress_CR2242.sj" />
+				<child name="CR1485_002_Rel_ExclRelAddress_CR2242" key="{6D9562E0-589D-4B72-9101-4099120FCFFE}" path="CR1485_002_Rel_ExclRelAddress_CR2242.sj" />
+			</folder>
+			<folder name="003_EVAL_SIMPLE">
+				<child name="CR1485_003_Common_functions" key="{347D1514-A5C8-439A-8916-48BA1DDEC382}" path="CR1485_003_Common_functions.sj" />
+				<child name="CR1485_003_Cli_DateModf_Graph_Pie_Region_AssAllFirm_BookVl_TheoVal_NumVis_SortMat_AddBranch_Msg" key="{1E623EE3-A27E-474A-B54D-29B0FFFA19EE}" path="CR1485_003_Cli_DateModf_Graph_Pie_Region_AssAllFirm_BookVl_TheoVal_NumVis_SortMat_AddBranch_Msg.sj" />
+				<child name="CR1485_003_Cli_DateModf_Graph_Histg_Compare_GroupIndCode_BookVl_AssAllBasic_NUmVis_SortMat" key="{DBC95B90-D16A-422F-8AEA-19BCA455725D}" path="CR1485_003_Cli_DateModf_Graph_Histg_Compare_GroupIndCode_BookVl_AssAllBasic_NUmVis_SortMat.sj" />
+				<child name="CR1485_003_Rel_DateDef_AssAllFirm_BookVl_NumVis_SortMat_AddBranch_Group_ConsolidPos_Msg" key="{8D33606E-B510-45F3-86EA-734DC1F7546A}" path="CR1485_003_Rel_DateDef_AssAllFirm_BookVl_NumVis_SortMat_AddBranch_Group_ConsolidPos_Msg.sj" />
+				<child name="CR1485_003_Acc_DateDef_AssAllBasic_BookVl_ClassBrk_NumHid_SortDesc_Group" key="{ABE04985-D6F2-4B50-B1E2-2F43DC3558EC}" path="CR1485_003_Acc_DateDef_AssAllBasic_BookVl_ClassBrk_NumHid_SortDesc_Group.sj" />
+				<child name="CR1485_003_Acc_DateModf_Graph_Pie_Compare_Region_InvstCap_AssAllFirm_NumHid_SortDesc_App_Add_Msg" key="{5547A476-6F15-4F20-B600-6397F17FA545}" path="CR1485_003_Acc_DateModf_Graph_Pie_Compare_Region_InvstCap_AssAllFirm_NumHid_SortDesc_App_Add_Msg.sj" />
+				<child name="CR1485_003_Portf_DateDef_BookVl_AssAllFirm_Appndx_SortMat" key="{0918CD46-443B-42C9-8D34-42489878EB81}" path="CR1485_003_Portf_DateDef_BookVl_AssAllFirm_Appndx_SortMat.sj" />
+				<child name="CR1485_003_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat" key="{D53DA5C3-654E-43FC-87BD-54F13EA5A20A}" path="CR1485_003_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_003_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat" key="{36D112BD-F743-4476-A09D-460497D30587}" path="CR1485_003_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_003_Acc_DateDef_RepCR1905" key="{160B4A0A-5B2C-416B-B391-875AA93C5D99}" path="CR1485_003_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_003_Acc_DateDef_BkVL_TheVLAssAllFirm_NumVis_SortMat" key="{D9600AC2-C592-4202-9011-C03DA3AFC54F}" path="CR1485_003_Acc_DateDef_BkVL_TheVLAssAllFirm_NumVis_SortMat.sj" />
+			</folder>
+			<folder name="004_ANNIC">
+				<child name="CR1485_004_Common_functions" key="{46DFE8ED-5BB9-4221-954F-0E7005FDC289}" path="CR1485_004_Common_functions.sj" />
+				<child name="CR1485_004_Rel_DateDef_SortDesc_NumVis_AddBranch_Msg" key="{D1B01D32-CB20-4C4B-84DA-E46F37E5E9F0}" path="CR1485_004_Rel_DateDef_SortDesc_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_004_Cli_DateModf_AmortIncome_SortDesc_NumVis_AddBranch_Msg" key="{FC5A67F6-B4E6-4C7B-A14A-2C55BA2B596D}" path="CR1485_004_Cli_DateModf_AmortIncome_SortDesc_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_004_Acc_DateModf_AmortIncome_SortPeriod_NumVis_AddBranch_Group_Msg" key="{A3EF7A3A-7437-4ED6-B005-FEDA1E3F6FBB}" path="CR1485_004_Acc_DateModf_AmortIncome_SortPeriod_NumVis_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_004_Portef_DateModf_AmortIncome_SortDesc" key="{E34BFCA5-8C7F-43E0-B829-2C25AC0191DD}" path="CR1485_004_Portef_DateModf_AmortIncome_SortDesc.sj" />
+				<child name="CR1485_004_Cli_Albert_Einstein_BD66_Q_12_31_2009E_800067_ANTOINETTA_STEAD_800067" key="{079C33C7-A834-4B93-A45B-68E7BD91FBB4}" path="CR1485_004_Cli_Albert_Einstein_BD66_Q_12_31_2009E_800067_ANTOINETTA_STEAD_800067.sj" />
+			</folder>
+			<folder name="005_PERFORMANCE">
+				<child name="CR1485_005_Common_functions" key="{3081A0AE-91BB-446E-9CF8-D3FA767E0DCF}" path="CR1485_005_Common_functions.sj" />
+				<child name="CR1485_005_Rel_ExcludeDate_DateModf_PeriodDef_AssAllGraph_Histo_AssAllFirm_TWRNetBrut_MWRNet_AddBranch" key="{5F45CE11-17DC-44D5-B1B3-642ABE85D268}" path="CR1485_005_Rel_ExcludeDate_DateModf_PeriodDef_AssAllGraph_Histo_AssAllFirm_TWRNetBrut_MWRNet_AddBranch.sj" />
+				<child name="CR1485_005_Rel_DateModf_PerDef_GraphAssAllInvestObj_Pie_AssAllBasic_TWRNetBrut_MWR_NumVis" key="{06F9C108-5517-40FB-B090-59B5B648BB02}" path="CR1485_005_Rel_DateModf_PerDef_GraphAssAllInvestObj_Pie_AssAllBasic_TWRNetBrut_MWR_NumVis.sj" />
+				<child name="CR1485_005_Cli_DateModf_PeriodDef_AssAll_PortPerf_Graph_Pie_AssAllFirm_PMWNet_AddBranch_Msg" key="{3420A2E6-DFB1-4D5A-B86B-FE96E1291D11}" path="CR1485_005_Cli_DateModf_PeriodDef_AssAll_PortPerf_Graph_Pie_AssAllFirm_PMWNet_AddBranch_Msg.sj" />
+				<child name="CR1485_005_Acc_ExcluData_Period_1Y2Y4Y5Y_PTWNet_PMWNet_IndDJII_StdDev_Group" key="{5C4451A9-82BC-420D-AFB8-E1EC9A1259E6}" path="CR1485_005_Acc_ExcluData_Period_1Y2Y4Y5Y_PTWNet_PMWNet_IndDJII_StdDev_Group.sj" />
+				<child name="CR1485_005_Cli_Exclu_DateModf_PeriodDef_AssAllFirm_TWRNetBrut_Det_2Ind_NumVis" key="{C8EB4BC6-1B19-4DB1-940A-E7A61654F236}" path="CR1485_005_Cli_Exclu_DateModf_PeriodDef_AssAllFirm_TWRNetBrut_Det_2Ind_NumVis.sj" />
+				<child name="CR1485_005_Acc_ExclDt_DtMd_Per_3m6m1Y3Y_AssAllPerfPrtf_Pie_Firm_TWR_MWR_PerfTot_NumVis" key="{81039FC0-4B0C-48EA-A735-9551EA1D9D35}" path="CR1485_005_Acc_ExclDt_DtMd_Per_3m6m1Y3Y_AssAllPerfPrtf_Pie_Firm_TWR_MWR_PerfTot_NumVis.sj" />
+				<child name="CR1485_005_Acc_DateDef_RepCR1905" key="{3DBCD70A-AA7A-4B7A-9988-81C15F4642DD}" path="CR1485_005_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_005_Acc_DateDef_PerDef_MWR_Det_NumVis" key="{D6E58431-605F-4E28-AB42-BCCF5E766503}" path="CR1485_005_Acc_DateDef_PerDef_MWR_Det_NumVis.sj" />
+			</folder>
+			<folder name="006_CROFT_COVERPAGE">
+				<child name="CR1485_006_Common_functions" key="{635A3449-2478-4201-8CE8-B0B9D00F7771}" path="CR1485_006_Common_functions.sj" />
+				<child name="CR1485_006_Rel_DateModf" key="{20266BFC-9F1D-4494-B26A-2C927E6E1582}" path="CR1485_006_Rel_DateModf.sj" />
+				<child name="CR1485_006_Cli_DateDef" key="{8FECB500-DE0E-4E0E-BEEA-224C76B79A7F}" path="CR1485_006_Cli_DateDef.sj" />
+				<child name="CR1485_006_Acc_DateDef" key="{CA1E5EE9-2C2E-444E-AFC0-2E330EDB8440}" path="CR1485_006_Acc_DateDef.sj" />
+			</folder>
+			<folder name="007_DOCUMENT_SUMMARY">
+				<child name="CR1485_007_Common_functions" key="{FF82E7D9-B938-48E7-89FA-C7ECB287CD06}" path="CR1485_007_Common_functions.sj" />
+				<child name="CR1485_007_Rel_DateDef_NumVis" key="{BD41777F-EBE3-40B1-A2A7-58F6BB546396}" path="CR1485_007_Rel_DateDef_NumVis.sj" />
+				<child name="CR1485_007_Cli_DateModf_NumHid" key="{E24864E2-AA5B-4CB8-9AF6-0D8ACFB3F58C}" path="CR1485_007_Cli_DateModf_NumHid.sj" />
+				<child name="CR1485_007_Acc_DateModf_NumVis_AddBranch" key="{137CE6CF-A0EF-4DB1-ABD4-C34B8A4D3D98}" path="CR1485_007_Acc_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_007_Acc_R__Reagan__F__Roosevelt__H__Truman_AC42_Q_12_31_2009F_800252RE_BACHIR_ATHANASOP_800252" key="{46A76506-FD04-4648-8BC4-47587CC9C8D6}" path="CR1485_007_Acc_R__Reagan__F__Roosevelt__H__Truman_AC42_Q_12_31_2009F_800252RE_BACHIR_ATHANASOP_800252.sj" />
+			</folder>
+			<folder name="008_GRAPH_ASSET_INDC">
+				<child name="CR1485_008_Common_functions" key="{FCA708BC-112B-4FFC-BC4A-EB7BF0A75458}" path="CR1485_008_Common_functions.sj" />
+				<child name="CR1485_008_Rel_DateDef_PieGraph_IndCodeFirm_NumVis_AddBranch" key="{7D3D0CE3-81DD-4A0F-AB57-A0C271A3AB36}" path="CR1485_008_Rel_DateDef_PieGraph_IndCodeFirm_NumVis_AddBranch.sj" />
+				<child name="CR1485_008_Cli_DateModf_HistgGraph_IndCodeBasic_NumHid_Group" key="{59DE4DD9-F2EC-405B-A649-01D691C86C4C}" path="CR1485_008_Cli_DateModf_HistgGraph_IndCodeBasic_NumHid_Group.sj" />
+				<child name="CR1485_008_Acc_DateDef_PieGraph_IndCodeFirm_NumVis" key="{708663C5-75BD-449A-861F-2BE2093B2467}" path="CR1485_008_Acc_DateDef_PieGraph_IndCodeFirm_NumVis.sj" />
+				<child name="CR1485_008_Portf_DateModf_HistgGraph_IndCodeFirm" key="{1F252915-1080-493B-A775-4ADC4C9D96BC}" path="CR1485_008_Portf_DateModf_HistgGraph_IndCodeFirm.sj" />
+			</folder>
+			<folder name="009_SUMMARY_PORTFOLIO">
+				<child name="CR1485_009_Common_functions" key="{3E85C7C1-3EF7-4E47-BB84-AC6AD3E8801A}" path="CR1485_009_Common_functions.sj" />
+				<child name="CR1485_009_Rel_ExclData_DateDef_TWRNetGross_MWR_IndiceTSE35_TSE60_NumVis_AddBranch" key="{DE75C70A-1141-46AF-B4A5-26EE3E3671C1}" path="CR1485_009_Rel_ExclData_DateDef_TWRNetGross_MWR_IndiceTSE35_TSE60_NumVis_AddBranch.sj" />
+				<child name="CR1485_009_Cli_DateDef_TWRNet_IndiceTSE35_TSE60_NumVis_Group" key="{67C308DC-3004-49AB-B9F5-D4A548952324}" path="CR1485_009_Cli_DateDef_TWRNet_IndiceTSE35_TSE60_NumVis_Group.sj" />
+				<child name="CR1485_009_Acc_ExcluDate_DateModf_TWRGrossMWR_IndiceDJII_DJIN_IndexBaseCurr_NumHid_AddBranch_Group" key="{765B5578-2338-4D1A-97E7-EEB64C4079E6}" path="CR1485_009_Acc_ExcluDate_DateModf_TWRGrossMWR_IndiceDJII_DJIN_IndexBaseCurr_NumHid_AddBranch_Group.sj" />
+				<child name="CR1485_009_Cli_DateMod_Fix_ModPer_TWR_MWR_5Ind_NumVis" key="{6E83E14D-2F19-4DA7-99EB-F72EB73A212E}" path="CR1485_009_Cli_DateMod_Fix_ModPer_TWR_MWR_5Ind_NumVis.sj" />
+				<child name="CR1485_009_Cli_DateDef_RepCR1905" key="{9FA995AF-65F6-46DB-8B4B-F45FC1C43D13}" path="CR1485_009_Cli_DateDef_RepCR1905.sj" />
+				<child name="CR1485_009_Acc_Date_Incep_Note" key="{2D2FEAA4-800F-49C2-97DF-31EDC228DCF3}" path="CR1485_009_Acc_Date_Incep_Note.sj" />
+				<child name="CR1485_009_Acc_ExclDt_DtDf_MWR_Det_NumVis" key="{474036B9-7CF6-4E49-BD69-2812C8E860D1}" path="CR1485_009_Acc_ExclDt_DtDf_MWR_Det_NumVis.sj" />
+			</folder>
+			<folder name="012_GRAPH_ASSET_MAINC">
+				<child name="CR1485_012_Common_functions" key="{278D372A-EE2C-460F-B178-453E3618D2B7}" path="CR1485_012_Common_functions.sj" />
+				<child name="CR1485_012_Rel_DateMdf_PieGraph_AssAllFirm_NumVis_AddBranch" key="{9E636240-606F-4D9A-AD69-0AD8AC8F2A99}" path="CR1485_012_Rel_DateMdf_PieGraph_AssAllFirm_NumVis_AddBranch.sj" />
+				<child name="CR1485_012_Cli_DateDef_HistgGraph_AssAllBasic_NumHid" key="{B228CCF3-F762-4B34-AD78-484FA3EE2397}" path="CR1485_012_Cli_DateDef_HistgGraph_AssAllBasic_NumHid.sj" />
+				<child name="CR1485_012_Cli_DateModf_Graph_Pie_Compare_AssAllBasic_NumVis_Add" key="{8936377D-9B1D-468C-BA8B-D3E298008A52}" path="CR1485_012_Cli_DateModf_Graph_Pie_Compare_AssAllBasic_NumVis_Add.sj" />
+				<child name="CR1485_012_Acc_DateMdf_PieGraph_AssAllFirm_ClassBrk_NumVis_AddBranch_Group" key="{A5034EEA-98F2-45DA-A7AF-8576D8EE5E9C}" path="CR1485_012_Acc_DateMdf_PieGraph_AssAllFirm_ClassBrk_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_012_Portf_HistgGraph_AssAllBasic" key="{50ADD788-5756-494F-B4B8-8AE1D36DED09}" path="CR1485_012_Portf_HistgGraph_AssAllBasic.sj" />
+				<child name="CR1485_012_Cli_DateDef_RepCR1905" key="{0648CDED-2F69-4999-8067-5205DA72B422}" path="CR1485_012_Cli_DateDef_RepCR1905.sj" />
+			</folder>
+			<folder name="014_GRAPH_ASSET_CAT">
+				<child name="CR1485_014_Common_functions" key="{98BBA36E-7D55-4516-A2BF-0C1DBCF20875}" path="CR1485_014_Common_functions.sj" />
+				<child name="CR1485_014_Rel_DateDef_PierGraph_NumVis_AddBranch" key="{ADC50184-DF69-4190-AA8B-35B6160E0224}" path="CR1485_014_Rel_DateDef_PierGraph_NumVis_AddBranch.sj" />
+				<child name="CR1485_014_Cli_DateModf_HistgGraph_NumVis_AddBranch_Group" key="{4286525A-DB71-4BB4-8B13-9693FD0A873D}" path="CR1485_014_Cli_DateModf_HistgGraph_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_014_Acc_DateDef_PieGraph_NumVis" key="{956BD221-8A1C-491E-B2D3-2DB760649C2C}" path="CR1485_014_Acc_DateDef_PieGraph_NumVis.sj" />
+				<child name="CR1485_014_Portf_DateModf_HistgGraph" key="{13478241-5AC1-4DC2-AEFF-BE395B3ED3E8}" path="CR1485_014_Portf_DateModf_HistgGraph.sj" />
+			</folder>
+			<folder name="015_DISCLAIMER">
+				<child name="CR1485_015_Common_functions" key="{DCAFD4DE-B12E-4F62-A62A-F0DA80D366C0}" path="CR1485_015_Common_functions.sj" />
+				<child name="CR1485_015_Rel_NumVis" key="{377571BD-7453-402C-ADEF-CD876A6BA37D}" path="CR1485_015_Rel_NumVis.sj" />
+				<child name="CR1485_015_Cli_NumHid" key="{0FF12745-3D46-4861-BD28-1FB0D887E1AF}" path="CR1485_015_Cli_NumHid.sj" />
+				<child name="CR1485_015_Acc_NumVis" key="{BA0EC986-9578-4E54-B48D-476094F509AE}" path="CR1485_015_Acc_NumVis.sj" />
+			</folder>
+			<folder name="016_REVENUES">
+				<child name="CR1485_016_Common_functions" key="{C7A223C1-1141-4939-A449-7D5D78EAE938}" path="CR1485_016_Common_functions.sj" />
+				<child name="CR1485_016_Rel_DateModf_NumVis" key="{8805953F-BB29-4507-9A01-A753AC6D98B1}" path="CR1485_016_Rel_DateModf_NumVis.sj" />
+				<child name="CR1485_016_Cli_DateDef_AmortIncome_NumVis_AddBranch" key="{FC553955-3A11-4119-A7DC-9D3EFD89A866}" path="CR1485_016_Cli_DateDef_AmortIncome_NumVis_AddBranch.sj" />
+				<child name="CR1485_016_Acc_DateModf_AmortIncome_NumVis_AddBranch_Group_ConsoldPos_Msg" key="{9529E981-8C3B-4A49-A70E-F21BAD0E1DC8}" path="CR1485_016_Acc_DateModf_AmortIncome_NumVis_AddBranch_Group_ConsoldPos_Msg.sj" />
+			</folder>
+			<folder name="018_HOLDERS_WEB">
+				<child name="CR1485_018_Common_functions" key="{FA490488-9E65-4255-A658-C8B06E6FF0DB}" path="CR1485_018_Common_functions.sj" />
+				<child name="CR1485_018_Sec_BookVl_Msg" key="{C3FB240D-C00C-48D8-A931-9274792C9454}" path="CR1485_018_Sec_BookVl_Msg.sj" />
+			</folder>
+			<folder name="017_HOLDERS">
+				<child name="CR1485_017_Common_functions" key="{271572D8-4FC1-4205-B5AB-0156A3107151}" path="CR1485_017_Common_functions.sj" />
+				<child name="CR1485_017_Sec_PortfVal_BookVl_AddBranch" key="{C4BB0D1E-216B-4E38-8164-9E90B853A729}" path="CR1485_017_Sec_PortfVal_BookVl_AddBranch.sj" />
+				<child name="CR1485_017_Sec_InvstCap" key="{1C4C2C91-7620-4B8B-B663-8CD5F0BE2AF6}" path="CR1485_017_Sec_InvstCap.sj" />
+			</folder>
+			<folder name="019_TASK">
+				<child name="CR1485_019_Common_functions" key="{6DC2288E-36AF-4360-9D34-6A0ADC6BB026}" path="CR1485_019_Common_functions.sj" />
+				<child name="CR1485_019_Agn_DateModf" key="{B4D1AE23-D7B7-4CEE-A81E-B13C486C5BB3}" path="CR1485_019_Agn_DateModf.sj" />
+			</folder>
+			<folder name="020_EVAL_AVAN">
+				<child name="CR1485_020_Common_functions" key="{D895EE7F-CE44-4EFD-9780-1CA5F23783CE}" path="CR1485_020_Common_functions.sj" />
+				<child name="CR1485_020_Rel_DateDef_Region_AssAllFirm_BookVl_TheoVl_NumVis_SortMat" key="{7601B747-207A-49FD-B559-CD7359540AEB}" path="CR1485_020_Rel_DateDef_Region_AssAllFirm_BookVl_TheoVl_NumVis_SortMat.sj" />
+				<child name="CR1485_020_Cli_DateModf_Graph_Pie_AssAllBasic_BookVl_NumHid_SortDesc_Group" key="{45DD37E6-2B7D-4B91-8609-DC73CF801B2F}" path="CR1485_020_Cli_DateModf_Graph_Pie_AssAllBasic_BookVl_NumHid_SortDesc_Group.sj" />
+				<child name="CR1485_020_Cli_DateModf_Graph_Pie_GroupAccCurr_AssAlloBasic_NumVis_SortPercentTotal_BookVl" key="{D309CD88-B9C3-4F12-973F-E416F79874AC}" path="CR1485_020_Cli_DateModf_Graph_Pie_GroupAccCurr_AssAlloBasic_NumVis_SortPercentTotal_BookVl.sj" />
+				<child name="CR1485_020_Acc_DateModf_Region_InvstCap_TheoVal_AssAllBasic_ClassBrk_NumVis_SortDesc_AddBranch" key="{20E2E36A-98EE-428A-92AD-C8F2D659FCEC}" path="CR1485_020_Acc_DateModf_Region_InvstCap_TheoVal_AssAllBasic_ClassBrk_NumVis_SortDesc_AddBranch.sj" />
+				<child name="CR1485_020_Portf_DateDef_Graph_Pie_AssAllFirm_BookVl_SortMat" key="{C6FC338B-6C26-4978-A232-3DB4EF547975}" path="CR1485_020_Portf_DateDef_Graph_Pie_AssAllFirm_BookVl_SortMat.sj" />
+				<child name="CR1485_020_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat" key="{E1F04604-6F24-48C7-A58F-16F41CCDFA36}" path="CR1485_020_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_020_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat" key="{20A56C4A-FEE2-4C6B-B128-C9227FF5606A}" path="CR1485_020_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_020_Acc_DateDef_RepCR1905" key="{31FFF556-BDB4-4FEF-9495-20C4D6E62120}" path="CR1485_020_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_020_Acc_DateDef_BkVL_TheVLAssAllFirm_NumVis_SortMat" key="{B7F4DDF2-ED0C-49EA-A811-815584C264FF}" path="CR1485_020_Acc_DateDef_BkVL_TheVLAssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_020_Cli_DateDef_GroupRegSectAccCurr_AssAlloFirm_NumVis_SortRendGlobal_BookVl" key="{4CEB553D-38CD-4744-87FE-0B126F041642}" path="CR1485_020_Cli_DateDef_GroupRegSectAccCurr_AssAlloFirm_NumVis_SortRendGlobal_BookVl.sj" />
+			</folder>
+			<folder name="021_TRANS_MISSING_COST">
+				<child name="CR1485_021_Common_functions" key="{5E7F0F96-4075-42A4-9CCD-3E5DC5353933}" path="CR1485_021_Common_functions.sj" />
+				<child name="CR1485_021_Rel_DateModf_NumVis" key="{C265428B-21EE-4489-81C4-0CB80A4F3371}" path="CR1485_021_Rel_DateModf_NumVis.sj" />
+				<child name="CR1485_021_Cli_DateDef_NumHid_Msg" key="{2E5E7CE1-5836-43FB-B32C-FC30A225B9A0}" path="CR1485_021_Cli_DateDef_NumHid_Msg.sj" />
+				<child name="CR1485_021_Acc_DateModf_NumVis_Msg" key="{CD4BD845-9C54-46CB-A690-7EEDB9AEBAD3}" path="CR1485_021_Acc_DateModf_NumVis_Msg.sj" />
+			</folder>
+			<folder name="023_ACC_SRV_Code">
+				<child name="CR1485_023_Common_functions" key="{593F87E2-F05D-4271-998D-06AA4B1955E6}" path="CR1485_023_Common_functions.sj" />
+				<child name="CR1485_023_Acc_Both" key="{693C8499-E35D-4BF2-8AD9-04E1C4CF1E2A}" path="CR1485_023_Acc_Both.sj" />
+			</folder>
+			<folder name="024_THEORETICAL_INTEREST">
+				<child name="CR1485_024_Common_functions" key="{5B45AB2F-3688-4E6C-8E5E-040353497A85}" path="CR1485_024_Common_functions.sj" />
+				<child name="CR1485_024_Rel_Ydef_NumVis_AddBranch_Group" key="{00D084BB-D553-478C-958E-0E7702DA8C62}" path="CR1485_024_Rel_Ydef_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_024_Acc_Y2008__NumHid_AddBranch_Msg" key="{DED655CD-670B-483B-A568-FB0C9A485235}" path="CR1485_024_Acc_Y2008__NumHid_AddBranch_Msg.sj" />
+				<child name="CR1485_024_Cli_Y2007_NumVis_Msg" key="{31EC16F9-274F-4B77-A83F-AF7A29FBAE02}" path="CR1485_024_Cli_Y2007_NumVis_Msg.sj" />
+				<child name="CR1485_024_Portf_Y2007" key="{C4285141-A15C-4682-B999-3BC3FC32035A}" path="CR1485_024_Portf_Y2007.sj" />
+			</folder>
+			<folder name="025_ASSET_MIX">
+				<child name="CR1485_025_Common_functions" key="{5EE2405D-16A6-4EEA-80B2-3BAC914BF9E2}" path="CR1485_025_Common_functions.sj" />
+				<child name="CR1485_025_Rel_DateDef_BookVl_AssAllFirm_NumVis" key="{50345A3F-80F2-450E-AA15-72C2D2F99D88}" path="CR1485_025_Rel_DateDef_BookVl_AssAllFirm_NumVis.sj" />
+				<child name="CR1485_025_Cli_DateModf_AllRec_InvstCap_AssAllBasic_NumVis" key="{D94A6E70-3F43-498F-969E-F8B5492C2750}" path="CR1485_025_Cli_DateModf_AllRec_InvstCap_AssAllBasic_NumVis.sj" />
+				<child name="CR1485_025_Acc_DateModf_BookVl_AssAllFirm_NumHid_ClassBrk_AddBranch_Msg" key="{15CBE9F3-2BFC-4FEB-9E0C-A06EA0F0F255}" path="CR1485_025_Acc_DateModf_BookVl_AssAllFirm_NumHid_ClassBrk_AddBranch_Msg.sj" />
+			</folder>
+			<folder name="026_ALARMS" />
+			<folder name="027_ASSETS_ALLOC_DET">
+				<folder name="022_TRANS_SECURITY_WEB">
+					<child name="CR1485_022_Common_functions" key="{3E39F7D8-8A63-4E8C-8159-0E044D2F433A}" path="CR1485_022_Common_functions.sj" />
+					<child name="CR1485_022_Sec_AllTRans_DateModf" key="{F71C56CF-8258-4D83-BB0A-A265FAE832EE}" path="CR1485_022_Sec_AllTRans_DateModf.sj" />
+				</folder>
+				<child name="CR1485_027_Common_functions" key="{E8A931E9-7917-4B44-AE0F-B21AD98922DA}" path="CR1485_027_Common_functions.sj" />
+				<child name="CR1485_027_Rel_DateModf_AssAllFirm_NumVis_AddBranch" key="{D0AEBEE9-0239-41FC-BB06-D41D21A9B979}" path="CR1485_027_Rel_DateModf_AssAllFirm_NumVis_AddBranch.sj" />
+				<child name="CR1485_027_Cli_DateModf_Graph_Pie_AssAllFirm_NumVis_AddBranch" key="{F0BA8292-89CF-4042-B05C-72F63563434D}" path="CR1485_027_Cli_DateModf_Graph_Pie_AssAllFirm_NumVis_AddBranch.sj" />
+				<child name="CR1485_027_Acc_DateDef_Graph_Histog_AssAllBasic_ClassBrk_NumHid_AddBranch_Group_Msg" key="{AD517DFF-0BE6-4675-8959-E8C62879AA39}" path="CR1485_027_Acc_DateDef_Graph_Histog_AssAllBasic_ClassBrk_NumHid_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_027_Acc_DateDef_Graph_Histog_Compare_AssAllFirm_ClssBrk_NumHid" key="{E29109F1-C40B-4E1C-A70A-6F788408C4DC}" path="CR1485_027_Acc_DateDef_Graph_Histog_Compare_AssAllFirm_ClssBrk_NumHid.sj" />
+				<child name="CR1485_027_Acc_DateDef_RepCR1905" key="{F4CBB049-A190-47C0-BACB-008A6F01C46D}" path="CR1485_027_Acc_DateDef_RepCR1905.sj" />
+			</folder>
+			<folder name="028_IAVM_ASSET_MIX">
+				<child name="CR1485_028_Common_functions" key="{0F7E6441-7AC6-4B5D-9037-104D31899356}" path="CR1485_028_Common_functions.sj" />
+				<child name="CR1485_028_Cli_DateDef_InvstCap_AssAllFirm_NumHid_ClassBrk" key="{3DD3CAF5-5755-45D3-B603-D1D0B9AC7395}" path="CR1485_028_Cli_DateDef_InvstCap_AssAllFirm_NumHid_ClassBrk.sj" />
+				<child name="CR1485_028_Rel_DateModf_AllRec_BookVl_AssAllCustom_NumVis_AddBranch_Msg" key="{38BF6714-8E63-45B6-B360-CEED4FCC5D7A}" path="CR1485_028_Rel_DateModf_AllRec_BookVl_AssAllCustom_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_028_Acc_DateDef_AllRec_BookVl_AssAllFirm_NumVis_ClassBrk" key="{650FFD1E-5A25-42CD-AA7E-851D655BF3C6}" path="CR1485_028_Acc_DateDef_AllRec_BookVl_AssAllFirm_NumVis_ClassBrk.sj" />
+			</folder>
+			<folder name="029_ASSETS_UNDER_MGT_PER">
+				<child name="CR1485_029_Common_functions" key="{62F19C35-5402-4B61-AD77-3C4F2D474DA0}" path="CR1485_029_Common_functions.sj" />
+				<child name="CR1485_029_Rel_DateDef_AssAllFirm_Month_NumVis" key="{889E0EE6-3C2C-4555-85B5-5CDFFAFFD66F}" path="CR1485_029_Rel_DateDef_AssAllFirm_Month_NumVis.sj" />
+				<child name="CR1485_029_Cli_DateModf_Graph_AssAllFirm_Qrt_NumVis" key="{05ADFD52-2DA2-42E0-B879-5C6BCB38BD22}" path="CR1485_029_Cli_DateModf_Graph_AssAllFirm_Qrt_NumVis.sj" />
+				<child name="CR1485_029_Acc_DateModf_Graph_AssAllBasic_ClassBrk_Year_NumVis_AddSucc_Msg" key="{00B27B4A-A56D-476D-873E-476D86BE8E1A}" path="CR1485_029_Acc_DateModf_Graph_AssAllBasic_ClassBrk_Year_NumVis_AddSucc_Msg.sj" />
+				<child name="CR1485_029_Acc_DateModf_AssAllFirm_Monthly_NumVis_Add" key="{8AFA9F73-5245-4334-9298-87A8D011CA14}" path="CR1485_029_Acc_DateModf_AssAllFirm_Monthly_NumVis_Add.sj" />
+			</folder>
+			<folder name="030_BIRTHDAY">
+				<child name="CR1485_030_Common_functions" key="{31F683AC-451A-490B-A336-EA98EEE672FC}" path="CR1485_030_Common_functions.sj" />
+				<child name="CR1485_030_Agnd_DateModf" key="{287265E5-BF34-4757-840B-1423A6967970}" path="CR1485_030_Agnd_DateModf.sj" />
+			</folder>
+			<folder name="031_CONTRIBUTIONS">
+				<child name="CR1485_031_Common_functions" key="{ECE035F1-F629-4A0C-A500-2BB21DAD6CA0}" path="CR1485_031_Common_functions.sj" />
+				<child name="CR1485_031_Rel_DateModf_60d_NumVis" key="{96C89286-7FA8-4975-B7ED-E03A7D09736A}" path="CR1485_031_Rel_DateModf_60d_NumVis.sj" />
+				<child name="CR1485_031_Cli_DateModf_NumVis_AddBranch_Msg" key="{92543199-647E-48EE-8B9A-AC2070EFF824}" path="CR1485_031_Cli_DateModf_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_031_Acc_DateModf_NumHid_Group_Msg" key="{BFB5025C-1D47-4A6A-8460-D2AF6ACB2049}" path="CR1485_031_Acc_DateModf_NumHid_Group_Msg.sj" />
+			</folder>
+			<folder name="032_GRAPH_DIST_BM">
+				<child name="CR1485_032_Common_functions" key="{6AC6ED44-289B-42EF-A870-1CB053493979}" path="CR1485_032_Common_functions.sj" />
+				<child name="CR1485_032_Rel_DateModf_NumVis_AddBranch" key="{9FBC4972-9A77-43CE-BD1C-3A9ED2D598F3}" path="CR1485_032_Rel_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_032_Cli_DateModf_AddBranch_Group_NumVis" key="{5FD3F9C7-3A8D-4765-B94D-D8571E7A031E}" path="CR1485_032_Cli_DateModf_AddBranch_Group_NumVis.sj" />
+				<child name="CR1485_032_Acc_DateModf_NumVis_AddBranch" key="{C905E2B3-982F-4679-B810-2AB52F51140E}" path="CR1485_032_Acc_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_032_Portf_NoParam" key="{F8F4811C-B8FD-4516-ADAB-F1AFBAAFC5EC}" path="CR1485_032_Portf_NoParam.sj" />
+			</folder>
+			<folder name="033_BILLING_FEE_SCHEDULE">
+				<child name="CR1485_033_Common_functions" key="{8EC046F0-29B9-468A-B958-9209C01403A0}" path="CR1485_033_Common_functions.sj" />
+				<child name="CR1485_033_Rel_NoParam" key="{DDAD2F4E-7ED0-4C27-AC53-5E027199406D}" path="CR1485_033_Rel_NoParam.sj" />
+			</folder>
+			<folder name="034_MATURITY">
+				<child name="CR1485_034_Common_functions" key="{D6DA0E15-D633-4F03-8FD1-4C3CDA817DCF}" path="CR1485_034_Common_functions.sj" />
+				<child name="CR1485_034_Sec_DateModf_AllRec_BookVl_Msg" key="{2B346FBA-7A6F-4307-8FD0-F543AC67CBA7}" path="CR1485_034_Sec_DateModf_AllRec_BookVl_Msg.sj" />
+				<child name="CR1485_034_Sec_Ind_BVMV_CR1562" key="{CD8B573C-7242-42A3-9A23-0FBED248A94D}" path="CR1485_034_Sec_Ind_BVMV_CR1562.sj" />
+			</folder>
+			<folder name="036_GRAPH_ANNIC">
+				<child name="CR1485_036_Common_functions" key="{4BE4FB7B-40B8-4F21-91EA-AFAC769D5B62}" path="CR1485_036_Common_functions.sj" />
+				<child name="CR1485_036_Rel_DateModf_NumVis_AddBranch" key="{52FB470D-FB9F-40B7-8761-A105B8C665F6}" path="CR1485_036_Rel_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_036_Cli_DateModf_IncluAmort_NumVis_AddBranch_Group" key="{E92E0B2A-18FB-4BAF-B7DD-030937E19E69}" path="CR1485_036_Cli_DateModf_IncluAmort_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_036_Cli_DateModf_NumVis_AddBranch" key="{16DBAFB1-AB1B-4BEF-851B-BC069F97F32B}" path="CR1485_036_Cli_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_036_Acc_DateModf_NumVis_AddBranch" key="{02E4DBFA-528F-4780-BD37-903E532BCD5C}" path="CR1485_036_Acc_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_036_Portf_DateModf" key="{92BB33D8-E609-49C8-98F4-22105D23D5F0}" path="CR1485_036_Portf_DateModf.sj" />
+			</folder>
+			<folder name="037_PROJ_PERIODE">
+				<child name="CR1485_037_Common_functions" key="{5FFDD7D8-7D4C-4264-97E4-8935B2AFAB58}" path="CR1485_037_Common_functions.sj" />
+				<child name="CR1485_037_Rel_DateModf_SortDesc_NumVis_AddBranch" key="{612418AB-BCD6-4CE7-A421-5F827C756D06}" path="CR1485_037_Rel_DateModf_SortDesc_NumVis_AddBranch.sj" />
+				<child name="CR1485_037_Cli_DateModf_SortTotal_NumVis_AddBranch" key="{F7E8D954-DAAB-4459-BBB8-3E45DE6C4146}" path="CR1485_037_Cli_DateModf_SortTotal_NumVis_AddBranch.sj" />
+				<child name="CR1485_037_Acc_DateModf_SortTotal_NumVis_IncluAmort_AddBranch_Group_Msg" key="{426A1CA2-5BE9-4780-A3B1-825217BC7A93}" path="CR1485_037_Acc_DateModf_SortTotal_NumVis_IncluAmort_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_037_Portf_DateModf_SortDesc" key="{E8DB80ED-3DC4-4CCD-90B2-11A10C607551}" path="CR1485_037_Portf_DateModf_SortDesc.sj" />
+			</folder>
+			<folder name="038_ACCUM_INTEREST_PROJ">
+				<child name="CR1485_038_Common_functions" key="{8BCF5702-389E-458B-9ACE-3A1B0D750C02}" path="CR1485_038_Common_functions.sj" />
+				<child name="CR1485_038_Rel_YDef_NumVis" key="{738DFE81-9D32-4500-AE88-7CF057923581}" path="CR1485_038_Rel_YDef_NumVis.sj" />
+				<child name="CR1485_038_Cli_YDef_UntilMat_NumVis_Group" key="{18A80129-FA1B-4305-8611-D79B1ECE93FA}" path="CR1485_038_Cli_YDef_UntilMat_NumVis_Group.sj" />
+				<child name="CR1485_038_Acc_Ydef_UntilMat_Group" key="{B062F7E2-01FD-4B09-9BAF-F0C4486C4B82}" path="CR1485_038_Acc_Ydef_UntilMat_Group.sj" />
+			</folder>
+			<folder name="039_SCHEDULE_DAILY">
+				<child name="CR1485_039_Common_functions" key="{13201E42-C348-4B98-B58E-4030A0ED92B9}" path="CR1485_039_Common_functions.sj" />
+				<child name="CR1485_039_Agnd_DateModf" key="{2AB1722D-AF63-4924-8389-2BC07D65D4FF}" path="CR1485_039_Agnd_DateModf.sj" />
+			</folder>
+			<folder name="040_SCHEDULE_WEEKLY">
+				<child name="CR1485_040_Common_functions" key="{37FA249F-6A1F-451C-B0DA-77E356823E41}" path="CR1485_040_Common_functions.sj" />
+				<child name="CR1485_040_Agnd_DateModf" key="{23A2C4F0-C2F4-499D-98A1-FF17BF4C045A}" path="CR1485_040_Agnd_DateModf.sj" />
+			</folder>
+			<folder name="042_EVAL_AVAN_TL">
+				<child name="CR1485_042_Common_functions" key="{7CA1AAAE-DA97-4EE9-AC58-310B347A5D03}" path="CR1485_042_Common_functions.sj" />
+				<child name="CR1485_042_Rel_DateDef_TheoVal_AssAllFirm_NumVis_SortMat" key="{15BE29FB-DE3F-45F9-9F84-BFFD98ACFFF1}" path="CR1485_042_Rel_DateDef_TheoVal_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_042_Cli_DateModf_Graph_Pie_Region_AssAllBasic_NumHid_SortMat_Msg" key="{EEC4B557-7B36-4DF0-9483-575C5ED32367}" path="CR1485_042_Cli_DateModf_Graph_Pie_Region_AssAllBasic_NumHid_SortMat_Msg.sj" />
+				<child name="CR1485_042_Acc_DateModf_AssAllFirm_Appndx_NumVis_SortDesc_AddBranch_Group" key="{C38BCB42-C3EF-4B11-8E77-BABAE020E2FB}" path="CR1485_042_Acc_DateModf_AssAllFirm_Appndx_NumVis_SortDesc_AddBranch_Group.sj" />
+				<child name="CR1485_042_Acc_DateModf_Graph_Histo_Compare_TheoVl_AssAllFirm_NumVis_SortMat" key="{4C504FAD-D18F-493E-AF61-51ADDBECC53B}" path="CR1485_042_Acc_DateModf_Graph_Histo_Compare_TheoVl_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_042_Port_DateDef_Graph_Histo_AssAllFirm_ClassBrk_SorfMat" key="{9D9E9F81-B794-4CDB-866A-7DABE9B5B0AF}" path="CR1485_042_Port_DateDef_Graph_Histo_AssAllFirm_ClassBrk_SorfMat.sj" />
+			</folder>
+			<folder name="043_EVAL_INTER_TL">
+				<child name="CR1485_043_Common_functions" key="{9A8D78D8-DC9D-49E7-BB69-28DBFD94053D}" path="CR1485_043_Common_functions.sj" />
+				<child name="CR1485_043_Rel_DateDef_TheoVal_AssAllFirm_NumVis_SortMat" key="{0B5B6893-A6C9-4588-B208-FCDF8C005F69}" path="CR1485_043_Rel_DateDef_TheoVal_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_043_Cli_DateModf_Graph_Pie_Region_AssAllBasic_NumHid_SortMat_Msg" key="{4A1E9553-3478-484C-BFC3-8B090B670401}" path="CR1485_043_Cli_DateModf_Graph_Pie_Region_AssAllBasic_NumHid_SortMat_Msg.sj" />
+				<child name="CR1485_043_Cli_DateModf_Graph_Pie_Compare_IndCode_AssAllBasic_NumVis_SortPercentTotal_Add_Msg" key="{8FE0A278-D5A8-4619-8AD7-51918AA69477}" path="CR1485_043_Cli_DateModf_Graph_Pie_Compare_IndCode_AssAllBasic_NumVis_SortPercentTotal_Add_Msg.sj" />
+				<child name="CR1485_043_Acc_DateModf_AssAllFirm_Appndx_NumVis_SortDesc_AddBranch_Group" key="{680A7B2E-52D3-4945-B15E-1ACB2DA2B774}" path="CR1485_043_Acc_DateModf_AssAllFirm_Appndx_NumVis_SortDesc_AddBranch_Group.sj" />
+				<child name="CR1485_043_Port_DateDef_Graph_Pie_AssAllFirm_ClassBrk_SortMat" key="{1E426B3D-414D-4DFF-B526-6CF65C774CF8}" path="CR1485_043_Port_DateDef_Graph_Pie_AssAllFirm_ClassBrk_SortMat.sj" />
+			</folder>
+			<folder name="044_EVAL_SIMPLE_TL">
+				<child name="CR1485_044_Common_functions" key="{D4E51234-198D-4D07-BA42-1EE05AC74BF1}" path="CR1485_044_Common_functions.sj" />
+				<child name="CR1485_044_Rel_DateDef_TheoVal_AssAllBasic_NumVis_SortMat" key="{61F1845F-57A1-4202-8CF0-C5190A682FAD}" path="CR1485_044_Rel_DateDef_TheoVal_AssAllBasic_NumVis_SortMat.sj" />
+				<child name="CR1485_044_Rel_DateModf_Graph_Histo_Compare_TheoVal_Devise_AssAllBasic_ObjPlac_NumVis_SortMat_App_ClassBrk_Add_Msg" key="{9AD7441D-BD4A-437E-B0C3-0897BDCFB8E3}" path="CR1485_044_Rel_DateModf_Graph_Histo_Compare_TheoVal_Devise_AssAllBasic_ObjPlac_NumVis_SortMat_App_ClassBrk_Add_Msg.sj" />
+				<child name="CR1485_044_Cli_DateModf_Graph_Pie_Region_AssAllFirm_NumHid_SortDesc_Msg" key="{2F70264E-B421-4282-936A-74F4C3788570}" path="CR1485_044_Cli_DateModf_Graph_Pie_Region_AssAllFirm_NumHid_SortDesc_Msg.sj" />
+				<child name="CR1485_044_Acc_DateModf_IndCode_AssAllFirm_NumVis_SortMat_ClassBrk_Group" key="{5F02B261-D3F8-4217-B6B7-75A24A29EAA5}" path="CR1485_044_Acc_DateModf_IndCode_AssAllFirm_NumVis_SortMat_ClassBrk_Group.sj" />
+				<child name="CR1485_044_Portf_DateModf_Graph_Pie_Region_AssAllBasic_Appdx_SortMat_AddBranch" key="{93B17C56-772C-4054-843F-6993A0CFE10E}" path="CR1485_044_Portf_DateModf_Graph_Pie_Region_AssAllBasic_Appdx_SortMat_AddBranch.sj" />
+			</folder>
+			<folder name="046_BILLING_SUMMARY">
+				<child name="CR1485_046_Common_functions" key="{6B4E9561-6536-4D23-AB43-8A4EE77461FE}" path="CR1485_046_Common_functions.sj" />
+				<child name="CR1485_046_Rel_NoParam" key="{20F7D746-043B-442F-A9CE-3587B1B2FAF7}" path="CR1485_046_Rel_NoParam.sj" />
+				<child name="CR1485_046_Cli_DateModf_AddBranch" key="{A278C934-1478-46C5-B2C8-C3DCD38D7BBD}" path="CR1485_046_Cli_DateModf_AddBranch.sj" />
+				<child name="CR1485_046_Acc_DateModf_Group" key="{419E5468-E0B3-400E-82C5-22A81548180E}" path="CR1485_046_Acc_DateModf_Group.sj" />
+			</folder>
+			<folder name="047_FDP_TRANSCOVERPAGE">
+				<child name="CR1485_047_Common_functions" key="{96AC3FE5-1864-48E6-81DD-68D534FBD2E3}" path="CR1485_047_Common_functions.sj" />
+				<child name="CR1485_047_Cli_NoParam" key="{E5EC570F-75D4-41AC-8F25-C147204E699D}" path="CR1485_047_Cli_NoParam.sj" />
+			</folder>
+			<folder name="048_EVAL_POS_TOT_RETURN">
+				<child name="CR1485_048_Common_functions" key="{A9D58EBC-0012-4E25-B784-A0D2A5033185}" path="CR1485_048_Common_functions.sj" />
+				<child name="CR1485_048_Rel_DateDef_BookVl_TheoVl_AssAllFirm_NumVis_Msg" key="{C7742F5F-D9CF-4C88-A310-BC9D49B35514}" path="CR1485_048_Rel_DateDef_BookVl_TheoVl_AssAllFirm_NumVis_Msg.sj" />
+				<child name="CR1485_048_Cli_Graph_Pie_InvstCap_AssAllBasic_NumVis" key="{9EC3BCC3-CA17-4561-83FD-BFC6F0A68E7E}" path="CR1485_048_Cli_Graph_Pie_InvstCap_AssAllBasic_NumVis.sj" />
+				<child name="CR1485_048_Acc_DateModf_Graph_Histog_BookVl_AssAllBasic_Appndx_NumVis_AddBranch_Group" key="{857604AA-198D-4166-9A62-8A03A780DFA3}" path="CR1485_048_Acc_DateModf_Graph_Histog_BookVl_AssAllBasic_Appndx_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_048_Acc_DateModf_BookVl_AssAllFirm_NumHid_Msg" key="{970A2968-3D4D-43AA-8B3A-3DC06C4A4E6E}" path="CR1485_048_Acc_DateModf_BookVl_AssAllFirm_NumHid_Msg.sj" />
+				<child name="CR1485_048_Portf_DateDef_Region_BookVl_AssAllFirm" key="{A0686BEE-F4C8-45D7-884F-7E1DA0C4C7EF}" path="CR1485_048_Portf_DateDef_Region_BookVl_AssAllFirm.sj" />
+				<child name="CR1485_048_Cli_DateDef_RepCR1905" key="{F141A7B2-B4F3-4E62-961E-3AD17BE98F65}" path="CR1485_048_Cli_DateDef_RepCR1905.sj" />
+				<child name="CR1485_048_Cli_DateModf_Group_CR1469" key="{D459A8BE-D9E0-429C-A628-A62CC8D7B579}" path="CR1485_048_Cli_DateModf_Group_CR1469.sj" />
+				<child name="CR1485_048_Cli_InvestCap_CR2042" key="{92FF14D1-B23F-49CF-9DFD-1C51BA5939A4}" path="CR1485_048_Cli_InvestCap_CR2042.sj" />
+				<child name="CR1485_048_Acc_InvestCap_CR2042" key="{061FE240-5490-43C5-9803-AFCA95230612}" path="CR1485_048_Acc_InvestCap_CR2042.sj" />
+				<child name="CR1485_048_Cli_Ind_BVMV_CR1562" key="{AAA4D60B-8587-4384-B6BA-E0382DA00F81}" path="CR1485_048_Cli_Ind_BVMV_CR1562.sj" />
+			</folder>
+			<folder name="050_SECURITY_HELD">
+				<child name="CR1485_050_Common_functions" key="{28E2174F-AFF9-44B8-96A3-35A593078EEE}" path="CR1485_050_Common_functions.sj" />
+				<child name="CR1485_050_Sec_All_LimtAll_Msg" key="{8B972967-A2AE-467B-8712-1DDC71E197A5}" path="CR1485_050_Sec_All_LimtAll_Msg.sj" />
+				<child name="CR1485_050_Sec_All_Limt25" key="{8F7DBD68-8BD4-4EC4-92C0-1CE7BCC230B2}" path="CR1485_050_Sec_All_Limt25.sj" />
+			</folder>
+			<folder name="052_GRAPH_ASSET_REG">
+				<child name="CR1485_052_Common_functions" key="{EE34FDBE-00A0-417C-A547-9AFDA823A5D5}" path="CR1485_052_Common_functions.sj" />
+				<child name="CR1485_052_Rel_DateDef_PieGraph_NumVis" key="{1DFD835E-32FE-41AF-A968-9FA25024204D}" path="CR1485_052_Rel_DateDef_PieGraph_NumVis.sj" />
+				<child name="CR1485_052_Cli_DateModf_GraphHistg_NumHid_Group" key="{D4BDB51F-BE37-49E9-AEE8-559341C65B74}" path="CR1485_052_Cli_DateModf_GraphHistg_NumHid_Group.sj" />
+				<child name="CR1485_052_Acc_DateModf_PieGraph_NumVis_AddBranch" key="{F9248CA6-34F3-494A-891D-33F203600C0F}" path="CR1485_052_Acc_DateModf_PieGraph_NumVis_AddBranch.sj" />
+				<child name="CR1485_052_Portf_DateDef_GraphHistg" key="{EAE7561D-D14B-4EEB-8F30-3D2CDF5938E6}" path="CR1485_052_Portf_DateDef_GraphHistg.sj" />
+			</folder>
+			<folder name="053_BOOK_PAGE">
+				<child name="CR1485_053_Common_functions" key="{6CFB47CD-9D36-406F-9D9F-EEF33BFEDA54}" path="CR1485_053_Common_functions.sj" />
+				<child name="CR1485_053_Rel_DateDef_AllPos_NumVis_AddBranch" key="{4B19AC49-B1B1-4DD9-9D26-2E521E6EA2A7}" path="CR1485_053_Rel_DateDef_AllPos_NumVis_AddBranch.sj" />
+				<child name="CR1485_053_Cli_DateModf_OpenPos_NumVis_AddBranch" key="{C22A258D-14A9-40C0-ABB2-25750BFE49FB}" path="CR1485_053_Cli_DateModf_OpenPos_NumVis_AddBranch.sj" />
+				<child name="CR1485_053_Acc_DateModf_ClosedPos_NumVis_AddBranch" key="{8959DB1B-AD51-4988-A5E0-D08A1CEB041A}" path="CR1485_053_Acc_DateModf_ClosedPos_NumVis_AddBranch.sj" />
+				<child name="CR1485_053_Portf_NoParam" key="{AC1662C1-BE70-4469-B57D-C633EE5D7B20}" path="CR1485_053_Portf_NoParam.sj" />
+			</folder>
+			<folder name="055_ASSETS_UNDER_MGT_PER">
+				<child name="CR1485_055_Common_functions" key="{FB0B7561-EBC3-4148-ABC5-0F403A003EF3}" path="CR1485_055_Common_functions.sj" />
+				<child name="CR1485_055_Rel_DateDef_SortName_AssAllFirm_NumVis" key="{E585E792-7A58-4922-ACB4-37F93299923E}" path="CR1485_055_Rel_DateDef_SortName_AssAllFirm_NumVis.sj" />
+				<child name="CR1485_055_Cli_DateModf_Graph_SortName_AssAllBasic_ClassBrk_NumVis_Msg" key="{8AC5DBDA-169F-4369-B14A-20668582BD73}" path="CR1485_055_Cli_DateModf_Graph_SortName_AssAllBasic_ClassBrk_NumVis_Msg.sj" />
+				<child name="CR1485_055_Acc_DateDef_AllRec_SortTotVl_AssAllBasc_NumHid" key="{4F7D69DC-D50A-4027-9924-B8726581223B}" path="CR1485_055_Acc_DateDef_AllRec_SortTotVl_AssAllBasc_NumHid.sj" />
+				<child name="CR1485_055_Acc_DateDef_ChckDigit_SortName_AssAllFirm_NumVis" key="{2411674E-4111-4D64-8C74-F1ACC39B1D2F}" path="CR1485_055_Acc_DateDef_ChckDigit_SortName_AssAllFirm_NumVis.sj" />
+				<child name="CR1485_055_Cli_DateDef_RepCR1905" key="{BAF4D018-A907-4BFB-AE34-7DEED3CC7063}" path="CR1485_055_Cli_DateDef_RepCR1905.sj" />
+				<child name="CR1485_055_Cli_DateModf_GraphNegatif" key="{3573A661-EDC6-423D-A383-FE45B357604C}" path="CR1485_055_Cli_DateModf_GraphNegatif.sj" />
+			</folder>
+			<folder name="056_FBNFISC_END_EVAL">
+				<child name="CR1485_056_Common_functions" key="{23CCA4E3-F4A0-4E08-B7F9-737FB1E75A47}" path="CR1485_056_Common_functions.sj" />
+				<child name="CR1485_056_Acc_DateModf_BookVl_AssAllFirm_NumVis_AddBranch_Msg" key="{B0E01252-D364-414D-AD01-C1BFFFA7305A}" path="CR1485_056_Acc_DateModf_BookVl_AssAllFirm_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_056_Acc_DateModf_BookVl_AssAllFirm_NumVis" key="{820C4B16-1A20-4149-A87F-835EFEFF337F}" path="CR1485_056_Acc_DateModf_BookVl_AssAllFirm_NumVis.sj" />
+			</folder>
+			<folder name="057_FBNFISC_BEG_EVAL">
+				<child name="CR1485_057_Common_functions" key="{4DB22C0D-78B9-4E4B-80A1-8C174985E867}" path="CR1485_057_Common_functions.sj" />
+				<child name="CR1485_057_Acc_DateMOdf_BookVl_AssAllFirm_NumVis_Msg" key="{7CB26C17-FBBE-417E-8B0F-22857CF01643}" path="CR1485_057_Acc_DateMOdf_BookVl_AssAllFirm_NumVis_Msg.sj" />
+			</folder>
+			<folder name="058_FOREIGN_PROPERTY">
+				<child name="CR1485_058_Common_functions" key="{CFD396FA-C343-4B28-9359-FCDEC0F72C6D}" path="CR1485_058_Common_functions.sj" />
+				<child name="CR1485_058_Rel_PrevYear_DateDef_SortCountry" key="{3F620791-FDC3-462A-951B-C19CED22B7DE}" path="CR1485_058_Rel_PrevYear_DateDef_SortCountry.sj" />
+				<child name="CR1485_058_Cli_DateModf_SortFinInst_AddBranch_Msg_Group" key="{F0820C95-CA23-4400-A679-0A1DBB73FDAA}" path="CR1485_058_Cli_DateModf_SortFinInst_AddBranch_Msg_Group.sj" />
+				<child name="CR1485_058_Acc_PrevYear_DateDef_SortCountry_AddBranch_Msg" key="{95025DD0-E90E-4DE4-AB6E-D97272ED1A65}" path="CR1485_058_Acc_PrevYear_DateDef_SortCountry_AddBranch_Msg.sj" />
+				<child name="CR1485_058_Portf_DateModf_SortCountry" key="{C1206264-5389-4143-81A7-76FFED05F453}" path="CR1485_058_Portf_DateModf_SortCountry.sj" />
+				<child name="CR1485_058_Cli_DateDef_SortFinInst_Group" key="{78446338-156E-4230-82CD-C6705B906FC9}" path="CR1485_058_Cli_DateDef_SortFinInst_Group.sj" />
+			</folder>
+			<folder name="059_SCHEDULE_YEARLY">
+				<child name="CR1485_059_Common_functions" key="{6DCA34DD-B606-4700-9C2F-B54EE873ABED}" path="CR1485_059_Common_functions.sj" />
+				<child name="CR1485_059_Agnd_DateDef" key="{E002781D-01A8-4D93-9912-9A0278ECEC8F}" path="CR1485_059_Agnd_DateDef.sj" />
+			</folder>
+			<folder name="060_UNCAT_SECURITIES">
+				<child name="CR1485_060_Common_functions" key="{9F04F285-E774-48AA-91FE-3BD3AB11E8BA}" path="CR1485_060_Common_functions.sj" />
+				<child name="CR1485_060_Sec_DateModf_SortSec" key="{B8010E7C-C5CC-4B7F-B5C7-9AB9977E8CF2}" path="CR1485_060_Sec_DateModf_SortSec.sj" />
+				<child name="CR1485_060_Sec_DateModf_SortDesc" key="{566B1B0D-3FE6-4B55-A2E4-7AFB534F27B3}" path="CR1485_060_Sec_DateModf_SortDesc.sj" />
+			</folder>
+			<folder name="061_EVAL_INTER">
+				<child name="CR1485_061_Common_functions" key="{32C4B03C-4244-48B6-937A-3DC864C789D9}" path="CR1485_061_Common_functions.sj" />
+				<child name="CR1485_061_Rel_DateModf_BookVl_AssAllFirm_NumVis_SortMat_AddBranch" key="{82F933B1-6A32-42C0-A4B2-7829F315C28B}" path="CR1485_061_Rel_DateModf_BookVl_AssAllFirm_NumVis_SortMat_AddBranch.sj" />
+				<child name="CR1485_061_Rel_DateModf_Graph_Histog_Compare_GroupRegion_AssAllFirm_NumVis_SortMat_BookVl" key="{4525A8BF-2FEC-4FE0-BACA-B536EE14C20D}" path="CR1485_061_Rel_DateModf_Graph_Histog_Compare_GroupRegion_AssAllFirm_NumVis_SortMat_BookVl.sj" />
+				<child name="CR1485_061_Cli_DateModf_Graph_Pie_Region_BookVl_TheoVal_AssAllFirm_NumVis_SortMat_AddBranch" key="{E5B7F9D0-E78A-4D2D-A4D8-491789712CF4}" path="CR1485_061_Cli_DateModf_Graph_Pie_Region_BookVl_TheoVal_AssAllFirm_NumVis_SortMat_AddBranch.sj" />
+				<child name="CR1485_061_Acc_DateModf_Graph_Histg_IndCode_BookVal_AssAllBasic_ClassBrk_NumVis_SortMat_AddBranch" key="{E327E2A1-8674-4DC5-9351-BEBF2F5A8638}" path="CR1485_061_Acc_DateModf_Graph_Histg_IndCode_BookVal_AssAllBasic_ClassBrk_NumVis_SortMat_AddBranch.sj" />
+				<child name="CR1485_061_Portf_Graph_Pie_BookVl_TheoVl_AssAllFirm_SortMat" key="{7F6C40D9-ACE1-41DF-B823-0FFE83BFFB6A}" path="CR1485_061_Portf_Graph_Pie_BookVl_TheoVl_AssAllFirm_SortMat.sj" />
+				<child name="CR1485_061_Portf_DateModf_Graph_Pie_Compare_Group_Region_IndCode_AssAllBasic_InvstCap_TheoVal_SortMat" key="{7CA0C7AF-DB56-449C-AA38-CE8DCC4D921A}" path="CR1485_061_Portf_DateModf_Graph_Pie_Compare_Group_Region_IndCode_AssAllBasic_InvstCap_TheoVal_SortMat.sj" />
+				<child name="CR1485_061_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat" key="{5D2C88C0-F1E8-41E4-85A7-C8E089904AE0}" path="CR1485_061_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_061_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat" key="{C0EE6F6C-A102-4E9D-9323-69164BD4E975}" path="CR1485_061_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_061_Acc_DateDef_RepCR1905" key="{F12FC3C4-658F-4048-9B28-818E727E1377}" path="CR1485_061_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_061_Cli_DateDef_BkVL_TheVLAssAllFirm_NumVis_SortMat" key="{380A0CC6-A563-465A-A08E-44A6FAC56CA1}" path="CR1485_061_Cli_DateDef_BkVL_TheVLAssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_061_Acc_Ind_BVMV_CR1562" key="{C80926AC-2958-45CC-9693-6EE9FD9D7B87}" path="CR1485_061_Acc_Ind_BVMV_CR1562.sj" />
+			</folder>
+			<folder name="062_EVAL_SIMPLE_WEB">
+				<child name="CR1485_062_Common_functions" key="{56BC2569-37EA-4BD6-A6C6-82AD54CF774E}" path="CR1485_062_Common_functions.sj" />
+				<child name="CR1485_062_Cli_DateModf_Graph_BookVl_TheoVl_Msg" key="{38B52D2D-4984-4D34-8B3E-A25FED437F38}" path="CR1485_062_Cli_DateModf_Graph_BookVl_TheoVl_Msg.sj" />
+				<child name="CR1485_062_Acc_DateModf_Graph_BookVl_TheoVl_Msg" key="{E7F068E0-4EBA-4DB5-BC89-0E764550E600}" path="CR1485_062_Acc_DateModf_Graph_BookVl_TheoVl_Msg.sj" />
+				<child name="CR1485_062_Portf_DateDef_BookVl_TheoVl" key="{9B42838A-E1FC-4EC1-AC0E-466C90AB0756}" path="CR1485_062_Portf_DateDef_BookVl_TheoVl.sj" />
+			</folder>
+			<folder name="063_TRAILER_FEES">
+				<child name="CR1485_063_Common_functions" key="{8D0C3FE2-1B00-4A38-90D0-C8B9D1EEDC37}" path="CR1485_063_Common_functions.sj" />
+				<child name="CR1485_063_Sec_All_DateModf" key="{9D34713F-820E-497B-818B-1011ACCA1958}" path="CR1485_063_Sec_All_DateModf.sj" />
+			</folder>
+			<folder name="065_GP_NON_REALISES">
+				<child name="CR1485_065_Common_functions" key="{FFFF9D31-3041-4656-9F2B-00E89CAA85FF}" path="CR1485_065_Common_functions.sj" />
+				<child name="CR1485_065_Rel_DateDef_BookVl_TheoVl_AssAllFirm_NumVis" key="{1CD56AAC-455D-4891-BADA-F3A19ED2B65F}" path="CR1485_065_Rel_DateDef_BookVl_TheoVl_AssAllFirm_NumVis.sj" />
+				<child name="CR1485_065_Cli_DateModf_IndCode_BookVl_AssAllBasic_NumHid_AddBranch" key="{1B0DD518-54DC-4114-AE6D-9618BE9DF4BA}" path="CR1485_065_Cli_DateModf_IndCode_BookVl_AssAllBasic_NumHid_AddBranch.sj" />
+				<child name="CR1485_065_Acc_DateModf_InvstCap_AssAllFirm_Appndx_NumVis_AddBranch_Group" key="{E9D6370D-C29D-4E6B-AFD0-5C9919FD06A7}" path="CR1485_065_Acc_DateModf_InvstCap_AssAllFirm_Appndx_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_065_Rel_C_Darwin_N_Copernic_G_Galillei_BD88_Q_12_31_2009E_0000C_CR1485_4_800075" key="{8252F43B-1DA9-4557-AB44-4A3CE51EA1A0}" path="CR1485_065_Rel_C_Darwin_N_Copernic_G_Galillei_BD88_Q_12_31_2009E_0000C_CR1485_4_800075.sj" />
+				<child name="CR1485_065_CliInd_BVMV_CR1562" key="{D70DDD78-9374-46AF-BC60-8910A6FB1E73}" path="CR1485_065_CliInd_BVMV_CR1562.sj" />
+			</folder>
+			<folder name="067_CASH_MOVEMENT">
+				<child name="CR1485_067_Common_functions" key="{8F65546D-B285-42D0-B965-3A41969D714E}" path="CR1485_067_Common_functions.sj" />
+				<child name="CR1485_067_Rel_DateModf_NumVis_AddBranch" key="{7D03E50A-BC28-4FBB-8CB8-CC0EBDE26775}" path="CR1485_067_Rel_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_067_Cli_Source_DateModf_NumVis_AddBranch_Group" key="{F8219245-8876-412D-8D1F-D5FBF2469C79}" path="CR1485_067_Cli_Source_DateModf_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_067_Acc_DateModf_NumVis_AddBranch" key="{5B768F1F-30AA-44B8-B8C0-5F8191B418C3}" path="CR1485_067_Acc_DateModf_NumVis_AddBranch.sj" />
+			</folder>
+			<folder name="068_SCHEDULE_MONTHLY">
+				<child name="CR1485_068_Common_functions" key="{57494A21-C11A-438D-B711-33632A2E5B9E}" path="CR1485_068_Common_functions.sj" />
+				<child name="CR1485_068_Agnd_DateModf_1Month" key="{D9A84AE9-2F1D-4BEE-BD17-3A5CD63DF5BA}" path="CR1485_068_Agnd_DateModf_1Month.sj" />
+			</folder>
+			<folder name="071_QUARTERLY_COVERPAGE">
+				<child name="CR1485_071_Common_functions" key="{4DED5692-7CBA-4B66-AC16-7EE302E05B3D}" path="CR1485_071_Common_functions.sj" />
+				<child name="CR1485_071_Rel_DateModf" key="{C1324F5D-977A-4768-B25C-F2290288A004}" path="CR1485_071_Rel_DateModf.sj" />
+			</folder>
+			<folder name="073_GRAPH_PERF">
+				<child name="CR1485_073_Common_functions" key="{BFC95124-B4F8-474A-9095-0B4F19CD336B}" path="CR1485_073_Common_functions.sj" />
+				<child name="CR1485_073_Rel_ExcluDate_DateModf_3Months_Monthly_TWRNetBrut_MWRNet_IndiceNASDAQCOMP_DJI_DJIN_NunVis_AddBranch_Msg" key="{56DFFD68-C570-42C1-B6C7-C7ADC5EF65F1}" path="CR1485_073_Rel_ExcluDate_DateModf_3Months_Monthly_TWRNetBrut_MWRNet_IndiceNASDAQCOMP_DJI_DJIN_NunVis_AddBranch_Msg.sj" />
+				<child name="CR1485_073_Cli_ExcluData_DateDef_3Months_Monthly_TWRNetBrut_IndiceNASDAQ_NASDAQCOMP_NumVis_AddBranch" key="{4CE9831D-C180-4E94-92EA-A7E482B05BE3}" path="CR1485_073_Cli_ExcluData_DateDef_3Months_Monthly_TWRNetBrut_IndiceNASDAQ_NASDAQCOMP_NumVis_AddBranch.sj" />
+				<child name="CR1485_073_Acc_ExcluData_DateModf_3Months_TWRNet_Quart_IndiceDJIN_NumVis_AddBranch_Group" key="{779D39F2-F9F0-49F6-BB88-8A41B3119AE6}" path="CR1485_073_Acc_ExcluData_DateModf_3Months_TWRNet_Quart_IndiceDJIN_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_073_Acc_Excl_DateDef_3M_MWR_Mtly_NumVis" key="{973BC4D8-7DA5-4A77-A95C-86BF289B0ACB}" path="CR1485_073_Acc_Excl_DateDef_3M_MWR_Mtly_NumVis.sj" />
+			</folder>
+			<folder name="074_VMD_PERF_HISTO">
+				<child name="CR1485_074_Common_functions" key="{54E8D5D1-29E2-4BB5-AC1E-0C69C1311D46}" path="CR1485_074_Common_functions.sj" />
+				<child name="CR1485_074_Rel_DateDef_PerdDef_AssAllBasic_TWRNet_NumVis" key="{A15968B1-C526-42BA-8FC7-08391BB27C81}" path="CR1485_074_Rel_DateDef_PerdDef_AssAllBasic_TWRNet_NumVis.sj" />
+				<child name="CR1485_074_Cli_DateModf_PerdDef_AssAllFirm_MWRNet_NumVis_Msg" key="{68850677-981E-47BB-8D66-53B0DBFB02E7}" path="CR1485_074_Cli_DateModf_PerdDef_AssAllFirm_MWRNet_NumVis_Msg.sj" />
+				<child name="CR1485_074_Acc_DateModf_PerYear_AssAllBasic_TWRNetBrutMWRNet_NumVis_Group" key="{1029C84C-8481-4253-8B48-D12FF2433ADF}" path="CR1485_074_Acc_DateModf_PerYear_AssAllBasic_TWRNetBrutMWRNet_NumVis_Group.sj" />
+				<child name="CR1485_074_Cli_DateDef_RepCR1905" key="{298BDBAF-3F91-4D19-935A-97F04565E506}" path="CR1485_074_Cli_DateDef_RepCR1905.sj" />
+				<child name="CR1485_074_Acc_Excl_DateDef_PerDef_RepBase_MWR_NumVis" key="{2687942B-6681-4819-8AFD-76094AA27AA2}" path="CR1485_074_Acc_Excl_DateDef_PerDef_RepBase_MWR_NumVis.sj" />
+				<child name="CR1485_074_Acc_DtModf_PerYear_AssAllFirm_MWR_NumVis" key="{975E8A85-D498-4CDD-A910-1CD6E554FE0D}" path="CR1485_074_Acc_DtModf_PerYear_AssAllFirm_MWR_NumVis.sj" />
+			</folder>
+			<folder name="075_PERFORMANCE_HISTO">
+				<child name="CR1485_075_Common_functions" key="{D0C7D0BD-C33F-494F-AB80-2F69492C5B6B}" path="CR1485_075_Common_functions.sj" />
+				<child name="CR1485_075_Rel_ExcluData_DateModf_IndiceNASDAQ_DJII_DJIN_Monthly_TWRNetBrut_MWRNet_NumVis_AddBranch_Msg" key="{E66F6248-EE0F-402F-B863-E894F36DC271}" path="CR1485_075_Rel_ExcluData_DateModf_IndiceNASDAQ_DJII_DJIN_Monthly_TWRNetBrut_MWRNet_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_075_Cli_ExcluData_DateModf_IndiceTSE300_35_60_Qrt_TWRNetBrut_MWRNet_NumVis_AddBranch_Msg" key="{FBA8528E-6911-4B9B-A61B-ADC0DF8C453F}" path="CR1485_075_Cli_ExcluData_DateModf_IndiceTSE300_35_60_Qrt_TWRNetBrut_MWRNet_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_075_Acc_ExcluData_DateModf_IndiceTSE300_35_60_MWRNet_Year_TotPerf_NumVis_AddBranch_Msg" key="{889BD585-F3C8-45FD-81D4-8353BEC46FC4}" path="CR1485_075_Acc_ExcluData_DateModf_IndiceTSE300_35_60_MWRNet_Year_TotPerf_NumVis_AddBranch_Msg.sj" />
+			</folder>
+			<folder name="076_SUMMARY_PERF_OBJINV">
+				<child name="CR1485_076_Common_functions" key="{5F04888C-4389-43E6-A23A-40A72620CC14}" path="CR1485_076_Common_functions.sj" />
+				<child name="CR1485_076_Rel_DateModf_PerDef_LvlFirm_SortTotVlDesc_NumVis_Msg" key="{2F42C0C2-F96E-47D2-9C47-A26FE0048887}" path="CR1485_076_Rel_DateModf_PerDef_LvlFirm_SortTotVlDesc_NumVis_Msg.sj" />
+				<child name="CR1485_076_Cli_DateModf_PerDef_LvlSucc_SortTotVlAsc_NumVis_AccNotWeig_NumVis" key="{BC2CD7AB-9FFA-4DD7-A4C3-49F68D7FD861}" path="CR1485_076_Cli_DateModf_PerDef_LvlSucc_SortTotVlAsc_NumVis_AccNotWeig_NumVis.sj" />
+				<child name="CR1485_076_Acc_DateModf_PerDef_LvlInvstAd_SortTotVlDesc_RiskQuartile_PerfIndex_NumVis" key="{14F2381E-538E-45E7-AFE5-0760292D4777}" path="CR1485_076_Acc_DateModf_PerDef_LvlInvstAd_SortTotVlDesc_RiskQuartile_PerfIndex_NumVis.sj" />
+			</folder>
+			<folder name="077_PERF_SIMPLE">
+				<child name="CR1485_077_Common_functions" key="{158D7C06-C8FE-4E85-BAAA-14FA100276C1}" path="CR1485_077_Common_functions.sj" />
+				<child name="CR1485_077_Rel_DateModf_AssAllFirm_TWRNetBrut_MWRNet_IndiceNASDAQCOMP_MCLEOD_NumVis_AddBranch" key="{4F9421DD-7DD8-4930-B81C-34B97E73E910}" path="CR1485_077_Rel_DateModf_AssAllFirm_TWRNetBrut_MWRNet_IndiceNASDAQCOMP_MCLEOD_NumVis_AddBranch.sj" />
+				<child name="CR1485_077_Cli_DtModf_PerDef_GraphAssAllPerf_Histog_TWRNetBrut_MWRNet_IndNASDAQCOMP_MCLEOD_RiskStdDev_Sharp_NumVis_AddBranch_Msg" key="{BEFE48BE-E82F-4241-91F1-7C4F79F34859}" path="CR1485_077_Cli_DtModf_PerDef_GraphAssAllPerf_Histog_TWRNetBrut_MWRNet_IndNASDAQCOMP_MCLEOD_RiskStdDev_Sharp_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_077_Cli_DateModf_PerDef_GraphAssAllInvstObj_Pie_AssAllBasic_MWR_NumVis" key="{E05C64E6-F982-4834-9A6B-EBF610A73DEF}" path="CR1485_077_Cli_DateModf_PerDef_GraphAssAllInvstObj_Pie_AssAllBasic_MWR_NumVis.sj" />
+				<child name="CR1485_077_Acc_DateModf_PerDef_AssAllFirm_AllIndex_TWRNetBrut_TotPerf_NumVis_AddBranch_Msg" key="{22F3E70F-0862-4E73-8ACD-C6E571FD5666}" path="CR1485_077_Acc_DateModf_PerDef_AssAllFirm_AllIndex_TWRNetBrut_TotPerf_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_077_Cli_DateModf_PerDef_AssAllFirm_PerfDepFin_TWR_DJII_DJIN_NumVis" key="{534EBF16-359B-4D38-A223-5C920D63B8EE}" path="CR1485_077_Cli_DateModf_PerDef_AssAllFirm_PerfDepFin_TWR_DJII_DJIN_NumVis.sj" />
+				<child name="CR1485_077_Acc_DateDef_RepCR1905" key="{A963DF66-B28C-4CA1-963D-E3A7C405AAB8}" path="CR1485_077_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_077_Acc_Excl_DateDef_PerDef_Perfs_MWR_NumVis" key="{55E7A84C-6657-44D1-9FA9-4C6AE73313E6}" path="CR1485_077_Acc_Excl_DateDef_PerDef_Perfs_MWR_NumVis.sj" />
+			</folder>
+			<folder name="080_FDP_TRANSACTION">
+				<child name="CR1485_080_Common_functions" key="{B13A1ABB-2060-4568-9715-40FF2449DD7F}" path="CR1485_080_Common_functions.sj" />
+				<child name="CR1485_080_Cli_NumVis" key="{74B786E9-2F7E-4864-9723-EBE41798834F}" path="CR1485_080_Cli_NumVis.sj" />
+				<child name="CR1485_080_Cli_UnderAcc_NumVis" key="{8F1463A6-0B63-4DDB-9142-76F2F225AF01}" path="CR1485_080_Cli_UnderAcc_NumVis.sj" />
+			</folder>
+			<folder name="081_RESTRICTION_CRITERIA">
+				<child name="CR1485_081_Common_functions" key="{215F6E22-0237-4104-8F68-C6C26F9FD1A1}" path="CR1485_081_Common_functions.sj" />
+				<child name="CR1485_081_Rel_DateDef_AllSeve_AllAccess_AllStatus" key="{93E39A40-9820-4C31-9D84-D0FEB30D1BA1}" path="CR1485_081_Rel_DateDef_AllSeve_AllAccess_AllStatus.sj" />
+				<child name="CR1485_081_Acc_HardSeve_IAAccess_TrigStatus" key="{D0E3AC36-4CF8-4E22-A8CF-EAB87EF5409D}" path="CR1485_081_Acc_HardSeve_IAAccess_TrigStatus.sj" />
+				<child name="CR1485_081_Acc_DateDef_AllSeve_AllAccess_AllStatus_AddSucc_Msg" key="{4932833C-9D93-49DB-A080-A807D2051D13}" path="CR1485_081_Acc_DateDef_AllSeve_AllAccess_AllStatus_AddSucc_Msg.sj" />
+				<child name="CR1485_081_Mod_DateDef_Soft_AllStat_AllAcc" key="{C6D96F6A-B249-41E6-A1CD-B426AF0FC064}" path="CR1485_081_Mod_DateDef_Soft_AllStat_AllAcc.sj" />
+				<child name="CR1485_081_Mod_DateDef_AllSev_AllStat_AllAcc" key="{31E702C5-0B78-4C2A-AF5A-3F1515140076}" path="CR1485_081_Mod_DateDef_AllSev_AllStat_AllAcc.sj" />
+			</folder>
+			<folder name="082_TRANSACTION_WEB">
+				<child name="CR1485_082_Common_functions" key="{2C354562-1009-4DD1-AA9C-57DB40404633}" path="CR1485_082_Common_functions.sj" />
+				<child name="CR1485_082_Cli_TransDiv_DateModf_AddBranch_Grouped_Msg" key="{0339222A-0E02-45E0-AB58-EC5277378C45}" path="CR1485_082_Cli_TransDiv_DateModf_AddBranch_Grouped_Msg.sj" />
+				<child name="CR1485_082_Acc_TransBuySell_DateModf_AddBranch" key="{CCB6A312-7271-4D7E-897D-8AF580BCFDBC}" path="CR1485_082_Acc_TransBuySell_DateModf_AddBranch.sj" />
+			</folder>
+			<folder name="085_FBNGP_Q_GAIN_PERTE">
+				<child name="CR1485_085_Common_functions" key="{A03AAA50-B4A6-473C-A159-3729E214F54B}" path="CR1485_085_Common_functions.sj" />
+				<child name="CR1485_085_Rel_NoParam" key="{F1B8CB51-19A3-4ED3-9E75-66145E9BF7C7}" path="CR1485_085_Rel_NoParam.sj" />
+			</folder>
+			<folder name="087_GRAPH_RISK_RETURN">
+				<child name="CR1485_087_Common_functions" key="{A25F6927-9893-44B3-9848-F23320C369EE}" path="CR1485_087_Common_functions.sj" />
+				<child name="CR1485_087_Rel_Exclu_DateModf_TWRNet_IndexTSE35_60_NumVis" key="{1C9A921E-8389-4844-9E5F-D1A2D7368FF3}" path="CR1485_087_Rel_Exclu_DateModf_TWRNet_IndexTSE35_60_NumVis.sj" />
+				<child name="CR1485_087_Cli_Exclu_DateModf_TWRNet_Gross_IndexNASDAQ_DJII_NumVis_AddBranch" key="{B06BE742-60BD-4180-99F9-6E4E21F092DD}" path="CR1485_087_Cli_Exclu_DateModf_TWRNet_Gross_IndexNASDAQ_DJII_NumVis_AddBranch.sj" />
+				<child name="CR1485_087_Acc_DateModf_TWRGross_IndexSP500_TSE300_60_NumVis" key="{E98947D0-33DF-4665-A2BE-F68E7F59184F}" path="CR1485_087_Acc_DateModf_TWRGross_IndexSP500_TSE300_60_NumVis.sj" />
+				<child name="CR1485_087_Acc_Exclu_DateModf_TWR_MWR_6Ind_RendAnn_NumVis" key="{0AA39349-C0E3-4CF3-A02C-0B9154992799}" path="CR1485_087_Acc_Exclu_DateModf_TWR_MWR_6Ind_RendAnn_NumVis.sj" />
+				<child name="CR1485_087_Acc_Exclu_DateModf_TWR_MWR_6Ind_NumVis" key="{A6D03524-1AA8-4594-92B0-B3D350D296DB}" path="CR1485_087_Acc_Exclu_DateModf_TWR_MWR_6Ind_NumVis.sj" />
+				<child name="CR1485_087_Cli_Exclu_DateModf_TWRNet_Gross_3Ind_NumVis" key="{52CD69B7-8128-4544-854A-A85F1C418860}" path="CR1485_087_Cli_Exclu_DateModf_TWRNet_Gross_3Ind_NumVis.sj" />
+			</folder>
+			<folder name="088_FBNFISC_CASH_INT">
+				<child name="CR1485_088_Common_functions" key="{AD5706CF-A301-44BE-BA8E-E020E23D8C1E}" path="CR1485_088_Common_functions.sj" />
+				<child name="CR1485_088_Rel_DateModf_NumVis_AmortIncome" key="{54646E15-7035-4F0E-909F-A0C5728EE59D}" path="CR1485_088_Rel_DateModf_NumVis_AmortIncome.sj" />
+				<child name="CR1485_088_Cli_DateModf_NumHidden_Msg" key="{FF85A43D-4143-468E-88ED-C05DACDBCC5A}" path="CR1485_088_Cli_DateModf_NumHidden_Msg.sj" />
+				<child name="CR1485_088_Acc_DateModf_NumVis_Group" key="{BE7475A7-7CDA-4F9E-99CF-3FDD9FB7AF9C}" path="CR1485_088_Acc_DateModf_NumVis_Group.sj" />
+			</folder>
+			<folder name="089_FBNFISC_CASH">
+				<child name="CR1485_089_Common_functions" key="{E064034F-5A3D-4329-B1CF-C1B0A9249AA8}" path="CR1485_089_Common_functions.sj" />
+				<child name="CR1485_089_Acc_DateModf_NumVis" key="{EED6E049-0859-4E0B-90DB-6EB15365C59D}" path="CR1485_089_Acc_DateModf_NumVis.sj" />
+			</folder>
+			<folder name="090_FBNGP_Q_COVERPAGE">
+				<child name="CR1485_090_Common_functions" key="{63BF516A-A1A7-482C-A6C8-F99DC92E35DE}" path="CR1485_090_Common_functions.sj" />
+				<child name="CR1485_090_Rel_DateDef" key="{B9F404A2-6C36-4C5D-AB63-F51F5261D128}" path="CR1485_090_Rel_DateDef.sj" />
+			</folder>
+			<folder name="091_FBNGP_Q_ASSETMIX">
+				<child name="CR1485_091_Common_functions" key="{4FD02AC6-2E2F-4A99-A38B-B588F979249A}" path="CR1485_091_Common_functions.sj" />
+				<child name="CR1485_091_Rel_NoParam_AddBranch" key="{89C34C84-A8C1-482F-8F8F-C0E3C7F27FE5}" path="CR1485_091_Rel_NoParam_AddBranch.sj" />
+			</folder>
+			<folder name="093_FBNFISC_INCOME">
+				<child name="CR1485_093_Common_functions" key="{E5DE697B-0BB2-498A-BA7E-435CF925E8AC}" path="CR1485_093_Common_functions.sj" />
+				<child name="CR1485_093_Acc_DateDef_NumVis_AddBranch_Group_Msg" key="{5B6DA6D3-D1F2-4D06-88A7-6459FCDA7A6D}" path="CR1485_093_Acc_DateDef_NumVis_AddBranch_Group_Msg.sj" />
+			</folder>
+			<folder name="094_FBNFISC_DOC_SUMMARY">
+				<child name="CR1485_094_Common_functions" key="{8F8E3BCA-5819-4796-A4BD-9129E3C0E31E}" path="CR1485_094_Common_functions.sj" />
+				<child name="CR1485_094_Acc_DateDef_NoParam" key="{F9558DAA-9D9C-4FD0-BA44-F77C22ADAD86}" path="CR1485_094_Acc_DateDef_NoParam.sj" />
+			</folder>
+			<folder name="095_FBNFISC_TRANSAC">
+				<child name="CR1485_095_Common_functions" key="{8763756E-37EE-4F2D-9B23-C8702F221A32}" path="CR1485_095_Common_functions.sj" />
+				<child name="CR1485_095_Acc_DateDef_NumVis_AddBranch_Msg" key="{58AEB99D-3354-446A-A54D-4A34845016E5}" path="CR1485_095_Acc_DateDef_NumVis_AddBranch_Msg.sj" />
+			</folder>
+			<folder name="096_FBNGP_Q_TRANSACTION">
+				<child name="CR1485_096_Common_functions" key="{9334EC49-5830-445F-B303-E227A4E1CCB5}" path="CR1485_096_Common_functions.sj" />
+				<child name="CR1485_096_Rel_NoParam_AddBranch_Msg" key="{062E56EE-C600-4EC3-82FE-54A7719E1D3C}" path="CR1485_096_Rel_NoParam_AddBranch_Msg.sj" />
+			</folder>
+			<folder name="097_EVAL_VC">
+				<child name="CR1485_097_Common_functions" key="{F7B52858-8907-404B-AB15-BA83CDC61A8D}" path="CR1485_097_Common_functions.sj" />
+				<child name="CR1485_097_Rel_DateModf_BookVl_AssAllFirm_TheoVl_NumVis_SortMat" key="{FE9B7422-5B9F-4B18-A39D-CC70B5C7A490}" path="CR1485_097_Rel_DateModf_BookVl_AssAllFirm_TheoVl_NumVis_SortMat.sj" />
+				<child name="CR1485_097_Cli_DateModf_Graph_Pie_Region_BookVl_TheoVl_AssAllFirm_NumVis_SortMat_AddBranch_Msg" key="{B577DB9B-0EE2-4950-BA93-5FB82725118A}" path="CR1485_097_Cli_DateModf_Graph_Pie_Region_BookVl_TheoVl_AssAllFirm_NumVis_SortMat_AddBranch_Msg.sj" />
+				<child name="CR1485_097_Acc_DateDef_Graph_Histog_IndCode_BookVl_AssAllBasic_NumVis_SortMat_AddBranch" key="{88F9CA01-A9BE-4CBE-900A-6F83597351C9}" path="CR1485_097_Acc_DateDef_Graph_Histog_IndCode_BookVl_AssAllBasic_NumVis_SortMat_AddBranch.sj" />
+				<child name="CR1485_097_Acc_DateModf_Graph_Histog_Compare_GroupRegion_AssAllFirm_NumVis_SortMat_BookVl_Add_Msg" key="{35ADF422-77D0-46A1-A8BD-52CB4AE24A95}" path="CR1485_097_Acc_DateModf_Graph_Histog_Compare_GroupRegion_AssAllFirm_NumVis_SortMat_BookVl_Add_Msg.sj" />
+				<child name="CR1485_097_Portf_DateDef_Graph_Histog_InvstCap_AssAllFirm_SortMat" key="{C5B861EA-81BB-4111-AA9E-03C3012BE664}" path="CR1485_097_Portf_DateDef_Graph_Histog_InvstCap_AssAllFirm_SortMat.sj" />
+				<child name="CR1485_097_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat" key="{F392C833-F985-4CBE-966D-93E0613A1FAF}" path="CR1485_097_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_097_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat" key="{E5FF982C-03C8-4427-A42D-83C58D1A1EF0}" path="CR1485_097_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_097_Acc_DateDef_RepCR1905" key="{B553F308-4E20-40F5-85F2-C6D1FDA30820}" path="CR1485_097_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_097_Cli_ParamDef_Produits" key="{97395BE0-67FB-48A8-802D-A50B1450FC0A}" path="CR1485_097_Cli_ParamDef_Produits.sj" />
+				<child name="CR1485_097_Cli_DateDef_BkVL_TheVL_AssAllFirm_NumVis_SortMat" key="{FF965264-586B-4A98-AC27-58CFF4FFE58C}" path="CR1485_097_Cli_DateDef_BkVL_TheVL_AssAllFirm_NumVis_SortMat.sj" />
+			</folder>
+			<folder name="098_EVAL_VC_TL">
+				<child name="CR1485_098_Common_functions" key="{8245FDC7-0F00-449E-8325-92D302B651EB}" path="CR1485_098_Common_functions.sj" />
+				<child name="CR1485_098_Rel_DateModf_AssAllFirm_TheoVal_NumVis_SortMat" key="{3B8FC379-E6A4-4304-8232-A77A9E71E5B4}" path="CR1485_098_Rel_DateModf_AssAllFirm_TheoVal_NumVis_SortMat.sj" />
+				<child name="CR1485_098_Cli_DateModf_Graph_Histo_Reg_AssAllFirm_TheoVal_NumVis_SortMat_Add_Msg" key="{BC2AB753-94F8-41AE-A8EA-C7EC3B733335}" path="CR1485_098_Cli_DateModf_Graph_Histo_Reg_AssAllFirm_TheoVal_NumVis_SortMat_Add_Msg.sj" />
+				<child name="CR1485_098_Cli_DateModf_Graph_Pie_Compare_AssAllFirm_TheoVal_NumVis_SortMat" key="{968A0AD1-FC5C-485A-83E3-970F2044A46B}" path="CR1485_098_Cli_DateModf_Graph_Pie_Compare_AssAllFirm_TheoVal_NumVis_SortMat.sj" />
+				<child name="CR1485_098_Acc_DateModf_Graph_Histo_Reg_IndCod_AssAllBase_TheoVal_ClassBrk_App_NumVis_SortMat_Add_Msg" key="{405D037B-D4FD-4965-A9B0-00A0BD1239F7}" path="CR1485_098_Acc_DateModf_Graph_Histo_Reg_IndCod_AssAllBase_TheoVal_ClassBrk_App_NumVis_SortMat_Add_Msg.sj" />
+				<child name="CR1485_098_Portf_Graph_Pie_AssAllFirm_TheoVl_ClassBrk_App_SortMat" key="{82E4EB78-759B-4740-ABF1-FDBF34B4C13D}" path="CR1485_098_Portf_Graph_Pie_AssAllFirm_TheoVl_ClassBrk_App_SortMat.sj" />
+			</folder>
+			<folder name="100_FBNFISC_ACC_INT_SBH">
+				<child name="CR1485_100_Common_functions" key="{B1E938AB-AED1-4252-A3D1-6F47D2055686}" path="CR1485_100_Common_functions.sj" />
+				<child name="CR1485_100_Acc_DateModf_NumVis_AddBranch_Group_Msg" key="{4C4DFDDC-0EE2-42ED-BD31-097EFCB620F1}" path="CR1485_100_Acc_DateModf_NumVis_AddBranch_Group_Msg.sj" />
+			</folder>
+			<folder name="102_PERF_ACC_SUMM">
+				<child name="CR1485_102_Common_functions" key="{51821123-F8BF-4737-BDFD-887C5E4AD792}" path="CR1485_102_Common_functions.sj" />
+				<child name="CR1485_102_Rel_DateModf_PerDef_TWRNetGross_NumVis_AddBranch_ConsldPos_Msg" key="{275206EB-BB28-49F5-89D4-2035C0E52B58}" path="CR1485_102_Rel_DateModf_PerDef_TWRNetGross_NumVis_AddBranch_ConsldPos_Msg.sj" />
+				<child name="CR1485_102_Cli_DateDef_PerDef_AssAllGraph_Histog_AssAllFirm_TWRNetGross_MWR_NumVis" key="{6A191475-8956-487A-AF3B-EB6BE2F53882}" path="CR1485_102_Cli_DateDef_PerDef_AssAllGraph_Histog_AssAllFirm_TWRNetGross_MWR_NumVis.sj" />
+				<child name="CR1485_102_Acc_DateModf_PerDef_IndexTSE300_60_TWRNetGross_MWR_NumVis_AddBranch_Group_Msg" key="{0C8E516F-B56B-4C94-80BA-A6A2DAB5A072}" path="CR1485_102_Acc_DateModf_PerDef_IndexTSE300_60_TWRNetGross_MWR_NumVis_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_102_Acc_DateModf_PerDef_GraphAssAllPOrtfPerf_Pie_AssAllFirm_TWRNetBrut_MWR_IndexTSE300_60_NumVis" key="{915EF3E9-423F-427E-A82E-5C3476F44C85}" path="CR1485_102_Acc_DateModf_PerDef_GraphAssAllPOrtfPerf_Pie_AssAllFirm_TWRNetBrut_MWR_IndexTSE300_60_NumVis.sj" />
+				<child name="CR1485_102_Cli_DateDef_RepCR1905" key="{AA0DD4C5-4DCA-4064-9D33-0EDBD691B0AE}" path="CR1485_102_Cli_DateDef_RepCR1905.sj" />
+				<child name="CR1485_102_Rel_DateModf_CR1469" key="{48D63525-2135-4C5C-8026-E88AED5BE076}" path="CR1485_102_Rel_DateModf_CR1469.sj" />
+				<child name="CR1485_102_Acc_DateModf_Fix_PerDef_GraphPortfPerf_Histo_AssAllFirm_TWRN_MWR_4Ind_NumVis" key="{9E054C94-C80E-4213-9B4A-F564DAD5EF68}" path="CR1485_102_Acc_DateModf_Fix_PerDef_GraphPortfPerf_Histo_AssAllFirm_TWRN_MWR_4Ind_NumVis.sj" />
+				<child name="CR1485_102_Acc_DateModf_CR1469" key="{38682404-2738-475A-A6F9-3E5BA1310EC0}" path="CR1485_102_Acc_DateModf_CR1469.sj" />
+				<child name="CR1485_102_Cli_DateMod_CR1469" key="{6F138850-B28E-4903-8FA4-6EC338801E40}" path="CR1485_102_Cli_DateMod_CR1469.sj" />
+			</folder>
+			<folder name="103_ASSET_REP">
+				<child name="CR1485_103_Common_functions" key="{6CD4671C-A393-4080-AC1A-6DBAFE4E6480}" path="CR1485_103_Common_functions.sj" />
+				<child name="CR1485_103_Cli_AllCodes_DateDef_NumVis" key="{15E44FC1-442C-4460-804B-9CB9CC5AA0A1}" path="CR1485_103_Cli_AllCodes_DateDef_NumVis.sj" />
+				<child name="CR1485_103_Acc_BD88_DateDef_NumVis" key="{DAD915D7-F766-4DBA-82A1-FDCE09833592}" path="CR1485_103_Acc_BD88_DateDef_NumVis.sj" />
+			</folder>
+			<folder name="104_FILE_PROCESSING">
+				<child name="CR1485_104_Common_functions" key="{5C28BF5A-4B7C-410C-A844-FC302C3CD549}" path="CR1485_104_Common_functions.sj" />
+				<child name="CR1485_104_Agn_DateModf_GP1859" key="{45B15BB0-1FA5-4737-9724-ED12889734D4}" path="CR1485_104_Agn_DateModf_GP1859.sj" />
+				<child name="CR1485_104_Agn_DateModf_LINCOA" key="{47B31AE5-62C4-4669-A106-98B997177300}" path="CR1485_104_Agn_DateModf_LINCOA.sj" />
+				<child name="CR1485_104_Agn_DateModf_UNI00" key="{A6F92F8F-43A3-44A0-9080-93D0242FDC3A}" path="CR1485_104_Agn_DateModf_UNI00.sj" />
+			</folder>
+			<folder name="105_FBNFISC_SUMMARY">
+				<child name="CR1485_105_Common_functions" key="{0185220F-D160-447B-B4AE-E623963EE238}" path="CR1485_105_Common_functions.sj" />
+				<child name="CR1485_105_Acc_DateModf_NumVis_BookVl" key="{5BE7C725-FC14-4E24-842D-E5EC2D71D686}" path="CR1485_105_Acc_DateModf_NumVis_BookVl.sj" />
+			</folder>
+			<folder name="108_SUMMARY_PORT_DETAIL">
+				<child name="CR1485_108_Common_functions" key="{EAFC4052-B673-496D-9E92-7373231EA234}" path="CR1485_108_Common_functions.sj" />
+				<child name="CR1485_108_Rel_Exclu_DateDef_PerDef_AssAllFirm_TWRNet_NumVis" key="{DACFDB28-46B9-4FED-A3F0-3A825AAE26D5}" path="CR1485_108_Rel_Exclu_DateDef_PerDef_AssAllFirm_TWRNet_NumVis.sj" />
+				<child name="CR1485_108_Cli_Exclu_DateDef_PerDef_IndexTSE35_60_AssAllFirm_TWRNetGrossMWRNet_NumVis_ClassBrk" key="{4F51B9CD-84DC-46D0-B6CF-F46C9F3968B0}" path="CR1485_108_Cli_Exclu_DateDef_PerDef_IndexTSE35_60_AssAllFirm_TWRNetGrossMWRNet_NumVis_ClassBrk.sj" />
+				<child name="CR1485_108_Acc_DateModf_1Y2Y3Y4Y5Y10Y_IndexTSE100_300_35_60_AssAllBasic_TWRNetGross_MWRNet_NumHid" key="{365331D3-5EAA-4440-8618-32C7C7C21FAF}" path="CR1485_108_Acc_DateModf_1Y2Y3Y4Y5Y10Y_IndexTSE100_300_35_60_AssAllBasic_TWRNetGross_MWRNet_NumHid.sj" />
+				<child name="CR1485_108_Cli_DateDef_RepCR1905" key="{C3D198BC-F11B-4068-B98A-363470D28410}" path="CR1485_108_Cli_DateDef_RepCR1905.sj" />
+				<child name="CR1485_108_Cli_CR1642_CR1915_CR2009_CR2014_CR2023_Alternate" key="{0E00E58D-EFD0-4377-90AA-E70B22064AE2}" path="CR1485_108_Cli_CR1642_CR1915_CR2009_CR2014_CR2023_Alternate.sj" />
+				<child name="CR1485_108_Acc_CR1642_CR1915_CR2009_CR2014_CR2023" key="{F1284012-1D08-4023-A25D-19E1E1DE321D}" path="CR1485_108_Acc_CR1642_CR1915_CR2009_CR2014_CR2023.sj" />
+				<child name="CR1485_108_Cli_CR1642_CR1915_CR2009_CR2014_CR2023" key="{C38FA949-AC3E-4655-AC5B-24554AA3569C}" path="CR1485_108_Cli_CR1642_CR1915_CR2009_CR2014_CR2023.sj" />
+				<child name="CR1485_108_Rel_CR1642_CR1915_CR2009_CR2014_CR2023" key="{604A40B4-3E6B-4810-ACA0-DD5A11BD4B1E}" path="CR1485_108_Rel_CR1642_CR1915_CR2009_CR2014_CR2023.sj" />
+			</folder>
+			<folder name="116_PROJECTED_PORTFOLIO" />
+			<folder name="117_ORDER_ENTRY" />
+			<folder name="010_SUMMARY_PORT">
+				<child name="CR1485_010_Common_functions" key="{4F6BA803-81D5-4A2F-8B59-2046319460D3}" path="CR1485_010_Common_functions.sj" />
+				<child name="CR1485_010_Rel_DateDef_AssAllFirm_IndexTSE300_35_60_TWRNetBrut_MWRNet_NumVis_AddBranch" key="{8F142D1F-E505-4175-9F26-6A8FC37A3E53}" path="CR1485_010_Rel_DateDef_AssAllFirm_IndexTSE300_35_60_TWRNetBrut_MWRNet_NumVis_AddBranch.sj" />
+				<child name="CR1485_010_Acc_ExclData_DateDef_AssAllBasic_IndexNASDAQCOMP_DJII_DJIN_MCLEOD_NumHid_TWRNet_MWRNet_ROI" key="{8BBC5D34-E1AE-49AF-8A2C-660CB380AD76}" path="CR1485_010_Acc_ExclData_DateDef_AssAllBasic_IndexNASDAQCOMP_DJII_DJIN_MCLEOD_NumHid_TWRNet_MWRNet_ROI.sj" />
+			</folder>
+			<folder name="011_SUMMARY_PORT_WO_REF">
+				<child name="CR1485_011_Common_functions" key="{133CD168-2542-45A6-8EFB-51813DE87308}" path="CR1485_011_Common_functions.sj" />
+				<child name="CR1485_011_Rel_ExclData_DateDef_AssAllFirm_IndexSP60_TSE100_300_35_60_TWRNetBrut_MWRNet_NunVis_AddBranch" key="{25B23CF4-04C6-4B5F-A8E5-4F77CEAA2D52}" path="CR1485_011_Rel_ExclData_DateDef_AssAllFirm_IndexSP60_TSE100_300_35_60_TWRNetBrut_MWRNet_NunVis_AddBranch.sj" />
+				<child name="CR1485_011_Cli_DateDef_AssAllBasic_TWRNetBrut_MWRNet_NumVis_AddBranch" key="{97F9397D-7FC5-4C48-B70F-4E50C25B986A}" path="CR1485_011_Cli_DateDef_AssAllBasic_TWRNetBrut_MWRNet_NumVis_AddBranch.sj" />
+				<child name="CR1485_011_Acc_ExclDate_DateDef_IndexDJII_TWRNet_MWRNet_NumVis" key="{A3377D37-05E2-476C-ADDB-7CB13267206B}" path="CR1485_011_Acc_ExclDate_DateDef_IndexDJII_TWRNet_MWRNet_NumVis.sj" />
+			</folder>
+			<folder name="013_TRANSACTION">
+				<child name="CR1485_013_Common_functions" key="{1DE0C072-A03F-4ECE-B900-E07F98965768}" path="CR1485_013_Common_functions.sj" />
+				<child name="CR1485_013_Rel_AllTrans_DateModf_GroupTrans_NumVis_AddBranch" key="{50B5E210-6EC9-4FE4-9B31-F1C8E6730F48}" path="CR1485_013_Rel_AllTrans_DateModf_GroupTrans_NumVis_AddBranch.sj" />
+				<child name="CR1485_013_Cli_Buy_Sell_DateDef_GroupByRec_AddBranch_Group_Msg" key="{46E72EAA-A01F-419C-9BDA-F91847B71906}" path="CR1485_013_Cli_Buy_Sell_DateDef_GroupByRec_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_013_Acc_AllTrans_DateModf_GroupTrans_NumVis_Group" key="{689B4C22-B0AF-4226-86E3-642EDE24E07E}" path="CR1485_013_Acc_AllTrans_DateModf_GroupTrans_NumVis_Group.sj" />
+				<child name="CR1485_013_Cli_Donation_Disposition_CR1247" key="{67C9F787-F0DE-41FE-949B-B4D778E473BE}" path="CR1485_013_Cli_Donation_Disposition_CR1247.sj" />
+				<child name="CR1485_013_Acc_Donation_Disposition_CR1247" key="{6209FAE4-6789-4305-9BAB-45F5A5EDEE0C}" path="CR1485_013_Acc_Donation_Disposition_CR1247.sj" />
+			</folder>
+			<folder name="035_OVERDUE">
+				<child name="CR1485_035_Common_functions" key="{2D02038C-4A16-4DC6-9E16-1B452E9FAA63}" path="CR1485_035_Common_functions.sj" />
+				<child name="CR1485_035_Agnd_DateModf" key="{1E8C27D2-6DB5-49B7-AB77-C00874CBFD4B}" path="CR1485_035_Agnd_DateModf.sj" />
+			</folder>
+			<folder name="041_PERF_HISTO_FIXCUM">
+				<child name="CR1485_041_Common_functions" key="{9C27C974-CBB8-4751-871C-75B227AD90CD}" path="CR1485_041_Common_functions.sj" />
+				<child name="CR1485_041_Rel_ExclData_DateModf_PerDef_TWRNet_IndexDJII_NumVis_AddBranch" key="{13D325DA-423F-4141-8AA6-058BB1969063}" path="CR1485_041_Rel_ExclData_DateModf_PerDef_TWRNet_IndexDJII_NumVis_AddBranch.sj" />
+				<child name="CR1485_041_Cli_ExclData_DateModf_Per1Y3Y5Y7Y10Y_TWRBrut_NumVis_Msg" key="{7068B8D9-24EF-4802-8533-117C0870CF4C}" path="CR1485_041_Cli_ExclData_DateModf_Per1Y3Y5Y7Y10Y_TWRBrut_NumVis_Msg.sj" />
+				<child name="CR1485_041_Acc_DateDef_3M6M9MY_TWRNetBrut_MWRNet_NumHid_Group" key="{97B60AC2-DD42-440C-9B54-F5761CB2D6D9}" path="CR1485_041_Acc_DateDef_3M6M9MY_TWRNetBrut_MWRNet_NumHid_Group.sj" />
+				<child name="CR1485_041_Acc_Excl_DateModf_PerDef_MWR_NumVis" key="{8755F610-0C57-4679-864F-0266241E8A3E}" path="CR1485_041_Acc_Excl_DateModf_PerDef_MWR_NumVis.sj" />
+			</folder>
+			<folder name="049_EVAL_POS_TOT_RET_TL">
+				<child name="CR1485_049_Common_functions" key="{AC620EA0-4093-4C65-8D8F-50A1377126F7}" path="CR1485_049_Common_functions.sj" />
+				<child name="CR1485_049_Rel_DateModf_TheoVal_AssAllFirmNumVis" key="{1C154A56-0D29-4297-A739-E8DF1D5DE4EE}" path="CR1485_049_Rel_DateModf_TheoVal_AssAllFirmNumVis.sj" />
+				<child name="CR1485_049_Rel_DateModf_Graph_Histo_Compare_Reg_TheoVal_AssAllBasic_NumVis_Add_Msg" key="{E6882D47-A95E-40C6-BCBE-97EB8BB24BD5}" path="CR1485_049_Rel_DateModf_Graph_Histo_Compare_Reg_TheoVal_AssAllBasic_NumVis_Add_Msg.sj" />
+				<child name="CR1485_049_Cli_DateDef_Region_AssAllBasic_NumHid_Appdx_Group_Msg" key="{F388B23A-C1FC-4860-AC3F-E100FDE331A4}" path="CR1485_049_Cli_DateDef_Region_AssAllBasic_NumHid_Appdx_Group_Msg.sj" />
+				<child name="CR1485_049_Acc_DateModf_Graph_Pie_TheoVal_AssAllBasic_NumVis_ClassBrk_AddBranch_Msg" key="{C7596E9E-44AE-4DB9-82D3-30F4C1636544}" path="CR1485_049_Acc_DateModf_Graph_Pie_TheoVal_AssAllBasic_NumVis_ClassBrk_AddBranch_Msg.sj" />
+				<child name="CR1485_049_Portf_DateDef_IndCode_AssAllFim_AddBranch" key="{945AA315-2E74-4BD0-AFF7-A785357D5C2F}" path="CR1485_049_Portf_DateDef_IndCode_AssAllFim_AddBranch.sj" />
+				<child name="CR1485_049_Acc_Ind_BVMV_CR1562" key="{27D53441-CB02-4BCD-9B1C-8277CD3B766B}" path="CR1485_049_Acc_Ind_BVMV_CR1562.sj" />
+			</folder>
+			<folder name="051_INVESTMENT_OBJ">
+				<child name="CR1485_051_Common_functions" key="{8EA1B252-63CF-43F2-A1E0-645A10DC7943}" path="CR1485_051_Common_functions.sj" />
+				<child name="CR1485_051_Cli_DateDef_AllCodes_SortClient_NumVis" key="{B823EC20-BC0D-46AB-B34A-0EE4451A9866}" path="CR1485_051_Cli_DateDef_AllCodes_SortClient_NumVis.sj" />
+			</folder>
+			<folder name="054_GAIN_PERTE_TL">
+				<child name="CR1485_054_Common_functions" key="{75D3785D-FC8C-4C21-A468-A1246C6CF5F9}" path="CR1485_054_Common_functions.sj" />
+				<child name="CR1485_054_Rel_PrevYear_DateDef_Summ_NumVis_AddBranch_Msg" key="{E3EE5835-806E-43C2-8CD9-394708DD5D7E}" path="CR1485_054_Rel_PrevYear_DateDef_Summ_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_054_Cli_DateModf_Detail_NumHid_Group" key="{2F8484E2-34AC-4F70-9BC5-94951A3FB923}" path="CR1485_054_Cli_DateModf_Detail_NumHid_Group.sj" />
+				<child name="CR1485_054_Acc_DateModf_Summ_NumVis_AddBranch_Msg" key="{39A0E19C-209D-4273-9F40-BEF8702D8BA6}" path="CR1485_054_Acc_DateModf_Summ_NumVis_AddBranch_Msg.sj" />
+			</folder>
+			<folder name="064_FBNGP_Q_EVAL">
+				<child name="CR1485_064_Common_functions" key="{50AD7329-470E-45DE-9D69-9E1172461EE4}" path="CR1485_064_Common_functions.sj" />
+				<child name="CR1485_064_Rel_ParamDef_AddBranch_Msg" key="{9B656FDB-6ECD-4CBD-A03E-047B268C4711}" path="CR1485_064_Rel_ParamDef_AddBranch_Msg.sj" />
+				<child name="CR1485_064_Rel_ParamDef" key="{3FA03B1D-E58A-4015-A772-97030876DADB}" path="CR1485_064_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="066_GP_NON_REALISES_TL">
+				<child name="CR1485_066_Common_functions" key="{455AA682-DCF1-42B2-A9A4-37500093A1A2}" path="CR1485_066_Common_functions.sj" />
+				<child name="CR1485_066_Rel_DateDef_Region_AssAllFirm" key="{04AEACCE-D10D-40F0-913F-0BA0AFD99371}" path="CR1485_066_Rel_DateDef_Region_AssAllFirm.sj" />
+				<child name="CR1485_066_Cli_DateModf_IndCode_AssAllBasic_Appndx_NumVis_Group_Msg" key="{D9A76B0C-9B8C-4194-A743-76D0B4D11D47}" path="CR1485_066_Cli_DateModf_IndCode_AssAllBasic_Appndx_NumVis_Group_Msg.sj" />
+				<child name="CR1485_066_Acc_DateModf_Region_TheoVal_AssAllBasic_ClassBrk_NumHid_AddBranch" key="{D1792959-99C8-4F17-8D3E-22DF926C4D8F}" path="CR1485_066_Acc_DateModf_Region_TheoVal_AssAllBasic_ClassBrk_NumHid_AddBranch.sj" />
+			</folder>
+			<folder name="078_SUMMARY_PERF">
+				<child name="CR1485_078_Common_functions" key="{2AD53285-EA49-4C52-9135-D8BD13EBC857}" path="CR1485_078_Common_functions.sj" />
+				<child name="CR1485_078_Rel_DateDef_PerDef_LvlAllBranch_SortTotVl_NumVis" key="{ABF6B68A-8701-4731-9F2A-428712CBB726}" path="CR1485_078_Rel_DateDef_PerDef_LvlAllBranch_SortTotVl_NumVis.sj" />
+				<child name="CR1485_078_Cli_DateDef_Per1Y2Y3Y4YIncep_LvlAllIA_IndexDJIIDJIN_SortNameDesc_NumVis_Msg" key="{80D70ACB-0290-4CB9-8F01-EF8D3F345B9F}" path="CR1485_078_Cli_DateDef_Per1Y2Y3Y4YIncep_LvlAllIA_IndexDJIIDJIN_SortNameDesc_NumVis_Msg.sj" />
+				<child name="CR1485_078_Acc_ExclData_DateDef_PerDef_LvlAllAcc_SortNameAsc_RskStdSharpe_NumVis" key="{DE01BAB4-33AC-4CE0-BFB8-2B6EF972630D}" path="CR1485_078_Acc_ExclData_DateDef_PerDef_LvlAllAcc_SortNameAsc_RskStdSharpe_NumVis.sj" />
+			</folder>
+			<folder name="079_ASSETS_ALLOC_ACCSUMM">
+				<child name="CR1485_079_Common_functions" key="{AF7D773C-4D8E-46AF-99FE-972F04D6074C}" path="CR1485_079_Common_functions.sj" />
+				<child name="CR1485_079_Rel_DateDef_SortName_AssAllFirm_NumVis" key="{3581092A-8618-4A6E-9FB6-34DDF35DEA05}" path="CR1485_079_Rel_DateDef_SortName_AssAllFirm_NumVis.sj" />
+				<child name="CR1485_079_Cli_DateModf_SortName_AssAllBasic_ClassBrk_NumHid_Msg" key="{F86524BA-CD47-4307-BD0C-0D92C1CD1777}" path="CR1485_079_Cli_DateModf_SortName_AssAllBasic_ClassBrk_NumHid_Msg.sj" />
+				<child name="CR1485_079_Acc_DateDef_SortNum_AssAllFirm_ClassBrk_AddBranch_Group_Msg" key="{A06924AF-5CC4-4A65-87A8-3CAF2130006C}" path="CR1485_079_Acc_DateDef_SortNum_AssAllFirm_ClassBrk_AddBranch_Group_Msg.sj" />
+			</folder>
+			<folder name="083_FBNGP_Q_MKTVALUEEVOL">
+				<child name="CR1485_083_Common_functions" key="{FA2534AE-B643-4507-8755-4673ECDA3A41}" path="CR1485_083_Common_functions.sj" />
+				<child name="CR1485_083_Rel_NoParam" key="{9CF548A0-FC49-4441-8007-4691F05785E5}" path="CR1485_083_Rel_NoParam.sj" />
+			</folder>
+			<folder name="084_FBNGP_Q_PORTF_YIELD">
+				<child name="CR1485_084_Common_functions" key="{AF686ED1-789D-4D40-9D16-DE47A1933ED6}" path="CR1485_084_Common_functions.sj" />
+				<child name="CR1485_084_Rel_NoParam" key="{F8193710-0F58-417B-A0CA-4CD0AD8EBE71}" path="CR1485_084_Rel_NoParam.sj" />
+			</folder>
+			<folder name="086_FBNGP_Q_FIXCUMPERFH">
+				<child name="CR1485_086_Common_functions" key="{D0131740-F77C-4D6C-A5EE-1623FB98A021}" path="CR1485_086_Common_functions.sj" />
+				<child name="CR1485_086_Rel_ParamDef_AddBranch" key="{1CAADECA-3C41-4E15-9B11-71706BE144AF}" path="CR1485_086_Rel_ParamDef_AddBranch.sj" />
+			</folder>
+			<folder name="092_FBNGP_Q_MGMT_MANDATE">
+				<child name="CR1485_092_Common_functions" key="{576B22E9-91B8-4370-A1D3-E731B886EAB2}" path="CR1485_092_Common_functions.sj" />
+				<child name="CR1485_092_Rel_NoParam_AddBranch" key="{7C9CB70E-4011-4BB7-B7E2-019CC244B367}" path="CR1485_092_Rel_NoParam_AddBranch.sj" />
+			</folder>
+			<folder name="099_FBNFISC_GP_NON_REAL">
+				<child name="CR1485_099_Common_functions" key="{C7B8BEC1-8734-41A3-9838-DA909F1C29D2}" path="CR1485_099_Common_functions.sj" />
+				<child name="CR1485_099_Acc_DateModf_Region_AssAllFirm_BookVl_NumVis_AddBranch" key="{33F982A2-9F97-481B-989D-DA476EE8B0B4}" path="CR1485_099_Acc_DateModf_Region_AssAllFirm_BookVl_NumVis_AddBranch.sj" />
+			</folder>
+			<folder name="109_RJ_COVERPAGE">
+				<child name="CR1485_109_Common_functions" key="{98FED523-956A-4F15-AD62-C9B73C2C8657}" path="CR1485_109_Common_functions.sj" />
+				<child name="CR1485_109_Rel_DateModf" key="{17BD0012-DAA8-4738-B23F-81A7C25B13CF}" path="CR1485_109_Rel_DateModf.sj" />
+				<child name="CR1485_109_Cli_DateDef" key="{ACE5A26D-3074-494E-85D1-4FC1E00E0ABC}" path="CR1485_109_Cli_DateDef.sj" />
+				<child name="CR1485_109_Acc_DateModf" key="{98A2B1DD-8A2D-475F-9B50-18FDF9801AA4}" path="CR1485_109_Acc_DateModf.sj" />
+			</folder>
+			<folder name="110_RJ_PIMG_COVERPAGE">
+				<child name="CR1485_110_Common_functions" key="{596EE12E-3C08-49D2-A1F1-13F84C1B2D97}" path="CR1485_110_Common_functions.sj" />
+				<child name="CR1485_110_Rel_DateDef" key="{C1D4C222-2526-4545-80CF-1D6D248547BB}" path="CR1485_110_Rel_DateDef.sj" />
+				<child name="CR1485_110_Cli_DateModf" key="{C8FDD3E8-6A63-4527-8D20-FE2DA3474B84}" path="CR1485_110_Cli_DateModf.sj" />
+				<child name="CR1485_110_Acc_DateModf_Group" key="{D062EFE0-238A-431E-AB86-E8EC7FE7859C}" path="CR1485_110_Acc_DateModf_Group.sj" />
+			</folder>
+			<folder name="111_RJ_FD_COVERPAGE">
+				<child name="CR1485_111_Common_functions" key="{A67AB289-1766-4689-B7B8-F58FD3803E4B}" path="CR1485_111_Common_functions.sj" />
+				<child name="CR1485_111_Rel_DateDef" key="{84D48AA3-CF04-4EC0-B30B-43E9C34D400A}" path="CR1485_111_Rel_DateDef.sj" />
+				<child name="CR1485_111_Cli_DateModf_Group" key="{C335FF7B-4F4A-46E6-A94F-EFB76DCD70AC}" path="CR1485_111_Cli_DateModf_Group.sj" />
+				<child name="CR1485_111_Acc_DateDef" key="{01080399-2D5E-4718-A559-45A0540EA6C0}" path="CR1485_111_Acc_DateDef.sj" />
+			</folder>
+			<folder name="112_RJ_PART_COVERPAGE">
+				<child name="CR1485_112_Common_functions" key="{4ECF2DAE-D2AC-4AFD-B8D2-A06CF7BD5454}" path="CR1485_112_Common_functions.sj" />
+				<child name="CR1485_112_Rel_DateDef" key="{60300C81-7236-436C-A59E-5F11FCAE8E61}" path="CR1485_112_Rel_DateDef.sj" />
+				<child name="CR1485_112_Cli_DateModf" key="{4830D36B-241A-4D3F-ABB8-2FE9FF63B0CF}" path="CR1485_112_Cli_DateModf.sj" />
+				<child name="CR1485_112_Acc_DateModf" key="{2ACB2398-DBAB-43D5-843D-BE045B9817B6}" path="CR1485_112_Acc_DateModf.sj" />
+			</folder>
+			<folder name="113_INVESTMENT_PERFORM">
+				<child name="CR1485_113_Common_functions" key="{D6F67DB3-E6EB-44D4-AC9A-E9E9975B8348}" path="CR1485_113_Common_functions.sj" />
+				<child name="CR1485_113_Rel_ExclData_DateModf_PerDef_TWRNetBrut_MWRNet_IndexTSE35_60_NumVis_AddBranch" key="{D0FCC6C7-7679-44D1-9080-1750A7DCCD7D}" path="CR1485_113_Rel_ExclData_DateModf_PerDef_TWRNetBrut_MWRNet_IndexTSE35_60_NumVis_AddBranch.sj" />
+				<child name="CR1485_113_Cli_ExclData_Datemodf_PerDef_MWRNet_IndexDJIIDJIN_NumVis" key="{B28813D2-2670-4B57-B58A-CB0B21FF3824}" path="CR1485_113_Cli_ExclData_Datemodf_PerDef_MWRNet_IndexDJIIDJIN_NumVis.sj" />
+				<child name="CR1485_113_Acc_DateModf_PerDef_TWRNetBrut_IndexTSE35_60_NumVis" key="{6674164B-3650-470A-A99A-2231EC2A11EA}" path="CR1485_113_Acc_DateModf_PerDef_TWRNetBrut_IndexTSE35_60_NumVis.sj" />
+				<child name="CR1485_113_Acc_Excl_DateDef_PerDef_MWR_NumVis" key="{B795E3EC-209B-4B78-9374-F7E70599B931}" path="CR1485_113_Acc_Excl_DateDef_PerDef_MWR_NumVis.sj" />
+				<child name="CR1485_113_Acc_Excl_DateDef_AllPerF_2Ind_NoGraph_NumVis" key="{1CDBA3D4-D87D-4F8A-A6D9-7D1EE4D6D0C4}" path="CR1485_113_Acc_Excl_DateDef_AllPerF_2Ind_NoGraph_NumVis.sj" />
+			</folder>
+			<folder name="118_SYS_PLANS">
+				<child name="CR1485_118_Common_functions" key="{30FCA5A5-AF7F-4779-81DF-CCBC62789EAE}" path="CR1485_118_Common_functions.sj" />
+				<child name="CR1485_118_Cli_StartDate_DateModf_SortAcc" key="{063FDA64-76BD-4DC0-9CBE-4A3934ED3889}" path="CR1485_118_Cli_StartDate_DateModf_SortAcc.sj" />
+				<child name="CR1485_118_Acc_LastTransDate_DateModf_SortPlanType" key="{6F0756A1-1CEA-4F49-B145-467BF41F22B8}" path="CR1485_118_Acc_LastTransDate_DateModf_SortPlanType.sj" />
+				<child name="CR1485_118_Sec_StartDate_DateModf_SortAcc" key="{47B97CF2-235C-4088-AEFC-8E895AC1A975}" path="CR1485_118_Sec_StartDate_DateModf_SortAcc.sj" />
+			</folder>
+			<folder name="119_FREE_UNITS">
+				<child name="CR1485_119_Common_functions" key="{F32A135C-62A8-44EA-9545-96EAC706B5A6}" path="CR1485_119_Common_functions.sj" />
+				<child name="CR1485_119_Cli_NoParam_AddBranch" key="{62156922-CDF4-4053-A807-B942EF92CA02}" path="CR1485_119_Cli_NoParam_AddBranch.sj" />
+				<child name="CR1485_119_Acc_NoParam_AddBranch_Group_Msg" key="{EA032EBC-28E6-4383-96A9-EBCA1ED0033D}" path="CR1485_119_Acc_NoParam_AddBranch_Group_Msg.sj" />
+			</folder>
+			<folder name="045_DIST_BM">
+				<child name="CR1485_045_Common_functions" key="{B2DC317A-20A2-4F30-81CE-9E3780EF7CAF}" path="CR1485_045_Common_functions.sj" />
+				<child name="CR1485_045_Rel_DateModf_InvestCap_NumHiddn_AddBranch_Msg" key="{C86C4715-75B0-4A45-8301-B53A0410874C}" path="CR1485_045_Rel_DateModf_InvestCap_NumHiddn_AddBranch_Msg.sj" />
+				<child name="CR1485_045_Cli_DateModf_BookVl_NumVis_Group" key="{B565445E-72DB-44E9-9D3E-5112C3B6F801}" path="CR1485_045_Cli_DateModf_BookVl_NumVis_Group.sj" />
+				<child name="CR1485_045_Acc_DateDef_BookVl_NumVis_Group" key="{B3954EB3-A6F7-4D4B-8D33-F8F25DDD43C2}" path="CR1485_045_Acc_DateDef_BookVl_NumVis_Group.sj" />
+				<child name="CR1485_045_Portef_DateDef_BookVl_AddBranch" key="{6B62E486-4044-4CE6-8580-04110273EA25}" path="CR1485_045_Portef_DateDef_BookVl_AddBranch.sj" />
+			</folder>
+			<folder name="069_ADDITIONAL_COVERPAGE">
+				<child name="CR1485_069_Common_functions" key="{6DF46950-F2EA-4AC9-A35B-62641B74E0FD}" path="CR1485_069_Common_functions.sj" />
+				<child name="CR1485_069_Rel_NoParam" key="{6438BC39-5B15-45CD-9DB1-9FFDCDC82D14}" path="CR1485_069_Rel_NoParam.sj" />
+			</folder>
+			<folder name="070_CONSOL_COVERPAGE">
+				<child name="CR1485_070_Common_functions" key="{3F0F2C20-094F-49E6-A4B2-945B95311E45}" path="CR1485_070_Common_functions.sj" />
+				<child name="CR1485_070_Rel_NoParam" key="{9FA86422-6C50-49D4-9E84-A790D9A64DF9}" path="CR1485_070_Rel_NoParam.sj" />
+			</folder>
+			<folder name="072_MANAGED_COVERPAGE">
+				<child name="CR1485_072_Common_functions" key="{DBF74109-ED82-48B1-A936-2F06BA0BC588}" path="CR1485_072_Common_functions.sj" />
+				<child name="CR1485_072_Rel_NoParam" key="{04A66583-C54F-4448-9DE5-8A87F0F75A1F}" path="CR1485_072_Rel_NoParam.sj" />
+			</folder>
+			<folder name="101_FBNFISC_ACC_INT_TRAN">
+				<child name="CR1485_101_Common_functions" key="{2DB89BE4-149F-477E-A919-5F3DA7A1C2A4}" path="CR1485_101_Common_functions.sj" />
+				<child name="CR1485_101_Acc_DateModf_GroupRec_GroupTrans_NumVis_Add_Grp_Msg" key="{D35CF950-ABB1-42B8-B299-6C8BB037797C}" path="CR1485_101_Acc_DateModf_GroupRec_GroupTrans_NumVis_Add_Grp_Msg.sj" />
+			</folder>
+			<folder name="106_FBNFISC_GAIN_PERTE">
+				<child name="CR1485_106_Common_functions" key="{E2E109C3-E61C-4E5E-B9AA-45D7A7D3DAAB}" path="CR1485_106_Common_functions.sj" />
+				<child name="CR1485_106_Acc_DateDef_GP_BookVl_DateTrans" key="{EF6C7BFE-BEA5-4973-A637-3A0B699E1DAD}" path="CR1485_106_Acc_DateDef_GP_BookVl_DateTrans.sj" />
+				<child name="CR1485_106_Acc_DateModf_GP_BookVl_DateSettle_NumVis" key="{51D68949-CFCA-4D3E-AEB2-EC780B4ECA30}" path="CR1485_106_Acc_DateModf_GP_BookVl_DateSettle_NumVis.sj" />
+			</folder>
+			<folder name="107_FOREIGN_PROP_SIMPLE">
+				<child name="CR1485_107_Common_functions" key="{5B110CBE-F0EA-4247-98DA-31E7760B33AD}" path="CR1485_107_Common_functions.sj" />
+				<child name="CR1485_107_Rel_M01_Y2009_MrktVl_Som_AddBranch_Msg" key="{A38C73BA-F781-4036-B119-103C43119EC6}" path="CR1485_107_Rel_M01_Y2009_MrktVl_Som_AddBranch_Msg.sj" />
+				<child name="CR1485_107_Cli_M01_Y2008_BookVl_AddBranch_Msg" key="{BCD71731-1B4A-4592-AC7E-4D44B6DFBB4F}" path="CR1485_107_Cli_M01_Y2008_BookVl_AddBranch_Msg.sj" />
+				<child name="CR1485_107_Acc_M02_Y2007_BookVl_Group" key="{22B96EF4-43B5-4314-BB87-0C40FCD6C49D}" path="CR1485_107_Acc_M02_Y2007_BookVl_Group.sj" />
+				<child name="CR1485_107_Acc_M01_Y2007_BookVl_Group_CR2053" key="{50C051F9-92C5-4629-8ACA-01E32DD4F8A5}" path="CR1485_107_Acc_M01_Y2007_BookVl_Group_CR2053.sj" />
+				<child name="CR1485_107_Rel_M01_Y2009_CptNonEnreg_BkVL_Som" key="{73C37122-3AF3-4BDC-AC54-AED4C7C84686}" path="CR1485_107_Rel_M01_Y2009_CptNonEnreg_BkVL_Som.sj" />
+				<child name="CR1485_107_Cli_SumTable_CR2147" key="{D409F825-D29B-4F29-803D-2F179D2F4ACF}" path="CR1485_107_Cli_SumTable_CR2147.sj" />
+			</folder>
+			<folder name="114_MSTAR_XRAY">
+				<child name="CR1485_114_Common_functions" key="{D68E3827-EF80-4990-890C-6B613D1E2760}" path="CR1485_114_Common_functions.sj" />
+				<child name="CR1485_114_Rel_DateDef_UndfSec_Diclaimer_NASDAQ100" key="{58DF2925-902B-4866-9DA7-A0FB46C8FF93}" path="CR1485_114_Rel_DateDef_UndfSec_Diclaimer_NASDAQ100.sj" />
+				<child name="CR1485_114_Cli_DateDef_UndfSec_Diclaimer_IndexCustom" key="{5002E4DF-B655-4D74-9531-3E25F3437E7D}" path="CR1485_114_Cli_DateDef_UndfSec_Diclaimer_IndexCustom.sj" />
+				<child name="CR1485_114_Acc_DateDef_UndfSec_Diclaimer_IndexCustom" key="{9D32132B-EBCB-42B4-A678-8E8D97A595AA}" path="CR1485_114_Acc_DateDef_UndfSec_Diclaimer_IndexCustom.sj" />
+				<child name="CR1485_114_Portf_DateDef_UndfSec_Diclaimer_NASDAQ100" key="{635AE17B-804B-4E11-A6F8-FC8B32B7E39A}" path="CR1485_114_Portf_DateDef_UndfSec_Diclaimer_NASDAQ100.sj" />
+			</folder>
+			<folder name="115_MSTAR_SNAPSHOT">
+				<child name="CR1485_115_Common_functions" key="{6FBBCEE4-DBE1-4030-AE6D-1FB57201B478}" path="CR1485_115_Common_functions.sj" />
+				<child name="CR1485_115_Rel_DateDef_UndfSec_Diclaimer_NASDAQ100" key="{0B627583-A267-4FC4-A959-0ED141C30BC0}" path="CR1485_115_Rel_DateDef_UndfSec_Diclaimer_NASDAQ100.sj" />
+				<child name="CR1485_115_Cli_DateDef_UndfSec_Diclaimer_IndexCustom" key="{05A25242-6C99-4882-BB20-A2F1B5529A7C}" path="CR1485_115_Cli_DateDef_UndfSec_Diclaimer_IndexCustom.sj" />
+				<child name="CR1485_115_Acc_DateDef_UndfSec_Diclaimer_IndexCustom" key="{A141B6E8-E7A9-4386-A6E8-210229121A3E}" path="CR1485_115_Acc_DateDef_UndfSec_Diclaimer_IndexCustom.sj" />
+				<child name="CR1485_115_Portf_DateDef_UndfSec_Diclaimer_NASDAQ100" key="{25CE6CC3-256A-4E0C-9575-0786D3A0B2D6}" path="CR1485_115_Portf_DateDef_UndfSec_Diclaimer_NASDAQ100.sj" />
+			</folder>
+			<folder name="120_FREE_UNITS_HOLDERS">
+				<child name="CR1485_120_Common_functions" key="{E0406CF1-46BF-4A40-8944-3E6F468A14B0}" path="CR1485_120_Common_functions.sj" />
+				<child name="CR1485_120_Sec_AllRecords" key="{EAA76484-078E-4E48-988A-9084DA7F31DB}" path="CR1485_120_Sec_AllRecords.sj" />
+			</folder>
+			<folder name="121_PERFORMANCE_ASSET">
+				<child name="CR1485_121_Common_functions" key="{E2740E2F-2E7C-4154-BB23-D690918B26EA}" path="CR1485_121_Common_functions.sj" />
+				<child name="CR1485_121_Rel_ExcluData_DateModf_PerDef_AssAllFirm_TWRNetGross_MWR_DJII_DJIN_NumVis" key="{A9BC0BDF-1EEF-4BD1-BBF5-B7DCA78CEFBA}" path="CR1485_121_Rel_ExcluData_DateModf_PerDef_AssAllFirm_TWRNetGross_MWR_DJII_DJIN_NumVis.sj" />
+				<child name="CR1485_121_Cli_ExcluDt_DtModf_Fixe_PerDef_AssAllFirm_TWRNtGrs_MWR_TSE3003560_ClssBrk_NumVis_App_Add_Ms" key="{BF4CD43C-4030-4610-870F-E36A2E863814}" path="CR1485_121_Cli_ExcluDt_DtModf_Fixe_PerDef_AssAllFirm_TWRNtGrs_MWR_TSE3003560_ClssBrk_NumVis_App_Add_Ms.sj" />
+				<child name="CR1485_121_Cli_ExcluDt_DtModf_PerDef_AssAllFirm_TWRNt_MWR_TSE60_ClssBrk_App_NumVis_Group" key="{134E509F-B463-4175-B3ED-9E2BDE21C590}" path="CR1485_121_Cli_ExcluDt_DtModf_PerDef_AssAllFirm_TWRNt_MWR_TSE60_ClssBrk_App_NumVis_Group.sj" />
+				<child name="CR1485_121_Acc_ExcluDt_DtModf_1Y2Y3Y4Y5Y10YSince_AssAllBase_TWRNt_AllIndex_NumHid_Group" key="{85FB769A-692D-446D-A5B1-2D5DE4233E44}" path="CR1485_121_Acc_ExcluDt_DtModf_1Y2Y3Y4Y5Y10YSince_AssAllBase_TWRNt_AllIndex_NumHid_Group.sj" />
+			</folder>
+			<folder name="122_PORTFMAN_COVERPAGE">
+				<child name="CR1485_122_Common_functions" key="{204A77C6-E3BB-4B33-BB18-8605428F4043}" path="CR1485_122_Common_functions.sj" />
+				<child name="CR1485_122_Rel_DateDef" key="{40041609-51F4-4689-BFC7-D6A012D3B289}" path="CR1485_122_Rel_DateDef.sj" />
+				<child name="CR1485_122_Cli_DateModf" key="{F2669DFB-9F98-413A-80EE-09F133EFD8F6}" path="CR1485_122_Cli_DateModf.sj" />
+				<child name="CR1485_122_Acc_DateModf" key="{B5CD19A3-FAD7-4E66-832B-14F94071D10F}" path="CR1485_122_Acc_DateModf.sj" />
+			</folder>
+			<folder name="136_Year_end_corporate_report">
+				<child name="CR1485_136_Acc_ParamDef" key="{2E257E1B-1D64-4172-9111-8F1C38E3B4C2}" path="CR1485_136_Acc_ParamDef.sj" />
+				<child name="CR1485_136_Common_functions" key="{49EC805A-D4D6-4295-9E0B-88FB15E5B044}" path="CR1485_136_Common_functions.sj" />
+				<child name="CR1485_136_Acc_ParamDef_Group" key="{BA101EC5-7907-43E0-B3FC-8BDA247E625D}" path="CR1485_136_Acc_ParamDef_Group.sj" />
+				<child name="CR1485_136_Acc_Ind_BVMV_CR1562" key="{0B61FF40-1372-42AF-9AAA-D0C762396814}" path="CR1485_136_Acc_Ind_BVMV_CR1562.sj" />
+			</folder>
+			<folder name="127_Portfolio_Management_Report_add_evol">
+				<child name="CR1485_127_Rel_ParamDef" key="{E58F4057-D504-47F9-BE04-1070CC27541B}" path="CR1485_127_Rel_ParamDef.sj" />
+				<child name="CR1485_127_Common_functions" key="{763888F7-561E-4BF9-B1CD-79F7DFC37B2F}" path="CR1485_127_Common_functions.sj" />
+			</folder>
+			<folder name="128_Portfolio_Management_Report_add">
+				<child name="CR1485_128_Common_functions" key="{D20193F6-F111-48CA-A964-66E26A0F4153}" path="CR1485_128_Common_functions.sj" />
+				<child name="CR1485_128_Rel_ParamDef" key="{99F091C5-3AC9-41E6-86E8-9C63731F59E9}" path="CR1485_128_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="129_Portfolio_Management_Report_evol_history">
+				<child name="CR1485_129_Common_functions" key="{BC7D6F97-6085-49EA-B3B4-4755D55664A2}" path="CR1485_129_Common_functions.sj" />
+				<child name="CR1485_129_Rel_ParamDef" key="{D24A59FB-1D7C-40BE-ACDB-9E5A5C1EADC9}" path="CR1485_129_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="130_Portfolio_Management_Report_grouped">
+				<child name="CR1485_130_Common_functions" key="{A9277D0F-0EBE-49AA-B28A-D9380261570C}" path="CR1485_130_Common_functions.sj" />
+				<child name="CR1485_130_Rel_ParamDef" key="{1144D257-FE87-498C-AC26-2BB6215A1028}" path="CR1485_130_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="131_Portfolio_Management_Report_history">
+				<child name="CR1485_131_Common_functions" key="{E632916F-DE12-4D76-976B-87704806F672}" path="CR1485_131_Common_functions.sj" />
+				<child name="CR1485_131_Rel_ParamDef" key="{23229A3A-4D4E-4460-9DE7-94AEB29336E0}" path="CR1485_131_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="132_Portfolio_Management_Report_new_household">
+				<child name="CR1485_132_Common_functions" key="{1F2A91E0-4F56-433A-A1C3-31A0A6B1DAC9}" path="CR1485_132_Common_functions.sj" />
+				<child name="CR1485_132_Rel_ParamDef" key="{6612EFFA-3AA6-40E5-A37E-6022CE694923}" path="CR1485_132_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="133_Portfolio_Management_Report_trans_GL_history">
+				<child name="CR1485_133_Common_functions" key="{04B6A607-7636-4868-A0DF-7A21D85F2301}" path="CR1485_133_Common_functions.sj" />
+				<child name="CR1485_133_Rel_ParamDef" key="{CE208134-D30D-4542-A829-71129A4C42B4}" path="CR1485_133_Rel_ParamDef.sj" />
+				<child name="CR1485_133_Rel_Ind_BVMV_CR1562" key="{536A2B2B-509C-4AAE-994B-7B4B267FEA6D}" path="CR1485_133_Rel_Ind_BVMV_CR1562.sj" />
+			</folder>
+			<folder name="134_Portfolio_Management_Report_trans_evol_history">
+				<child name="CR1485_134_Common_functions" key="{8DC3D49D-BE3E-46BC-BA07-BECAD54D2BC5}" path="CR1485_134_Common_functions.sj" />
+				<child name="CR1485_134_Rel_ParamDef" key="{4C9FAACB-034D-4FF7-A87B-1BA8AA0AD813}" path="CR1485_134_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="135_Portfolio_Management_Report_trans_history">
+				<child name="CR1485_135_Common_functions" key="{61F20E50-BDE8-4D1C-955A-3A1A3488341C}" path="CR1485_135_Common_functions.sj" />
+				<child name="CR1485_135_Rel_ParamDef" key="{9D07BBA9-A120-4DBB-8DCF-AB48751A20B3}" path="CR1485_135_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="140_Performance_Summarized_Investor_Profile_IA">
+				<child name="CR1485_140_Common_functions" key="{B5834896-C399-4F09-9170-0EBE4153B1EB}" path="CR1485_140_Common_functions.sj" />
+				<child name="CR1485_140_Cli_ParamDef" key="{6CD91F8D-9290-415B-9660-044CF0ACC6CA}" path="CR1485_140_Cli_ParamDef.sj" />
+				<child name="CR1485_140_Acc_ParamDef" key="{E8F86649-D09D-4959-B47F-C8FA9D4F0E97}" path="CR1485_140_Acc_ParamDef.sj" />
+			</folder>
+			<folder name="141_Performance_Summarized_Investor_Profile_Firm">
+				<child name="CR1485_141_Acc_ParamDef" key="{FD7AB2F3-37CD-4FB4-8971-5B314E7AD929}" path="CR1485_141_Acc_ParamDef.sj" />
+				<child name="CR1485_141_Cli_ParamDef" key="{ACDC96E9-90E0-4D8D-81D3-989B670261C3}" path="CR1485_141_Cli_ParamDef.sj" />
+				<child name="CR1485_141_Common_functions" key="{0CEAB515-B339-4175-BABB-006424117D83}" path="CR1485_141_Common_functions.sj" />
+			</folder>
+			<folder name="142_Performance_Summarized_Investor_Profile_Region">
+				<child name="CR1485_142_Acc_ParamDef" key="{1A7068A1-8B92-4CDE-91B4-CA110E4D04E8}" path="CR1485_142_Acc_ParamDef.sj" />
+				<child name="CR1485_142_Cli_ParamDef" key="{E4CC91E8-7304-4BAB-ABBF-20AF12123F69}" path="CR1485_142_Cli_ParamDef.sj" />
+				<child name="CR1485_142_Common_functions" key="{D1DB0A85-0B9F-428A-B4EB-25D09EC19F1F}" path="CR1485_142_Common_functions.sj" />
+			</folder>
+			<folder name="143_Performance_Summarized_Investor_Profile_Branch">
+				<child name="CR1485_143_Acc_ParamDef" key="{E803049F-CE82-431A-8CB7-0146790773B9}" path="CR1485_143_Acc_ParamDef.sj" />
+				<child name="CR1485_143_Cli_ParamDef" key="{110FBE3B-5A18-4461-9755-AD50B4747AB2}" path="CR1485_143_Cli_ParamDef.sj" />
+				<child name="CR1485_143_Common_functions" key="{5336380A-276D-46B9-95DB-CBAB6550DC63}" path="CR1485_143_Common_functions.sj" />
+			</folder>
+			<folder name="137_Performance_Summarized_IA">
+				<child name="CR1485_137_Common_functions" key="{42496A7F-6BBE-4C63-BFF6-ED583DE0615D}" path="CR1485_137_Common_functions.sj" />
+				<child name="CR1485_137_Cli_ParamDef_IndPROBAL" key="{4445ECC4-4292-43A3-9359-1C9AA774DD56}" path="CR1485_137_Cli_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_137_Acc_ParamDef_IndPROBAL" key="{E643C306-8607-4B35-857F-A5FA12C61364}" path="CR1485_137_Acc_ParamDef_IndPROBAL.sj" />
+			</folder>
+			<folder name="138_Performance_Summarized_Region">
+				<child name="CR1485_138_Acc_ParamDef_IndPROBAL" key="{5A8965FC-3B99-4B4A-962D-AB0B03596D51}" path="CR1485_138_Acc_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_138_Cli_ParamDef_IndPROBAL" key="{EC1F0C98-ADC8-464F-9FAA-A5DC621DA344}" path="CR1485_138_Cli_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_138_Common_functions" key="{373116C8-CB5F-4ED7-927E-9FAE19723F1D}" path="CR1485_138_Common_functions.sj" />
+			</folder>
+			<folder name="139_Performance_Summarized_Branch">
+				<child name="CR1485_139_Acc_ParamDef_IndPROBAL" key="{E17B19CB-708E-40CF-9C1D-7522C629AEFE}" path="CR1485_139_Acc_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_139_Cli_ParamDef_IndPROBAL" key="{0E3931D9-9DE6-4AC3-84ED-2778FC952837}" path="CR1485_139_Cli_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_139_Common_functions" key="{4EE99EA6-BE67-4FE5-A14B-02D673F1CA22}" path="CR1485_139_Common_functions.sj" />
+			</folder>
+			<folder name="125_Monthly_transactions_report">
+				<child name="CR1485_125_Cli_DateDef" key="{46C11DD5-270B-49F3-A6F3-3CF91F5C5555}" path="CR1485_125_Cli_DateDef.sj" />
+				<child name="CR1485_125_Common_functions" key="{FE441745-77D4-4F6F-9053-E6A6EC72792A}" path="CR1485_125_Common_functions.sj" />
+			</folder>
+			<folder name="124_PERF_INTERM">
+				<child name="CR1485_124_Common_functions" key="{9EF85F58-3B46-4FCB-8065-4B89CA0E3CD8}" path="CR1485_124_Common_functions.sj" />
+				<child name="CR1485_124_Rel_Excl_DateModf_Cum_ModPer_2Graph_MWR_TWR_Ind_2Ind_NumVis" key="{0A8BFDF8-8907-491C-A6AE-BB896D877A0A}" path="CR1485_124_Rel_Excl_DateModf_Cum_ModPer_2Graph_MWR_TWR_Ind_2Ind_NumVis.sj" />
+				<child name="CR1485_124_Cli_Excl_DateModf_Fix_DefPer_2Graph_MWR_TWR_IndDef_2Ind_Risk_NumVis" key="{3E52A6C4-9F87-4816-95D3-F8B5D789A3A0}" path="CR1485_124_Cli_Excl_DateModf_Fix_DefPer_2Graph_MWR_TWR_IndDef_2Ind_Risk_NumVis.sj" />
+				<child name="CR1485_124_Acc_Excl_DateModf_DefPer_TWR_6Ind_NumVis" key="{B9286664-5D2F-45CA-A8E4-7D40A3981E1C}" path="CR1485_124_Acc_Excl_DateModf_DefPer_TWR_6Ind_NumVis.sj" />
+				<child name="CR1485_124_Acc_RepCR1905" key="{3BC62243-D89E-4ED3-BBB8-7F4677EFF794}" path="CR1485_124_Acc_RepCR1905.sj" />
+			</folder>
+			<folder name="144_PORTF_OVERVIEW">
+				<child name="CR1485_144_Common_functions" key="{5DEBECD5-C709-481D-AC8C-DC90B576D2F3}" path="CR1485_144_Common_functions.sj" />
+				<child name="CR1485_144_Cli_DateModf_NumHid_ChkDgt" key="{BB92E5C2-0E27-4F18-9549-DEA1195A3C95}" path="CR1485_144_Cli_DateModf_NumHid_ChkDgt.sj" />
+				<child name="CR1485_144_Acc_DateModf_NumVis_ChkDgt" key="{3FC03C9D-D32B-4C69-886A-6E01F20F9632}" path="CR1485_144_Acc_DateModf_NumVis_ChkDgt.sj" />
+				<child name="CR1485_144_Rel_DateDef_NumVis" key="{B058C7CA-4288-433B-8C83-5A06B30BECDA}" path="CR1485_144_Rel_DateDef_NumVis.sj" />
+			</folder>
+			<folder name="146_Portfolio_Management_Report_base_evol_act">
+				<child name="CR1485_146_Rel_ParamDef" key="{7FD5A3A2-11F9-4097-9B6C-62D38CFF92B7}" path="CR1485_146_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="147_PMFA_COVERPAGE1">
+				<child name="CR1485_147_Common_functions" key="{81ED8F1E-D8F3-4175-9A18-B9D02925909A}" path="CR1485_147_Common_functions.sj" />
+				<child name="CR1485_147_Rel_DtMdf_GGPP" key="{A46CBD8E-ED1E-4C6C-8848-AFF76917428E}" path="CR1485_147_Rel_DtMdf_GGPP.sj" />
+				<child name="CR1485_147_Cli_DtDef_GGP_Grp" key="{C6A724BA-422C-4AE0-BF19-6A20C9D6A3D5}" path="CR1485_147_Cli_DtDef_GGP_Grp.sj" />
+				<child name="CR1485_147_Acc_DtMdf_GGP" key="{348E6333-1421-4929-8533-70D1F16046AE}" path="CR1485_147_Acc_DtMdf_GGP.sj" />
+			</folder>
+			<folder name="148_PMFA_COVERPAGE2">
+				<child name="CR1485_148_Common_functions" key="{36CDC026-F866-4230-8180-D3428B66229E}" path="CR1485_148_Common_functions.sj" />
+				<child name="CR1485_148_Acc_DtMdf_GGP_Grp" key="{185A04E1-F9EC-45FF-A451-1F3167560AAB}" path="CR1485_148_Acc_DtMdf_GGP_Grp.sj" />
+				<child name="CR1485_148_Cli_DtMdf_GGP" key="{6A3D1A36-EC5D-448A-81BA-5E4104A07A4D}" path="CR1485_148_Cli_DtMdf_GGP.sj" />
+				<child name="CR1485_148_Rel_DtDef_GGPP" key="{E7D22834-27B4-4B85-85FB-57DB1D1E9033}" path="CR1485_148_Rel_DtDef_GGPP.sj" />
+			</folder>
+			<folder name="123_Add_a_File">
+				<child name="CR1485_123_Common_functions" key="{2C857A00-B586-4920-9ED1-FB1985F52DF4}" path="CR1485_123_Common_functions.sj" />
+				<child name="CR1485_123_Cli_FichierDOC" key="{5AF3BD01-3AFD-47F6-8EAF-7FA7F201882A}" path="CR1485_123_Cli_FichierDOC.sj" />
+				<child name="CR1485_123_Acc_FichierDOCX" key="{3D41AE6F-587F-4942-92E3-7B8C893ABCF3}" path="CR1485_123_Acc_FichierDOCX.sj" />
+				<child name="CR1485_123_Portf_FichierDOC_DOCX_PDF" key="{6E07E594-81E3-4969-8A51-501B503381E9}" path="CR1485_123_Portf_FichierDOC_DOCX_PDF.sj" />
+				<child name="CR1485_123_Sec_FichierDOCX" key="{AD379084-2ED8-4F3D-8C70-EBAB6DAA0B87}" path="CR1485_123_Sec_FichierDOCX.sj" />
+				<child name="CR1485_123_Mod_FichierPDF" key="{06B7E828-1600-414C-8D80-E6854A4728A7}" path="CR1485_123_Mod_FichierPDF.sj" />
+				<child name="CR1485_123_Rel_FichierDOC_DOCX_PDF" key="{F0583D3E-E2D9-41AB-8B07-3D5D6E6E187A}" path="CR1485_123_Rel_FichierDOC_DOCX_PDF.sj" />
+			</folder>
+			<folder name="126_PERF_ACC_SUMM2">
+				<child name="CR1485_126_Common_functions" key="{657866D7-2057-40E3-9836-4CA9DE08E8B7}" path="CR1485_126_Common_functions.sj" />
+				<child name="CR1485_126_Rel_DateMod_Fix_ModPer_2Graphs__Firm_TWR_MWR_4Ind_NumVis" key="{324F0698-9DDA-40E1-9060-90D47747294F}" path="CR1485_126_Rel_DateMod_Fix_ModPer_2Graphs__Firm_TWR_MWR_4Ind_NumVis.sj" />
+				<child name="CR1485_126_Cli_Excl_DateDef_DefPer_MWR_IndDef_NumVis" key="{08BF50A0-9DA9-4817-8A0C-B8B231E61086}" path="CR1485_126_Cli_Excl_DateDef_DefPer_MWR_IndDef_NumVis.sj" />
+				<child name="CR1485_126_Acc_DateMod_DefPer_2Graphs_TWR_MWR_AllInd_NumVis" key="{7561FC6A-2F69-40AB-9628-875821401B86}" path="CR1485_126_Acc_DateMod_DefPer_2Graphs_TWR_MWR_AllInd_NumVis.sj" />
+			</folder>
+			<folder name="149_TAX_COVERPAGE">
+				<child name="CR1485_149_Common_functions" key="{8D697507-2D6D-456E-83B9-E1710ABE0C5B}" path="CR1485_149_Common_functions.sj" />
+				<child name="CR1485_149_Rel_ParamDef" key="{9865992B-D598-4A76-BF1A-D9A62AD76342}" path="CR1485_149_Rel_ParamDef.sj" />
+				<child name="CR1485_149_Cli_2007" key="{35C1EC65-A0A3-4399-ABA5-29FE9DE1ED9D}" path="CR1485_149_Cli_2007.sj" />
+				<child name="CR1485_149_Acc_2008_Group" key="{0C0679F8-9742-4BC8-AFB2-EA9D2809AE18}" path="CR1485_149_Acc_2008_Group.sj" />
+			</folder>
+			<folder name="150_EXPECT_TAX_SLIPS_NRA">
+				<child name="CR1485_150_Acc_2009_NumVis" key="{341C61B9-336A-441C-A809-DEC71DBE77AB}" path="CR1485_150_Acc_2009_NumVis.sj" />
+				<child name="CR1485_150_Cli_2009_NumVis" key="{217218FC-87BC-4CC7-A234-83B04E666949}" path="CR1485_150_Cli_2009_NumVis.sj" />
+				<child name="CR1485_150_Common_functions" key="{2208F383-D106-462E-8AB5-DCA102A32F95}" path="CR1485_150_Common_functions.sj" />
+				<child name="CR1485_150_Portf_2009" key="{161C1737-3D67-4446-8A91-8AFC4009BA7A}" path="CR1485_150_Portf_2009.sj" />
+				<child name="CR1485_150_Rel_2005_NumVis" key="{9839640A-3B33-4D49-B465-F434DE5A533C}" path="CR1485_150_Rel_2005_NumVis.sj" />
+				<child name="CR1485_150_Acc_2009_NumVis_CR2138" key="{40284528-BF60-40F9-8CA8-E9E34F8FEBE3}" path="CR1485_150_Acc_2009_NumVis_CR2138.sj" />
+			</folder>
+			<folder name="PreparationBD">
+				<child name="CR1485_PreparationBD" key="{45D14B3B-42A5-4902-9C24-B405A2903958}" path="CR1485_PreparationBD.sj" />
+				<child name="CR1485_PreparationBD_CR1905" key="{27F6E9D4-ADAB-453C-8EE6-2E889D62BC02}" path="CR1485_PreparationBD_CR1905.sj" />
+				<child name="CR1485_PreparationBD_CR2008_CR1880" key="{C27FE292-CA23-4435-87AA-9C259875AB82}" path="CR1485_PreparationBD_CR2008_CR1880.sj" />
+				<child name="CR1485_PreparationBD_Billing" key="{B5DCEC91-CA75-4C07-967D-F8A84AAD8D7D}" path="CR1485_PreparationBD_Billing.sj" />
+				<child name="CR1485_PreparationBD_Securities_PROBAL" key="{3053A347-0325-4888-A428-C77FE01BE126}" path="CR1485_PreparationBD_Securities_PROBAL.sj" />
+				<child name="CR1485_PreparationBD_Securities_Morningstar" key="{FFC75430-AABE-4B88-858C-041C62DBBC7A}" path="CR1485_PreparationBD_Securities_Morningstar.sj" />
+				<child name="CR1485_PreparationBD_Relationships_Models" key="{C5744459-820B-4AE0-9E92-5B94E4BC6A78}" path="CR1485_PreparationBD_Relationships_Models.sj" />
+				<child name="CR1485_PreparationBD_Performance" key="{13C7C639-5177-478D-8EBF-CA37FD446603}" path="CR1485_PreparationBD_Performance.sj" />
+				<child name="CR1485_PreparationBD_SQL" key="{36A77FD0-99FB-41C2-949F-7E572DDC8447}" path="CR1485_PreparationBD_SQL.sj" />
+				<child name="CR1485_PreparationBD_Clients_Accounts" key="{F4CA4763-374B-4781-96E6-CD850A817898}" path="CR1485_PreparationBD_Clients_Accounts.sj" />
+				<child name="CR1485_PreparationBD_SetDebugModeForChartServer" key="{CD64E9DC-1C47-4A2B-9848-C0000E934EA3}" path="CR1485_PreparationBD_SetDebugModeForChartServer.sj" />
+				<child name="CR1485_PreparationBD_Misc" key="{451FAF96-4EDC-4D97-8D5A-794C46435B80}" path="CR1485_PreparationBD_Misc.sj" />
+				<child name="CR1485_PreparationBD_CR1012" key="{0796AFFC-C8AD-4C59-AA5E-5D6089654F99}" path="CR1485_PreparationBD_CR1012.sj" />
+				<child name="CR1485_PreparationBD_CR1247" key="{F1AFD4C5-E404-47D9-A337-408575ACFBC0}" path="CR1485_PreparationBD_CR1247.sj" />
+				<child name="CR1485_PreparationBD_CR1469" key="{F66C3068-BE9A-473F-B53D-0397F196A990}" path="CR1485_PreparationBD_CR1469.sj" />
+			</folder>
+			<folder name="145_TAX_TRANSACTION">
+				<child name="CR1485_145_Common_functions" key="{412FB0D6-D759-453F-AB30-5CFF2DB87E40}" path="CR1485_145_Common_functions.sj" />
+				<child name="CR1485_145_Rel_AllTrans_DateDef_InclAcc" key="{D87A4EEE-54BC-4184-BB7A-C2ACFFC8B35D}" path="CR1485_145_Rel_AllTrans_DateDef_InclAcc.sj" />
+				<child name="CR1485_145_Acc_AllTrans_DateModf_GroupEnrg_GroupSec_InclAcc" key="{E1426316-7FEE-4EFC-8A3F-0A900B8FB2E2}" path="CR1485_145_Acc_AllTrans_DateModf_GroupEnrg_GroupSec_InclAcc.sj" />
+				<child name="CR1485_145_Cli_AllTrans_DateModf_GroupSec_InclAcc" key="{1529C595-71CF-424C-B6E5-16D676F70203}" path="CR1485_145_Cli_AllTrans_DateModf_GroupSec_InclAcc.sj" />
+			</folder>
+			<folder name="155. Steadyhand Statement">
+				<child name="CR1485_155_Rel_CR1998_OctDec2009_CAD" key="{12EC6CAE-4C8E-40AF-9240-136F1FCD804B}" path="CR1485_155_Rel_CR1998_OctDec2009_CAD.sj" />
+				<child name="CR1485_155_Rel_CR1998_PrimaryClient_JanMai2003_CAD" key="{156D8AC1-505E-4FF5-B143-2B250D1DBF28}" path="CR1485_155_Rel_CR1998_PrimaryClient_JanMai2003_CAD.sj" />
+				<child name="CR1485_155_Cli_CR1998_Note1_Exactly10Y_CAD" key="{35CD28DA-6567-4D7F-A194-3B77CE5627E7}" path="CR1485_155_Cli_CR1998_Note1_Exactly10Y_CAD.sj" />
+				<child name="CR1485_155_CRSTEADYHANDNOM1__STEADYHANDP3_STEADYHAND_PCLIE" key="{70453700-E6F4-4F42-8CC6-835DDAD68E55}" path="CR1485_155_CRSTEADYHANDNOM1__STEADYHANDP3_STEADYHAND_PCLIE.sj" />
+				<child name="CR1485_155_Common_function" key="{08B8FE99-2A22-4900-AE4E-4C6281BEDF71}" path="CR1485_155_Common_function.sj" />
+			</folder>
+			<child name="CR1485_Common_functions" key="{E276730B-3B39-4A07-B9C0-962128B36860}" path="CR1485_Common_functions.sj" />
+		</folder>
+		<folder name="Anomalies">
+			<child name="RPT_428_ValidateThatReportParametersWindowDoesNotFocusIn2ReportsAtTheSameTime" key="{CB2D3751-7FC6-4E08-8B0E-9D7DBA708DA5}" path="RPT_428_ValidateThatReportParametersWindowDoesNotFocusIn2ReportsAtTheSameTime.sj" />
+			<child name="RPT_2671_Crash_In_The_ReportConfigurationWindow" key="{96714D65-B7D7-4497-976B-C6928EAB054F}" path="RPT_2671_Crash_In_The_ReportConfigurationWindow.sj" />
+			<child name="RPT_2060_TCVE_2032_AutomatSavingPDFReportInTheDocumentTab" key="{02577A47-3CA7-4207-B62B-34782679F86E}" path="RPT_2060_TCVE_2032_AutomatSavingPDFReportInTheDocumentTab.sj" />
+			<child name="TCVE_2479_RPT_2415_ProjectedAnnualIncome_ReportConfig_EditBtn" key="{8F8A2597-8929-4129-8AA0-54510BE12DD7}" path="TCVE_2479_RPT_2415_ProjectedAnnualIncome_ReportConfig_EditBtn.js" />
+			<child name="TCVE_5342_RPT_5002_Default_Reports_Not_Generated" key="{EFC7F424-4A82-46FB-95EA-FE4F7B8C7A33}" path="TCVE_5342_RPT_5002_Default_Reports_Not_Generated.sj" />
+			<child name="TCVE_6189_RPT_3454_Default_Reports_Report_Archiving" key="{03E0E041-C4AC-4F8C-89D5-78A8A7554463}" path="TCVE_6189_RPT_3454_Default_Reports_Report_Archiving.sj" />
+			<child name="TCVE_6299_RPT_4778_MsgID_must_follow_access_level" key="{A7358A77-E4D4-4D92-8833-B4D09251EAF9}" path="TCVE_6299_RPT_4778_MsgID_must_follow_access_level.sj" />
+			<child name="TCVE_4080_PF_2691_ValidateQuantityInSecuritiesHeldUnderManagementReport" key="{2AB3FFB6-C86D-4F6E-BC75-0420053AD236}" path="TCVE_4080_PF_2691_ValidateQuantityInSecuritiesHeldUnderManagementReport.sj" />
+		</folder>
+		<folder name="CR2330">
+			<child name="CR2330_RPT_608_ValidateDisclaimersTabViaCopyToIf_PREF_EDIT_FIRM_FUNCTIONS_YES" key="{DBF37E2C-D47A-466A-A99A-24BBC7861B8B}" path="CR2330_RPT_608_ValidateDisclaimersTabViaCopyToIf_PREF_EDIT_FIRM_FUNCTIONS_YES.sj" />
+			<child name="CR2330_Common" key="{C34595F6-8690-4652-91CA-4D93567C721C}" path="CR2330_Common.sj" />
+			<child name="CR2330_RPT_603_ValidateDisclaimersTabIf_PREF_EDIT_FIRM_FUNCTIONS_YES" key="{D0CFA23A-B839-4331-A434-826ED46E6C63}" path="CR2330_RPT_603_ValidateDisclaimersTabIf_PREF_EDIT_FIRM_FUNCTIONS_YES.sj" />
+		</folder>
+		<folder name="CR1812">
+			<child name="CR1812_Croes_6567_Copy_Configurable_Report" key="{BEEF7ECC-974E-45F7-97C4-7E4D1558CAEB}" path="CR1812_Croes_6567_Copy_Configurable_Report.sj" />
+			<child name="CR1812_Croes_6577_newWindow_Config_repotrs" key="{E321735A-A936-43AC-8E78-2C481B6D31FB}" path="CR1812_Croes_6577_newWindow_Config_repotrs.sj" />
+			<child name="CR1812_Croes_6577_newWindow_Config_reports_part2" key="{3E0C9928-77CB-4533-8914-3745C927B9FA}" path="CR1812_Croes_6577_newWindow_Config_reports_part2.sj" />
+			<child name="CR1812_Croes_6588_PREF_ENABLE_REPORT_GROUPING" key="{60B3F570-6B0A-4F4A-A3CE-D808431D0BD1}" path="CR1812_Croes_6588_PREF_ENABLE_REPORT_GROUPING.sj" />
+			<child name="CR1812_Croes_6586_Properties_Tab" key="{2097A4D2-768A-4871-8BDA-B19AFF97EF14}" path="CR1812_Croes_6586_Properties_Tab.sj" />
+		</folder>
+		<folder name="CR2281">
+			<child name="CR2281_RPT_1500_TestCopyOfTheStandardCoverPage" key="{6D72EC26-6BF0-4CC5-83CF-6CE98A5ED0CD}" path="CR2281_RPT_1500_TestCopyOfTheStandardCoverPage.sj" />
+			<child name="CR2281_RPT_1793_TestCopyOfCopyReportsDiffOnCoverPage" key="{3C148576-95D6-4D94-B54E-030F5B0CEE3A}" path="CR2281_RPT_1793_TestCopyOfCopyReportsDiffOnCoverPage.sj" />
+		</folder>
+		<folder name="CR2314">
+			<child name="CR2314_TCVE699_Currency_DetailedPortfolioSummaryReport_PrefYesNo" key="{6860AA11-02BD-4C20-8092-60EC93E71FBF}" path="CR2314_TCVE699_Currency_DetailedPortfolioSummaryReport_PrefYesNo.sj" />
+			<child name="CR2314_TCVE701_PREF_REPORT_HIDE_CURRENCY_AND_PREF_PORT_SUMMARY_CURRENCY_BOTTOM" key="{A1442BBC-307F-4179-8311-68326A126ACD}" path="CR2314_TCVE701_PREF_REPORT_HIDE_CURRENCY_AND_PREF_PORT_SUMMARY_CURRENCY_BOTTOM.sj" />
+		</folder>
+		<folder name="ReportCommander">
+			<child name="RPT_3009_AutomateGP1859ReportsGenerationWithReportCommander" key="{8226D078-9F29-4A89-8C5D-49FFEBC55C46}" path="RPT_3009_AutomateGP1859ReportsGenerationWithReportCommander.sj" />
+			<child name="ReportCommander_Commonfunctions" key="{4373A9E6-2636-43B7-90F0-6AB3B440BFAA}" path="ReportCommander_Commonfunctions.sj" />
+			<child name="RPT_3420_CR2426_AutomateReportsGenerationWithReportCommander" key="{27E8D75F-5799-43F9-BA52-40E06D09536C}" path="RPT_3420_CR2426_AutomateReportsGenerationWithReportCommander.sj" />
+		</folder>
+		<folder name="CR2280">
+			<child name="CR2280_TCVE2623_ExpectedTaxSlipsReport_ConfigurableNote" key="{43C0098C-D6AA-45D9-AF71-BC4F57385313}" path="CR2280_TCVE2623_ExpectedTaxSlipsReport_ConfigurableNote.sj" />
+		</folder>
+		<folder name="CR2425">
+			<child name="CR2425_PortfolioSummaryAndCopyEndDateWithWeekEnd" key="{324AC84A-CE56-4757-8976-5585447BD9A4}" path="CR2425_PortfolioSummaryAndCopyEndDateWithWeekEnd.sj" />
+		</folder>
+		<folder name="CR1827.2">
+			<child name="CR1827_RPT_3438" key="{D8E3C074-3E78-45FF-B5A2-30ADE2871192}" path="CR1827_RPT_3438.sj" />
+			<child name="CR1827_RPT_3447" key="{40DA7F92-F928-4164-9B9E-4F0714155F6A}" path="CR1827_RPT_3447.sj" />
+			<child name="CR1827_RPT_3448" key="{58FC4CBA-CABF-4F3A-8BA4-9B8E1AF674F7}" path="CR1827_RPT_3448.sj" />
+			<child name="CR1827_PreparationBD_GPD" key="{84AC6A1F-B42A-4170-A339-13F63DC361D5}" path="CR1827_PreparationBD_GPD.sj" />
+		</folder>
+		<child name="ExecutionLog" key="{8C747E1A-D842-4795-9F99-188A0CFAFBAC}" path="ExecutionLog.sj" />
+		<child name="PreExecution" key="{D0C9DD47-C09F-4E5F-A264-53F91E98A57D}" path="PreExecution.sj" />
+		<child name="Global_variables" key="{3B371D4D-9C78-4443-A373-F787A2B31BB2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{56057827-E8EB-4030-BB64-B06A80480992}" path="..\..\..\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

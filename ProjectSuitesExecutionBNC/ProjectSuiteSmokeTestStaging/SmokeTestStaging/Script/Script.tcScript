@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{2638D050-DAC7-493C-BCDB-82FE46DBA53B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{3DD5D1A6-805D-44D8-B45D-D97B92FA9E77}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{E639908C-A7B2-4CEA-BF92-8ED98308854C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{D9849364-66F4-4C2E-8D18-8EA14225106B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{D42943AD-7937-4E2A-9218-3D7455B696CA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{9BADA761-EA48-4117-995A-4D9881D79B8E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{D7F4151D-ADCB-485F-9F0C-594DA7BA03E6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="ExcelUtils" key="{7A9E9340-2043-4983-895E-0CA7A1855386}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="CommonCheckpoints" key="{228508CE-CB15-4AFB-ABC0-44ED115B2E23}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Agenda_Get_functions" key="{26EF76CA-6674-4389-A4FE-8FFB1892B67F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{3E3216D3-E0CD-4D72-8D81-37B889D9DF2D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{1B8E521E-5AAF-42B9-BB13-4AEC960D3D9D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{5096BD56-4A5C-4B2D-AC42-97A2D78E95E0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{993178CE-8D26-475B-898A-021EA4C9D686}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{7609F4D2-EE9A-4158-93F1-9B4087A5D599}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{FFB226C9-4E35-40F9-A0DE-A4FACF8918D4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{8F18A103-DA38-48BC-8393-9FF51C2A4D63}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{BA33F791-6DAE-4E32-AF53-58AB95C967E9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{4CEF2D66-4C7A-4695-9864-9289E94D958A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="DBA" key="{4D662270-5809-47C6-A91D-B616C10B901B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="PDFUtils" key="{C7EAAAA3-04FD-4016-8EFB-C2A2BBC9A960}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+			<child name="RQS_Get_functions" key="{43B8C5DA-0362-40C9-9112-C494DD58796A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\RQS_Get_functions.sj" />
+			<child name="WebConfigurator_Get_functions" key="{9E642EFC-D311-4C95-BFA5-3EA0D7F90C7E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\WebConfigurator_Get_functions.sj" />
+		</folder>
+		<folder name="CompareXML">
+			<child name="CompareXMLtestsResults" key="{43CF9AAF-309D-445B-BA6F-0F23EAA112C0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\CompareXMLtestsResults.sj" />
+		</folder>
+		<folder name="SmokeTest">
+			<child name="Scenario_1" key="{D3658764-FBA1-4795-AD28-585F84B28CE5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSmokeTestStaging\SmokeTestStaging\Script\Scenario_1.sj" />
+		</folder>
+		<folder name="PreExecution">
+			<child name="PreExecution" key="{7DDC3C0C-384D-46D8-B5C2-C53C6E877EFD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSmokeTestStaging\SmokeTestStaging\Script\PreExecution.sj" />
+		</folder>
+		<child name="Global_variables" key="{94EBCCEA-A4FB-4BDC-A123-FDB624B34073}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{F8510501-C4FA-40E4-8B17-54575579B877}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSmokeTestStaging\SmokeTestStaging\Script\ExecutionLog.sj" />
+		<child name="GetListOfTestsToBeRun" key="{AC0A4900-010B-416A-9337-C8CB11A5C4D2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

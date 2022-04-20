@@ -1,0 +1,38 @@
+﻿//USEUNIT Common_functions
+//USEUNIT Common_Get_functions
+//USEUNIT Global_variables
+//USEUNIT Ordres_Get_functions
+//USEUNIT CommonCheckpoints
+
+
+/**
+    Description : Aller au module "Orders" en cliquant sur BarModules-btnOrders.
+    Rechercher un ordre d'achat d'actions et l'afficher avec le bouton "Consulter" de la barre des Ordres.
+    Vérifier le texte et la présence des contrôles.
+    @author : christophe.paring@croesus.com
+*/
+
+function Survol_Ord_OrdersBar_BtnView_BuyStocks()
+{
+    var type = "stocks";
+    var module = "orders";
+    var order = "buy";
+    var calledFrom = "View";
+    var orderStatus = "Modified";
+    
+    if(client == "RJ" || client == "BNC" || client == "CIBC" || client == "TD" )
+    {
+        Login(vServerOrders, userNameOrders, pswOrders, language);
+        Get_ModulesBar_BtnOrders().Click();
+      
+        Search_Order_Symbol("LLL");
+    
+        Get_OrdersBar_BtnView().Click();
+  
+        Check_Properties_CreateOrder_DifType(language, type, module, order, calledFrom, orderStatus);// la fonction est dans CommonCheckpoints
+    
+        Get_WinOrderDetail_BtnCancel().Click();
+   
+        Close_Croesus_AltF4();
+    }
+}

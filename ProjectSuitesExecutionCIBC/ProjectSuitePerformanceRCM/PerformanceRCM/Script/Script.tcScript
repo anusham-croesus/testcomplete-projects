@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Performance">
+			<folder name="Performance_RCM">
+				<child name="Performance_RCM_ActivateFiltersInAlertsTab" key="{8CD83636-28B7-458F-BA58-0A3668717D57}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_ActivateFiltersInAlertsTab.sj" />
+				<child name="Performance_RCM_AddSpotCheck40Transactions" key="{3C1970CA-679E-4C10-9B9D-71113C8A6E58}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_AddSpotCheck40Transactions.sj" />
+				<child name="Performance_RCM_AddSpotCheckOneTransaction" key="{3D43317A-9AE0-494F-9C10-0B6A9E3554CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_AddSpotCheckOneTransaction.sj" />
+				<child name="Performance_RCM_AlertsTabExportToExcel" key="{0E96F524-A5B5-4A55-8C31-1F6A3DA9536A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_AlertsTabExportToExcel.sj" />
+				<child name="Performance_RCM_BlotterDateChange" key="{B808DD28-56DF-46D9-B493-38D48C74FB9E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_BlotterDateChange.sj" />
+				<child name="Performance_RCM_BrancheAndAllSelection" key="{1327E678-110F-494A-9F36-FC01B92BA35B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_BrancheAndAllSelection.sj" />
+				<child name="Performance_RCM_CurrentFilterEdition" key="{925D7BD6-C9BE-409E-8D96-F11348ACD1B1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_CurrentFilterEdition.sj" />
+				<child name="Performance_RCM_DragTransactionsToCroesusPortfolio" key="{77150CBA-FDB5-4AC9-A03A-33DBA7E2BB11}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_DragTransactionsToCroesusPortfolio.sj" />
+				<child name="Performance_RCM_DragTransactionsToCroesusSecurities" key="{329283F6-C40F-4DC9-91B1-FA3546C38353}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_DragTransactionsToCroesusSecurities.sj" />
+				<child name="Performance_RCM_DragTransactionsToCroesusTransactions" key="{91F3CF89-8067-4E4B-B265-B6EC47132346}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_DragTransactionsToCroesusTransactions.sj" />
+				<child name="Performance_RCM_QueryLogStatusAll" key="{315ABE63-5A96-4631-BDA0-F9768F4830DB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_QueryLogStatusAll.sj" />
+				<child name="Performance_RCM_QueryLogStatusAnythingButClosed" key="{7CA24576-7D0D-42AC-9CCA-971E41CA1BD0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_QueryLogStatusAnythingButClosed.sj" />
+				<child name="Performance_RCM_QueryLogStatusClosed" key="{DEFDE703-E66A-452E-8027-428466C4C5D6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_QueryLogStatusClosed.sj" />
+				<child name="Performance_RCM_ReportsTabExportToExcel" key="{9883A69D-3FCA-4C35-9336-FDC1B748B8F6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_ReportsTabExportToExcel.sj" />
+				<child name="Performance_RCM_SwitchSecurityAlertsToReportsTab" key="{5EE1BB4D-5AAD-40AF-855F-77D1E867BE3D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_SwitchSecurityAlertsToReportsTab.sj" />
+				<child name="Performance_RCM_SwitchTransactionBlotterToAlertsTab" key="{5CA4A567-B616-4D21-AF57-1372379500FC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_SwitchTransactionBlotterToAlertsTab.sj" />
+				<child name="Performance_RCM_SwitchTransactionBlotterToSecurityAlertsTab" key="{8915D0CF-0DF8-4143-93E7-96EBC0A00B99}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_SwitchTransactionBlotterToSecurityAlertsTab.sj" />
+				<child name="Performance_RCM_TransactionTabBtnBulkValidate" key="{E43BAB95-6624-491D-8DAE-E83B24171BEF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_TransactionTabBtnBulkValidate.sj" />
+				<child name="Performance_RCM_TransactionTabBtnSummary" key="{531B4157-8AB3-4458-BD8C-608388DE1813}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_TransactionTabBtnSummary.sj" />
+				<child name="Performance_RCM_TransactionTabExportToExcel" key="{FA61DCA0-05A0-4B6F-ACF8-3660BA9C3204}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_TransactionTabExportToExcel.sj" />
+				<child name="Performance_RCMBtn" key="{7437DF7B-D522-42A7-9E99-47292E43CA51}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCMBtn.sj" />
+				<child name="Performance_RCM_Cfloader" key="{7E38CFDB-8628-4683-8DE9-683E1DC86AEB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_Cfloader.sj" />
+				<child name="Performance_RCM_TransactionFilterAndColunmSort" key="{DC0F2061-75AB-41ED-9C1F-84C64B818D1F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_TransactionFilterAndColunmSort.sj" />
+				<child name="Performance_RCM_ChangeAlertsStatus" key="{9751EFD2-36BA-4B51-AD03-404D87ADCBB0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_ChangeAlertsStatus.sj" />
+			</folder>
+		</folder>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{2638D050-DAC7-493C-BCDB-82FE46DBA53B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{06CBA91C-5FBF-4309-AD50-2E3DD5F70E28}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{D442C300-69BB-4781-8EFD-980D3129BDD1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{21441DE1-E5D5-4578-8917-F4FB1A33D44C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{2BD4427B-5E21-44DD-844C-E89843296B23}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{48875FFD-D792-4B8C-B31D-4A8274D84A06}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{D7F4151D-ADCB-485F-9F0C-594DA7BA03E6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="CommonCheckpoints" key="{228508CE-CB15-4AFB-ABC0-44ED115B2E23}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Agenda_Get_functions" key="{26EF76CA-6674-4389-A4FE-8FFB1892B67F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{3E3216D3-E0CD-4D72-8D81-37B889D9DF2D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{1B8E521E-5AAF-42B9-BB13-4AEC960D3D9D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{5096BD56-4A5C-4B2D-AC42-97A2D78E95E0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{993178CE-8D26-475B-898A-021EA4C9D686}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{7609F4D2-EE9A-4158-93F1-9B4087A5D599}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{FFB226C9-4E35-40F9-A0DE-A4FACF8918D4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{8F18A103-DA38-48BC-8393-9FF51C2A4D63}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{BA33F791-6DAE-4E32-AF53-58AB95C967E9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{4CEF2D66-4C7A-4695-9864-9289E94D958A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="DBA" key="{B5FA9746-88F3-43E4-BF39-F6C275301F3F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="PDFUtils" key="{3863C7A3-0E27-48D9-ABE0-4932F572C15D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+			<child name="WebConfigurator_Get_functions" key="{4F9D5ACD-8D8A-4CA4-9926-DCEAC66E8941}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\WebConfigurator_Get_functions.sj" />
+			<child name="RQS_Get_functions" key="{14DFA3B2-625D-4D1B-9F4D-83330D6BDECF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\RQS_Get_functions.sj" />
+			<child name="ExcelUtils" key="{9885CC9E-55DB-4E21-AD61-C0EDA3814C99}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+		</folder>
+		<folder name="simulator">
+			<child name="RunSimulator_TCVE_969" key="{BED507F8-179B-4FC0-82F2-0344BBAA985B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\RunSimulator_TCVE_969.sj" />
+			<child name="StopSimulator_TCVE_969" key="{53A1818E-92C1-4B33-B58B-DE7FE23E67EA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\StopSimulator_TCVE_969.sj" />
+		</folder>
+		<folder name="PreExecution">
+			<child name="PreExecution" key="{AA4C50AF-974C-4EE7-B5EA-F5AAC3643A2E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\PreExecution.sj" />
+		</folder>
+		<child name="Global_variables" key="{94EBCCEA-A4FB-4BDC-A123-FDB624B34073}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{CA30B76B-98A0-417B-94FB-7EFFC04E6A91}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="ExecutionLog" key="{917E0432-A2F7-4BC4-8C3E-89B92EB95D07}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\ExecutionLog.sj" />
+	</children>
+</Root>

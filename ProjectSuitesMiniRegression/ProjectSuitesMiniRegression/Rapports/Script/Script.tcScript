@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{11A84D97-547F-49C3-A3F0-53EB8C4A7409}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{1C6FCC55-F250-454B-82CA-49AAC310577C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{24AEBB91-400D-451C-AA65-F77AD1481635}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{E278D617-542E-4224-BABA-353619ECF73E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{4D35B242-E3BC-4DFA-9025-53C3A0B97193}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{42EB38D2-8305-4038-A905-F4449ABDC0B5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{CC0083DE-23F9-4EBE-A182-3B647984317C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{51A6196A-1B1C-4267-BF5F-C211E89A1E03}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{3524FBBF-CDFA-4AFE-95DA-5184155BCC3F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{82282F4B-FD63-405F-8806-9C00A0490042}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{3ADE3A2A-229B-452A-9493-E27DBE9A97F5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{38AF29F7-C557-4DB3-A051-46E4E2C50255}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{F0A94E80-2CAB-4F70-B23C-01440125F216}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{2D678849-C640-4FAF-BDCB-4477DD7D3A31}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{1B6CD9E5-B7D1-4386-AB0E-310F151E1CCF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{0FE4BCFE-C155-4FC9-81B7-BB96740EAB0B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{B184F8C3-E539-494B-B6FD-ED95419E42B4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{ABFEA3AF-9733-485F-8637-A7C229E28F54}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{95219E8A-BE91-4DC2-BB4C-B639DB578D22}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="WebConfigurator_Get_functions" key="{BEA5B68C-CACC-4999-9E10-07A8DD47ABBA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\WebConfigurator_Get_functions.sj" />
+			<child name="SmokeTest_ConfigurateurWeb" key="{0E1B433B-B193-429F-AA29-2E0238656AE2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ConfigurateurWeb.sj" />
+			<child name="PDFUtils" key="{469D6EB8-4484-4DB9-AF3C-8D29208D6D28}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR1485">
+			<folder name="001_INFO_CLIENT">
+				<child name="CR1485_001_Common_functions" key="{4CDAA02F-7305-4F2F-9FF3-BD0426CB2AC1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_001_Common_functions.sj" />
+				<child name="CR1485_001_Cli_Profil_NumVis_AddBranch" key="{9F91601E-58B7-4E96-AF7B-A28A4943597D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_001_Cli_Profil_NumVis_AddBranch.sj" />
+				<child name="CR1485_001_Cli_Profile_Notes_Event_NumVis" key="{AE2B75DD-7C68-4828-AC8F-5F5C33DE42A8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_001_Cli_Profile_Notes_Event_NumVis.sj" />
+				<child name="CR1485_001_Cli_Notes_Histo_NumVis" key="{626D1907-C4AE-4F14-963E-BCBDD70A4FCF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_001_Cli_Notes_Histo_NumVis.sj" />
+			</folder>
+			<folder name="002_GAIN_PERTE">
+				<child name="CR1485_002_Common_functions" key="{78A12400-684F-4C0F-B08E-F591FDF96BAE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_002_Common_functions.sj" />
+				<child name="CR1485_002_Rel_PrevYear_DateDef_IntDiv_GroupSec_BookVl_SettDate" key="{8B511597-94C0-4C72-9A58-FBC314BF90BD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_002_Rel_PrevYear_DateDef_IntDiv_GroupSec_BookVl_SettDate.sj" />
+				<child name="CR1485_002_Acc_PrevYear_DateModf_GroupSec_BookVl_SettDate_NumHid_AddBranch_Group_Msg" key="{87359512-AE24-457B-944F-BE29F9294A90}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_002_Acc_PrevYear_DateModf_GroupSec_BookVl_SettDate_NumHid_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_002_Cli_DateModf_GLBrk_GroupSec_ByAcc_InvstCap_TradeDate_NumVis_Msg" key="{BFC76D27-1F86-421A-AD3F-F268E7BEE26E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_002_Cli_DateModf_GLBrk_GroupSec_ByAcc_InvstCap_TradeDate_NumVis_Msg.sj" />
+				<child name="CR1485_002_Cli_PrevYear_DateModf_GLBrk_GroupSec_BookVl_TradeDate_NumVis_AddBranch_Msg" key="{76FFE7C8-674B-4DD4-AFD1-0F4E5C08AD79}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_002_Cli_PrevYear_DateModf_GLBrk_GroupSec_BookVl_TradeDate_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_002_Acc_PrevYear_DateDef_CptNonEnreg_BookVl_SettDate_NumVis_TheoVL" key="{8BEE4E64-0C4B-4CCD-B418-25A01621D76F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_002_Acc_PrevYear_DateDef_CptNonEnreg_BookVl_SettDate_NumVis_TheoVL.sj" />
+				<child name="CR1485_002_Cli_2008_CptNonEnreg_InvstCap_TransDate_NumVis" key="{3B41C511-8310-4222-80CC-F78AD91D7147}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_002_Cli_2008_CptNonEnreg_InvstCap_TransDate_NumVis.sj" />
+			</folder>
+			<folder name="003_EVAL_SIMPLE">
+				<child name="CR1485_003_Common_functions" key="{CD16E246-B8E6-4FAB-A6B1-4C82119B7FE5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_003_Common_functions.sj" />
+				<child name="CR1485_003_Cli_DateModf_Graph_Pie_Region_AssAllFirm_BookVl_TheoVal_NumVis_SortMat_AddBranch_Msg" key="{1704AD7C-2F0C-4676-9004-9401444EAB27}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_003_Cli_DateModf_Graph_Pie_Region_AssAllFirm_BookVl_TheoVal_NumVis_SortMat_AddBranch_Msg.sj" />
+				<child name="CR1485_003_Acc_DateDef_AssAllBasic_BookVl_ClassBrk_NumHid_SortDesc_Group" key="{26EF38DF-44DA-4336-86A6-E2C7BC97A886}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_003_Acc_DateDef_AssAllBasic_BookVl_ClassBrk_NumHid_SortDesc_Group.sj" />
+				<child name="CR1485_003_Acc_DateModf_Graph_Pie_Compare_Region_InvstCap_AssAllFirm_NumHid_SortDesc_App_Add_Msg" key="{2D63BEBD-A3A1-486F-9985-9A7F8416952A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_003_Acc_DateModf_Graph_Pie_Compare_Region_InvstCap_AssAllFirm_NumHid_SortDesc_App_Add_Msg.sj" />
+				<child name="CR1485_003_Cli_DateModf_Graph_Histg_Compare_GroupIndCode_BookVl_AssAllBasic_NUmVis_SortMat" key="{88970E3A-3983-4245-A5B1-FF2E8BB514CB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_003_Cli_DateModf_Graph_Histg_Compare_GroupIndCode_BookVl_AssAllBasic_NUmVis_SortMat.sj" />
+				<child name="CR1485_003_Portf_DateDef_BookVl_AssAllFirm_Appndx_SortMat" key="{B2C09E95-87F5-4A79-B29D-3420E4FB4F17}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_003_Portf_DateDef_BookVl_AssAllFirm_Appndx_SortMat.sj" />
+				<child name="CR1485_003_Rel_DateDef_AssAllFirm_BookVl_NumVis_SortMat_AddBranch_Group_ConsolidPos_Msg" key="{0577E79A-C8CA-4EF4-ACEE-68BA8657769A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_003_Rel_DateDef_AssAllFirm_BookVl_NumVis_SortMat_AddBranch_Group_ConsolidPos_Msg.sj" />
+				<child name="CR1485_003_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat" key="{F223E106-A4A5-47E6-9BB4-4035AC1BD97F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_003_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_003_Acc_DateDef_RepCR1905" key="{4258E4D7-69A3-4EE5-BDA1-153F46A2E01D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_003_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_003_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat" key="{01F8127C-6D9C-4C9B-ADCD-1A8C5E47F40E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_003_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat.sj" />
+			</folder>
+			<folder name="004_ANNIC">
+				<child name="CR1485_004_Common_functions" key="{3457361B-45E5-441A-A74D-B876A0C77CC5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_004_Common_functions.sj" />
+				<child name="CR1485_004_Rel_DateDef_SortDesc_NumVis_AddBranch_Msg" key="{4DA939FF-AFCE-40E1-A8C2-B058BCC43A4C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_004_Rel_DateDef_SortDesc_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_004_Acc_DateModf_AmortIncome_SortPeriod_NumVis_AddBranch_Group_Msg" key="{C35B4446-E866-402C-BFCA-69F80E4C10E0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_004_Acc_DateModf_AmortIncome_SortPeriod_NumVis_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_004_Cli_DateModf_AmortIncome_SortDesc_NumVis_AddBranch_Msg" key="{72EB53ED-5DEE-4062-9BC9-777E0DB8E333}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_004_Cli_DateModf_AmortIncome_SortDesc_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_004_Portef_DateModf_AmortIncome_SortDesc" key="{8CF75C1E-FC2D-47E3-88D6-FF59B3529598}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_004_Portef_DateModf_AmortIncome_SortDesc.sj" />
+			</folder>
+			<folder name="005_PERFORMANCE">
+				<child name="CR1485_005_Common_functions" key="{C2FB4DA1-3B15-4AD6-880E-4A79970E5291}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_005_Common_functions.sj" />
+				<child name="CR1485_005_Rel_ExcludeDate_DateModf_PeriodDef_AssAllGraph_Histo_AssAllFirm_TWRNetBrut_MWRNet_AddBranch" key="{0E61E8C8-5DEF-41FF-A532-A09144DD9095}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_005_Rel_ExcludeDate_DateModf_PeriodDef_AssAllGraph_Histo_AssAllFirm_TWRNetBrut_MWRNet_AddBranch.sj" />
+				<child name="CR1485_005_Acc_ExcluData_Period_1Y2Y4Y5Y_PTWNet_PMWNet_IndDJII_StdDev_Group" key="{8180773A-479B-4659-91E9-7A85978B73DB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_005_Acc_ExcluData_Period_1Y2Y4Y5Y_PTWNet_PMWNet_IndDJII_StdDev_Group.sj" />
+				<child name="CR1485_005_Cli_DateModf_PeriodDef_AssAll_PortPerf_Graph_Pie_AssAllFirm_PMWNet_AddBranch_Msg" key="{09260B80-31EE-45F4-850D-5FC9D83E5221}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_005_Cli_DateModf_PeriodDef_AssAll_PortPerf_Graph_Pie_AssAllFirm_PMWNet_AddBranch_Msg.sj" />
+				<child name="CR1485_005_Rel_DateModf_PerDef_GraphAssAllInvestObj_Pie_AssAllBasic_TWRNetBrut_MWR_NumVis" key="{C79383BE-3E8D-4250-8C75-061C9A06C482}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_005_Rel_DateModf_PerDef_GraphAssAllInvestObj_Pie_AssAllBasic_TWRNetBrut_MWR_NumVis.sj" />
+				<child name="CR1485_005_Acc_ExclDt_DtMd_Per_3m6m1Y3Y_AssAllPerfPrtf_Pie_Firm_TWR_MWR_PerfTot_NumVis" key="{A1ED3AD0-5A7D-4D45-9CC7-5E6D7E02D99F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_005_Acc_ExclDt_DtMd_Per_3m6m1Y3Y_AssAllPerfPrtf_Pie_Firm_TWR_MWR_PerfTot_NumVis.sj" />
+				<child name="CR1485_005_Acc_DateDef_RepCR1905" key="{DC9A8FE1-03A8-46C5-9154-FB9504A685FB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_005_Acc_DateDef_RepCR1905.sj" />
+			</folder>
+			<folder name="006_CROFT_COVERPAGE">
+				<child name="CR1485_006_Common_functions" key="{84887A12-5DE2-4F4E-8A22-60C748FBA912}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_006_Common_functions.sj" />
+				<child name="CR1485_006_Rel_DateModf" key="{9F45AB2C-F807-41C4-A78A-4411D8C6AA25}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_006_Rel_DateModf.sj" />
+				<child name="CR1485_006_Acc_DateDef" key="{965BC271-B8EF-4144-889D-AFEFF3B12D8B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_006_Acc_DateDef.sj" />
+				<child name="CR1485_006_Cli_DateDef" key="{46CA564A-C6CA-43AC-84BB-370D6858D937}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_006_Cli_DateDef.sj" />
+			</folder>
+			<folder name="007_DOCUMENT_SUMMARY">
+				<child name="CR1485_007_Common_functions" key="{2CC40816-E952-4541-B8D4-25EFC67C04A0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_007_Common_functions.sj" />
+				<child name="CR1485_007_Rel_DateDef_NumVis" key="{ED554C47-3B7F-4E5F-8826-4F5571240439}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_007_Rel_DateDef_NumVis.sj" />
+				<child name="CR1485_007_Acc_DateModf_NumVis_AddBranch" key="{026F8098-5C1C-4CA0-919D-38F322891B81}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_007_Acc_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_007_Cli_DateModf_NumHid" key="{38AE8C4F-CEDE-4ACE-B986-328B9207E599}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_007_Cli_DateModf_NumHid.sj" />
+			</folder>
+			<folder name="008_GRAPH_ASSET_INDC">
+				<child name="CR1485_008_Common_functions" key="{E2D89E17-CF74-4037-82BD-650083CF67C6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_008_Common_functions.sj" />
+				<child name="CR1485_008_Rel_DateDef_PieGraph_IndCodeFirm_NumVis_AddBranch" key="{42D02560-759F-4DB3-ABD5-DFD5832033CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_008_Rel_DateDef_PieGraph_IndCodeFirm_NumVis_AddBranch.sj" />
+				<child name="CR1485_008_Acc_DateDef_PieGraph_IndCodeFirm_NumVis" key="{278A9507-F7C8-48A5-A79A-62046B6BF738}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_008_Acc_DateDef_PieGraph_IndCodeFirm_NumVis.sj" />
+				<child name="CR1485_008_Cli_DateModf_HistgGraph_IndCodeBasic_NumHid_Group" key="{649D19FF-F7E1-4F38-93E7-743360DFCA98}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_008_Cli_DateModf_HistgGraph_IndCodeBasic_NumHid_Group.sj" />
+				<child name="CR1485_008_Portf_DateModf_HistgGraph_IndCodeFirm" key="{A3AEC2EA-831A-470F-A64A-97A746ED5F72}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_008_Portf_DateModf_HistgGraph_IndCodeFirm.sj" />
+			</folder>
+			<folder name="009_SUMMARY_PORTFOLIO">
+				<child name="CR1485_009_Common_functions" key="{420880F2-4B11-4BF1-9377-408ADEAEDC53}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_009_Common_functions.sj" />
+				<child name="CR1485_009_Rel_ExclData_DateDef_TWRNetGross_MWR_IndiceTSE35_TSE60_NumVis_AddBranch" key="{2B826A3E-A4F1-4623-8574-119E0A0CC8AD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_009_Rel_ExclData_DateDef_TWRNetGross_MWR_IndiceTSE35_TSE60_NumVis_AddBranch.sj" />
+				<child name="CR1485_009_Acc_ExcluDate_DateModf_TWRGrossMWR_IndiceDJII_DJIN_IndexBaseCurr_NumHid_AddBranch_Group" key="{DE459060-8CD4-479C-AD3D-DFC7E7D2D731}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_009_Acc_ExcluDate_DateModf_TWRGrossMWR_IndiceDJII_DJIN_IndexBaseCurr_NumHid_AddBranch_Group.sj" />
+				<child name="CR1485_009_Cli_DateDef_TWRNet_IndiceTSE35_TSE60_NumVis_Group" key="{0A84E21F-4FB8-4A75-8770-D35669EA3148}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_009_Cli_DateDef_TWRNet_IndiceTSE35_TSE60_NumVis_Group.sj" />
+				<child name="CR1485_009_Cli_DateDef_RepCR1905" key="{C2099797-6AA6-4181-B845-F8474E3715D4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_009_Cli_DateDef_RepCR1905.sj" />
+				<child name="CR1485_009_Cli_DateMod_Fix_ModPer_TWR_MWR_5Ind_NumVis" key="{AE943238-E6C9-451F-B974-C1B5B8BF51C0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_009_Cli_DateMod_Fix_ModPer_TWR_MWR_5Ind_NumVis.sj" />
+			</folder>
+			<folder name="010_SUMMARY_PORT">
+				<child name="CR1485_010_Common_functions" key="{9236F7C6-0F83-4319-9C2A-A82F2EE585FF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_010_Common_functions.sj" />
+				<child name="CR1485_010_Rel_DateDef_AssAllFirm_IndexTSE300_35_60_TWRNetBrut_MWRNet_NumVis_AddBranch" key="{B3516D4F-C18E-402B-B926-64A026A4B12C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_010_Rel_DateDef_AssAllFirm_IndexTSE300_35_60_TWRNetBrut_MWRNet_NumVis_AddBranch.sj" />
+				<child name="CR1485_010_Acc_ExclData_DateDef_AssAllBasic_IndexNASDAQCOMP_DJII_DJIN_MCLEOD_NumHid_TWRNet_MWRNet_ROI" key="{55D7FA60-4029-4623-B2EA-A40305546D2D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_010_Acc_ExclData_DateDef_AssAllBasic_IndexNASDAQCOMP_DJII_DJIN_MCLEOD_NumHid_TWRNet_MWRNet_ROI.sj" />
+			</folder>
+			<folder name="011_SUMMARY_PORT_WO_REF">
+				<child name="CR1485_011_Common_functions" key="{1841B428-2111-4240-B9C4-527D471F4D93}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_011_Common_functions.sj" />
+				<child name="CR1485_011_Rel_ExclData_DateDef_AssAllFirm_IndexSP60_TSE100_300_35_60_TWRNetBrut_MWRNet_NunVis_AddBranch" key="{5FF45002-E302-442C-A7BC-E40C2B2045D9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_011_Rel_ExclData_DateDef_AssAllFirm_IndexSP60_TSE100_300_35_60_TWRNetBrut_MWRNet_NunVis_AddBranch.sj" />
+				<child name="CR1485_011_Acc_ExclDate_DateDef_IndexDJII_TWRNet_MWRNet_NumVis" key="{49DDC9BB-804C-4AF4-938F-AD5A59E85407}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_011_Acc_ExclDate_DateDef_IndexDJII_TWRNet_MWRNet_NumVis.sj" />
+				<child name="CR1485_011_Cli_DateDef_AssAllBasic_TWRNetBrut_MWRNet_NumVis_AddBranch" key="{3BA3F0D5-CD69-4A1F-A858-0A86905E92DD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_011_Cli_DateDef_AssAllBasic_TWRNetBrut_MWRNet_NumVis_AddBranch.sj" />
+			</folder>
+			<folder name="012_GRAPH_ASSET_MAINC">
+				<child name="CR1485_012_Common_functions" key="{B3ED2A9A-59B7-4E2C-A5FB-C5FBE6A0DA6F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_012_Common_functions.sj" />
+				<child name="CR1485_012_Rel_DateMdf_PieGraph_AssAllFirm_NumVis_AddBranch" key="{7C6AEC90-C53D-475F-ABD4-EE337362CCF2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_012_Rel_DateMdf_PieGraph_AssAllFirm_NumVis_AddBranch.sj" />
+				<child name="CR1485_012_Acc_DateMdf_PieGraph_AssAllFirm_ClassBrk_NumVis_AddBranch_Group" key="{8F5DD180-AE8C-4E81-9D08-1E0C10215CB2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_012_Acc_DateMdf_PieGraph_AssAllFirm_ClassBrk_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_012_Cli_DateDef_HistgGraph_AssAllBasic_NumHid" key="{DD77B6EB-08E6-42A6-95DE-78E447CBD1C6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_012_Cli_DateDef_HistgGraph_AssAllBasic_NumHid.sj" />
+				<child name="CR1485_012_Cli_DateModf_Graph_Pie_Compare_AssAllBasic_NumVis_Add" key="{0A5D712D-7DB6-4675-8D63-1C9BE90ED032}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_012_Cli_DateModf_Graph_Pie_Compare_AssAllBasic_NumVis_Add.sj" />
+				<child name="CR1485_012_Portf_HistgGraph_AssAllBasic" key="{C63ED42D-C66F-4F63-95F8-A75C3FA09BF6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_012_Portf_HistgGraph_AssAllBasic.sj" />
+				<child name="CR1485_012_Cli_DateDef_RepCR1905" key="{FEA63FEE-FC01-4FAC-A0FD-4732937BD1A6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_012_Cli_DateDef_RepCR1905.sj" />
+			</folder>
+			<folder name="013_TRANSACTION">
+				<child name="CR1485_013_Common_functions" key="{056A3A8D-2A44-4EF5-A0F7-7FC19C9919CB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_013_Common_functions.sj" />
+				<child name="CR1485_013_Rel_AllTrans_DateModf_GroupTrans_NumVis_AddBranch" key="{3C3B84C7-909A-4E3B-A84B-4355D0F99865}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_013_Rel_AllTrans_DateModf_GroupTrans_NumVis_AddBranch.sj" />
+				<child name="CR1485_013_Acc_AllTrans_DateModf_GroupTrans_NumVis_Group" key="{49CE88BC-16E6-487A-8EBF-5E9F3B00C869}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_013_Acc_AllTrans_DateModf_GroupTrans_NumVis_Group.sj" />
+				<child name="CR1485_013_Cli_Buy_Sell_DateDef_GroupByRec_AddBranch_Group_Msg" key="{BC3F0263-5F02-492A-9B6F-15DD6B2C82CA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_013_Cli_Buy_Sell_DateDef_GroupByRec_AddBranch_Group_Msg.sj" />
+			</folder>
+			<folder name="014_GRAPH_ASSET_CAT">
+				<child name="CR1485_014_Common_functions" key="{C3313BEE-DD33-4331-B64E-93ADCDFA11E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_014_Common_functions.sj" />
+				<child name="CR1485_014_Rel_DateDef_PierGraph_NumVis_AddBranch" key="{54FD2DAF-1F03-4D57-9017-22F437ED74CA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_014_Rel_DateDef_PierGraph_NumVis_AddBranch.sj" />
+				<child name="CR1485_014_Acc_DateDef_PieGraph_NumVis" key="{F7D75AEE-0E6F-4BC3-8C80-964AC207F6B8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_014_Acc_DateDef_PieGraph_NumVis.sj" />
+				<child name="CR1485_014_Cli_DateModf_HistgGraph_NumVis_AddBranch_Group" key="{EA37ACCC-5ECC-497A-91F0-395385145EAD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_014_Cli_DateModf_HistgGraph_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_014_Portf_DateModf_HistgGraph" key="{63A687F6-B32D-4090-B54C-2A0B92BAB667}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_014_Portf_DateModf_HistgGraph.sj" />
+			</folder>
+			<folder name="015_DISCLAIMER">
+				<child name="CR1485_015_Common_functions" key="{ECE48063-3C89-4FAE-BF6D-54F10E1FD8B9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_015_Common_functions.sj" />
+				<child name="CR1485_015_Rel_NumVis" key="{E9F9FA8C-D25C-41C6-BF2C-AB1A127FD759}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_015_Rel_NumVis.sj" />
+				<child name="CR1485_015_Acc_NumVis" key="{2A4EA0D2-C05F-4067-ABAF-1CA0A6556541}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_015_Acc_NumVis.sj" />
+				<child name="CR1485_015_Cli_NumHid" key="{CCB1DF27-2685-4AF7-8E19-4B345B66DF79}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_015_Cli_NumHid.sj" />
+			</folder>
+			<folder name="016_REVENUES">
+				<child name="CR1485_016_Common_functions" key="{97911243-1D90-454E-98B7-29B1E64010DA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_016_Common_functions.sj" />
+				<child name="CR1485_016_Rel_DateModf_NumVis" key="{F9D37714-A74A-4704-BABF-BD6B9402BD74}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_016_Rel_DateModf_NumVis.sj" />
+				<child name="CR1485_016_Acc_DateModf_AmortIncome_NumVis_AddBranch_Group_ConsoldPos_Msg" key="{F42C2427-6FF2-4CA0-B944-19268DDEAD7A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_016_Acc_DateModf_AmortIncome_NumVis_AddBranch_Group_ConsoldPos_Msg.sj" />
+				<child name="CR1485_016_Cli_DateDef_AmortIncome_NumVis_AddBranch" key="{DAABCADE-E312-4AE5-94F4-70C357A374D9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_016_Cli_DateDef_AmortIncome_NumVis_AddBranch.sj" />
+			</folder>
+			<folder name="017_HOLDERS">
+				<child name="CR1485_017_Common_functions" key="{FD0184BA-42AB-49F4-9335-15ABE94F51CA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_017_Common_functions.sj" />
+				<child name="CR1485_017_Sec_PortfVal_BookVl_AddBranch" key="{924C5401-79AF-4C41-90A2-1E563C05F7A6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_017_Sec_PortfVal_BookVl_AddBranch.sj" />
+				<child name="CR1485_017_Sec_InvstCap" key="{B7817BF2-DCD5-465B-B294-B01B6242EB05}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_017_Sec_InvstCap.sj" />
+			</folder>
+			<folder name="018_HOLDERS_WEB">
+				<child name="CR1485_018_Common_functions" key="{6B27C842-3CCA-45C3-ACE5-41194F2F123A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_018_Common_functions.sj" />
+				<child name="CR1485_018_Sec_BookVl_Msg" key="{46972ED3-D2FE-4F9A-B872-ECF448CA9DBC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_018_Sec_BookVl_Msg.sj" />
+			</folder>
+			<folder name="019_TASK">
+				<child name="CR1485_019_Agn_DateModf" key="{12601EC5-D723-4940-9871-02700C716971}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_019_Agn_DateModf.sj" />
+				<child name="CR1485_019_Common_functions" key="{184A52E7-EF25-48D4-91A4-CB9DEFCB4EAE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_019_Common_functions.sj" />
+			</folder>
+			<folder name="020_EVAL_AVAN">
+				<child name="CR1485_020_Common_functions" key="{A3460C44-3AB7-41F0-90EC-C2D06AEAE1BA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_020_Common_functions.sj" />
+				<child name="CR1485_020_Rel_DateDef_Region_AssAllFirm_BookVl_TheoVl_NumVis_SortMat" key="{86929058-3D56-4DB5-84B6-AC8BF10901D3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_020_Rel_DateDef_Region_AssAllFirm_BookVl_TheoVl_NumVis_SortMat.sj" />
+				<child name="CR1485_020_Acc_DateModf_Region_InvstCap_TheoVal_AssAllBasic_ClassBrk_NumVis_SortDesc_AddBranch" key="{4E6CEC99-4C2B-4025-BAF2-72CF64DDE6F9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_020_Acc_DateModf_Region_InvstCap_TheoVal_AssAllBasic_ClassBrk_NumVis_SortDesc_AddBranch.sj" />
+				<child name="CR1485_020_Cli_DateModf_Graph_Pie_AssAllBasic_BookVl_NumHid_SortDesc_Group" key="{F96A0FC8-627D-406B-B92B-D454D6558696}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_020_Cli_DateModf_Graph_Pie_AssAllBasic_BookVl_NumHid_SortDesc_Group.sj" />
+				<child name="CR1485_020_Cli_DateModf_Graph_Pie_GroupAccCurr_AssAlloBasic_NumVis_SortPercentTotal_BookVl" key="{9DBD0B3D-300D-4AB7-8DCF-7A0A4FC11FAE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_020_Cli_DateModf_Graph_Pie_GroupAccCurr_AssAlloBasic_NumVis_SortPercentTotal_BookVl.sj" />
+				<child name="CR1485_020_Portf_DateDef_Graph_Pie_AssAllFirm_BookVl_SortMat" key="{914E894F-BAB9-47E0-9C0D-9CE59A330773}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_020_Portf_DateDef_Graph_Pie_AssAllFirm_BookVl_SortMat.sj" />
+				<child name="CR1485_020_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat" key="{72CA54D4-DAD1-4AAE-BD58-0069FDC350CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_020_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_020_Acc_DateDef_RepCR1905" key="{D382A5A7-783D-4A4C-9885-57FD3C5CF884}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_020_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_020_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat" key="{76DD7186-F402-49B7-A7E7-78E3DE4AF614}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_020_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat.sj" />
+			</folder>
+			<folder name="021_TRANS_MISSING_COST">
+				<child name="CR1485_021_Common_functions" key="{BCF63CBA-72F0-49BD-B914-99B329128568}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_021_Common_functions.sj" />
+				<child name="CR1485_021_Rel_DateModf_NumVis" key="{A23B9DEE-7DDF-4984-A3F2-771FD4F379B0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_021_Rel_DateModf_NumVis.sj" />
+				<child name="CR1485_021_Acc_DateModf_NumVis_Msg" key="{B2D1432F-2346-439A-A631-93A387F68609}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_021_Acc_DateModf_NumVis_Msg.sj" />
+				<child name="CR1485_021_Cli_DateDef_NumHid_Msg" key="{2DCF81E6-729A-4FC5-8504-0640C250BE50}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_021_Cli_DateDef_NumHid_Msg.sj" />
+			</folder>
+			<folder name="022_TRANS_SECURITY_WEB">
+				<child name="CR1485_022_Common_functions" key="{56B36F3C-0E81-467C-B8F1-B77C43793832}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_022_Common_functions.sj" />
+				<child name="CR1485_022_Sec_AllTRans_DateModf" key="{BF0FACF0-C0F4-49C5-8174-527FAA530E95}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_022_Sec_AllTRans_DateModf.sj" />
+			</folder>
+			<folder name="023_ACC_SRV_Code">
+				<child name="CR1485_023_Acc_Both" key="{D90C994B-C610-427A-B174-C7E6C156E89D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_023_Acc_Both.sj" />
+				<child name="CR1485_023_Common_functions" key="{1308560C-B75B-4FB0-ABBA-8233992185BD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_023_Common_functions.sj" />
+			</folder>
+			<folder name="024_THEORETICAL_INTEREST">
+				<child name="CR1485_024_Common_functions" key="{5413B749-5E82-4BFF-9BCA-7787FE568E6B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_024_Common_functions.sj" />
+				<child name="CR1485_024_Rel_Ydef_NumVis_AddBranch_Group" key="{C09CD5DF-87FA-40D4-B7E3-4E63E702A03F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_024_Rel_Ydef_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_024_Acc_Y2008__NumHid_AddBranch_Msg" key="{B4434108-6C46-42FA-9810-DE1CE6E59536}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_024_Acc_Y2008__NumHid_AddBranch_Msg.sj" />
+				<child name="CR1485_024_Cli_Y2007_NumVis_Msg" key="{CC67768A-9AF5-4E07-93C4-C46A484C289E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_024_Cli_Y2007_NumVis_Msg.sj" />
+				<child name="CR1485_024_Portf_Y2007" key="{39862B98-4CC4-463D-BF79-88F7859DF094}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_024_Portf_Y2007.sj" />
+			</folder>
+			<folder name="025_ASSET_MIX">
+				<child name="CR1485_025_Common_functions" key="{D4F42D58-18D6-4273-B49B-EB611C094C34}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_025_Common_functions.sj" />
+				<child name="CR1485_025_Rel_DateDef_BookVl_AssAllFirm_NumVis" key="{3E9A3947-1308-4E7D-A706-44D8B5DD50BF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_025_Rel_DateDef_BookVl_AssAllFirm_NumVis.sj" />
+				<child name="CR1485_025_Acc_DateModf_BookVl_AssAllFirm_NumHid_ClassBrk_AddBranch_Msg" key="{20758FC3-1EC1-4217-A4A2-659891EB4A81}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_025_Acc_DateModf_BookVl_AssAllFirm_NumHid_ClassBrk_AddBranch_Msg.sj" />
+				<child name="CR1485_025_Cli_DateModf_AllRec_InvstCap_AssAllBasic_NumVis" key="{B01C673B-777D-4675-81E4-7DE69EFB2D3A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_025_Cli_DateModf_AllRec_InvstCap_AssAllBasic_NumVis.sj" />
+			</folder>
+			<folder name="026_ALARMS" />
+			<folder name="027_ASSETS_ALLOC_DET">
+				<child name="CR1485_027_Common_functions" key="{71FC5163-E53B-47B9-BCB2-E0724EB8D3F6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_027_Common_functions.sj" />
+				<child name="CR1485_027_Rel_DateModf_AssAllFirm_NumVis_AddBranch" key="{43318186-25DC-4EDA-B428-1CAA9949727B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_027_Rel_DateModf_AssAllFirm_NumVis_AddBranch.sj" />
+				<child name="CR1485_027_Acc_DateDef_Graph_Histog_AssAllBasic_ClassBrk_NumHid_AddBranch_Group_Msg" key="{55CE784F-B3D9-46C0-B6BE-781D041115A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_027_Acc_DateDef_Graph_Histog_AssAllBasic_ClassBrk_NumHid_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_027_Acc_DateDef_Graph_Histog_Compare_AssAllFirm_ClssBrk_NumHid" key="{87EE9039-A89A-42CA-91E5-42E381537405}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_027_Acc_DateDef_Graph_Histog_Compare_AssAllFirm_ClssBrk_NumHid.sj" />
+				<child name="CR1485_027_Cli_DateModf_Graph_Pie_AssAllFirm_NumVis_AddBranch" key="{2E082FE2-90DC-4389-A58F-BAD746B486A9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_027_Cli_DateModf_Graph_Pie_AssAllFirm_NumVis_AddBranch.sj" />
+				<child name="CR1485_027_Acc_DateDef_RepCR1905" key="{5034C384-E2EA-4780-9914-D0BDD98B9AB9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_027_Acc_DateDef_RepCR1905.sj" />
+			</folder>
+			<folder name="028_IAVM_ASSET_MIX">
+				<child name="CR1485_028_Cli_DateDef_InvstCap_AssAllFirm_NumHid_ClassBrk" key="{C70F3C85-6AA4-431F-8B98-7ADB415B7461}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_028_Cli_DateDef_InvstCap_AssAllFirm_NumHid_ClassBrk.sj" />
+				<child name="CR1485_028_Common_functions" key="{EF9AEE2E-F31A-4CE3-8E5A-F7D08FABE951}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_028_Common_functions.sj" />
+				<child name="CR1485_028_Acc_DateDef_AllRec_BookVl_AssAllFirm_NumVis_ClassBrk" key="{BDD092A9-61FF-4FB4-932D-C330F5C6B13E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_028_Acc_DateDef_AllRec_BookVl_AssAllFirm_NumVis_ClassBrk.sj" />
+				<child name="CR1485_028_Rel_DateModf_AllRec_BookVl_AssAllCustom_NumVis_AddBranch_Msg" key="{EB47E180-D7A2-4993-B98D-97D130B11A56}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_028_Rel_DateModf_AllRec_BookVl_AssAllCustom_NumVis_AddBranch_Msg.sj" />
+			</folder>
+			<folder name="029_ASSETS_UNDER_MGT_PER">
+				<child name="CR1485_029_Common_functions" key="{C53D13AF-8689-47B4-997C-785991429D2B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_029_Common_functions.sj" />
+				<child name="CR1485_029_Rel_DateDef_AssAllFirm_Month_NumVis" key="{333DDB6D-6738-4405-BFE0-CA7B2E993736}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_029_Rel_DateDef_AssAllFirm_Month_NumVis.sj" />
+				<child name="CR1485_029_Acc_DateModf_Graph_AssAllBasic_ClassBrk_Year_NumVis_AddSucc_Msg" key="{7265F4ED-F1BA-4C1E-8151-CAEFFB1FCC6F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_029_Acc_DateModf_Graph_AssAllBasic_ClassBrk_Year_NumVis_AddSucc_Msg.sj" />
+				<child name="CR1485_029_Cli_DateModf_Graph_AssAllFirm_Qrt_NumVis" key="{5AB8DBD0-5821-42E4-8C8B-AEA7DCB67E15}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_029_Cli_DateModf_Graph_AssAllFirm_Qrt_NumVis.sj" />
+				<child name="CR1485_029_Acc_DateModf_AssAllFirm_Monthly_NumVis_Add" key="{16200335-39B8-46B4-898B-B3161F05EC16}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_029_Acc_DateModf_AssAllFirm_Monthly_NumVis_Add.sj" />
+			</folder>
+			<folder name="030_BIRTHDAY">
+				<child name="CR1485_030_Agnd_DateModf" key="{2A6372A2-82E7-490E-AD41-DC9AE163DB38}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_030_Agnd_DateModf.sj" />
+				<child name="CR1485_030_Common_functions" key="{83868CA8-14AF-409B-A419-DA4F7A6D17FA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_030_Common_functions.sj" />
+			</folder>
+			<folder name="031_CONTRIBUTIONS">
+				<child name="CR1485_031_Common_functions" key="{BD2702F0-EEF2-469A-8A19-0D716C185DBC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_031_Common_functions.sj" />
+				<child name="CR1485_031_Rel_DateModf_60d_NumVis" key="{273F2F42-0EFF-43BD-869E-0E49312AF608}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_031_Rel_DateModf_60d_NumVis.sj" />
+				<child name="CR1485_031_Acc_DateModf_NumHid_Group_Msg" key="{383644C0-10EB-4D81-967E-BC1E4158339A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_031_Acc_DateModf_NumHid_Group_Msg.sj" />
+				<child name="CR1485_031_Cli_DateModf_NumVis_AddBranch_Msg" key="{B57148AD-A994-47A4-BF5B-8D0CA875ACAA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_031_Cli_DateModf_NumVis_AddBranch_Msg.sj" />
+			</folder>
+			<folder name="032_GRAPH_DIST_BM">
+				<child name="CR1485_032_Common_functions" key="{47F5DE09-D45A-4838-9099-D959F01756D0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_032_Common_functions.sj" />
+				<child name="CR1485_032_Rel_DateModf_NumVis_AddBranch" key="{7A981CBE-6D85-4266-8A9D-E265E35ECB20}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_032_Rel_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_032_Acc_DateModf_NumVis_AddBranch" key="{C329BEBE-37F6-4D70-9748-52CD979D2F84}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_032_Acc_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_032_Cli_DateModf_AddBranch_Group_NumVis" key="{420D4C59-E918-46A8-A568-D5A5241EC54D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_032_Cli_DateModf_AddBranch_Group_NumVis.sj" />
+				<child name="CR1485_032_Portf_NoParam" key="{6262D1C4-7CBC-4E81-A81E-E1A3D49A5BDF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_032_Portf_NoParam.sj" />
+			</folder>
+			<folder name="033_BILLING_FEE_SCHEDULE">
+				<child name="CR1485_033_Common_functions" key="{A385CE4C-B312-4B6B-BB3C-DC78A9658889}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_033_Common_functions.sj" />
+				<child name="CR1485_033_Rel_NoParam" key="{1DEBADDC-EE79-4F8F-A9F8-73AE735757F4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_033_Rel_NoParam.sj" />
+			</folder>
+			<folder name="034_MATURITY">
+				<child name="CR1485_034_Common_functions" key="{04A17BD2-0B89-491F-919F-B58C5B603141}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_034_Common_functions.sj" />
+				<child name="CR1485_034_Sec_DateModf_AllRec_BookVl_Msg" key="{4ED0EDD5-B545-4062-9322-F3AB7A4B7762}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_034_Sec_DateModf_AllRec_BookVl_Msg.sj" />
+			</folder>
+			<folder name="035_OVERDUE">
+				<child name="CR1485_035_Agnd_DateModf" key="{D514A401-EEE4-4944-8008-17B240DF9F84}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_035_Agnd_DateModf.sj" />
+				<child name="CR1485_035_Common_functions" key="{38E5C8A0-F372-4DA2-9C1D-1A1EE65F5A29}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_035_Common_functions.sj" />
+			</folder>
+			<folder name="036_GRAPH_ANNIC">
+				<child name="CR1485_036_Common_functions" key="{A567D8F3-F818-4109-9781-825DAECF9778}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_036_Common_functions.sj" />
+				<child name="CR1485_036_Rel_DateModf_NumVis_AddBranch" key="{B5D86F1C-F70F-4F64-BBF6-B2E454D025EF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_036_Rel_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_036_Acc_DateModf_NumVis_AddBranch" key="{CF517130-0EE4-4D1E-B72A-B1BBD3A2B3B3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_036_Acc_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_036_Cli_DateModf_IncluAmort_NumVis_AddBranch_Group" key="{E9D1252C-4269-4927-98E6-FEB3D0FE9CFC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_036_Cli_DateModf_IncluAmort_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_036_Cli_DateModf_NumVis_AddBranch" key="{26E3E2B7-C09C-4082-AEAA-568B79CF83BB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_036_Cli_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_036_Portf_DateModf" key="{319440F1-166E-4869-B975-B7F9F8027509}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_036_Portf_DateModf.sj" />
+			</folder>
+			<folder name="037_PROJ_PERIODE">
+				<child name="CR1485_037_Common_functions" key="{D5E5D5CF-135C-4FBC-A148-52C304A8C230}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_037_Common_functions.sj" />
+				<child name="CR1485_037_Acc_DateModf_SortTotal_NumVis_IncluAmort_AddBranch_Group_Msg" key="{2B0E7511-85B9-439C-ADD3-C587C279E861}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_037_Acc_DateModf_SortTotal_NumVis_IncluAmort_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_037_Cli_DateModf_SortTotal_NumVis_AddBranch" key="{EEC3A3B6-2FC5-460E-A870-3BB95803695D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_037_Cli_DateModf_SortTotal_NumVis_AddBranch.sj" />
+				<child name="CR1485_037_Portf_DateModf_SortDesc" key="{EB98CD76-C645-41AB-A27E-2BA581476D3A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_037_Portf_DateModf_SortDesc.sj" />
+				<child name="CR1485_037_Rel_DateModf_SortDesc_NumVis_AddBranch" key="{CCFEC2E8-1A52-4824-811D-3CBB44BB11FE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_037_Rel_DateModf_SortDesc_NumVis_AddBranch.sj" />
+			</folder>
+			<folder name="038_ACCUM_INTEREST_PROJ">
+				<child name="CR1485_038_Common_functions" key="{B79C1777-2953-4F1C-A4C8-6D4597B5A2F6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_038_Common_functions.sj" />
+				<child name="CR1485_038_Rel_YDef_NumVis" key="{4B4CD009-E69B-4E2F-BF75-4F7749DBE29C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_038_Rel_YDef_NumVis.sj" />
+				<child name="CR1485_038_Acc_Ydef_UntilMat_Group" key="{E59C32B8-8D47-443A-8038-64EF2203392E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_038_Acc_Ydef_UntilMat_Group.sj" />
+				<child name="CR1485_038_Cli_YDef_UntilMat_NumVis_Group" key="{FEAF4608-720C-4D9E-9FC9-096C07AF5925}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_038_Cli_YDef_UntilMat_NumVis_Group.sj" />
+			</folder>
+			<folder name="039_SCHEDULE_DAILY">
+				<child name="CR1485_039_Agnd_DateModf" key="{9261FA74-DFBD-41A8-BDD1-3C9999898860}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_039_Agnd_DateModf.sj" />
+				<child name="CR1485_039_Common_functions" key="{1674A374-7355-4CA1-98D2-3AAAE56C250E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_039_Common_functions.sj" />
+			</folder>
+			<folder name="040_SCHEDULE_WEEKLY">
+				<child name="CR1485_040_Agnd_DateModf" key="{3AD21A85-3D00-44DC-8C86-7B6C0ED7CB30}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_040_Agnd_DateModf.sj" />
+				<child name="CR1485_040_Common_functions" key="{EECEDFA3-8B15-4BC3-A23C-21FAB095F017}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_040_Common_functions.sj" />
+			</folder>
+			<folder name="041_PERF_HISTO_FIXCUM">
+				<child name="CR1485_041_Common_functions" key="{53E87CEF-C4A6-4130-98D5-C00ABBCA7F2C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_041_Common_functions.sj" />
+				<child name="CR1485_041_Rel_ExclData_DateModf_PerDef_TWRNet_IndexDJII_NumVis_AddBranch" key="{5CA7C2E4-4CBC-4735-826A-9245F7B4CAD2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_041_Rel_ExclData_DateModf_PerDef_TWRNet_IndexDJII_NumVis_AddBranch.sj" />
+				<child name="CR1485_041_Acc_DateDef_3M6M9MY_TWRNetBrut_MWRNet_NumHid_Group" key="{217D6F48-ED34-4D32-B3B2-D73AECB3C854}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_041_Acc_DateDef_3M6M9MY_TWRNetBrut_MWRNet_NumHid_Group.sj" />
+				<child name="CR1485_041_Cli_ExclData_DateModf_Per1Y3Y5Y7Y10Y_TWRBrut_NumVis_Msg" key="{8B934F9C-876F-4A37-BF80-27796A595835}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_041_Cli_ExclData_DateModf_Per1Y3Y5Y7Y10Y_TWRBrut_NumVis_Msg.sj" />
+			</folder>
+			<folder name="042_EVAL_AVAN_TL">
+				<child name="CR1485_042_Common_functions" key="{BE4A371D-57A2-4CA1-9857-4DDCAA06728D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_042_Common_functions.sj" />
+				<child name="CR1485_042_Rel_DateDef_TheoVal_AssAllFirm_NumVis_SortMat" key="{EE119041-E7F2-4E5D-BB0E-5F4F611816A0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_042_Rel_DateDef_TheoVal_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_042_Acc_DateModf_AssAllFirm_Appndx_NumVis_SortDesc_AddBranch_Group" key="{653E949C-BB99-4327-8600-A71A8A46BEC3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_042_Acc_DateModf_AssAllFirm_Appndx_NumVis_SortDesc_AddBranch_Group.sj" />
+				<child name="CR1485_042_Acc_DateModf_Graph_Histo_Compare_TheoVl_AssAllFirm_NumVis_SortMat" key="{58030FD5-8217-44E7-8157-B270B984134A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_042_Acc_DateModf_Graph_Histo_Compare_TheoVl_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_042_Cli_DateModf_Graph_Pie_Region_AssAllBasic_NumHid_SortMat_Msg" key="{9D536D35-E7B4-4FF3-8E71-AE236FDB84B6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_042_Cli_DateModf_Graph_Pie_Region_AssAllBasic_NumHid_SortMat_Msg.sj" />
+				<child name="CR1485_042_Port_DateDef_Graph_Histo_AssAllFirm_ClassBrk_SorfMat" key="{3397FAE1-23A0-436C-A097-8ED451020359}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_042_Port_DateDef_Graph_Histo_AssAllFirm_ClassBrk_SorfMat.sj" />
+			</folder>
+			<folder name="043_EVAL_INTER_TL">
+				<child name="CR1485_043_Common_functions" key="{828B72F5-8492-4A77-8496-7EFC5C711343}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_043_Common_functions.sj" />
+				<child name="CR1485_043_Rel_DateDef_TheoVal_AssAllFirm_NumVis_SortMat" key="{7C68CD66-C7A6-4143-8817-C645FFD0C16E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_043_Rel_DateDef_TheoVal_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_043_Acc_DateModf_AssAllFirm_Appndx_NumVis_SortDesc_AddBranch_Group" key="{F0838E25-C0FA-44A6-B0C2-26D341C944A9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_043_Acc_DateModf_AssAllFirm_Appndx_NumVis_SortDesc_AddBranch_Group.sj" />
+				<child name="CR1485_043_Cli_DateModf_Graph_Pie_Compare_IndCode_AssAllBasic_NumVis_SortPercentTotal_Add_Msg" key="{3C825AC8-C34D-4D58-9880-3A2F239EEB37}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_043_Cli_DateModf_Graph_Pie_Compare_IndCode_AssAllBasic_NumVis_SortPercentTotal_Add_Msg.sj" />
+				<child name="CR1485_043_Cli_DateModf_Graph_Pie_Region_AssAllBasic_NumHid_SortMat_Msg" key="{26B3801E-0517-4BF0-805F-C57F684CB5BB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_043_Cli_DateModf_Graph_Pie_Region_AssAllBasic_NumHid_SortMat_Msg.sj" />
+				<child name="CR1485_043_Port_DateDef_Graph_Pie_AssAllFirm_ClassBrk_SortMat" key="{0904D503-CF9A-4BDF-8E10-E19EE54249B8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_043_Port_DateDef_Graph_Pie_AssAllFirm_ClassBrk_SortMat.sj" />
+			</folder>
+			<folder name="044_EVAL_SIMPLE_TL">
+				<child name="CR1485_044_Common_functions" key="{E5AC7A96-11CD-45D5-A7A6-2CADA0A4C23F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_044_Common_functions.sj" />
+				<child name="CR1485_044_Rel_DateDef_TheoVal_AssAllBasic_NumVis_SortMat" key="{920F6052-0DEA-4C9B-A816-D26686F021CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_044_Rel_DateDef_TheoVal_AssAllBasic_NumVis_SortMat.sj" />
+				<child name="CR1485_044_Acc_DateModf_IndCode_AssAllFirm_NumVis_SortMat_ClassBrk_Group" key="{C61BE41E-360F-481C-A80A-214AC67D9A75}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_044_Acc_DateModf_IndCode_AssAllFirm_NumVis_SortMat_ClassBrk_Group.sj" />
+				<child name="CR1485_044_Cli_DateModf_Graph_Pie_Region_AssAllFirm_NumHid_SortDesc_Msg" key="{CBE6627A-851F-4C60-8B20-B76980DB1D42}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_044_Cli_DateModf_Graph_Pie_Region_AssAllFirm_NumHid_SortDesc_Msg.sj" />
+				<child name="CR1485_044_Portf_DateModf_Graph_Pie_Region_AssAllBasic_Appdx_SortMat_AddBranch" key="{D6E19F78-D521-44E9-98A1-08CEF161BC78}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_044_Portf_DateModf_Graph_Pie_Region_AssAllBasic_Appdx_SortMat_AddBranch.sj" />
+				<child name="CR1485_044_Rel_DateModf_Graph_Histo_Compare_TheoVal_Devise_AssAllBasic_ObjPlac_NumVis_SortMat_App_ClassBrk_Add_Msg" key="{9250C69D-ABBC-4637-8D8F-2BABA90D0AB9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_044_Rel_DateModf_Graph_Histo_Compare_TheoVal_Devise_AssAllBasic_ObjPlac_NumVis_SortMat_App_ClassBrk_Add_Msg.sj" />
+			</folder>
+			<folder name="046_BILLING_SUMMARY">
+				<child name="CR1485_046_Common_functions" key="{5F4A124B-5D6D-461B-AF55-4D8D69726CD0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_046_Common_functions.sj" />
+				<child name="CR1485_046_Rel_NoParam" key="{ADA4BABB-8B4D-4AEB-B43C-D683A9763465}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_046_Rel_NoParam.sj" />
+				<child name="CR1485_046_Acc_DateModf_Group" key="{C93BF907-8831-44F0-9F31-3C458452236D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_046_Acc_DateModf_Group.sj" />
+				<child name="CR1485_046_Cli_DateModf_AddBranch" key="{7A104CE9-25B7-46EC-8325-B64012AB05E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_046_Cli_DateModf_AddBranch.sj" />
+			</folder>
+			<folder name="047_FDP_TRANSCOVERPAGE">
+				<child name="CR1485_047_Cli_NoParam" key="{61E4FD89-A5AA-4AD2-A2C6-E64FAFCF1E62}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_047_Cli_NoParam.sj" />
+				<child name="CR1485_047_Common_functions" key="{4970742E-B83B-4ACC-8C9B-5F8F0BB67DD9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_047_Common_functions.sj" />
+			</folder>
+			<folder name="048_EVAL_POS_TOT_RETURN">
+				<child name="CR1485_048_Common_functions" key="{1C2A5BF4-8A00-4403-B91E-61BD1B6A8634}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_048_Common_functions.sj" />
+				<child name="CR1485_048_Rel_DateDef_BookVl_TheoVl_AssAllFirm_NumVis_Msg" key="{20E3B2F4-D9E0-46C8-BAD7-6D530AFFF356}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_048_Rel_DateDef_BookVl_TheoVl_AssAllFirm_NumVis_Msg.sj" />
+				<child name="CR1485_048_Acc_DateModf_BookVl_AssAllFirm_NumHid_Msg" key="{393350B4-6945-4C43-B7FC-FAB376F8029E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_048_Acc_DateModf_BookVl_AssAllFirm_NumHid_Msg.sj" />
+				<child name="CR1485_048_Acc_DateModf_Graph_Histog_BookVl_AssAllBasic_Appndx_NumVis_AddBranch_Group" key="{D9EFD18A-68E6-4BE6-921E-832C6B6B330F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_048_Acc_DateModf_Graph_Histog_BookVl_AssAllBasic_Appndx_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_048_Cli_Graph_Pie_InvstCap_AssAllBasic_NumVis" key="{156B3AD8-70BD-49AF-B934-A1639B692B6A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_048_Cli_Graph_Pie_InvstCap_AssAllBasic_NumVis.sj" />
+				<child name="CR1485_048_Portf_DateDef_Region_BookVl_AssAllFirm" key="{B2D96261-A6F9-4335-8B88-87FD26ECCDEC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_048_Portf_DateDef_Region_BookVl_AssAllFirm.sj" />
+				<child name="CR1485_048_Cli_DateDef_RepCR1905" key="{23F30BBF-762D-4CBE-8CB0-85B6C1434CCA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_048_Cli_DateDef_RepCR1905.sj" />
+			</folder>
+			<folder name="049_EVAL_POS_TOT_RET_TL">
+				<child name="CR1485_049_Common_functions" key="{33948889-DE15-4355-91F9-2C6C5B6B4937}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_049_Common_functions.sj" />
+				<child name="CR1485_049_Rel_DateModf_TheoVal_AssAllFirmNumVis" key="{7F558E04-9D57-417A-8AA8-B0437E1CB321}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_049_Rel_DateModf_TheoVal_AssAllFirmNumVis.sj" />
+				<child name="CR1485_049_Acc_DateModf_Graph_Pie_TheoVal_AssAllBasic_NumVis_ClassBrk_AddBranch_Msg" key="{0951C9E9-AA13-4635-8101-7EAE9F275EAC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_049_Acc_DateModf_Graph_Pie_TheoVal_AssAllBasic_NumVis_ClassBrk_AddBranch_Msg.sj" />
+				<child name="CR1485_049_Cli_DateDef_Region_AssAllBasic_NumHid_Appdx_Group_Msg" key="{25EB7E01-D0BA-4E18-B153-1262E4875BFE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_049_Cli_DateDef_Region_AssAllBasic_NumHid_Appdx_Group_Msg.sj" />
+				<child name="CR1485_049_Portf_DateDef_IndCode_AssAllFim_AddBranch" key="{91E19B3A-16B7-455B-AB4E-B9F1A5AF0ED4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_049_Portf_DateDef_IndCode_AssAllFim_AddBranch.sj" />
+				<child name="CR1485_049_Rel_DateModf_Graph_Histo_Compare_Reg_TheoVal_AssAllBasic_NumVis_Add_Msg" key="{0637BB75-C54A-4D42-8160-6BB30D395018}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_049_Rel_DateModf_Graph_Histo_Compare_Reg_TheoVal_AssAllBasic_NumVis_Add_Msg.sj" />
+			</folder>
+			<folder name="050_SECURITY_HELD">
+				<child name="CR1485_050_Common_functions" key="{905AAF5F-C355-41F7-A708-3FB36551F1C2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_050_Common_functions.sj" />
+				<child name="CR1485_050_Sec_All_LimtAll_Msg" key="{8D5C4299-A3F6-4FE0-8412-11A60313E88F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_050_Sec_All_LimtAll_Msg.sj" />
+				<child name="CR1485_050_Sec_All_Limt25" key="{669F3F98-34B7-450A-89FC-BEF85ED8B338}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_050_Sec_All_Limt25.sj" />
+			</folder>
+			<folder name="051_INVESTMENT_OBJ">
+				<child name="CR1485_051_Cli_DateDef_AllCodes_SortClient_NumVis" key="{816E1289-D8D9-487B-9408-4E962BF90689}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_051_Cli_DateDef_AllCodes_SortClient_NumVis.sj" />
+				<child name="CR1485_051_Common_functions" key="{5AB47B35-75A4-42F2-A087-1197E6817AC0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_051_Common_functions.sj" />
+			</folder>
+			<folder name="052_GRAPH_ASSET_REG">
+				<child name="CR1485_052_Common_functions" key="{5C351000-D5EB-4D46-AB8B-8B4BF5BABA33}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_052_Common_functions.sj" />
+				<child name="CR1485_052_Rel_DateDef_PieGraph_NumVis" key="{6C4F2A3C-672E-439D-9285-9EEB2DC079BC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_052_Rel_DateDef_PieGraph_NumVis.sj" />
+				<child name="CR1485_052_Acc_DateModf_PieGraph_NumVis_AddBranch" key="{F1B0A39E-E5F1-4546-825A-F2BAA8504017}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_052_Acc_DateModf_PieGraph_NumVis_AddBranch.sj" />
+				<child name="CR1485_052_Cli_DateModf_GraphHistg_NumHid_Group" key="{A89B2977-6E93-4739-8725-8A1973DFDDB9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_052_Cli_DateModf_GraphHistg_NumHid_Group.sj" />
+				<child name="CR1485_052_Portf_DateDef_GraphHistg" key="{418C77D8-55E9-4C4D-B5A0-0A85F552283D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_052_Portf_DateDef_GraphHistg.sj" />
+			</folder>
+			<folder name="053_BOOK_PAGE">
+				<child name="CR1485_053_Common_functions" key="{25E71AFB-8C24-4E31-8F16-E71E9B701A65}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_053_Common_functions.sj" />
+				<child name="CR1485_053_Rel_DateDef_AllPos_NumVis_AddBranch" key="{BD992890-1B99-4D6F-9CE2-886E0BB4C8B9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_053_Rel_DateDef_AllPos_NumVis_AddBranch.sj" />
+				<child name="CR1485_053_Acc_DateModf_ClosedPos_NumVis_AddBranch" key="{E8F84AB5-703B-49AB-AF71-6E54F152695B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_053_Acc_DateModf_ClosedPos_NumVis_AddBranch.sj" />
+				<child name="CR1485_053_Cli_DateModf_OpenPos_NumVis_AddBranch" key="{67CB3248-FE0B-4FE7-90E6-520CC606667E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_053_Cli_DateModf_OpenPos_NumVis_AddBranch.sj" />
+				<child name="CR1485_053_Portf_NoParam" key="{C0B5A7D0-C712-439D-81B4-CDA734B6FFD1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_053_Portf_NoParam.sj" />
+			</folder>
+			<folder name="054_GAIN_PERTE_TL">
+				<child name="CR1485_054_Common_functions" key="{730E72C4-7266-4B9B-ABDA-24D654DCEB17}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_054_Common_functions.sj" />
+				<child name="CR1485_054_Rel_PrevYear_DateDef_Summ_NumVis_AddBranch_Msg" key="{2FCFC7CB-CE8F-4C07-B5BB-547FAEBC5B11}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_054_Rel_PrevYear_DateDef_Summ_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_054_Acc_DateModf_Summ_NumVis_AddBranch_Msg" key="{58FB744A-E7B1-4744-A570-03D620FB7B4F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_054_Acc_DateModf_Summ_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_054_Cli_DateModf_Detail_NumHid_Group" key="{D5F72B0B-04CC-443A-A26B-8B73A705DDCF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_054_Cli_DateModf_Detail_NumHid_Group.sj" />
+			</folder>
+			<folder name="055_ASSETS_UNDER_MGT_PER">
+				<child name="CR1485_055_Common_functions" key="{5A3CCD8E-793C-40B9-9BEF-320BC0909125}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_055_Common_functions.sj" />
+				<child name="CR1485_055_Rel_DateDef_SortName_AssAllFirm_NumVis" key="{F78EF12F-3655-4E4A-93BA-D0D8AC7DD469}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_055_Rel_DateDef_SortName_AssAllFirm_NumVis.sj" />
+				<child name="CR1485_055_Acc_DateDef_AllRec_SortTotVl_AssAllBasc_NumHid" key="{D5E2D37A-3E80-4023-8A9A-183AE80109AE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_055_Acc_DateDef_AllRec_SortTotVl_AssAllBasc_NumHid.sj" />
+				<child name="CR1485_055_Cli_DateModf_Graph_SortName_AssAllBasic_ClassBrk_NumVis_Msg" key="{867DD3EE-80D3-43D1-BE91-773374784DAC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_055_Cli_DateModf_Graph_SortName_AssAllBasic_ClassBrk_NumVis_Msg.sj" />
+				<child name="CR1485_055_Acc_DateDef_ChckDigit_SortName_AssAllFirm_NumVis" key="{29F5BF80-BB4A-46AB-AB67-70508B6BC853}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_055_Acc_DateDef_ChckDigit_SortName_AssAllFirm_NumVis.sj" />
+				<child name="CR1485_055_Cli_DateDef_RepCR1905" key="{6E3AF4AE-A541-4942-9441-81AE3846AA0B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_055_Cli_DateDef_RepCR1905.sj" />
+			</folder>
+			<folder name="056_FBNFISC_END_EVAL">
+				<child name="CR1485_056_Acc_DateModf_BookVl_AssAllFirm_NumVis_AddBranch_Msg" key="{F0E33D5F-E305-44AA-A303-A7E61501B8A1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_056_Acc_DateModf_BookVl_AssAllFirm_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_056_Common_functions" key="{5701567E-3FED-46EA-8EC2-885F7EB15342}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_056_Common_functions.sj" />
+				<child name="CR1485_056_Acc_DateModf_BookVl_AssAllFirm_NumVis" key="{BA9BFF97-7DC9-4C61-AB74-197001166258}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_056_Acc_DateModf_BookVl_AssAllFirm_NumVis.sj" />
+			</folder>
+			<folder name="057_FBNFISC_BEG_EVAL">
+				<child name="CR1485_057_Acc_DateMOdf_BookVl_AssAllFirm_NumVis_Msg" key="{864E8F79-CE64-4E7D-BCF3-F6E9A4AD6581}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_057_Acc_DateMOdf_BookVl_AssAllFirm_NumVis_Msg.sj" />
+				<child name="CR1485_057_Common_functions" key="{24D3EE51-2CF3-4D1B-BD30-673D252A8606}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_057_Common_functions.sj" />
+			</folder>
+			<folder name="058_FOREIGN_PROPERTY">
+				<child name="CR1485_058_Common_functions" key="{653C0263-AC3C-48CC-BF3D-9796677AB01C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_058_Common_functions.sj" />
+				<child name="CR1485_058_Rel_PrevYear_DateDef_SortCountry" key="{579AC727-73DE-4783-9400-C2EFE77D95E6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_058_Rel_PrevYear_DateDef_SortCountry.sj" />
+				<child name="CR1485_058_Acc_PrevYear_DateDef_SortCountry_AddBranch_Msg" key="{DEA4EA63-CD45-4D91-8CE1-7347B1E6E9CB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_058_Acc_PrevYear_DateDef_SortCountry_AddBranch_Msg.sj" />
+				<child name="CR1485_058_Cli_DateModf_SortFinInst_AddBranch_Msg_Group" key="{9D28CC83-5A49-404D-9309-4BEB501A7E96}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_058_Cli_DateModf_SortFinInst_AddBranch_Msg_Group.sj" />
+				<child name="CR1485_058_Portf_DateModf_SortCountry" key="{E48D0E07-2B4B-4F7A-850F-370140D89B0C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_058_Portf_DateModf_SortCountry.sj" />
+				<child name="CR1485_058_Cli_DateDef_SortFinInst_Group" key="{5B80A5AA-BF43-4705-912B-9D5132763651}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_058_Cli_DateDef_SortFinInst_Group.sj" />
+			</folder>
+			<folder name="059_SCHEDULE_YEARLY">
+				<child name="CR1485_059_Agnd_DateDef" key="{22322E2C-08A5-4320-B541-4AE0945B2542}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_059_Agnd_DateDef.sj" />
+				<child name="CR1485_059_Common_functions" key="{65F5C97C-8A5B-4345-AE31-B04399E62AA1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_059_Common_functions.sj" />
+			</folder>
+			<folder name="060_UNCAT_SECURITIES">
+				<child name="CR1485_060_Common_functions" key="{708690DC-8D9A-43FB-959C-52ED8EB83E37}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_060_Common_functions.sj" />
+				<child name="CR1485_060_Sec_DateModf_SortSec" key="{CD890D57-D8C2-4ACA-A743-91042F0A21BE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_060_Sec_DateModf_SortSec.sj" />
+				<child name="CR1485_060_Sec_DateModf_SortDesc" key="{7892BDD0-0639-473C-B1CD-72C1F7F45774}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_060_Sec_DateModf_SortDesc.sj" />
+			</folder>
+			<folder name="061_EVAL_INTER">
+				<child name="CR1485_061_Common_functions" key="{FDB6B924-7485-49BC-868F-457B72A6EBF5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_061_Common_functions.sj" />
+				<child name="CR1485_061_Rel_DateModf_BookVl_AssAllFirm_NumVis_SortMat_AddBranch" key="{7DCACAD5-F831-4418-BC29-2A961DC07E22}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_061_Rel_DateModf_BookVl_AssAllFirm_NumVis_SortMat_AddBranch.sj" />
+				<child name="CR1485_061_Acc_DateModf_Graph_Histg_IndCode_BookVal_AssAllBasic_ClassBrk_NumVis_SortMat_AddBranch" key="{A3B54D2D-B17F-4415-9044-71716B299BEC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_061_Acc_DateModf_Graph_Histg_IndCode_BookVal_AssAllBasic_ClassBrk_NumVis_SortMat_AddBranch.sj" />
+				<child name="CR1485_061_Cli_DateModf_Graph_Pie_Region_BookVl_TheoVal_AssAllFirm_NumVis_SortMat_AddBranch" key="{F96830DD-B450-4B45-8625-77242B1BFF60}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_061_Cli_DateModf_Graph_Pie_Region_BookVl_TheoVal_AssAllFirm_NumVis_SortMat_AddBranch.sj" />
+				<child name="CR1485_061_Portf_DateModf_Graph_Pie_Compare_Group_Region_IndCode_AssAllBasic_InvstCap_TheoVal_SortMat" key="{25C242C7-AC00-4749-B97A-5AAC1620CDB2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_061_Portf_DateModf_Graph_Pie_Compare_Group_Region_IndCode_AssAllBasic_InvstCap_TheoVal_SortMat.sj" />
+				<child name="CR1485_061_Portf_Graph_Pie_BookVl_TheoVl_AssAllFirm_SortMat" key="{F1DB6D96-7768-4082-A5FB-890E346D266B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_061_Portf_Graph_Pie_BookVl_TheoVl_AssAllFirm_SortMat.sj" />
+				<child name="CR1485_061_Rel_DateModf_Graph_Histog_Compare_GroupRegion_AssAllFirm_NumVis_SortMat_BookVl" key="{2D6E1852-9F42-4E87-B42F-A2496906454F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_061_Rel_DateModf_Graph_Histog_Compare_GroupRegion_AssAllFirm_NumVis_SortMat_BookVl.sj" />
+				<child name="CR1485_061_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat" key="{551B998B-0963-4E0C-A7D9-D2A9B39F301D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_061_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_061_Acc_DateDef_RepCR1905" key="{4CF2ECD6-E7DF-4C21-87CA-31AA1DCFD3EC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_061_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_061_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat" key="{7E676377-102F-44B3-B2D3-3EDA51304A10}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_061_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat.sj" />
+			</folder>
+			<folder name="062_EVAL_SIMPLE_WEB">
+				<child name="CR1485_062_Cli_DateModf_Graph_BookVl_TheoVl_Msg" key="{FC7B586E-46C2-44A4-9BA4-77DEBCDB0021}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_062_Cli_DateModf_Graph_BookVl_TheoVl_Msg.sj" />
+				<child name="CR1485_062_Common_functions" key="{C1537C4D-1E2C-439A-9848-DC174C9C7A5C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_062_Common_functions.sj" />
+				<child name="CR1485_062_Acc_DateModf_Graph_BookVl_TheoVl_Msg" key="{9FEBF5C9-0C2A-46CA-98D5-36C2B47FE9B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_062_Acc_DateModf_Graph_BookVl_TheoVl_Msg.sj" />
+				<child name="CR1485_062_Portf_DateDef_BookVl_TheoVl" key="{FFCC6DAC-4241-4A9D-9F21-43D3C0092914}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_062_Portf_DateDef_BookVl_TheoVl.sj" />
+			</folder>
+			<folder name="063_TRAILER_FEES">
+				<child name="CR1485_063_Common_functions" key="{19E96449-D10B-4F85-A504-910E877899FD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_063_Common_functions.sj" />
+				<child name="CR1485_063_Sec_All_DateModf" key="{471DAD85-9828-448F-B210-B099DCD2FBF1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_063_Sec_All_DateModf.sj" />
+			</folder>
+			<folder name="064_FBNGP_Q_EVAL">
+				<child name="CR1485_064_Common_functions" key="{0EB91DE6-A48B-45AB-9C36-405FF63D74A3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_064_Common_functions.sj" />
+				<child name="CR1485_064_Rel_ParamDef_AddBranch_Msg" key="{DA96AC9F-4A93-4059-9C7F-DE2AC4896716}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_064_Rel_ParamDef_AddBranch_Msg.sj" />
+				<child name="CR1485_064_Rel_ParamDef" key="{694CA43C-819C-4B65-BF25-C7D304C2F9C1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_064_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="065_GP_NON_REALISES">
+				<child name="CR1485_065_Common_functions" key="{F3DCB499-499B-4510-AE68-78821C1F2D71}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_065_Common_functions.sj" />
+				<child name="CR1485_065_Rel_DateDef_BookVl_TheoVl_AssAllFirm_NumVis" key="{E0E2BD9E-1033-47AB-9CCD-5CB6A64D51BC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_065_Rel_DateDef_BookVl_TheoVl_AssAllFirm_NumVis.sj" />
+				<child name="CR1485_065_Acc_DateModf_InvstCap_AssAllFirm_Appndx_NumVis_AddBranch_Group" key="{9A6333A2-5DB0-4408-A21F-3C18646D869D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_065_Acc_DateModf_InvstCap_AssAllFirm_Appndx_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_065_Cli_DateModf_IndCode_BookVl_AssAllBasic_NumHid_AddBranch" key="{DFF455DC-70A2-4F89-A62B-FC509F66E993}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_065_Cli_DateModf_IndCode_BookVl_AssAllBasic_NumHid_AddBranch.sj" />
+			</folder>
+			<folder name="066_GP_NON_REALISES_TL">
+				<child name="CR1485_066_Common_functions" key="{9CF67F4C-9E5B-46F5-B934-0CFD76F8BF88}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_066_Common_functions.sj" />
+				<child name="CR1485_066_Rel_DateDef_Region_AssAllFirm" key="{E2EF9F61-9D37-4902-BBCE-4B01FA51D564}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_066_Rel_DateDef_Region_AssAllFirm.sj" />
+				<child name="CR1485_066_Acc_DateModf_Region_TheoVal_AssAllBasic_ClassBrk_NumHid_AddBranch" key="{1FF431A8-7D89-455C-A96C-82CB89A17242}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_066_Acc_DateModf_Region_TheoVal_AssAllBasic_ClassBrk_NumHid_AddBranch.sj" />
+				<child name="CR1485_066_Cli_DateModf_IndCode_AssAllBasic_Appndx_NumVis_Group_Msg" key="{5C685227-1D0F-4431-858E-3B8B4BFD0443}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_066_Cli_DateModf_IndCode_AssAllBasic_Appndx_NumVis_Group_Msg.sj" />
+			</folder>
+			<folder name="067_CASH_MOVEMENT">
+				<child name="CR1485_067_Common_functions" key="{5B231A48-0D62-4C84-8234-2CA6FF797638}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_067_Common_functions.sj" />
+				<child name="CR1485_067_Rel_DateModf_NumVis_AddBranch" key="{E809F19B-C202-445F-9E02-D23188DD3970}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_067_Rel_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_067_Acc_DateModf_NumVis_AddBranch" key="{E38A0AC6-A2D6-4058-81A7-A5E1B1FD849B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_067_Acc_DateModf_NumVis_AddBranch.sj" />
+				<child name="CR1485_067_Cli_Source_DateModf_NumVis_AddBranch_Group" key="{AA9D7E04-67CD-404D-8ABB-EB82FDA87234}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_067_Cli_Source_DateModf_NumVis_AddBranch_Group.sj" />
+			</folder>
+			<folder name="068_SCHEDULE_MONTHLY">
+				<child name="CR1485_068_Agnd_DateModf_1Month" key="{8F8A9305-9CFF-421F-9BE1-93E7F4574ED9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_068_Agnd_DateModf_1Month.sj" />
+				<child name="CR1485_068_Common_functions" key="{8B87DA2F-D4AD-4516-AD66-65CF56A9C904}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_068_Common_functions.sj" />
+			</folder>
+			<folder name="071_QUARTERLY_COVERPAGE">
+				<child name="CR1485_071_Common_functions" key="{699D2B7B-8C25-4AEF-B09D-865FD7C1B9A9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_071_Common_functions.sj" />
+				<child name="CR1485_071_Rel_DateModf" key="{724A91C7-2A4F-4F1F-BD3C-DCD16F236F76}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_071_Rel_DateModf.sj" />
+			</folder>
+			<folder name="073_GRAPH_PERF">
+				<child name="CR1485_073_Common_functions" key="{FB96A165-E3D7-444E-B34E-2220209D2224}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_073_Common_functions.sj" />
+				<child name="CR1485_073_Rel_ExcluDate_DateModf_3Months_Monthly_TWRNetBrut_MWRNet_IndiceNASDAQCOMP_DJI_DJIN_NunVis_AddBranch_Msg" key="{89F2CEAA-CBBA-4382-B1DE-1BDB60FF2E42}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_073_Rel_ExcluDate_DateModf_3Months_Monthly_TWRNetBrut_MWRNet_IndiceNASDAQCOMP_DJI_DJIN_NunVis_AddBranch_Msg.sj" />
+				<child name="CR1485_073_Acc_ExcluData_DateModf_3Months_TWRNet_Quart_IndiceDJIN_NumVis_AddBranch_Group" key="{73BFEF30-53A9-4988-9529-BB962125527B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_073_Acc_ExcluData_DateModf_3Months_TWRNet_Quart_IndiceDJIN_NumVis_AddBranch_Group.sj" />
+				<child name="CR1485_073_Cli_ExcluData_DateDef_3Months_Monthly_TWRNetBrut_IndiceNASDAQ_NASDAQCOMP_NumVis_AddBranch" key="{C0DF03CF-C2DC-4B07-AF12-52E7C7B9037A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_073_Cli_ExcluData_DateDef_3Months_Monthly_TWRNetBrut_IndiceNASDAQ_NASDAQCOMP_NumVis_AddBranch.sj" />
+			</folder>
+			<folder name="074_VMD_PERF_HISTO">
+				<child name="CR1485_074_Common_functions" key="{B1FB1076-D260-4CC9-966A-81D095CD0D8E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_074_Common_functions.sj" />
+				<child name="CR1485_074_Rel_DateDef_PerdDef_AssAllBasic_TWRNet_NumVis" key="{C7588050-D59B-4A46-BA3E-C9156B5149C7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_074_Rel_DateDef_PerdDef_AssAllBasic_TWRNet_NumVis.sj" />
+				<child name="CR1485_074_Acc_DateModf_PerYear_AssAllBasic_TWRNetBrutMWRNet_NumVis_Group" key="{8EC78CAA-713D-424D-90D6-514D976B5DAC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_074_Acc_DateModf_PerYear_AssAllBasic_TWRNetBrutMWRNet_NumVis_Group.sj" />
+				<child name="CR1485_074_Cli_DateModf_PerdDef_AssAllFirm_MWRNet_NumVis_Msg" key="{56E7EB4E-AB12-4D73-9DCE-563C70A48CA9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_074_Cli_DateModf_PerdDef_AssAllFirm_MWRNet_NumVis_Msg.sj" />
+				<child name="CR1485_074_Cli_DateDef_RepCR1905" key="{D7EB898F-CCB7-49C9-A9AE-08862FB563C3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_074_Cli_DateDef_RepCR1905.sj" />
+			</folder>
+			<folder name="075_PERFORMANCE_HISTO">
+				<child name="CR1485_075_Common_functions" key="{4320CF14-181B-4E8F-A65A-194643ACE88D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_075_Common_functions.sj" />
+				<child name="CR1485_075_Rel_ExcluData_DateModf_IndiceNASDAQ_DJII_DJIN_Monthly_TWRNetBrut_MWRNet_NumVis_AddBranch_Msg" key="{07EEDB37-A2F3-4677-996B-31D73EFCC37B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_075_Rel_ExcluData_DateModf_IndiceNASDAQ_DJII_DJIN_Monthly_TWRNetBrut_MWRNet_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_075_Acc_ExcluData_DateModf_IndiceTSE300_35_60_MWRNet_Year_TotPerf_NumVis_AddBranch_Msg" key="{77627BEE-8BA3-4AAC-A8D3-B852142C6AC9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_075_Acc_ExcluData_DateModf_IndiceTSE300_35_60_MWRNet_Year_TotPerf_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_075_Cli_ExcluData_DateModf_IndiceTSE300_35_60_Qrt_TWRNetBrut_MWRNet_NumVis_AddBranch_Msg" key="{5BC973DE-978B-4092-9522-8038DC64AA88}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_075_Cli_ExcluData_DateModf_IndiceTSE300_35_60_Qrt_TWRNetBrut_MWRNet_NumVis_AddBranch_Msg.sj" />
+			</folder>
+			<folder name="076_SUMMARY_PERF_OBJINV">
+				<child name="CR1485_076_Common_functions" key="{9A4B599A-D99A-48B4-883B-84B4F6C64648}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_076_Common_functions.sj" />
+				<child name="CR1485_076_Rel_DateModf_PerDef_LvlFirm_SortTotVlDesc_NumVis_Msg" key="{0127B8BD-8106-47C8-825F-91DCE0D31296}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_076_Rel_DateModf_PerDef_LvlFirm_SortTotVlDesc_NumVis_Msg.sj" />
+				<child name="CR1485_076_Acc_DateModf_PerDef_LvlInvstAd_SortTotVlDesc_RiskQuartile_PerfIndex_NumVis" key="{621D7D00-9214-4725-9FF5-451BAA97B30D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_076_Acc_DateModf_PerDef_LvlInvstAd_SortTotVlDesc_RiskQuartile_PerfIndex_NumVis.sj" />
+				<child name="CR1485_076_Cli_DateModf_PerDef_LvlSucc_SortTotVlAsc_NumVis_AccNotWeig_NumVis" key="{51D577F0-FE56-439E-9D4E-ADBB6B2DE464}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_076_Cli_DateModf_PerDef_LvlSucc_SortTotVlAsc_NumVis_AccNotWeig_NumVis.sj" />
+			</folder>
+			<folder name="077_PERF_SIMPLE">
+				<child name="CR1485_077_Common_functions" key="{8D388F06-B0A5-48B4-8EB1-FC2967CB4F6A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_077_Common_functions.sj" />
+				<child name="CR1485_077_Rel_DateModf_AssAllFirm_TWRNetBrut_MWRNet_IndiceNASDAQCOMP_MCLEOD_NumVis_AddBranch" key="{7DD79A8C-CD6D-4AC8-BB90-E07728A3FC6F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_077_Rel_DateModf_AssAllFirm_TWRNetBrut_MWRNet_IndiceNASDAQCOMP_MCLEOD_NumVis_AddBranch.sj" />
+				<child name="CR1485_077_Acc_DateModf_PerDef_AssAllFirm_AllIndex_TWRNetBrut_TotPerf_NumVis_AddBranch_Msg" key="{64C89099-85D3-4610-9DE1-258AA2FE9DF6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_077_Acc_DateModf_PerDef_AssAllFirm_AllIndex_TWRNetBrut_TotPerf_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_077_Cli_DateModf_PerDef_GraphAssAllInvstObj_Pie_AssAllBasic_MWR_NumVis" key="{A32F62E5-E28C-420D-B878-DFAB656F7BA1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_077_Cli_DateModf_PerDef_GraphAssAllInvstObj_Pie_AssAllBasic_MWR_NumVis.sj" />
+				<child name="CR1485_077_Cli_DtModf_PerDef_GraphAssAllPerf_Histog_TWRNetBrut_MWRNet_IndNASDAQCOMP_MCLEOD_RiskStdDev_Sharp_NumVis_AddBranch_Msg" key="{FE7E8666-FF14-4BB3-B563-CF0ED16A0BFB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_077_Cli_DtModf_PerDef_GraphAssAllPerf_Histog_TWRNetBrut_MWRNet_IndNASDAQCOMP_MCLEOD_RiskStdDev_Sharp_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_077_Acc_DateDef_RepCR1905" key="{8F8F75E0-5D54-42DF-BCD2-D6AC13D3549D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_077_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_077_Cli_DateModf_PerDef_AssAllFirm_PerfDepFin_TWR_DJII_DJIN_NumVis" key="{9A1D312A-4B87-4AA9-BE4E-B61DE26E5F5A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_077_Cli_DateModf_PerDef_AssAllFirm_PerfDepFin_TWR_DJII_DJIN_NumVis.sj" />
+			</folder>
+			<folder name="078_SUMMARY_PERF">
+				<child name="CR1485_078_Common_functions" key="{EF60DFCB-BEB2-44E1-9104-AD3D8EDCCD38}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_078_Common_functions.sj" />
+				<child name="CR1485_078_Rel_DateDef_PerDef_LvlAllBranch_SortTotVl_NumVis" key="{78372ED7-0DBB-45C6-9ABD-E8AC3C2C7DD4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_078_Rel_DateDef_PerDef_LvlAllBranch_SortTotVl_NumVis.sj" />
+				<child name="CR1485_078_Acc_ExclData_DateDef_PerDef_LvlAllAcc_SortNameAsc_RskStdSharpe_NumVis" key="{1DE6FB20-B924-4BC0-A3A8-5DBFC5D75BD9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_078_Acc_ExclData_DateDef_PerDef_LvlAllAcc_SortNameAsc_RskStdSharpe_NumVis.sj" />
+				<child name="CR1485_078_Cli_DateDef_Per1Y2Y3Y4YIncep_LvlAllIA_IndexDJIIDJIN_SortNameDesc_NumVis_Msg" key="{AFBEF7A2-FEDF-46EF-BC8A-C76F0C95A6E3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_078_Cli_DateDef_Per1Y2Y3Y4YIncep_LvlAllIA_IndexDJIIDJIN_SortNameDesc_NumVis_Msg.sj" />
+			</folder>
+			<folder name="079_ASSETS_ALLOC_ACCSUMM">
+				<child name="CR1485_079_Common_functions" key="{56A5717F-D3A5-43D1-9858-F0FBDEB7DDC0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_079_Common_functions.sj" />
+				<child name="CR1485_079_Rel_DateDef_SortName_AssAllFirm_NumVis" key="{A07267D8-6165-4D10-8B3A-BD115882FE63}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_079_Rel_DateDef_SortName_AssAllFirm_NumVis.sj" />
+				<child name="CR1485_079_Acc_DateDef_SortNum_AssAllFirm_ClassBrk_AddBranch_Group_Msg" key="{21E2501D-A5EF-465A-9587-640BC289E6CC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_079_Acc_DateDef_SortNum_AssAllFirm_ClassBrk_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_079_Cli_DateModf_SortName_AssAllBasic_ClassBrk_NumHid_Msg" key="{0F446D2C-CDA0-4682-91AB-CDD13115E87A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_079_Cli_DateModf_SortName_AssAllBasic_ClassBrk_NumHid_Msg.sj" />
+			</folder>
+			<folder name="080_FDP_TRANSACTION">
+				<child name="CR1485_080_Cli_NumVis" key="{B1AE8361-ACA5-40D2-B033-C895C104FD54}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_080_Cli_NumVis.sj" />
+				<child name="CR1485_080_Common_functions" key="{7FC9090B-DA47-4BB8-AA94-D067EBB6E6F9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_080_Common_functions.sj" />
+			</folder>
+			<folder name="081_RESTRICTION_CRITERIA">
+				<child name="CR1485_081_Common_functions" key="{A43122BA-DF06-49CD-B3A8-CD37BEC681B8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_081_Common_functions.sj" />
+				<child name="CR1485_081_Rel_DateDef_AllSeve_AllAccess_AllStatus" key="{7173834F-9B46-49E3-AD73-C67E88AAAB30}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_081_Rel_DateDef_AllSeve_AllAccess_AllStatus.sj" />
+				<child name="CR1485_081_Acc_DateDef_AllSeve_AllAccess_AllStatus_AddSucc_Msg" key="{9EFAE64F-1C02-445F-B4DF-1A21C984017C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_081_Acc_DateDef_AllSeve_AllAccess_AllStatus_AddSucc_Msg.sj" />
+				<child name="CR1485_081_Acc_HardSeve_IAAccess_TrigStatus" key="{3F6F886A-0450-453D-979D-D5BA4C7C1629}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_081_Acc_HardSeve_IAAccess_TrigStatus.sj" />
+				<child name="CR1485_081_Mod_DateDef_AllSev_AllStat_AllAcc" key="{66F6315A-A082-47A6-89CF-39643D1D1D3D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_081_Mod_DateDef_AllSev_AllStat_AllAcc.sj" />
+				<child name="CR1485_081_Mod_DateDef_Soft_AllStat_AllAcc" key="{517114C9-9A84-4C09-B5D3-6CB850916B50}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_081_Mod_DateDef_Soft_AllStat_AllAcc.sj" />
+			</folder>
+			<folder name="082_TRANSACTION_WEB">
+				<child name="CR1485_082_Cli_TransDiv_DateModf_AddBranch_Grouped_Msg" key="{A24DF8F8-089B-48DF-8CA8-FF2343CC3AC7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_082_Cli_TransDiv_DateModf_AddBranch_Grouped_Msg.sj" />
+				<child name="CR1485_082_Common_functions" key="{7079DC2B-AEB2-459F-BB66-0B9731FF7DEC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_082_Common_functions.sj" />
+				<child name="CR1485_082_Acc_TransBuySell_DateModf_AddBranch" key="{13F7E6A1-1A59-474B-8F93-46140D852843}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_082_Acc_TransBuySell_DateModf_AddBranch.sj" />
+			</folder>
+			<folder name="083_FBNGP_Q_MKTVALUEEVOL">
+				<child name="CR1485_083_Common_functions" key="{1B77AD30-0A44-4EA0-BA59-84EB549BA06D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_083_Common_functions.sj" />
+				<child name="CR1485_083_Rel_NoParam" key="{DB11F4DC-B5C9-4246-B4DA-C7132400945B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_083_Rel_NoParam.sj" />
+			</folder>
+			<folder name="085_FBNGP_Q_GAIN_PERTE">
+				<child name="CR1485_085_Common_functions" key="{06A2EB38-6EEF-42B3-9841-30E63509E1DE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_085_Common_functions.sj" />
+				<child name="CR1485_085_Rel_NoParam" key="{D105F7BB-B230-41A5-9F2B-1E15A9F9D795}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_085_Rel_NoParam.sj" />
+			</folder>
+			<folder name="086_FBNGP_Q_FIXCUMPERFH">
+				<child name="CR1485_086_Common_functions" key="{BCB9AB35-DA86-49B3-8A5D-CEF5370468F6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_086_Common_functions.sj" />
+				<child name="CR1485_086_Rel_ParamDef_AddBranch" key="{59B09EB0-BA62-4ED3-8859-C70C5FE78ED4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_086_Rel_ParamDef_AddBranch.sj" />
+			</folder>
+			<folder name="087_GRAPH_RISK_RETURN">
+				<child name="CR1485_087_Common_functions" key="{7F73C191-C1BD-443F-BC7C-D3514ECF345F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_087_Common_functions.sj" />
+				<child name="CR1485_087_Rel_Exclu_DateModf_TWRNet_IndexTSE35_60_NumVis" key="{73A7BE6E-F468-45F0-9439-2EAECB23E50D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_087_Rel_Exclu_DateModf_TWRNet_IndexTSE35_60_NumVis.sj" />
+				<child name="CR1485_087_Acc_DateModf_TWRGross_IndexSP500_TSE300_60_NumVis" key="{13A2163D-86DF-4997-B350-FEEC30434906}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_087_Acc_DateModf_TWRGross_IndexSP500_TSE300_60_NumVis.sj" />
+				<child name="CR1485_087_Cli_Exclu_DateModf_TWRNet_Gross_IndexNASDAQ_DJII_NumVis_AddBranch" key="{D33158CD-9895-40A8-8B8E-92992A9D725E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_087_Cli_Exclu_DateModf_TWRNet_Gross_IndexNASDAQ_DJII_NumVis_AddBranch.sj" />
+			</folder>
+			<folder name="088_FBNFISC_CASH_INT">
+				<child name="CR1485_088_Common_functions" key="{4CB41A0F-145A-42CF-A358-A905302B65F2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_088_Common_functions.sj" />
+				<child name="CR1485_088_Rel_DateModf_NumVis_AmortIncome" key="{834E191C-0156-4853-9AB8-F93E0FAE9310}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_088_Rel_DateModf_NumVis_AmortIncome.sj" />
+				<child name="CR1485_088_Acc_DateModf_NumVis_Group" key="{288E55A1-C3C0-4E53-A519-30FA782EFBCE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_088_Acc_DateModf_NumVis_Group.sj" />
+				<child name="CR1485_088_Cli_DateModf_NumHidden_Msg" key="{F5CDB5AB-888F-4A73-AF49-2F81033D6C3E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_088_Cli_DateModf_NumHidden_Msg.sj" />
+			</folder>
+			<folder name="089_FBNFISC_CASH">
+				<child name="CR1485_089_Acc_DateModf_NumVis" key="{109C2F62-909E-4334-A04D-A815D22AB7AE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_089_Acc_DateModf_NumVis.sj" />
+				<child name="CR1485_089_Common_functions" key="{3D44B965-F3A5-4D87-A302-975A09B3E227}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_089_Common_functions.sj" />
+			</folder>
+			<folder name="090_FBNGP_Q_COVERPAGE">
+				<child name="CR1485_090_Common_functions" key="{BAE353B7-9646-4832-966D-85F554B6482F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_090_Common_functions.sj" />
+				<child name="CR1485_090_Rel_DateDef" key="{EBCB6D97-2DA0-413B-B5F1-85D419966784}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_090_Rel_DateDef.sj" />
+			</folder>
+			<folder name="091_FBNGP_Q_ASSETMIX">
+				<child name="CR1485_091_Common_functions" key="{EC054548-5D82-49F8-9909-421825E796EB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_091_Common_functions.sj" />
+				<child name="CR1485_091_Rel_NoParam_AddBranch" key="{FDEA79C2-7917-4600-9016-30CFA7EF042B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_091_Rel_NoParam_AddBranch.sj" />
+			</folder>
+			<folder name="092_FBNGP_Q_MGMT_MANDATE">
+				<child name="CR1485_092_Common_functions" key="{33C3985A-DD9A-46D0-9705-3978551B9A4B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_092_Common_functions.sj" />
+				<child name="CR1485_092_Rel_NoParam_AddBranch" key="{2E73B554-9486-40F8-BE59-218FDAC6B55F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_092_Rel_NoParam_AddBranch.sj" />
+			</folder>
+			<folder name="093_FBNFISC_INCOME">
+				<child name="CR1485_093_Acc_DateDef_NumVis_AddBranch_Group_Msg" key="{F55390C2-78FE-4696-B89B-88564BF63C3A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_093_Acc_DateDef_NumVis_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_093_Common_functions" key="{258FC498-0D6D-442F-AB4B-F68842E561FD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_093_Common_functions.sj" />
+			</folder>
+			<folder name="094_FBNFISC_DOC_SUMMARY">
+				<child name="CR1485_094_Acc_DateDef_NoParam" key="{418B0D02-76D2-4F8D-A4EF-1D34D8A8DA3F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_094_Acc_DateDef_NoParam.sj" />
+				<child name="CR1485_094_Common_functions" key="{5A64FA98-5135-4160-AE9E-750896A8E09F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_094_Common_functions.sj" />
+			</folder>
+			<folder name="095_FBNFISC_TRANSAC">
+				<child name="CR1485_095_Acc_DateDef_NumVis_AddBranch_Msg" key="{4FD6D4C7-37B9-4B11-B7CC-8F941EE29B8A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_095_Acc_DateDef_NumVis_AddBranch_Msg.sj" />
+				<child name="CR1485_095_Common_functions" key="{990A43BD-851E-4BA9-8564-4E3B69B4EA7A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_095_Common_functions.sj" />
+			</folder>
+			<folder name="096_FBNGP_Q_TRANSACTION">
+				<child name="CR1485_096_Common_functions" key="{398E764E-90EA-405A-AB73-7521BC56D244}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_096_Common_functions.sj" />
+				<child name="CR1485_096_Rel_NoParam_AddBranch_Msg" key="{994E3705-04B6-40A7-8F1F-02535CF2C4DF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_096_Rel_NoParam_AddBranch_Msg.sj" />
+			</folder>
+			<folder name="097_EVAL_VC">
+				<child name="CR1485_097_Common_functions" key="{C7072FE2-C8D4-4166-BFA2-8E372E9CCD6F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_097_Common_functions.sj" />
+				<child name="CR1485_097_Rel_DateModf_BookVl_AssAllFirm_TheoVl_NumVis_SortMat" key="{782673E4-604F-48F8-BAC0-4BD2AFBD87BC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_097_Rel_DateModf_BookVl_AssAllFirm_TheoVl_NumVis_SortMat.sj" />
+				<child name="CR1485_097_Acc_DateDef_Graph_Histog_IndCode_BookVl_AssAllBasic_NumVis_SortMat_AddBranch" key="{7D5D83E4-71B7-4378-8366-072DE907DDAB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_097_Acc_DateDef_Graph_Histog_IndCode_BookVl_AssAllBasic_NumVis_SortMat_AddBranch.sj" />
+				<child name="CR1485_097_Acc_DateModf_Graph_Histog_Compare_GroupRegion_AssAllFirm_NumVis_SortMat_BookVl_Add_Msg" key="{7B2E6DA3-0B2A-446B-98F2-8BAA21773CFE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_097_Acc_DateModf_Graph_Histog_Compare_GroupRegion_AssAllFirm_NumVis_SortMat_BookVl_Add_Msg.sj" />
+				<child name="CR1485_097_Cli_DateModf_Graph_Pie_Region_BookVl_TheoVl_AssAllFirm_NumVis_SortMat_AddBranch_Msg" key="{8A4E123F-271C-4731-962F-E323016ADEBB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_097_Cli_DateModf_Graph_Pie_Region_BookVl_TheoVl_AssAllFirm_NumVis_SortMat_AddBranch_Msg.sj" />
+				<child name="CR1485_097_Portf_DateDef_Graph_Histog_InvstCap_AssAllFirm_SortMat" key="{B264E304-4401-47B0-AB49-14A6192FDD92}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_097_Portf_DateDef_Graph_Histog_InvstCap_AssAllFirm_SortMat.sj" />
+				<child name="CR1485_097_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat" key="{7C5C7B49-FD86-4500-A7C8-4F56340CF2BF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_097_Acc_DateDef_Grph_Pie_BkVL_AssAllFirm_NumVis_SortMat.sj" />
+				<child name="CR1485_097_Acc_DateDef_RepCR1905" key="{AA2F35AC-63A2-4666-BD96-89AA41107D0B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_097_Acc_DateDef_RepCR1905.sj" />
+				<child name="CR1485_097_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat" key="{2103AE84-334E-4EA4-9016-A17DE9B8C269}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_097_Cli_DateModf_Graph_Histg_Compare_DevCompt_BookVl_AssAllFirm_NumVis_SortMat.sj" />
+			</folder>
+			<folder name="098_EVAL_VC_TL">
+				<child name="CR1485_098_Common_functions" key="{77BF6C0B-886A-4BF6-B268-5A65260B5552}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_098_Common_functions.sj" />
+				<child name="CR1485_098_Rel_DateModf_AssAllFirm_TheoVal_NumVis_SortMat" key="{EAF2600A-9FE1-499C-9D40-11B3B421F2FE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_098_Rel_DateModf_AssAllFirm_TheoVal_NumVis_SortMat.sj" />
+				<child name="CR1485_098_Acc_DateModf_Graph_Histo_Reg_IndCod_AssAllBase_TheoVal_ClassBrk_App_NumVis_SortMat_Add_Msg" key="{F25D1A47-1198-4C66-BEC7-7B72395EDD79}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_098_Acc_DateModf_Graph_Histo_Reg_IndCod_AssAllBase_TheoVal_ClassBrk_App_NumVis_SortMat_Add_Msg.sj" />
+				<child name="CR1485_098_Cli_DateModf_Graph_Histo_Reg_AssAllFirm_TheoVal_NumVis_SortMat_Add_Msg" key="{F7BA3081-149F-40FB-96E6-528EC7539653}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_098_Cli_DateModf_Graph_Histo_Reg_AssAllFirm_TheoVal_NumVis_SortMat_Add_Msg.sj" />
+				<child name="CR1485_098_Cli_DateModf_Graph_Pie_Compare_AssAllFirm_TheoVal_NumVis_SortMat" key="{B2C5884C-9008-4F8E-A494-A14F2F295DFE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_098_Cli_DateModf_Graph_Pie_Compare_AssAllFirm_TheoVal_NumVis_SortMat.sj" />
+				<child name="CR1485_098_Portf_Graph_Pie_AssAllFirm_TheoVl_ClassBrk_App_SortMat" key="{8167291E-A464-44EC-B8EC-922B895289B5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_098_Portf_Graph_Pie_AssAllFirm_TheoVl_ClassBrk_App_SortMat.sj" />
+			</folder>
+			<folder name="099_FBNFISC_GP_NON_REAL">
+				<child name="CR1485_099_Acc_DateModf_Region_AssAllFirm_BookVl_NumVis_AddBranch" key="{9CE2317B-6240-4D92-892E-F57DCE6CB0B2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_099_Acc_DateModf_Region_AssAllFirm_BookVl_NumVis_AddBranch.sj" />
+				<child name="CR1485_099_Common_functions" key="{D6C43808-16AC-44F2-86AF-6CC46317357F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_099_Common_functions.sj" />
+			</folder>
+			<folder name="100_FBNFISC_ACC_INT_SBH">
+				<child name="CR1485_100_Acc_DateModf_NumVis_AddBranch_Group_Msg" key="{7B4F1962-AAC8-4580-976C-CBB1723B2A73}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_100_Acc_DateModf_NumVis_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_100_Common_functions" key="{70D9A63A-E474-448C-B996-28FC54B00CBD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_100_Common_functions.sj" />
+			</folder>
+			<folder name="102_PERF_ACC_SUMM">
+				<child name="CR1485_102_Common_functions" key="{91C1085E-E179-4EE3-B45D-DC08856A11D3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_102_Common_functions.sj" />
+				<child name="CR1485_102_Rel_DateModf_PerDef_TWRNetGross_NumVis_AddBranch_ConsldPos_Msg" key="{0EB9B3DB-E6F7-44F3-98A7-33742A6C241D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_102_Rel_DateModf_PerDef_TWRNetGross_NumVis_AddBranch_ConsldPos_Msg.sj" />
+				<child name="CR1485_102_Acc_DateModf_PerDef_GraphAssAllPOrtfPerf_Pie_AssAllFirm_TWRNetBrut_MWR_IndexTSE300_60_NumVis" key="{9139ED56-A0E7-4345-98C5-84E2B78FE542}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_102_Acc_DateModf_PerDef_GraphAssAllPOrtfPerf_Pie_AssAllFirm_TWRNetBrut_MWR_IndexTSE300_60_NumVis.sj" />
+				<child name="CR1485_102_Acc_DateModf_PerDef_IndexTSE300_60_TWRNetGross_MWR_NumVis_AddBranch_Group_Msg" key="{96B12204-E725-4EB8-9904-C8E25C38C73F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_102_Acc_DateModf_PerDef_IndexTSE300_60_TWRNetGross_MWR_NumVis_AddBranch_Group_Msg.sj" />
+				<child name="CR1485_102_Cli_DateDef_PerDef_AssAllGraph_Histog_AssAllFirm_TWRNetGross_MWR_NumVis" key="{6B15132E-4739-49E2-A30D-18BCFE672E2D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_102_Cli_DateDef_PerDef_AssAllGraph_Histog_AssAllFirm_TWRNetGross_MWR_NumVis.sj" />
+				<child name="CR1485_102_Cli_DateDef_RepCR1905" key="{4A546861-B42A-416D-A7A4-E8B7CA4C3DCC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_102_Cli_DateDef_RepCR1905.sj" />
+			</folder>
+			<folder name="103_ASSET_REP">
+				<child name="CR1485_103_Cli_AllCodes_DateDef_NumVis" key="{3A9D03CA-8B68-4483-97C8-DCC18F0766B3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_103_Cli_AllCodes_DateDef_NumVis.sj" />
+				<child name="CR1485_103_Common_functions" key="{4A7EEA7A-B266-4620-A65C-D6380E864A54}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_103_Common_functions.sj" />
+				<child name="CR1485_103_Acc_BD88_DateDef_NumVis" key="{BE361C04-E573-40DC-952D-C213098CD6C2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_103_Acc_BD88_DateDef_NumVis.sj" />
+			</folder>
+			<folder name="104_FILE_PROCESSING">
+				<child name="CR1485_104_Agn_DateModf_GP1859" key="{5D01A105-27E5-4F4B-B8D9-8CA73D78853A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_104_Agn_DateModf_GP1859.sj" />
+				<child name="CR1485_104_Agn_DateModf_LINCOA" key="{DB760F72-6C1D-4EAE-B0ED-6692E2BE2363}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_104_Agn_DateModf_LINCOA.sj" />
+				<child name="CR1485_104_Common_functions" key="{52AD0001-4AA3-4735-8A03-A882E2CFA343}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_104_Common_functions.sj" />
+				<child name="CR1485_104_Agn_DateModf_UNI00" key="{1DAFCA0C-B301-4A95-9531-90AE1BAEEF97}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_104_Agn_DateModf_UNI00.sj" />
+			</folder>
+			<folder name="105_FBNFISC_SUMMARY">
+				<child name="CR1485_105_Acc_DateModf_NumVis_BookVl" key="{D333DFCB-E3ED-40AC-A882-C4A08E9ECEAB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_105_Acc_DateModf_NumVis_BookVl.sj" />
+				<child name="CR1485_105_Common_functions" key="{95A2F75E-AD0B-4883-8EA8-9681C3FE0B89}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_105_Common_functions.sj" />
+			</folder>
+			<folder name="108_SUMMARY_PORT_DETAIL">
+				<child name="CR1485_108_Common_functions" key="{21E1D216-0302-4595-A73E-48BAF1587B4D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_108_Common_functions.sj" />
+				<child name="CR1485_108_Rel_Exclu_DateDef_PerDef_AssAllFirm_TWRNet_NumVis" key="{587FBFD9-9970-44EE-B76B-0D41847B149F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_108_Rel_Exclu_DateDef_PerDef_AssAllFirm_TWRNet_NumVis.sj" />
+				<child name="CR1485_108_Acc_DateModf_1Y2Y3Y4Y5Y10Y_IndexTSE100_300_35_60_AssAllBasic_TWRNetGross_MWRNet_NumHid" key="{E1AE7962-A60C-43A7-9EA5-8F3DBC78D732}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_108_Acc_DateModf_1Y2Y3Y4Y5Y10Y_IndexTSE100_300_35_60_AssAllBasic_TWRNetGross_MWRNet_NumHid.sj" />
+				<child name="CR1485_108_Cli_Exclu_DateDef_PerDef_IndexTSE35_60_AssAllFirm_TWRNetGrossMWRNet_NumVis_ClassBrk" key="{9516C237-E735-44BD-BDB5-63381528D7BB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_108_Cli_Exclu_DateDef_PerDef_IndexTSE35_60_AssAllFirm_TWRNetGrossMWRNet_NumVis_ClassBrk.sj" />
+				<child name="CR1485_108_Cli_DateDef_RepCR1905" key="{05C154C9-0402-4DFD-BD18-9ADC950012F8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_108_Cli_DateDef_RepCR1905.sj" />
+			</folder>
+			<folder name="109_RJ_COVERPAGE">
+				<child name="CR1485_109_Common_functions" key="{846B7807-E572-44C1-B235-DF0524830057}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_109_Common_functions.sj" />
+				<child name="CR1485_109_Rel_DateModf" key="{FDD5DC59-C49A-44ED-A0A3-906526C57ECC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_109_Rel_DateModf.sj" />
+				<child name="CR1485_109_Acc_DateModf" key="{831E641B-CD36-4998-9E45-6DAEF637532C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_109_Acc_DateModf.sj" />
+				<child name="CR1485_109_Cli_DateDef" key="{296A51BA-E098-491B-9F62-9693825E90B8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_109_Cli_DateDef.sj" />
+			</folder>
+			<folder name="110_RJ_PIMG_COVERPAGE">
+				<child name="CR1485_110_Common_functions" key="{E38B3D1B-B6C3-4915-9821-FFE840487757}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_110_Common_functions.sj" />
+				<child name="CR1485_110_Rel_DateDef" key="{2CF677B9-DD23-426D-9319-47A349598E72}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_110_Rel_DateDef.sj" />
+				<child name="CR1485_110_Acc_DateModf_Group" key="{12DF10B6-B482-4476-8EA6-AB8AB60791C3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_110_Acc_DateModf_Group.sj" />
+				<child name="CR1485_110_Cli_DateModf" key="{E4A54E92-FE35-45ED-B7E5-BAAF566D8E68}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_110_Cli_DateModf.sj" />
+			</folder>
+			<folder name="111_RJ_FD_COVERPAGE">
+				<child name="CR1485_111_Common_functions" key="{6CB90858-80A6-41D8-AED7-12E38A84C52D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_111_Common_functions.sj" />
+				<child name="CR1485_111_Rel_DateDef" key="{586153FB-DEEE-45AB-B4D0-7E4A62398BAE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_111_Rel_DateDef.sj" />
+				<child name="CR1485_111_Acc_DateDef" key="{3491EE67-8B1D-4A7F-8260-7126AAB602CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_111_Acc_DateDef.sj" />
+				<child name="CR1485_111_Cli_DateModf_Group" key="{A09866DB-CF1F-45A9-8CEC-9D37EAFA0037}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_111_Cli_DateModf_Group.sj" />
+			</folder>
+			<folder name="112_RJ_PART_COVERPAGE">
+				<child name="CR1485_112_Common_functions" key="{45EF7A75-74A9-4F8D-B5AB-BFAC95D4279A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_112_Common_functions.sj" />
+				<child name="CR1485_112_Rel_DateDef" key="{36F50AD2-373D-4C43-94BD-03FE65562B51}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_112_Rel_DateDef.sj" />
+				<child name="CR1485_112_Acc_DateModf" key="{103898C8-910F-4214-8435-D5EC5A5CC0E4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_112_Acc_DateModf.sj" />
+				<child name="CR1485_112_Cli_DateModf" key="{F4EAEB32-FF9C-487A-BF00-85460324C2AE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_112_Cli_DateModf.sj" />
+			</folder>
+			<folder name="113_INVESTMENT_PERFORM">
+				<child name="CR1485_113_Common_functions" key="{40C103EF-C44A-4A93-A54D-5F48937191EF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_113_Common_functions.sj" />
+				<child name="CR1485_113_Rel_ExclData_DateModf_PerDef_TWRNetBrut_MWRNet_IndexTSE35_60_NumVis_AddBranch" key="{E4367F97-BEA7-48CD-8F34-29804D621086}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_113_Rel_ExclData_DateModf_PerDef_TWRNetBrut_MWRNet_IndexTSE35_60_NumVis_AddBranch.sj" />
+				<child name="CR1485_113_Acc_DateModf_PerDef_TWRNetBrut_IndexTSE35_60_NumVis" key="{A92D370F-BE1A-4EB6-BB08-68D64519161D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_113_Acc_DateModf_PerDef_TWRNetBrut_IndexTSE35_60_NumVis.sj" />
+				<child name="CR1485_113_Cli_ExclData_Datemodf_PerDef_MWRNet_IndexDJIIDJIN_NumVis" key="{F34F1EB0-B305-4C25-8EFA-946FD887265A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_113_Cli_ExclData_Datemodf_PerDef_MWRNet_IndexDJIIDJIN_NumVis.sj" />
+			</folder>
+			<folder name="116_PROJECTED_PORTFOLIO" />
+			<folder name="117_ORDER_ENTRY" />
+			<folder name="118_SYS_PLANS">
+				<child name="CR1485_118_Cli_StartDate_DateModf_SortAcc" key="{C97468FC-732B-4640-B9B9-39B33849FBD8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_118_Cli_StartDate_DateModf_SortAcc.sj" />
+				<child name="CR1485_118_Common_functions" key="{3A797E18-6E02-4EC5-AB06-FE27F181DE27}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_118_Common_functions.sj" />
+				<child name="CR1485_118_Acc_LastTransDate_DateModf_SortPlanType" key="{CE250221-5E9B-4217-99B1-B44947377706}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_118_Acc_LastTransDate_DateModf_SortPlanType.sj" />
+				<child name="CR1485_118_Sec_StartDate_DateModf_SortAcc" key="{0194D696-A936-4C5D-998A-6AE5C206F992}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_118_Sec_StartDate_DateModf_SortAcc.sj" />
+			</folder>
+			<folder name="119_FREE_UNITS">
+				<child name="CR1485_119_Cli_NoParam_AddBranch" key="{A1C8789C-2532-4798-99B8-F080EC913CA7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_119_Cli_NoParam_AddBranch.sj" />
+				<child name="CR1485_119_Common_functions" key="{AFB09A01-0F10-45CE-A098-E7E15F495087}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_119_Common_functions.sj" />
+				<child name="CR1485_119_Acc_NoParam_AddBranch_Group_Msg" key="{99398DD3-0C14-4160-83AE-13C796A00F1A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_119_Acc_NoParam_AddBranch_Group_Msg.sj" />
+			</folder>
+			<folder name="084_FBNGP_Q_PORTF_YIELD">
+				<child name="CR1485_084_Common_functions" key="{B134FEAD-908A-4704-A57B-E115179142FE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_084_Common_functions.sj" />
+				<child name="CR1485_084_Rel_NoParam" key="{67776E22-796A-4345-81AE-D5609857BAFB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_084_Rel_NoParam.sj" />
+			</folder>
+			<folder name="101_FBNFISC_ACC_INT_TRAN">
+				<child name="CR1485_101_Common_functions" key="{AB26CC3A-3825-4ACC-AB62-A2182EFE285E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_101_Common_functions.sj" />
+				<child name="CR1485_101_Acc_DateModf_GroupRec_GroupTrans_NumVis_Add_Grp_Msg" key="{E1923EB0-DE53-4843-AAE9-3EFFF1DF64C4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_101_Acc_DateModf_GroupRec_GroupTrans_NumVis_Add_Grp_Msg.sj" />
+			</folder>
+			<folder name="106_FBNFISC_GAIN_PERTE">
+				<child name="CR1485_106_Acc_DateDef_GP_BookVl_DateTrans" key="{D8969FCC-9911-475D-86D9-73DB5EB31BC6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_106_Acc_DateDef_GP_BookVl_DateTrans.sj" />
+				<child name="CR1485_106_Common_functions" key="{E59AE40F-AB16-4E47-8022-2425AA91433F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_106_Common_functions.sj" />
+				<child name="CR1485_106_Acc_DateModf_GP_BookVl_DateSettle_NumVis" key="{956EA1A6-4BF0-4532-946D-965933EB0BC7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_106_Acc_DateModf_GP_BookVl_DateSettle_NumVis.sj" />
+			</folder>
+			<folder name="107_FOREIGN_PROP_SIMPLE">
+				<child name="CR1485_107_Common_functions" key="{952627F9-7AB0-424C-85FB-2FDCB9E17561}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_107_Common_functions.sj" />
+				<child name="CR1485_107_Cli_M01_Y2008_BookVl_AddBranch_Msg" key="{311FE2D8-A8E7-4C80-B603-A5687DC11067}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_107_Cli_M01_Y2008_BookVl_AddBranch_Msg.sj" />
+				<child name="CR1485_107_Acc_M02_Y2007_BookVl_Group" key="{1829CAA7-F439-472F-BD2D-F8BB17275785}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_107_Acc_M02_Y2007_BookVl_Group.sj" />
+				<child name="CR1485_107_Rel_M01_Y2009_MrktVl_Som_AddBranch_Msg" key="{C2503110-7D54-4D28-90A2-E8EBAF478980}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_107_Rel_M01_Y2009_MrktVl_Som_AddBranch_Msg.sj" />
+				<child name="CR1485_107_Acc_M01_Y2007_BookVl_Group_CR2053" key="{C5FB6AE3-F969-4677-A915-2D2651C306D3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_107_Acc_M01_Y2007_BookVl_Group_CR2053.sj" />
+				<child name="CR1485_107_Rel_M01_Y2009_CptNonEnreg_BkVL_Som" key="{13ABA5D6-78F1-4881-A23A-5E21CF1BDE87}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_107_Rel_M01_Y2009_CptNonEnreg_BkVL_Som.sj" />
+			</folder>
+			<folder name="114_MSTAR_XRAY">
+				<child name="CR1485_114_Common_functions" key="{D687D44C-EF7F-4CF9-96D4-489A73FEEC65}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_114_Common_functions.sj" />
+				<child name="CR1485_114_Rel_DateDef_UndfSec_Diclaimer_NASDAQ100" key="{015FC437-6F99-439E-A85A-DB851EC454CE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_114_Rel_DateDef_UndfSec_Diclaimer_NASDAQ100.sj" />
+				<child name="CR1485_114_Acc_DateDef_UndfSec_Diclaimer_IndexCustom" key="{40F026F6-5AB6-423C-AB68-EFFF10BE1C5F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_114_Acc_DateDef_UndfSec_Diclaimer_IndexCustom.sj" />
+				<child name="CR1485_114_Cli_DateDef_UndfSec_Diclaimer_IndexCustom" key="{E69AF8F7-84E8-4894-A49E-E3489DD3E5CE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_114_Cli_DateDef_UndfSec_Diclaimer_IndexCustom.sj" />
+				<child name="CR1485_114_Portf_DateDef_UndfSec_Diclaimer_NASDAQ100" key="{4B1254B2-6A4C-4505-B80D-7DDC9803A69A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_114_Portf_DateDef_UndfSec_Diclaimer_NASDAQ100.sj" />
+			</folder>
+			<folder name="115_MSTAR_SNAPSHOT">
+				<child name="CR1485_115_Common_functions" key="{20F9C407-9DFC-4C09-91F7-7FFB6F13EF59}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_115_Common_functions.sj" />
+				<child name="CR1485_115_Rel_DateDef_UndfSec_Diclaimer_NASDAQ100" key="{2329D63D-3F69-4DE0-8715-99C1252C8805}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_115_Rel_DateDef_UndfSec_Diclaimer_NASDAQ100.sj" />
+				<child name="CR1485_115_Cli_DateDef_UndfSec_Diclaimer_IndexCustom" key="{B554270D-FAC2-496A-8123-DA6EDCD03C79}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_115_Cli_DateDef_UndfSec_Diclaimer_IndexCustom.sj" />
+				<child name="CR1485_115_Acc_DateDef_UndfSec_Diclaimer_IndexCustom" key="{AEF79F76-E327-4897-8E6A-48D5D64EAC42}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_115_Acc_DateDef_UndfSec_Diclaimer_IndexCustom.sj" />
+				<child name="CR1485_115_Portf_DateDef_UndfSec_Diclaimer_NASDAQ100" key="{7E67786A-A1C1-4AFB-8C6D-04BD063A08A5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_115_Portf_DateDef_UndfSec_Diclaimer_NASDAQ100.sj" />
+			</folder>
+			<folder name="045_DIST_BM">
+				<child name="CR1485_045_Common_functions" key="{34FBD845-5D50-4FEB-BF01-84D8D88A7F77}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_045_Common_functions.sj" />
+				<child name="CR1485_045_Rel_DateModf_InvestCap_NumHiddn_AddBranch_Msg" key="{E7BE0760-7D1F-4B6E-8177-DF31980AF2D0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_045_Rel_DateModf_InvestCap_NumHiddn_AddBranch_Msg.sj" />
+				<child name="CR1485_045_Acc_DateDef_BookVl_NumVis_Group" key="{80269DD1-DBDB-4704-8ACD-AB6AECF3C8A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_045_Acc_DateDef_BookVl_NumVis_Group.sj" />
+				<child name="CR1485_045_Cli_DateModf_BookVl_NumVis_Group" key="{B96956D2-E5F7-489F-841F-D724ABAAEEE0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_045_Cli_DateModf_BookVl_NumVis_Group.sj" />
+				<child name="CR1485_045_Portef_DateDef_BookVl_AddBranch" key="{A3D3BB03-D7D0-483B-BD63-1C1333A2DEA2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_045_Portef_DateDef_BookVl_AddBranch.sj" />
+			</folder>
+			<folder name="069_ADDITIONAL_COVERPAGE">
+				<child name="CR1485_069_Common_functions" key="{E75CB1BD-D25C-409F-A7BD-EBB8E73E24EE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_069_Common_functions.sj" />
+				<child name="CR1485_069_Rel_NoParam" key="{C09B3F91-1FFA-481B-9E2C-06CC0567E237}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_069_Rel_NoParam.sj" />
+			</folder>
+			<folder name="070_CONSOL_COVERPAGE">
+				<child name="CR1485_070_Common_functions" key="{DD76913B-08CD-4676-8073-57E36112DBA3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_070_Common_functions.sj" />
+				<child name="CR1485_070_Rel_NoParam" key="{37FF2582-1989-4041-838B-9B91F5CCA202}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_070_Rel_NoParam.sj" />
+			</folder>
+			<folder name="072_MANAGED_COVERPAGE">
+				<child name="CR1485_072_Common_functions" key="{26FEB0BF-C05F-41ED-91AF-93B853649090}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_072_Common_functions.sj" />
+				<child name="CR1485_072_Rel_NoParam" key="{1F94A0E0-E315-41EF-B009-5A1537D29E0E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_072_Rel_NoParam.sj" />
+			</folder>
+			<folder name="120_FREE_UNITS_HOLDERS">
+				<child name="CR1485_120_Common_functions" key="{BF4386D6-1703-45B0-91C0-EAFF1CF3195D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_120_Common_functions.sj" />
+				<child name="CR1485_120_Sec_AllRecords" key="{360CF558-A571-496C-A7C3-D400E685E3C4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_120_Sec_AllRecords.sj" />
+			</folder>
+			<folder name="121_PERFORMANCE_ASSET">
+				<child name="CR1485_121_Common_functions" key="{689F9890-571B-419D-A3A9-30116544CAE4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_121_Common_functions.sj" />
+				<child name="CR1485_121_Rel_ExcluData_DateModf_PerDef_AssAllFirm_TWRNetGross_MWR_DJII_DJIN_NumVis" key="{39FBC46D-3D8C-4F6A-9993-8FDBC807702D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_121_Rel_ExcluData_DateModf_PerDef_AssAllFirm_TWRNetGross_MWR_DJII_DJIN_NumVis.sj" />
+				<child name="CR1485_121_Acc_ExcluDt_DtModf_1Y2Y3Y4Y5Y10YSince_AssAllBase_TWRNt_AllIndex_NumHid_Group" key="{95E0C744-FFCF-4FCF-89BA-88891FC24A6E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_121_Acc_ExcluDt_DtModf_1Y2Y3Y4Y5Y10YSince_AssAllBase_TWRNt_AllIndex_NumHid_Group.sj" />
+				<child name="CR1485_121_Cli_ExcluDt_DtModf_Fixe_PerDef_AssAllFirm_TWRNtGrs_MWR_TSE3003560_ClssBrk_NumVis_App_Add_Ms" key="{22869E8E-E8DA-4CB6-8664-42919257CFFF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_121_Cli_ExcluDt_DtModf_Fixe_PerDef_AssAllFirm_TWRNtGrs_MWR_TSE3003560_ClssBrk_NumVis_App_Add_Ms.sj" />
+				<child name="CR1485_121_Cli_ExcluDt_DtModf_PerDef_AssAllFirm_TWRNt_MWR_TSE60_ClssBrk_App_NumVis_Group" key="{CF269321-0CE8-4D47-B26E-CAA2C79D37CB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_121_Cli_ExcluDt_DtModf_PerDef_AssAllFirm_TWRNt_MWR_TSE60_ClssBrk_App_NumVis_Group.sj" />
+			</folder>
+			<folder name="122_PORTFMAN_COVERPAGE">
+				<child name="CR1485_122_Common_functions" key="{03CD17B2-A101-46A9-B4CF-D3A4040DA1A5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_122_Common_functions.sj" />
+				<child name="CR1485_122_Rel_DateDef" key="{EE618F28-57F0-47A7-B5AF-24FB48FDFA06}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_122_Rel_DateDef.sj" />
+				<child name="CR1485_122_Acc_DateModf" key="{29406A87-B776-4467-9C8F-19BC0B5F9F2D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_122_Acc_DateModf.sj" />
+				<child name="CR1485_122_Cli_DateModf" key="{C06350F0-AC78-4E34-8AAF-389B367E83AC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_122_Cli_DateModf.sj" />
+			</folder>
+			<folder name="127_Portfolio_Management_Report_add_evol">
+				<child name="CR1485_127_Common_functions" key="{87F76F5F-704E-4F09-A8A7-9C905F50914F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_127_Common_functions.sj" />
+				<child name="CR1485_127_Rel_ParamDef" key="{ED696F81-50C8-43A3-B0DD-F79CDA76269E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_127_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="128_Portfolio_Management_Report_add">
+				<child name="CR1485_128_Common_functions" key="{04919F23-A177-4F56-9C77-3AD1BB0A3B16}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_128_Common_functions.sj" />
+				<child name="CR1485_128_Rel_ParamDef" key="{8F242BE2-6C86-4699-B953-7382867ECCCF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_128_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="129_Portfolio_Management_Report_evol_history">
+				<child name="CR1485_129_Common_functions" key="{DF3F466F-84BE-453F-94D4-99308B67917F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_129_Common_functions.sj" />
+				<child name="CR1485_129_Rel_ParamDef" key="{C589D7CD-D2C0-4F35-B91E-39025D009054}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_129_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="130_Portfolio_Management_Report_grouped">
+				<child name="CR1485_130_Common_functions" key="{2D5F7E21-252F-487D-A886-B27142C0D34E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_130_Common_functions.sj" />
+				<child name="CR1485_130_Rel_ParamDef" key="{206B729E-9E8F-44D5-A881-9384AEC8C308}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_130_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="131_Portfolio_Management_Report_history">
+				<child name="CR1485_131_Common_functions" key="{1C2AEAFA-CAF5-47CF-BB68-799790B1CF9C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_131_Common_functions.sj" />
+				<child name="CR1485_131_Rel_ParamDef" key="{75A1F9D9-7DB7-48E6-A949-DFBED88E4BD9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_131_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="132_Portfolio_Management_Report_new_household">
+				<child name="CR1485_132_Common_functions" key="{DAACB8E6-1A11-4984-8D30-396E3AC43435}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_132_Common_functions.sj" />
+				<child name="CR1485_132_Rel_ParamDef" key="{3CAE329D-C646-49FC-AC6F-4A1F57A48FD2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_132_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="133_Portfolio_Management_Report_trans_GL_history">
+				<child name="CR1485_133_Common_functions" key="{7FBBABB4-90AB-4418-AF47-DC697CC3FC5E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_133_Common_functions.sj" />
+				<child name="CR1485_133_Rel_ParamDef" key="{7D27D91A-4D0E-4592-9042-BBBA44ED4B40}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_133_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="134_Portfolio_Management_Report_trans_evol_history">
+				<child name="CR1485_134_Common_functions" key="{6FA914C9-CB22-4F3A-B1EF-06ACB947C287}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_134_Common_functions.sj" />
+				<child name="CR1485_134_Rel_ParamDef" key="{E685ECE6-1BFA-4564-91DB-116460CC7206}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_134_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="135_Portfolio_Management_Report_trans_history">
+				<child name="CR1485_135_Common_functions" key="{BBF54E41-3871-4A84-BD24-F1EE0AC6720D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_135_Common_functions.sj" />
+				<child name="CR1485_135_Rel_ParamDef" key="{E0DACF16-DCEF-43A3-B435-1A0197A36A82}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_135_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="136_Year_end_corporate_report">
+				<child name="CR1485_136_Acc_ParamDef" key="{649A4EF5-D5C9-466C-8A70-AA32B5335F52}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_136_Acc_ParamDef.sj" />
+				<child name="CR1485_136_Common_functions" key="{70BAC05A-F612-4FF5-B4DD-E8FEF3017FC1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_136_Common_functions.sj" />
+				<child name="CR1485_136_Acc_ParamDef_Group" key="{6DE6D60F-7A5D-4926-B4BB-D71724262927}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_136_Acc_ParamDef_Group.sj" />
+			</folder>
+			<folder name="137_Performance_Summarized_IA">
+				<child name="CR1485_137_Acc_ParamDef_IndPROBAL" key="{3182A382-FF9C-4726-BD04-5096E6780E86}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_137_Acc_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_137_Cli_ParamDef_IndPROBAL" key="{352D7C7D-084F-428C-95F7-C04F32C9343C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_137_Cli_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_137_Common_functions" key="{13BEE361-C598-429E-AC46-8DB6E7694EF2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_137_Common_functions.sj" />
+			</folder>
+			<folder name="138_Performance_Summarized_Region">
+				<child name="CR1485_138_Acc_ParamDef_IndPROBAL" key="{B3417CF6-921C-4936-A0FF-94FEDCF6540D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_138_Acc_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_138_Cli_ParamDef_IndPROBAL" key="{940E100A-F7A3-4EF2-8E83-FD04C293D7F0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_138_Cli_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_138_Common_functions" key="{CAE1EC36-7853-4D19-BD67-3EEF1E8A22AE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_138_Common_functions.sj" />
+			</folder>
+			<folder name="139_Performance_Summarized_Branch">
+				<child name="CR1485_139_Acc_ParamDef_IndPROBAL" key="{80BD9634-78DC-4C84-9BD8-E2D921226352}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_139_Acc_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_139_Cli_ParamDef_IndPROBAL" key="{445E2385-76FB-4B61-957A-9C8D0360096E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_139_Cli_ParamDef_IndPROBAL.sj" />
+				<child name="CR1485_139_Common_functions" key="{D92697B9-3101-4897-AD82-AB21FEA82AC1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_139_Common_functions.sj" />
+			</folder>
+			<folder name="140_Performance_Summarized_Investor_Profile_IA">
+				<child name="CR1485_140_Acc_ParamDef" key="{C131C07E-C9C7-4D14-B633-6EB621792784}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_140_Acc_ParamDef.sj" />
+				<child name="CR1485_140_Cli_ParamDef" key="{92204E0D-4A6D-4919-B029-CEEA15A8F5DE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_140_Cli_ParamDef.sj" />
+				<child name="CR1485_140_Common_functions" key="{43B145FA-95AD-4EBF-B511-0C9CE9F902AD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_140_Common_functions.sj" />
+			</folder>
+			<folder name="141_Performance_Summarized_Investor_Profile_Firm">
+				<child name="CR1485_141_Acc_ParamDef" key="{B719A839-A152-4602-B095-9D7017A93F3B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_141_Acc_ParamDef.sj" />
+				<child name="CR1485_141_Cli_ParamDef" key="{D184D4C0-995B-46BB-AF51-A224BC8DE5F3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_141_Cli_ParamDef.sj" />
+				<child name="CR1485_141_Common_functions" key="{B17684A7-265B-40F0-929B-D7BB38E34336}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_141_Common_functions.sj" />
+			</folder>
+			<folder name="142_Performance_Summarized_Investor_Profile_Region">
+				<child name="CR1485_142_Acc_ParamDef" key="{A0D73DDC-E948-4E43-8BD0-205CFE61A4F2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_142_Acc_ParamDef.sj" />
+				<child name="CR1485_142_Cli_ParamDef" key="{A29E2227-3727-44EE-815E-5389073A50C8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_142_Cli_ParamDef.sj" />
+				<child name="CR1485_142_Common_functions" key="{6107C1F8-7F4F-4415-84CC-67DD3BAD7F39}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_142_Common_functions.sj" />
+			</folder>
+			<folder name="143_Performance_Summarized_Investor_Profile_Branch">
+				<child name="CR1485_143_Acc_ParamDef" key="{7F9A4FEF-5C8F-481C-BD19-344334AF3D9F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_143_Acc_ParamDef.sj" />
+				<child name="CR1485_143_Cli_ParamDef" key="{7F385E8D-E524-44EF-A756-3F7C777FA536}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_143_Cli_ParamDef.sj" />
+				<child name="CR1485_143_Common_functions" key="{87BA0C14-A7CF-486F-AB10-3A806229F484}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_143_Common_functions.sj" />
+			</folder>
+			<folder name="PreparationBD">
+				<child name="CR1485_PreparationBD_Billing" key="{14E048EB-7B2B-4AC5-BC46-779EEE2B4FA8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_Billing.sj" />
+				<child name="CR1485_PreparationBD_Clients_Accounts" key="{D7D6596B-BB0B-4CD0-94CF-EB7DBF9B2B88}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_Clients_Accounts.sj" />
+				<child name="CR1485_PreparationBD_CR1905" key="{987C966A-BDCC-4A78-B4B6-CA3BF4F50E61}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_CR1905.sj" />
+				<child name="CR1485_PreparationBD_CR2008_CR1880" key="{884F367F-41D7-4795-9B22-FDB319C0B80A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_CR2008_CR1880.sj" />
+				<child name="CR1485_PreparationBD_Performance" key="{950CE9B2-B1A1-401D-B8C1-C1025C3AA1A4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_Performance.sj" />
+				<child name="CR1485_PreparationBD_Relationships_Models" key="{A2EA681B-D79B-41E8-977F-0730327046FC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_Relationships_Models.sj" />
+				<child name="CR1485_PreparationBD_Securities_Morningstar" key="{7BBB43C6-6CED-4A07-92F6-23DC23FECDB9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_Securities_Morningstar.sj" />
+				<child name="CR1485_PreparationBD_Securities_PROBAL" key="{E49E5146-BA2A-4315-A323-1DAEC2C9137A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_Securities_PROBAL.sj" />
+				<child name="CR1485_PreparationBD_SetDebugModeForChartServer" key="{9B723574-3A4D-4DD6-B765-0AA83829B2D7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_SetDebugModeForChartServer.sj" />
+				<child name="CR1485_PreparationBD_SQL" key="{60403447-57CE-4067-82F4-9C788C6D1DB4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_SQL.sj" />
+				<child name="CR1485_PreparationBD_Misc" key="{89D850C7-F2DA-49DC-8F9C-FC2029E7922F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_Misc.sj" />
+			</folder>
+			<folder name="150_EXPECT_TAX_SLIPS_NRA">
+				<child name="CR1485_150_Acc_2009_NumVis" key="{1FBE8443-9E6B-4644-B634-9F578F5FF566}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_150_Acc_2009_NumVis.sj" />
+				<child name="CR1485_150_Cli_2009_NumVis" key="{6DBC0A72-0137-41E2-ACB8-9B4636AB1FE4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_150_Cli_2009_NumVis.sj" />
+				<child name="CR1485_150_Common_functions" key="{D5F709A4-5982-4439-99F8-F0522F267C17}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_150_Common_functions.sj" />
+				<child name="CR1485_150_Portf_2009" key="{A89BBFB1-42FF-4395-83D7-B37E86632F49}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_150_Portf_2009.sj" />
+				<child name="CR1485_150_Rel_2005_NumVis" key="{5C961E9B-07CF-4F93-A6E1-403C20A3468B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_150_Rel_2005_NumVis.sj" />
+			</folder>
+			<folder name="149_TAX_COVERPAGE">
+				<child name="CR1485_149_Acc_2008_Group" key="{B4B8CF9A-E12D-48EB-91F2-F808301893EC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_149_Acc_2008_Group.sj" />
+				<child name="CR1485_149_Cli_2007" key="{064082D7-197B-4D0F-AE2C-39E0AD0AC361}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_149_Cli_2007.sj" />
+				<child name="CR1485_149_Common_functions" key="{A85B32CC-655C-45B6-92D7-387E3D7D2463}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_149_Common_functions.sj" />
+				<child name="CR1485_149_Rel_ParamDef" key="{5656E606-362D-4596-AC10-F61AE31B9417}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_149_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="148_PMFA_COVERPAGE2">
+				<child name="CR1485_148_Acc_DtMdf_GGP_Grp" key="{64BBEB16-0BE0-4344-AFDF-5908317B1B2A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_148_Acc_DtMdf_GGP_Grp.sj" />
+				<child name="CR1485_148_Cli_DtMdf_GGP" key="{1943AD55-6167-410D-88A9-AFAE3AB34666}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_148_Cli_DtMdf_GGP.sj" />
+				<child name="CR1485_148_Common_functions" key="{B9E9C31B-CB15-4BE9-90F4-47FC6E8B74DC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_148_Common_functions.sj" />
+				<child name="CR1485_148_Rel_DtDef_GGPP" key="{0AD4EB3D-E904-4C23-91F1-C4A34F2168C4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_148_Rel_DtDef_GGPP.sj" />
+			</folder>
+			<folder name="147_PMFA_COVERPAGE1">
+				<child name="CR1485_147_Acc_DtMdf_GGP" key="{2D69D9A7-973B-4283-A81B-F36A8386F0F9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_147_Acc_DtMdf_GGP.sj" />
+				<child name="CR1485_147_Cli_DtDef_GGP_Grp" key="{1EE44151-AF12-4DE3-A692-AF731B3A1744}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_147_Cli_DtDef_GGP_Grp.sj" />
+				<child name="CR1485_147_Common_functions" key="{E62D9C85-6207-43B8-A86D-95B4472C825F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_147_Common_functions.sj" />
+				<child name="CR1485_147_Rel_DtMdf_GGPP" key="{4FB73634-0879-4C85-A121-DE821B6C0889}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_147_Rel_DtMdf_GGPP.sj" />
+			</folder>
+			<folder name="146_base_evol_act">
+				<child name="CR1485_146_Rel_ParamDef" key="{171960B9-3FCF-48ED-9F27-E4132FA268BD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_146_Rel_ParamDef.sj" />
+			</folder>
+			<folder name="144_PORTF_OVERVIEW">
+				<child name="CR1485_144_Acc_DateModf_NumVis_ChkDgt" key="{27490892-4FAA-4FD2-8AF1-903B99F45F5B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_144_Acc_DateModf_NumVis_ChkDgt.sj" />
+				<child name="CR1485_144_Cli_DateModf_NumHid_ChkDgt" key="{FB702503-0936-4951-A5DD-E67F90EBBDFD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_144_Cli_DateModf_NumHid_ChkDgt.sj" />
+				<child name="CR1485_144_Common_functions" key="{53557EF7-F502-414F-9A9E-17248BA8AF23}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_144_Common_functions.sj" />
+				<child name="CR1485_144_Rel_DateDef_NumVis" key="{066AEADE-5CC1-41A1-A19F-F1D2BA82FFB7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_144_Rel_DateDef_NumVis.sj" />
+			</folder>
+			<folder name="123_Add_a_File">
+				<child name="CR1485_123_Acc_FichierDOCX" key="{A39208A1-3827-4100-84D6-63D1B3B90431}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_123_Acc_FichierDOCX.sj" />
+				<child name="CR1485_123_Cli_FichierDOC" key="{173C3B23-455D-414F-865F-99EEAC4DCAE3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_123_Cli_FichierDOC.sj" />
+				<child name="CR1485_123_Common_functions" key="{9669347D-EA62-4AEF-91E7-41A894BCB6E2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_123_Common_functions.sj" />
+				<child name="CR1485_123_Mod_FichierPDF" key="{CA2663B6-58B5-4E6C-85D5-C28B73298899}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_123_Mod_FichierPDF.sj" />
+				<child name="CR1485_123_Portf_FichierDOC_DOCX_PDF" key="{38913DDF-0CD7-4B2C-B61F-2C54C5E22EF9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_123_Portf_FichierDOC_DOCX_PDF.sj" />
+				<child name="CR1485_123_Sec_FichierDOCX" key="{C41CD09D-F829-4EE2-8810-43111153398F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_123_Sec_FichierDOCX.sj" />
+			</folder>
+			<folder name="124_PERF_INTERM">
+				<child name="CR1485_124_Acc_Excl_DateModf_DefPer_TWR_6Ind_NumVis" key="{742C3187-CD4D-492D-B5D1-D1ABCF46D623}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_124_Acc_Excl_DateModf_DefPer_TWR_6Ind_NumVis.sj" />
+				<child name="CR1485_124_Cli_Excl_DateModf_Fix_DefPer_2Graph_MWR_TWR_IndDef_2Ind_Risk_NumVis" key="{6D21056A-D855-4B20-8C43-F3A641021989}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_124_Cli_Excl_DateModf_Fix_DefPer_2Graph_MWR_TWR_IndDef_2Ind_Risk_NumVis.sj" />
+				<child name="CR1485_124_Common_functions" key="{5029E356-C15B-4EAD-B523-AF0AAAC0D618}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_124_Common_functions.sj" />
+				<child name="CR1485_124_Rel_Excl_DateModf_Cum_ModPer_2Graph_MWR_TWR_Ind_2Ind_NumVis" key="{A635FCF3-33DB-4E3B-8768-8B90587067F2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_124_Rel_Excl_DateModf_Cum_ModPer_2Graph_MWR_TWR_Ind_2Ind_NumVis.sj" />
+				<child name="CR1485_124_Acc_RepCR1905" key="{07922B3C-E9DE-4939-8E84-30F1700A3A4B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_124_Acc_RepCR1905.sj" />
+			</folder>
+			<folder name="125_Monthly_transactions_report">
+				<child name="CR1485_125_Cli_DateDef" key="{1F173A45-38D0-4838-A579-D8957E7CC350}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_125_Cli_DateDef.sj" />
+				<child name="CR1485_125_Common_functions" key="{FB684F6A-8AC8-4A75-8921-D217D252AC6C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_125_Common_functions.sj" />
+			</folder>
+			<folder name="126_PERF_ACC_SUMM2">
+				<child name="CR1485_126_Acc_DateMod_DefPer_2Graphs_TWR_MWR_AllInd_NumVis" key="{6BFAF190-AAF9-4FEC-B677-E5BFF75E0565}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_126_Acc_DateMod_DefPer_2Graphs_TWR_MWR_AllInd_NumVis.sj" />
+				<child name="CR1485_126_Cli_Excl_DateDef_DefPer_MWR_IndDef_NumVis" key="{EB46D34D-3D1B-435A-86D1-7B49C24F13D9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_126_Cli_Excl_DateDef_DefPer_MWR_IndDef_NumVis.sj" />
+				<child name="CR1485_126_Common_functions" key="{267DB288-B82D-45DF-AE61-52289DCC6A0F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_126_Common_functions.sj" />
+				<child name="CR1485_126_Rel_DateMod_Fix_ModPer_2Graphs__Firm_TWR_MWR_4Ind_NumVis" key="{DF2EEE7D-9322-4BE2-B85D-F24864AEE174}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_126_Rel_DateMod_Fix_ModPer_2Graphs__Firm_TWR_MWR_4Ind_NumVis.sj" />
+			</folder>
+			<folder name="145_TAX_TRANSACTION">
+				<child name="CR1485_145_Acc_AllTrans_DateModf_GroupEnrg_GroupSec_InclAcc" key="{C1B3E5C2-3F2E-43BD-92EA-DAF395600842}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_145_Acc_AllTrans_DateModf_GroupEnrg_GroupSec_InclAcc.sj" />
+				<child name="CR1485_145_Cli_AllTrans_DateModf_GroupSec_InclAcc" key="{90B81805-983A-4CC9-BDAA-AFFCA4B2DC82}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_145_Cli_AllTrans_DateModf_GroupSec_InclAcc.sj" />
+				<child name="CR1485_145_Common_functions" key="{68B69312-645E-4BFE-8442-F3D57FF2E288}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_145_Common_functions.sj" />
+				<child name="CR1485_145_Rel_AllTrans_DateDef_InclAcc" key="{8E55538E-09A2-45D6-ACE4-23080870507F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_145_Rel_AllTrans_DateDef_InclAcc.sj" />
+			</folder>
+			<child name="CR1485_PreparationBD" key="{DDFFD917-ED85-4CEC-B60A-667B6D4F2EA9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD.sj" />
+			<child name="CR1485_Common_functions" key="{D430BF8C-C14B-4850-B018-FBA7CB59B1CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR1485_Common_functions.sj" />
+		</folder>
+		<folder name="Anomalie">
+			<child name="RPT_2671_Crash_In_The_ReportConfigurationWindow" key="{2D67F1D8-D4B6-45E0-8BDC-AC85E9D18E2E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\RPT_2671_Crash_In_The_ReportConfigurationWindow.sj" />
+		</folder>
+		<child name="Global_variables" key="{C8E27FAB-360B-47B4-AC51-6F3DADF0E552}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{321C1096-7B71-4241-BFB9-3EE41FD69BB6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\ExecutionLog.sj" />
+		<child name="PreExecution" key="{DB4E26C4-D2B3-456C-AA43-4D1C476C4CC1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\PreExecution.sj" />
+		<child name="GetListOfTestsToBeRun" key="{4E0BC583-5FAC-4105-8DE7-B64D9ECD017F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

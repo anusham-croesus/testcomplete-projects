@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{E3D97F73-ADA9-4201-95AC-3253B195D2A2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{1BA2407E-00B8-4430-A8C9-16D6D632BDB5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{6DD0E94D-5168-4760-B1ED-4C1BF2FFFE28}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{3D22E1D3-FE85-4B38-88EE-2F77D03C1B22}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{3B4C1B8D-8A61-4FF8-8BDC-FF5A7D946C47}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{A30D9DDF-4192-4A63-AE5C-2F5DDC2327B6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{A099EA38-F9B3-4BC7-905A-83DFA7532B43}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{28FAE234-9F04-4530-9F98-59C56BC6D870}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{61D222A6-C89D-49E3-86F2-574E809FCF27}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{B6E13CD7-ED4F-410F-B486-1AD1C416B128}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{3B2044D5-61D0-4819-8EE6-078EA7D7072C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{83CB7C7F-E5DA-4264-BAA6-1B0109200E94}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{932799C5-D6EA-44CC-90AA-6F2CB4FA6A5F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{44A15696-D440-4A12-A859-41F8CBB414EA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{DA33AA72-5D7C-470A-BF75-EE9D499CCE94}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{A2CECA26-8F67-448E-9047-966B1364E9EE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{C0B1A09F-7437-4854-A85C-E928D1D51EE7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{0B3607B5-EA32-4A20-9BF4-587BCD33526D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{A64BDD4A-5E64-438D-981D-FA3212DF7F98}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="CommonCheckpoints" key="{E4F687E0-0E09-4471-9A7E-6536B2515C9D}" path="..\..\..\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="PDFUtils" key="{E3190FF6-7660-444F-AE96-684336F7CE7E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="Survol">
+			<folder name="Sum">
+				<child name="Survol_Cli_ToolBar_btnSum" key="{6DD56A9B-74A1-4D1C-905D-C0FBD8DB671D}" path="Survol_Cli_ToolBar_btnSum.sj" />
+				<child name="Survol_Cli_Sum_AltS" key="{2C3A2A1A-128A-40EC-A01B-751655206BD1}" path="Survol_Cli_Sum_AltS.sj" />
+				<child name="Survol_Cli_MenuBar_EditSum" key="{A1B7FFB5-8BA9-4068-9458-781D8FB8B109}" path="Survol_Cli_MenuBar_EditSum.sj" />
+			</folder>
+			<folder name="Close_Application">
+				<child name="Survol_Cli_AltF4" key="{785571B1-0722-46DB-8C81-DB24167DBA4E}" path="Survol_Cli_AltF4.sj" />
+				<child name="Survol_Cli_AltQ" key="{678D8A3D-1365-4B17-A255-3F9C52D841B8}" path="Survol_Cli_AltQ.sj" />
+				<child name="Survol_Cli_Quitter" key="{38350134-D18F-400E-B17F-2A2A2756D04C}" path="Survol_Cli_Quitter.sj" />
+				<child name="Survol_Cli_SysClose" key="{7CBA0BCA-0A2A-46D3-904D-06F64EFF635A}" path="Survol_Cli_SysClose.sj" />
+				<child name="Survol_Cli_X" key="{2920183B-9000-4634-A750-8946184B501F}" path="Survol_Cli_X.sj" />
+			</folder>
+			<folder name="Agenda">
+				<child name="Survol_Cli_Agenda_Ctrl_Maj_L" key="{1DFA5857-F52B-452C-B1CE-18F194378E2A}" path="Survol_Cli_Agenda_Ctrl_Maj_L.sj" />
+				<child name="Survol_Cli_MenuBar_ToolsAgenda" key="{02C12FFA-1F9A-4254-B24E-1D9445C7D9F5}" path="Survol_Cli_MenuBar_ToolsAgenda.sj" />
+				<child name="Survol_Cli_ToolBar_btnAgenda" key="{EC0E0D79-EB87-4311-B95B-9609F6F5949C}" path="Survol_Cli_ToolBar_btnAgenda.sj" />
+			</folder>
+			<folder name="Add_Filter">
+				<child name="Survol_Cli_MenuBar_SearchAddFilter" key="{A264D502-BEE0-430D-90F2-2F1450EC5CAA}" path="Survol_Cli_MenuBar_SearchAddFilter.sj" />
+				<child name="Survol_Cli_ToolBar_btnQuickFilters_AddFilter" key="{C29C07B4-1C08-4FFE-B37E-F0F84D599524}" path="Survol_Cli_ToolBar_btnQuickFilters_AddFilter.sj" />
+			</folder>
+			<folder name="Add_Search_Criterion">
+				<child name="Survol_Cli_MenuBar_SearchCriteriaSubmenuAddSearchCriterion" key="{9EAF1598-6A8D-4AE6-B31B-D8DA5F438000}" path="Survol_Cli_MenuBar_SearchCriteriaSubmenuAddSearchCriterion.sj" />
+				<child name="Survol_Cli_Toolbar_BtnAddSearchCriterion" key="{C4FC2D99-4008-4F18-A368-2BB2D9D79004}" path="Survol_Cli_Toolbar_BtnAddSearchCriterion.sj" />
+			</folder>
+			<folder name="Archive_Documents">
+				<child name="Survol_Cli_ArchiveDoc_Ctrl_Maj_A" key="{2F36213E-3CE9-4A95-BF4E-BCF04D65AADE}" path="Survol_Cli_ArchiveDoc_Ctrl_Maj_A.sj" />
+				<child name="Survol_Cli_MenuBar_Tools_btnArchiveMyDocuments" key="{226F0D71-D743-4DC0-A5EE-A4B757D6CB61}" path="Survol_Cli_MenuBar_Tools_btnArchiveMyDocuments.sj" />
+				<child name="Survol_Cli_ToolBar_btnArchiveMyDocuments" key="{920D3189-930A-4439-A69F-9C0E3D5AF453}" path="Survol_Cli_ToolBar_btnArchiveMyDocuments.sj" />
+			</folder>
+			<folder name="Bond_Calculator">
+				<child name="Survol_Cli_Calculator_Ctrl_Maj_O" key="{81FEDD9A-2537-4538-B8BC-83BC43AE8B3B}" path="Survol_Cli_Calculator_Ctrl_Maj_O.sj" />
+				<child name="Survol_Cli_MenuBar_Tools_btnCalculator" key="{311BDCE4-5DAC-4AC7-936C-B6EED58BD5FE}" path="Survol_Cli_MenuBar_Tools_btnCalculator.sj" />
+				<child name="Survol_Cli_Toolbar_btnBondCalculator" key="{37D7C9FE-4C79-4443-9B3E-345BBE570F5D}" path="Survol_Cli_Toolbar_btnBondCalculator.sj" />
+			</folder>
+			<folder name="Internet">
+				<child name="Survol_Cli_MenuBar_Tools_Internet" key="{88EA21CA-30CC-4215-9AF6-582D8ABABCDE}" path="Survol_Cli_MenuBar_Tools_Internet.sj" />
+				<child name="Survol_Cli_ToolBar_btnInternet" key="{36D8AD84-DC23-458D-BBE1-FF2B71FC032C}" path="Survol_Cli_ToolBar_btnInternet.sj" />
+			</folder>
+			<folder name="Financial_Instrument_Selector">
+				<folder name="Create_buy_order">
+					<child name="Survol_Cli_CreateBuyOrder_ClickR" key="{18F7C746-A477-47EA-95F1-8357A5E91B40}" path="Survol_Cli_CreateBuyOrder_ClickR.sj" />
+					<child name="Survol_Cli_CreateBuyOrder_CtrlShiftB" key="{E7B6CB76-0257-45BB-8E1D-9FFA83BA9E56}" path="Survol_Cli_CreateBuyOrder_CtrlShiftB.sj" />
+					<child name="Survol_Cli_Menubar_CreateBuyOrder" key="{8FC2B5CC-C4D7-4D87-A44E-2926BC7EE795}" path="Survol_Cli_Menubar_CreateBuyOrder.sj" />
+					<child name="Survol_Cli_Toolbar_btnCreateBuyOrder" key="{35DE4045-F840-43C1-8B10-54ECC6611FA1}" path="Survol_Cli_Toolbar_btnCreateBuyOrder.sj" />
+				</folder>
+				<folder name="Create_sell_order">
+					<child name="Survol_Cli_CreateSellOrder_ClickR" key="{258C1D9B-D103-477F-939A-A3262AAA5769}" path="Survol_Cli_CreateSellOrder_ClickR.sj" />
+					<child name="Survol_Cli_CreateSellOrder_CtrlShifts" key="{5F5B9C8D-C502-437B-8A6C-C31270124174}" path="Survol_Cli_CreateSellOrder_CtrlShifts.sj" />
+					<child name="Survol_Cli_Menubar_CreateSellOrder" key="{67DBDA9B-8932-43E9-A6CD-E47B55A3B417}" path="Survol_Cli_Menubar_CreateSellOrder.sj" />
+					<child name="Survol_Cli_Toolbar_btnCreateSellOrder" key="{79C231D3-1805-4A91-891A-F6FFAAEE048C}" path="Survol_Cli_Toolbar_btnCreateSellOrder.sj" />
+				</folder>
+			</folder>
+			<folder name="MainWin">
+				<folder name="Grid_column_ header">
+					<child name="Survol_Cli_Grid_column_header" key="{2097CC8A-784D-49E5-B4DF-91392F43C13E}" path="Survol_Cli_Grid_column_header.sj" />
+				</folder>
+				<folder name="Details">
+					<child name="Survol_Cli_MainWin_Details" key="{7BD44829-EA75-421C-A6AF-DC1B8F28FF4C}" path="Survol_Cli_MainWin_Details.sj" />
+				</folder>
+			</folder>
+			<folder name="Clients_Reports">
+				<child name="Survol_Cli_MenuBar_ReportsClients" key="{4BE38C27-0C0A-4402-85C6-5CA6293CF20D}" path="Survol_Cli_MenuBar_ReportsClients.sj" />
+				<child name="Survol_Cli_ToolBar_btnReportsAndGraphs" key="{FF475559-79B7-4FFB-87D5-B0ED7B4BB5B8}" path="Survol_Cli_ToolBar_btnReportsAndGraphs.sj" />
+			</folder>
+			<folder name="Info">
+				<child name="Survol_Cli_ClientsBar_BtnInfo" key="{D275FD9E-D54C-41E8-B8D2-777E510A3198}" path="Survol_Cli_ClientsBar_BtnInfo.sj" />
+				<child name="Survol_Cli_ContextualMenu_Functions_Info" key="{BC646443-7B14-4928-99BC-EEBD90F55FA1}" path="Survol_Cli_ContextualMenu_Functions_Info.sj" />
+				<child name="Survol_Cli_MenuBar_EditFunctions_Info" key="{E5BE000A-33BB-40B8-B11B-2AC5093B545F}" path="Survol_Cli_MenuBar_EditFunctions_Info.sj" />
+			</folder>
+			<folder name="Info(i)">
+				<child name="Survol_Cli_ContextualMenu_i" key="{852528A0-065D-427E-8E7F-1A6CF6D90316}" path="Survol_Cli_ContextualMenu_i.sj" />
+				<child name="Survol_Cli_i_Ctrl_L" key="{85884B9C-49BC-409D-877B-5870C006FDE4}" path="Survol_Cli_i_Ctrl_L.sj" />
+				<child name="Survol_Cli_MenuBar_Edit_i" key="{F44815F9-02D4-49C9-977C-CFC85CCF135A}" path="Survol_Cli_MenuBar_Edit_i.sj" />
+				<child name="Survol_Cli_ToolBar_Btn_i" key="{FB1A5A85-18C9-4305-B9AE-0122E55FACB5}" path="Survol_Cli_ToolBar_Btn_i.sj" />
+			</folder>
+			<folder name="Activities">
+				<child name="Survol_Cli_ClientsBar_Activities" key="{85A476F6-433E-4974-9D28-4EFA7465F0A1}" path="Survol_Cli_ClientsBar_Activities.sj" />
+				<child name="Survol_Cli_ContextualMenu_Functions_Activities" key="{850D0A0D-DEEF-4D16-9640-BE5CBAA22419}" path="Survol_Cli_ContextualMenu_Functions_Activities.sj" />
+				<child name="Survol_Cli_MenuBar_EditFunctions_Activities" key="{BD5FDF1D-D208-4904-A300-28859F155E19}" path="Survol_Cli_MenuBar_EditFunctions_Activities.sj" />
+			</folder>
+			<folder name="Performance">
+				<child name="Survol_Cli_ClientsBar_Performance" key="{B3FE3108-A8FF-41DA-A2B2-E1A14A0B63C3}" path="Survol_Cli_ClientsBar_Performance.sj" />
+				<child name="Survol_Cli_ContextualMenu_Functions_Performance" key="{183C1FF5-891A-430C-BDC4-5D93F65F9CE7}" path="Survol_Cli_ContextualMenu_Functions_Performance.sj" />
+				<child name="Survol_Cli_MenuBar_EditFunctions_Performance" key="{99CE682A-5B88-4ACE-BFFA-782E71F776DE}" path="Survol_Cli_MenuBar_EditFunctions_Performance.sj" />
+			</folder>
+			<folder name="Print">
+				<child name="Survol_Cli_MenuBar_FilePrint" key="{00153A7E-BBE0-4276-B301-2D55446D92B2}" path="Survol_Cli_MenuBar_FilePrint.sj" />
+				<child name="Survol_Cli_Print_AltP" key="{8C5793D0-33FC-4D6F-ADF3-BB90C8913424}" path="Survol_Cli_Print_AltP.sj" />
+				<child name="Survol_Cli_ToolBar_btnPrint" key="{23BD904F-D154-4852-BD17-2B1E373DFF6F}" path="Survol_Cli_ToolBar_btnPrint.sj" />
+				<child name="Survol_Cli_Print_ClickR" key="{E7F39458-710A-4B7B-ADE2-F37DD80D9D1D}" path="Survol_Cli_Print_ClickR.sj" />
+			</folder>
+			<folder name="Search">
+				<child name="Survol_Cli_MenuBar_EditSearch" key="{FAB04987-35C2-4C0B-B8C5-95E310FC3F2E}" path="Survol_Cli_MenuBar_EditSearch.sj" />
+				<child name="Survol_Cli_Search_KeyboardSearch" key="{86E60FAB-802A-459E-808E-F1651A13AA05}" path="Survol_Cli_Search_KeyboardSearch.sj" />
+				<child name="Survol_Cli_ToolBar_btnSearch" key="{BCF4E6A5-2712-46A6-940C-3A78973E0F99}" path="Survol_Cli_ToolBar_btnSearch.sj" />
+			</folder>
+			<folder name="Search_Manage">
+				<child name="Survol_Cli_MenuBar_SearchCriteriaSubmenuSearchManage" key="{871A981F-47A0-4A82-9033-328A23BBC8B2}" path="Survol_Cli_MenuBar_SearchCriteriaSubmenuSearchManage.sj" />
+				<child name="Survol_Cli_ToolBar_btnManageSearchCriteria" key="{1919BA49-B85E-48BC-BE22-756B29725EE7}" path="Survol_Cli_ToolBar_btnManageSearchCriteria.sj" />
+			</folder>
+			<folder name="Lock_Application">
+				<child name="Survol_Cli_MenuBar_FileLock_BtnOk_WithoutPSW" key="{381C3F96-155F-4453-8121-7CE9F0880DED}" path="Survol_Cli_MenuBar_FileLock_BtnOk_WithoutPSW.sj" />
+				<child name="Survol_Cli_MenuBar_FileLock_BtnQuit" key="{703E8418-A0F7-4D96-B2D6-D74FFF6795EA}" path="Survol_Cli_MenuBar_FileLock_BtnQuit.sj" />
+				<child name="Survol_Cli_ToolBar_BtnLockTheApplication_BtnOk_WithPSW" key="{BF628C48-EB3F-4AE1-8DC6-0BBF27F2DEE9}" path="Survol_Cli_ToolBar_BtnLockTheApplication_BtnOk_WithPSW.sj" />
+			</folder>
+			<folder name="Quick_Filters">
+				<child name="Survol_Cli_MenuBar_Search_QuickFilters_Manage" key="{2E29880C-9F81-41D6-9719-B266904F1D92}" path="Survol_Cli_MenuBar_Search_QuickFilters_Manage.sj" />
+				<child name="Survol_Cli_ToolBar_QuickFilters_Manage" key="{CA1662E3-3792-4D4F-BAE7-A44D71D39071}" path="Survol_Cli_ToolBar_QuickFilters_Manage.sj" />
+				<child name="Survol_Cli_QuickFilters_Manage_Ctrl_Maj_Q" key="{50CBDD8A-96A5-4148-841E-059B74950CBA}" path="Survol_Cli_QuickFilters_Manage_Ctrl_Maj_Q.sj" />
+			</folder>
+			<folder name="Compose_Address">
+				<child name="Survol_Cli_MenuBar_Tools_Internet_ComposeAddress" key="{4D55EB1F-B879-4B83-9F73-616D98AE79C8}" path="Survol_Cli_MenuBar_Tools_Internet_ComposeAddress.sj" />
+				<child name="Survol_Cli_ToolBar_BtnInternet_ComposeAddress" key="{CB61A105-5003-489A-BE94-E01D7B3F78D4}" path="Survol_Cli_ToolBar_BtnInternet_ComposeAddress.sj" />
+				<child name="Survol_Cli_Internet_ComposeAddress_CtrlO" key="{0ACA4246-D162-46FF-8914-FABC41F8288C}" path="Survol_Cli_Internet_ComposeAddress_CtrlO.sj" />
+			</folder>
+			<folder name="Add_Client">
+				<folder name="Fictitious">
+					<child name="Survol_Cli_MenuBar_Edit_AddFictitious" key="{87F4C2DD-AB04-4A7F-92F2-4C64526F2E5D}" path="Survol_Cli_MenuBar_Edit_AddFictitious.sj" />
+					<child name="Survol_Cli_ToolBar_btnAdd_Fictitious" key="{584934F9-A27E-4214-9562-43E4F7A6FB6D}" path="Survol_Cli_ToolBar_btnAdd_Fictitious.sj" />
+					<child name="Survol_Cli_ContextualMenu_AddFictitious" key="{29437CAA-86E6-40B4-9482-841D5A567E7E}" path="Survol_Cli_ContextualMenu_AddFictitious.sj" />
+				</folder>
+				<folder name="External">
+					<child name="Survol_Cli_ContextualMenu_AddExternal" key="{7A55CA85-D899-42B6-AAEB-7D9438073FAC}" path="Survol_Cli_ContextualMenu_AddExternal.sj" />
+					<child name="Survol_Cli_MenuBar_Edit_AddExternal" key="{3303FEE2-8D2C-44DF-9C9C-EC2ABC6553A3}" path="Survol_Cli_MenuBar_Edit_AddExternal.sj" />
+					<child name="Survol_Cli_ToolBar_btnAdd_External" key="{E2B29160-02BD-40D1-ACE3-581481AB0C9F}" path="Survol_Cli_ToolBar_btnAdd_External.sj" />
+				</folder>
+			</folder>
+			<folder name="Info_list">
+				<folder name="Info">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Info" key="{68D6F590-B49A-464D-8A7E-2B92E82644D4}" path="Survol_Cli_ClientsBar_BtnInfo_Info.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoInfo" key="{9EC1E009-21AC-46B7-B89F-32BD58FE6207}" path="Survol_Cli_MenuBar_EditFunctions_InfoInfo.sj" />
+				</folder>
+				<folder name="Notes">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Notes" key="{7322FD90-9591-4218-BBE5-7257937775F8}" path="Survol_Cli_ClientsBar_BtnInfo_Notes.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoNotes" key="{B0E9979C-D6A7-4924-B400-8433164B0597}" path="Survol_Cli_MenuBar_EditFunctions_InfoNotes.sj" />
+				</folder>
+				<folder name="Addresses">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Addresses" key="{324DC05E-E036-40EE-9EB5-AD6DFC8E846E}" path="Survol_Cli_ClientsBar_BtnInfo_Addresses.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoAddresses" key="{CC7DE2BA-8FEE-457A-83A9-2F1ED91220DA}" path="Survol_Cli_MenuBar_EditFunctions_InfoAddresses.sj" />
+				</folder>
+				<folder name="Telephones">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Telephones" key="{8EC1BC92-B920-44CE-925A-D7667ACAD711}" path="Survol_Cli_ClientsBar_BtnInfo_Telephones.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_Telephones" key="{C111A194-ABEC-457F-9586-13E82C1A2719}" path="Survol_Cli_MenuBar_EditFunctions_Telephones.sj" />
+				</folder>
+				<folder name="Email">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Email" key="{21E74A5E-BA96-49C5-A98E-87F9F450533F}" path="Survol_Cli_ClientsBar_BtnInfo_Email.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoEmail" key="{B175993F-C071-4727-BCBB-D6D2922D6029}" path="Survol_Cli_MenuBar_EditFunctions_InfoEmail.sj" />
+				</folder>
+				<folder name="Agenda">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Agenda" key="{01C12863-7DD0-4017-8090-6219FCBCDCEE}" path="Survol_Cli_ClientsBar_BtnInfo_Agenda.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoAgenda" key="{9F231350-6AFF-4341-861E-BBC2F4F25856}" path="Survol_Cli_MenuBar_EditFunctions_InfoAgenda.sj" />
+				</folder>
+				<folder name="Products_Services">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_ProductsServices" key="{3551F10E-F545-4504-97DF-3C413D9E6CA2}" path="Survol_Cli_ClientsBar_BtnInfo_ProductsServices.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_ProductsServices" key="{5BB5AB58-B41E-4334-8AB9-D249C82A3F60}" path="Survol_Cli_MenuBar_EditFunctions_ProductsServices.sj" />
+				</folder>
+				<folder name="InvestmentObjective">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_InvestmentObjective" key="{4542704F-12CE-40CA-BDFF-DC359C91C314}" path="Survol_Cli_ClientsBar_BtnInfo_InvestmentObjective.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoInvestmentObjective" key="{17A993DA-2776-444B-A0B3-C188559F90E1}" path="Survol_Cli_MenuBar_EditFunctions_InfoInvestmentObjective.sj" />
+				</folder>
+				<folder name="Default Reports">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_DefaultReports" key="{CC7A0624-4189-4702-9105-9859A8745197}" path="Survol_Cli_ClientsBar_BtnInfo_DefaultReports.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoDefaultReports" key="{8EFFA123-179D-484B-BD0C-3323B3C37077}" path="Survol_Cli_MenuBar_EditFunctions_InfoDefaultReports.sj" />
+				</folder>
+				<folder name="Default Indices">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_DefaultIndices" key="{4761C74C-5B6C-4487-AC17-0D5AA215F3FB}" path="Survol_Cli_ClientsBar_BtnInfo_DefaultIndices.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoDefaultIndices" key="{912D291F-7F8A-4B2C-B0BA-851E506DE13B}" path="Survol_Cli_MenuBar_EditFunctions_InfoDefaultIndices.sj" />
+				</folder>
+				<folder name="Profiles">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Profiles" key="{CE2BF68C-4D05-438A-B36A-DEB6F5D63394}" path="Survol_Cli_ClientsBar_BtnInfo_Profiles.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_Profiles" key="{04C06B20-B731-4369-9FC2-BE4998A85431}" path="Survol_Cli_MenuBar_EditFunctions_Profiles.sj" />
+				</folder>
+				<folder name="Documents">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Documents" key="{71C584A1-15CE-483F-9BA4-28BCF9DCF191}" path="Survol_Cli_ClientsBar_BtnInfo_Documents.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoDocuments" key="{FDD4F027-1995-46F7-BB81-C458CB761A2E}" path="Survol_Cli_MenuBar_EditFunctions_InfoDocuments.sj" />
+				</folder>
+				<folder name="Costumer Network">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_ClientNetwork" key="{E339A734-9809-42AF-B7A5-63E3C1097070}" path="Survol_Cli_ClientsBar_BtnInfo_ClientNetwork.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoClientNetwork" key="{1D054B63-385F-4308-86E6-57F6267D4000}" path="Survol_Cli_MenuBar_EditFunctions_InfoClientNetwork.sj" />
+				</folder>
+				<folder name="Campaigns">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Campaigns" key="{07F79195-E233-45EB-B69A-46B0A9AF0B41}" path="Survol_Cli_ClientsBar_BtnInfo_Campaigns.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoCampaigns" key="{7AC3A2F0-B248-499C-A1F7-F192AC688448}" path="Survol_Cli_MenuBar_EditFunctions_InfoCampaigns.sj" />
+				</folder>
+				<child name="Survol_Cli_MenuBar_EditFunctions_Common" key="{0C7FD630-9BEA-489F-89A6-2995201371E3}" path="Survol_Cli_MenuBar_EditFunctions_Common.sj" />
+				<child name="Survol_Cli_MenuBar_EditFunctions_InfoGrouped" key="{45F42D3F-DFB9-4684-A1C9-3015E360858F}" path="Survol_Cli_MenuBar_EditFunctions_InfoGrouped.sj" />
+			</folder>
+		</folder>
+		<folder name="CR1352">
+			<folder name="Quick_Temporary_Filters">
+				<child name="CR1352_1037_Cli_Create_TempCPFilter_ToolBar_btnQuickFilters" key="{704A89E1-DCA2-40FF-9CA9-7FC3D54EE4BA}" path="CR1352_1037_Cli_Create_TempCPFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1038_Cli_Edit_TempFilter" key="{66DEE38D-3E38-489E-A9FC-77271732993B}" path="CR1352_1038_Cli_Edit_TempFilter.sj" />
+				<child name="CR1352_1039_Cli_Edit_TempFilter_ByPermanentFilter" key="{C6F94BEE-00E3-4E69-8FC2-55B678564BED}" path="CR1352_1039_Cli_Edit_TempFilter_ByPermanentFilter.sj" />
+				<child name="CR1352_1040_Cli_Create_TempTotalValueFilter_ToolBar_btnQuickFilters" key="{EF04972A-CEEA-4247-998E-EA99F596A874}" path="CR1352_1040_Cli_Create_TempTotalValueFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1041_Cli_Create_TempDateFilter_ToolBar_btnQuickFilters" key="{A5C176F2-7A13-415C-8D20-42DBF3087235}" path="CR1352_1041_Cli_Create_TempDateFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1042_Cli_Create_TempAddressFilter_ToolBar_btnQuickFilters" key="{342110FF-E273-4079-BC26-523A833837C6}" path="CR1352_1042_Cli_Create_TempAddressFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1043_Cli_Create_TempCurrencyFilter_ToolBar_btnQuickFilters" key="{31A5680B-846F-4AFA-BA02-D9E641E6247C}" path="CR1352_1043_Cli_Create_TempCurrencyFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1044_Cli_Create_TempMarginFilter_ToolBar_btnQuickFilters" key="{18CBEDE3-641E-45BF-B99E-B0A0E3B4BB43}" path="CR1352_1044_Cli_Create_TempMarginFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1045_Cli_Create_TempSINFilter_ToolBar_btnQuickFilters" key="{C29944B7-7787-4771-B579-0C1DCABF21EB}" path="CR1352_1045_Cli_Create_TempSINFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1048_Cli_CancelEdition_TempFilter" key="{7A253A0C-3E71-4DC8-8534-C9658FE0E126}" path="CR1352_1048_Cli_CancelEdition_TempFilter.sj" />
+				<child name="CR1352_1047_Cli_Create_TempLanguageFilter_ToolBar_btnQuickFilters" key="{A972ADD3-949A-45FE-8780-ECF648B6BB47}" path="CR1352_1047_Cli_Create_TempLanguageFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1046_Cli_Create_TempSegmentationFilter_ToolBar_btnQuickFilters" key="{C0D790DC-DD6D-4BFF-8794-F7B188FC68DB}" path="CR1352_1046_Cli_Create_TempSegmentationFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1049_Cli_Deactivate_TempFilter" key="{A330A776-B91D-4CEF-ADF1-1EA0273BA0EF}" path="CR1352_1049_Cli_Deactivate_TempFilter.sj" />
+				<child name="CR1352_1050_Cli_EditInactive_TempFilter" key="{03C4DC97-9CEF-44E8-993C-CF572F65DA82}" path="CR1352_1050_Cli_EditInactive_TempFilter.sj" />
+				<child name="CR1352_1051_Cli_Delete_TempFilter" key="{4D39FC4C-C091-4866-87C4-38D5D8FFE7E4}" path="CR1352_1051_Cli_Delete_TempFilter.sj" />
+				<child name="CR1352_1053_Cli_Create_SeveralTempFilter" key="{539964ED-0094-4B47-965C-D2702014851D}" path="CR1352_1053_Cli_Create_SeveralTempFilter.sj" />
+				<child name="CR1352_1054_Cli_DeactivateSimultaneously_SeveralTempFilter" key="{A61013F4-707A-4936-AB26-A84013C93CD7}" path="CR1352_1054_Cli_DeactivateSimultaneously_SeveralTempFilter.sj" />
+				<child name="CR1352_1055_Cli_TempFilter_IsNotLoaded_AfterStartup" key="{D78EC619-787E-4DD1-8A7D-B51030CBA0F7}" path="CR1352_1055_Cli_TempFilter_IsNotLoaded_AfterStartup.sj" />
+				<child name="CR1352_1056_Cli_TempFilter_SavedAndLoaded_AfterStartup" key="{63B5171A-0D12-4E91-A29F-DE0E5CBA1372}" path="CR1352_1056_Cli_TempFilter_SavedAndLoaded_AfterStartup.sj" />
+				<child name="CR1352_1460_Cli_Create_TempCPFilter_Icon_Y" key="{91226BB5-ADE4-447C-8010-FD9C0F30B883}" path="CR1352_1460_Cli_Create_TempCPFilter_Icon_Y.sj" />
+				<child name="CR1352_1345_Cli_TempFilter_SavedAndLoaded_AfterStartup_WithInitialState" key="{764F6812-0942-4B76-92ED-883CE694E77B}" path="CR1352_1345_Cli_TempFilter_SavedAndLoaded_AfterStartup_WithInitialState.sj" />
+				<child name="CR1352_1435_Cli_Delete_AppliedProfile_asTemFilter" key="{A91D4445-57AE-4B29-A9E1-2EF8D750782A}" path="CR1352_1435_Cli_Delete_AppliedProfile_asTemFilter.sj" />
+				<child name="CR1352_1435_Cli_GroupProfil" key="{B2B88302-49C8-4CF0-921B-9592DC0CFB59}" path="CR1352_1435_Cli_GroupProfil.js" />
+				<child name="CR1352_1413_Cli_Delete_AppliedProfile_asPerFilter" key="{5F20BBF0-47E1-4D4A-8812-E6CC4025195F}" path="CR1352_1413_Cli_Delete_AppliedProfile_asPerFilter.js" />
+			</folder>
+			<folder name="Quick_Permanent_Filters">
+				<child name="CR1352_1153_Cli_Create_PerCurrencyFilter_Icon_Y" key="{5A3AACF7-AAD8-4A8F-9424-B7B09CA69C56}" path="CR1352_1153_Cli_Create_PerCurrencyFilter_Icon_Y.sj" />
+				<child name="CR1352_1453_Cli_Create_PerCurrencyFilter_MenuBar_SearchAddFilter" key="{E211A083-D99D-4CD4-9FB5-59B9A00AA8A6}" path="CR1352_1453_Cli_Create_PerCurrencyFilter_MenuBar_SearchAddFilter.sj" />
+				<child name="CR1352_1164_Cli_Create_PerNoCLientFilter_FromTemFilter" key="{2A7B72D2-0653-4F50-AB34-DA5550FFA94E}" path="CR1352_1164_Cli_Create_PerNoCLientFilter_FromTemFilter.sj" />
+				<child name="CR1352_1165_Cli_Create_GlobalAccessFilter" key="{2F081BF8-0DC7-411F-805A-3CD84F594753}" path="CR1352_1165_Cli_Create_GlobalAccessFilter.sj" />
+				<child name="CR1352_1166_Cli_Create_FirmAccessFilter" key="{E5124CFA-57AA-44D2-ABCB-2FCAEFE62CDF}" path="CR1352_1166_Cli_Create_FirmAccessFilter.sj" />
+				<child name="CR1352_1167_Cli_Create_BranchAccessFilter" key="{06D91411-4713-4DE3-974D-C9A08726C248}" path="CR1352_1167_Cli_Create_BranchAccessFilter.sj" />
+				<child name="CR1352_1168_Cli_Create_WorkGroupAccessFilter" key="{06B13726-6548-4E49-90C1-177D5261DA96}" path="CR1352_1168_Cli_Create_WorkGroupAccessFilter.sj" />
+				<child name="CR1352_1169_Cli_Create_UserAccessFilter" key="{B3360DD1-F40C-4B13-AB65-84B4E758E2EF}" path="CR1352_1169_Cli_Create_UserAccessFilter.sj" />
+				<child name="CR1352_1170_Cli_UniqueFiltreName_ForAccesLevel" key="{33450D6F-2567-4D3F-B63D-3C836F7BBD68}" path="CR1352_1170_Cli_UniqueFiltreName_ForAccesLevel.sj" />
+				<child name="CR1352_1171_Cli_Edit_PerGlobalFilter" key="{2C441E4E-D436-4350-A68B-49AD3F8C8E9B}" path="CR1352_1171_Cli_Edit_PerGlobalFilter.sj" />
+				<child name="CR1352_1172_Cli_Edit_PerFiltre" key="{09C75D11-F21A-4794-89B6-91BA21B53C60}" path="CR1352_1172_Cli_Edit_PerFiltre.sj" />
+				<child name="CR1352_1173_Cli_Edit_AppliedFilter" key="{AF2F3885-0421-4D53-B518-5F63477C891B}" path="CR1352_1173_Cli_Edit_AppliedFilter.sj" />
+				<child name="CR1352_1174_Cli_Apply_FilterWithoutResults" key="{5594BF65-61DD-43DF-B3BB-F006EAF905B7}" path="CR1352_1174_Cli_Apply_FilterWithoutResults.sj" />
+				<child name="CR1352_1175_Cli_Delete_AppliedFilter" key="{0F42734B-342B-4E0C-86A7-AA83D958F6A9}" path="CR1352_1175_Cli_Delete_AppliedFilter.sj" />
+				<child name="CR1352_1175_Cli_Delete_FilterFromManageFilters" key="{0C3D7ED6-DC76-44D5-857D-92E58123ED50}" path="CR1352_1175_Cli_Delete_FilterFromManageFilters.sj" />
+				<child name="CR1352_1176_Cli_DeactivatePerFilter" key="{1BBFA490-A886-4468-8499-FACE963393CE}" path="CR1352_1176_Cli_DeactivatePerFilter.sj" />
+				<child name="CR1352_1177_Cli_Loading_PerFilter_AfterStartUp" key="{53155F6D-476A-4690-9B98-B5708027585B}" path="CR1352_1177_Cli_Loading_PerFilter_AfterStartUp.sj" />
+				<child name="CR1352_1177_Cli_LoadingSeveral_PerFilter_AfterStartUp" key="{A6BD4FF3-64D9-4A93-8A8C-977072A211C4}" path="CR1352_1177_Cli_LoadingSeveral_PerFilter_AfterStartUp.sj" />
+				<child name="CR1352_1177_Cli_LoadingSeveral_PerTemFilter_AfterStartUp" key="{EE6A02E8-CA97-4087-B65A-417AA6E8867A}" path="CR1352_1177_Cli_LoadingSeveral_PerTemFilter_AfterStartUp.sj" />
+				<child name="CR1352_1437_Cli_Remove_Filter_btnRedisplay" key="{58977941-5F02-4AD9-9F06-0D80BD06F24B}" path="CR1352_1437_Cli_Remove_Filter_btnRedisplay.sj" />
+				<child name="CR1352_1450_Cli_Remove_Filter_btnX" key="{441CA397-6F0D-43F4-A402-BD743F504055}" path="CR1352_1450_Cli_Remove_Filter_btnX.sj" />
+				<child name="CR1352_1154_Cli_Create_FilterFromManageFilters" key="{F9BEF55A-93CB-424D-B8A0-4AC389859C05}" path="CR1352_1154_Cli_Create_FilterFromManageFilters.sj" />
+				<child name="CR1352_1412_Cli_Displaying_Predefined_Filters_inFiltersMenu" key="{445B6CC0-A381-47DA-8F88-E8BD80A586CD}" path="CR1352_1412_Cli_Displaying_Predefined_Filters_inFiltersMenu.sj" />
+				<child name="CR1352_1410_Cli_Loading_InactivePerFilter_AfterStartUp" key="{AA9FC467-531E-4FCB-9AFC-9A1ED669689A}" path="CR1352_1410_Cli_Loading_InactivePerFilter_AfterStartUp.sj" />
+				<child name="CR1352_1436_Cli_Delete_AppliedFilter_asTemFilter" key="{BFCEF8B8-F553-4610-9A4C-3C7E4ECD2FBA}" path="CR1352_1436_Cli_Delete_AppliedFilter_asTemFilter.sj" />
+				<child name="CR1352_1451_Cli_AddScroll_underFiltersBar" key="{AD3D6FB5-305B-4C9C-8510-756B90AC762A}" path="CR1352_1451_Cli_AddScroll_underFiltersBar.sj" />
+				<child name="CR1352_1410_Cli_LoadingSeveral_PerFilter_AfterStartUp" key="{29A13F6F-34EB-469D-B295-6CE82B5AFE46}" path="CR1352_1410_Cli_LoadingSeveral_PerFilter_AfterStartUp.sj" />
+			</folder>
+			<folder name="Manage_Filters ">
+				<child name="CR1352_1440_Cli_Cancel_Print" key="{8DB37A2B-2700-461B-85B2-C337DE03AE48}" path="CR1352_1440_Cli_Cancel_Print.sj" />
+				<child name="CR1352_1441_Cli_StateOfBtns_forUserAccessFilter" key="{E9713FD4-6079-48B3-9EBA-5349A079A5F4}" path="CR1352_1441_Cli_StateOfBtns_forUserAccessFilter.sj" />
+				<child name="CR1352_1441_Cli_StateOfBtns_forGlobalAccessFilter" key="{3397CFD1-7724-44D0-A07B-45DD5DE9D629}" path="CR1352_1441_Cli_StateOfBtns_forGlobalAccessFilter.sj" />
+				<child name="CR1352_1454_Cli_Open_ManageFilter_viaSearchMenu" key="{BFA6F4D1-F077-478E-B56B-B746FD904C49}" path="CR1352_1454_Cli_Open_ManageFilter_viaSearchMenu.sj" />
+				<child name="CR1352_1452_Cli_Search_inManageFilter" key="{76DC7B02-518E-4162-89C3-0BB0C27AE2A4}" path="CR1352_1452_Cli_Search_inManageFilter.sj" />
+				<child name="CR1352_1443_Cli_Configuration_ManageFilter" key="{BD17948E-83E3-4CF4-B9B9-87B9993A736C}" path="CR1352_1443_Cli_Configuration_ManageFilter.sj" />
+				<child name="CR1352_1445_Cli_ContextSensitiveHelp_inManageFilter" key="{E655A343-E2CE-4222-BA60-A340A33E0BAF}" path="CR1352_1445_Cli_ContextSensitiveHelp_inManageFilter.sj" />
+				<child name="CR1352_1442_Cli_ColumnSorting_inManageFilter" key="{BDDA9B9D-A35C-4FD3-A009-7A532B1E5F21}" path="CR1352_1442_Cli_ColumnSorting_inManageFilter.sj" />
+				<child name="CR1352_1446_Cli_ContextualMenu_ExportToFile_inManageFilter" key="{A36ECDA6-0244-4D54-923F-7BB019A3DB9D}" path="CR1352_1446_Cli_ContextualMenu_ExportToFile_inManageFilter.sj" />
+				<child name="CR1352_1444_Cli_ContextualMenu_Copy_inManageFilter" key="{6195D948-AED6-4A20-8869-6853C1D8903B}" path="CR1352_1444_Cli_ContextualMenu_Copy_inManageFilter.sj" />
+				<child name="CR1352_1449_Cli_ContextualMenu_CopyWithHeader_inManageFilter" key="{96B8E426-26C9-40CB-83EF-CA6F4580AFBC}" path="CR1352_1449_Cli_ContextualMenu_CopyWithHeader_inManageFilter.sj" />
+				<child name="CR1352_1447_Cli_ContextualMenu_ExportToExcel_inManageFilter" key="{25DCABB4-89B7-47A6-ABC9-D079663BD859}" path="CR1352_1447_Cli_ContextualMenu_ExportToExcel_inManageFilter.sj" />
+				<child name="CR1352_1445_Cli_ContentsIndexHelp_inManageFilter" key="{E1018CDF-8966-44DE-BD3E-5907CCF043C0}" path="CR1352_1445_Cli_ContentsIndexHelp_inManageFilter.sj" />
+			</folder>
+			<folder name="Drag_Filters">
+				<child name="CR1352_1459_Cli_Apply_QuickFilter_onDraggedFilter" key="{6564398B-E596-4C06-AA0C-E2ED4A9B590B}" path="CR1352_1459_Cli_Apply_QuickFilter_onDraggedFilter.sj" />
+				<child name="CR1352_1458_Cli_DragRelationships_toClientModule" key="{CDCAC62A-8662-44C5-9448-E35F1CE80481}" path="CR1352_1458_Cli_DragRelationships_toClientModule.sj" />
+				<child name="CR1352_1457_Cli_Deactivate_DraggedFilter" key="{7AB66A9B-78A8-4212-B437-FE1BCBE84B98}" path="CR1352_1457_Cli_Deactivate_DraggedFilter.sj" />
+				<child name="CR1352_1456_Cli_DragClients_toClientModule" key="{A1E73FD1-9324-4C48-A3E8-190F20E3799C}" path="CR1352_1456_Cli_DragClients_toClientModule.sj" />
+				<child name="CR1352_1455_Cli_DragAccounts_toClientModule" key="{25DEB154-296B-4EAA-A652-44A4BB8CE7B9}" path="CR1352_1455_Cli_DragAccounts_toClientModule.sj" />
+			</folder>
+			<folder name="Search_Criteria ">
+				<folder name="Search_Criteria_Manager">
+					<child name="CR1352_1472_Cli_NewContextualMenu_inSearchCriteriaManage" key="{FB4A3575-714D-4A3B-8F4E-1806D4B85EA8}" path="CR1352_1472_Cli_NewContextualMenu_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1475_Cli_SearchFonction_inSearchCriteriaManage" key="{BA928185-2964-4E29-B029-67AE823CBD35}" path="CR1352_1475_Cli_SearchFonction_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1476_Cli_ContextualMenu_CopyWithHeader_inSearchCriteriaManage" key="{E8071977-2249-4BF4-BFED-D13F74C162F0}" path="CR1352_1476_Cli_ContextualMenu_CopyWithHeader_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1477_Cli_ContextualMenu_Copy_inSearchCriteriaManage" key="{103F9235-E012-43FE-91E0-36D9AD6E549C}" path="CR1352_1477_Cli_ContextualMenu_Copy_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1478_Cli_ContextualMenu_ExportToFile_inSearchCriteriaManage" key="{BB6E3174-3475-470F-8BD3-733F25F75B97}" path="CR1352_1478_Cli_ContextualMenu_ExportToFile_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1479_Cli_ContextualMenu_ExportToExcel_inSearchCriteriaMange" key="{8CCB1B20-7045-4B99-8EBB-8DABB61D83CF}" path="CR1352_1479_Cli_ContextualMenu_ExportToExcel_inSearchCriteriaMange.sj" />
+					<child name="CR1352_1483_Cli_ColumnSorting_inSearchCriteriaManage" key="{29D41C35-B56F-47DA-BCEB-D97EDE1F5EC5}" path="CR1352_1483_Cli_ColumnSorting_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1484_Cli_Configuration_SearchCriteriaManage" key="{011EC531-44EF-4B90-8943-DD1D4803E2C9}" path="CR1352_1484_Cli_Configuration_SearchCriteriaManage.sj" />
+					<child name="CR1352_1484_Cli_ConfigurationColStatus_SearchCriteriaManage" key="{BBAEBAF2-782C-4AE1-AFC9-B91D03546018}" path="CR1352_1484_Cli_ConfigurationColStatus_SearchCriteriaManage.sj" />
+					<child name="CR1352_1480_Cli_ContextIndexHelp" key="{96C4B8B6-A383-4545-B000-FEBF3822E4C1}" path="CR1352_1480_Cli_ContextIndexHelp.js" />
+					<child name="CR1352_1480_Cli_ContextSensitiveHelp" key="{564770C7-0C7E-47F4-9A7B-EE13FF6AEF72}" path="CR1352_1480_Cli_ContextSensitiveHelp.js" />
+				</folder>
+				<folder name="Advanced_SearchCriteria">
+					<child name="CR1352_1485_Cli_StateOfBtns_forSearchCriteria" key="{01D94D2A-5311-4900-9D2E-50A11CB3599F}" path="CR1352_1485_Cli_StateOfBtns_forSearchCriteria.sj" />
+					<child name="CR1352_1486_Cli_StateOfBtns_forSearchCriteriaTemplate" key="{F36BF259-AE64-46BD-B8FA-0D91C3B95279}" path="CR1352_1486_Cli_StateOfBtns_forSearchCriteriaTemplate.sj" />
+					<child name="CR1352_1487_Cli_StateOfBtns_forSearchCriteriaManualList" key="{E5658777-4D20-4F98-B531-E76DAC125E75}" path="CR1352_1487_Cli_StateOfBtns_forSearchCriteriaManualList.sj" />
+					<child name="CR1352_1488_Cli_Create_AdvancedSearchCriteria" key="{7B7D85E6-1F7B-4D29-8C00-D544F7A13C6B}" path="CR1352_1488_Cli_Create_AdvancedSearchCriteria.sj" />
+					<child name="CR1352_1503_Cli_Apply_SearchCriteria" key="{643B7BF4-29E3-4682-A108-3CE0C0307AC3}" path="CR1352_1503_Cli_Apply_SearchCriteria.sj" />
+					<child name="CR1352_1506_Cli_UniqueName_OfSearchCriteria_SameLevelAccess" key="{677B04D1-B2F6-4BA1-A780-931F3A355A53}" path="CR1352_1506_Cli_UniqueName_OfSearchCriteria_SameLevelAccess.sj" />
+					<child name="CR1352_1506_Cli_UniqueName_OfSearchCriteria_DifferentLevelAccess" key="{0768C189-8B6F-403A-97F0-E2C9DA596FF2}" path="CR1352_1506_Cli_UniqueName_OfSearchCriteria_DifferentLevelAccess.sj" />
+					<child name="CR1352_1508_Cli_ChangingSortOrder_forAdvancedCriteria" key="{9E8E37C0-36CE-4E21-B537-528CAF78556E}" path="CR1352_1508_Cli_ChangingSortOrder_forAdvancedCriteria.sj" />
+					<child name="CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaNon" key="{C526AD5F-1907-4620-807B-5D8B99520472}" path="CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaNon.sj" />
+					<child name="CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaYes" key="{660A06FE-96DF-4630-9061-43226DAD2BCD}" path="CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaYes.sj" />
+					<child name="CR1352_1510_Cli_EditCondition_OfAdvancedSearchCriteria" key="{4468D797-C7AE-49B5-9B3C-5E7D15C2B72F}" path="CR1352_1510_Cli_EditCondition_OfAdvancedSearchCriteria.sj" />
+					<child name="CR1352_1511_Cli_Create_SimpleSearchCriteria_FirmAccess" key="{17EC731C-4C92-429D-889F-02B1DA63F8D9}" path="CR1352_1511_Cli_Create_SimpleSearchCriteria_FirmAccess.sj" />
+					<child name="CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccess" key="{9BDE34CE-4C5A-4DF8-98D8-7B70C221D0DB}" path="CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccess.sj" />
+					<child name="CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccessEditable" key="{DBB6E1F1-D677-4C89-A4F5-D63F6E3C5C51}" path="CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccessEditable.sj" />
+					<child name="CR1352_1511_Cli_Create_SimpleSearchCriteria_WorkgroupAccess" key="{46BBC1CC-9032-4AF2-94EC-6986720BF34F}" path="CR1352_1511_Cli_Create_SimpleSearchCriteria_WorkgroupAccess.sj" />
+					<child name="CR1352_1511_Cli_Create_SimpleSearchCriteria_MyCriterion" key="{94D5CCCD-339A-4A38-9F5E-196708FE7FA8}" path="CR1352_1511_Cli_Create_SimpleSearchCriteria_MyCriterion.sj" />
+					<child name="CR1352_1522_Cli_Edit_OfAdvancedSearchCriteria_ContextualMenu" key="{A814152C-17ED-4F88-A896-6D0D472A792F}" path="CR1352_1522_Cli_Edit_OfAdvancedSearchCriteria_ContextualMenu.sj" />
+					<child name="CR1352_1516_Cli_Edit_OfAdvancedSearchCriteria_StatusBar" key="{DD8DB58E-0C42-4A34-B641-D36662747A42}" path="CR1352_1516_Cli_Edit_OfAdvancedSearchCriteria_StatusBar.sj" />
+					<child name="CR1352_1523_Cli_EditSearchCriteria_fromSearchMenu" key="{DFC19ED5-9D8F-4B24-A05B-8E2A44A21658}" path="CR1352_1523_Cli_EditSearchCriteria_fromSearchMenu.js" />
+					<child name="CR1352_1524_Cli_Remove_ActiveCriteria" key="{5E188975-A794-4495-8E30-703C97B85642}" path="CR1352_1524_Cli_Remove_ActiveCriteria.js" />
+					<child name="CR1352_1525_Cli_Delete_ActiveCriteria" key="{C3EBAF40-19B0-4F45-8C37-6587DB083324}" path="CR1352_1525_Cli_Delete_ActiveCriteria.js" />
+					<child name="CR1352_1526_Cli_Edit_ActiveCriterion_SpaceBar" key="{2BC26233-EBA6-43BD-ADAD-18C99F20290D}" path="CR1352_1526_Cli_Edit_ActiveCriterion_SpaceBar.js" />
+					<child name="CR1352_1527_Cli_Save_DefaultClientsListCriteria_AfterStartup" key="{1F5CF995-0E29-4C2C-87BE-F9A675EA77AC}" path="CR1352_1527_Cli_Save_DefaultClientsListCriteria_AfterStartup.js" />
+					<child name="CR1352_1507_Cli_CriteriaResults_RedisplayAllAndKeepCheckmarks" key="{B9A2072F-C8B0-44F1-B0A8-8087289FA334}" path="CR1352_1507_Cli_CriteriaResults_RedisplayAllAndKeepCheckmarks.js" />
+					<child name="CR1352_OptiCroes_1511_1506_1488" key="{F124C254-5856-4570-9BF8-2AAE6C04E5D8}" path="CR1352_OptiCroes_1511_1506_1488.js" />
+				</folder>
+			</folder>
+			<folder name="Manual_List">
+				<child name="CR1352_1966_Cli_Create_ManualList" key="{94BF3E1F-2FAC-49CC-A677-4D2DAA897B65}" path="CR1352_1966_Cli_Create_ManualList.js" />
+				<child name="CR1352_1967_Edit_ManualList" key="{FC5B1489-F915-4F74-8B1B-51E963D5015A}" path="CR1352_1967_Edit_ManualList.js" />
+				<child name="CR1352_1968_Cli_Copy_ManualList" key="{9195D5AD-5CBE-4F2F-9DB2-664BAD6EB1D9}" path="CR1352_1968_Cli_Copy_ManualList.js" />
+			</folder>
+			<folder name="Manage_Criteria_forRestrictions">
+				<child name="CR1352_1975_Cli_Add_SerachCriteria_btnAdd" key="{40E945AA-A293-49AD-918A-7E94F3EC1766}" path="CR1352_1975_Cli_Add_SerachCriteria_btnAdd.js" />
+				<child name="CR1352_1975_Cli_Add_SerachCriteria_ClickR" key="{7EB29CF2-5605-42FB-9A86-CCAB891E85B4}" path="CR1352_1975_Cli_Add_SerachCriteria_ClickR.js" />
+				<child name="CR1352_1976_Cli_Edit_SerachCriteria_btnEdit" key="{D2482CEA-6FB0-47F5-8F85-0893DF25BBD0}" path="CR1352_1976_Cli_Edit_SerachCriteria_btnEdit.js" />
+				<child name="CR1352_1976_Cli_Edit_SerachCriteria_ClickR" key="{9219BB2C-B40B-49A4-AACB-62872AC31913}" path="CR1352_1976_Cli_Edit_SerachCriteria_ClickR.js" />
+				<child name="CR1352_1981_Cli_Delete_SerachCriteria" key="{CF724468-2654-432D-9A0F-08C85458B2ED}" path="CR1352_1981_Cli_Delete_SerachCriteria.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu" key="{442FC887-146A-4E13-A7A6-E6B9BAEE8798}" path="CR1352_1982_Cli_ContextualMenu.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu_Copy" key="{DE0C2C0B-1316-476F-A713-E6689DD21205}" path="CR1352_1982_Cli_ContextualMenu_Copy.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu_IndexHelp" key="{8804FA72-842C-4F1C-9996-4BD0C80D6886}" path="CR1352_1982_Cli_ContextualMenu_IndexHelp.js" />
+				<child name="CR1352_1982_Cli_Contextualmenu_SensitiveHelp" key="{1F2C2266-2499-41BC-A5DF-1D64C1A00464}" path="CR1352_1982_Cli_Contextualmenu_SensitiveHelp.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu_CopyWithHeader" key="{398E09B9-789C-44BC-AF20-D2ADF58E45F3}" path="CR1352_1982_Cli_ContextualMenu_CopyWithHeader.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu_ExportToFile" key="{BE32897D-52F5-4FA6-AE53-83F0B52D75FF}" path="CR1352_1982_Cli_ContextualMenu_ExportToFile.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu_ExportToExcel" key="{5442C208-8FE7-4478-80C4-B974A2F0374C}" path="CR1352_1982_Cli_ContextualMenu_ExportToExcel.js" />
+				<child name="CR1352_OptiCroes_1975_1976_1981_1982" key="{BF042A60-47D3-43BF-80FA-93D58A0F4CB7}" path="CR1352_OptiCroes_1975_1976_1981_1982.js" />
+			</folder>
+			<folder name="Client_Grid">
+				<folder name="Sum">
+					<child name="CR1352_2013_Cli_NoSelection_inClientGrid" key="{C275F1DA-9D5F-4FCB-A560-1F54824D5078}" path="CR1352_2013_Cli_NoSelection_inClientGrid.js" />
+					<child name="CR1352_2014_Cli_ApplySum_ToFilterResult" key="{3A483606-1C35-4170-AFF0-64035429AE0B}" path="CR1352_2014_Cli_ApplySum_ToFilterResult.js" />
+					<child name="CR1352_2015_Cli_ApplySum_ToManualListResult" key="{BE276EF9-E07E-4739-A428-9A336CDD5E38}" path="CR1352_2015_Cli_ApplySum_ToManualListResult.js" />
+					<child name="CR1352_2018_Cli_ApplySum_AfterDragging" key="{CAE0ADDB-46C0-4734-BE05-DAF277845CB6}" path="CR1352_2018_Cli_ApplySum_AfterDragging.js" />
+					<child name="CR1352_2019_Cli_Sum_pref_enable_client_Grouping" key="{6FFE448D-FABE-4360-9B4F-D16AFB65B2B4}" path="CR1352_2019_Cli_Sum_pref_enable_client_Grouping.js" />
+				</folder>
+				<folder name="Detail_Section">
+					<child name="CR1352_2078_Cli_Add_RestrictionToClient" key="{B9DC9FE6-A50D-4B2E-A741-235122DF3EB0}" path="CR1352_2078_Cli_Add_RestrictionToClient.js" />
+					<child name="CR1352_2077_Cli_Drag_MainRoot_FromDetailsSection" key="{B2F60B1A-59BF-42CA-BAB9-5A8663F48CB9}" path="CR1352_2077_Cli_Drag_MainRoot_FromDetailsSection.js" />
+					<child name="CR1352_2077_Cli_Drag_SecondaryRoot_FromDetailsSection" key="{CF29DFF6-856B-41A2-9D18-45D100D1FBAB}" path="CR1352_2077_Cli_Drag_SecondaryRoot_FromDetailsSection.js" />
+					<child name="CR1352_2077_Cli_Drag_FromSameAdress" key="{5C1AEDBA-C4E3-40C5-A4F8-2AD6CA272D07}" path="CR1352_2077_Cli_Drag_FromSameAdress.js" />
+					<child name="CR1352_2077_Cli_Drag_FromRelatioships" key="{AE00A10B-4C0F-40F8-A4D7-135FBBB840EA}" path="CR1352_2077_Cli_Drag_FromRelatioships.js" />
+					<child name="CR1352_2076_Cli_Visibility_inDetailsSection" key="{612C28EC-BDD6-4BA4-A6A7-8647C4816BD1}" path="CR1352_2076_Cli_Visibility_inDetailsSection.js" />
+					<child name="CR1352_2075_Cli_Edit_SegmentationInfoClient" key="{1F6EB226-4745-4734-9D37-7005B1830DF2}" path="CR1352_2075_Cli_Edit_SegmentationInfoClient.js" />
+					<child name="CR1352_2074_Cli_NewFields_InfoClient" key="{5E9EBFAA-6631-49F4-8BE3-671C17B3A11B}" path="CR1352_2074_Cli_NewFields_InfoClient.js" />
+					<child name="CR1352_2075_Cli_Add_AgendaEvent" key="{F5DAA623-1317-4D93-91E6-657991D1B29F}" path="CR1352_2075_Cli_Add_AgendaEvent.js" />
+					<child name="CR1352_2075_Cli_Edit_SecondaryRootClient" key="{8D7157AF-C8EE-4A09-9FE8-6D8387A76900}" path="CR1352_2075_Cli_Edit_SecondaryRootClient.js" />
+					<child name="CR1352_1983_Cli_ContextualMenu_ForSecondaryRootClient" key="{951A5D65-9877-4486-AE80-8532D7E0FB3F}" path="CR1352_1983_Cli_ContextualMenu_ForSecondaryRootClient.js" />
+					<child name="CR1352_1983_Cli_ContextualMenu_ForRootClientAndRel" key="{691786E9-435E-4A41-AA7D-7F7148C7DD83}" path="CR1352_1983_Cli_ContextualMenu_ForRootClientAndRel.js" />
+					<child name="CR1352_1985_Cli_ContextualMenu_Details_Ungroup" key="{B6B0BE12-5BFA-4C02-A2AB-A5706C279AE5}" path="CR1352_1985_Cli_ContextualMenu_Details_Ungroup.js" />
+					<child name="CR1352_1986_Cli_ContextualMenu_Details_RestrictionRootClient" key="{979EBE9F-60C7-47ED-BB61-4BCAFC603A50}" path="CR1352_1986_Cli_ContextualMenu_Details_RestrictionRootClient.js" />
+					<child name="CR1352_1986_Cli_ContextualMenu_Details_RestrictionSecRootClient" key="{5A5D1B89-9058-4220-98A7-6F56A0F4076D}" path="CR1352_1986_Cli_ContextualMenu_Details_RestrictionSecRootClient.js" />
+					<child name="CR1352_2053_Cli_DetailSection_Overview" key="{B51E355B-86A1-4E45-B26F-374788B44914}" path="CR1352_2053_Cli_DetailSection_Overview.js" />
+					<child name="CR1352_2071_Cli_DetailSection_btnPlus" key="{9C780867-CBA6-42EB-90C5-4530FCCEE3F9}" path="CR1352_2071_Cli_DetailSection_btnPlus.js" />
+					<child name="CR1352_2072_Cli_DetailSection_dblClick" key="{87A49EF1-579E-41AD-8E55-8C1775ED3DA2}" path="CR1352_2072_Cli_DetailSection_dblClick.js" />
+					<child name="CR1352_2073_Cli_FamilyRepresentative_in_DetailSection" key="{A4EBE8A1-CB16-4B0C-95AA-C05222AF5D4C}" path="CR1352_2073_Cli_FamilyRepresentative_in_DetailSection.js" />
+					<child name="CR1352_2052_Cli_DetailSection_Information_RootClient" key="{DA201A09-0E8D-474F-9944-C03D60D64C82}" path="CR1352_2052_Cli_DetailSection_Information_RootClient.js" />
+					<child name="CR1352_2054_Cli_DetailSection_Information_SecondaryRootClient" key="{93378D70-6447-4277-A454-F7D6953982EB}" path="CR1352_2054_Cli_DetailSection_Information_SecondaryRootClient.js" />
+				</folder>
+				<folder name="General">
+					<child name="CR1352_2022_Cli_Add_Addresses_toClients" key="{9D3A4632-852F-4BB7-89DE-A93E44898DBE}" path="CR1352_2022_Cli_Add_Addresses_toClients.js" />
+					<child name="CR1352_2021_Cli_Edit_InfoClient" key="{FBE257A8-13F8-4C7A-BA07-F58307FBF38A}" path="CR1352_2021_Cli_Edit_InfoClient.js" />
+					<child name="CR1352_2021_Cli_Edit_InfoClient_Helpdsk" key="{095466C7-4815-4C0B-BB29-B0C95F318B77}" path="CR1352_2021_Cli_Edit_InfoClient_Helpdsk.js" />
+					<child name="CR1352_2100_AssociateClient_with_relationship" key="{872177A7-575E-4F4B-A1F4-415AAC0DC379}" path="CR1352_2100_AssociateClient_with_relationship.js" />
+				</folder>
+				<folder name="Contextual_Menu">
+					<child name="CR1352_2020_Cli_EditSegmentation_OneClient_Yes" key="{C02F6309-54BC-4DBC-BB15-BDF5C085B989}" path="CR1352_2020_Cli_EditSegmentation_OneClient_Yes.js" />
+					<child name="CR1352_2020_Cli_EditSegmentation_SeveralClients_Yes" key="{03BBC92E-8AC9-43F9-B0DF-13CA6B1AE01E}" path="CR1352_2020_Cli_EditSegmentation_SeveralClients_Yes.js" />
+					<child name="CR1352_2020_Cli_EditSegmentation_SeveralClients_Non" key="{483F15E7-9FA5-4717-B29E-F0C42C184F1D}" path="CR1352_2020_Cli_EditSegmentation_SeveralClients_Non.js" />
+				</folder>
+			</folder>
+			<folder name="Anomalies">
+				<child name="CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_MouseWheel" key="{05DA3975-96B4-4DA7-B405-DE28CA428FD2}" path="CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_MouseWheel.js" />
+				<child name="CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_DownKey" key="{17622ADD-01A5-4E19-A44C-421BE890BCB9}" path="CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_DownKey.js" />
+				<child name="CR1352_CROES_8230_Cli_TestDeSelectionMultipleAvecShift_ScrollDown" key="{D8526486-0E38-4D66-ADEE-2A283E3A04CE}" path="CR1352_CROES_8230_Cli_TestDeSelectionMultipleAvecShift_ScrollDown.js" />
+			</folder>
+		</folder>
+		<folder name="CR1793">
+			<folder name="Anomalies">
+				<child name="CR1793_BNC_1871_Cli_DisponiAjoutrelatioFamillFirm" key="{F4F4AE1D-61F8-4569-893F-5031C6752885}" path="CR1793_BNC_1871_Cli_DisponiAjoutrelatioFamillFirm.js" />
+				<child name="CR1793_BNC_1258_CrashWhenCreateRelationFamilFirmForClienWithMultipRoots1" key="{7BC5BEEB-8B35-4AF1-88C6-16BF85100526}" path="CR1793_BNC_1258_CrashWhenCreateRelationFamilFirmForClienWithMultipRoots1.js" />
+				<child name="CR1793_BNC_1258_CrashWhenCreateRelationFamilFirmForClienWithMultipRoots2" key="{6B5A0915-741E-4B63-8BE0-85523145198F}" path="CR1793_BNC_1258_CrashWhenCreateRelationFamilFirmForClienWithMultipRoots2.js" />
+			</folder>
+			<folder name="Management relationships">
+				<child name="CR1793_3214_Rel_ValidatTheCreatingFamilFirmRelatFromSecondaryRoot" key="{2D10A817-EAFF-4673-AFDE-157CFC508002}" path="CR1793_3214_Rel_ValidatTheCreatingFamilFirmRelatFromSecondaryRoot.js" />
+				<child name="CR1793_3220_Rel_PreventTheCreatOfFamilFirmRelatForFictifClient" key="{CD02C082-0358-45B5-AEA9-00F2BAB1F797}" path="CR1793_3220_Rel_PreventTheCreatOfFamilFirmRelatForFictifClient.js" />
+				<child name="CR1793_3222_Rel_AssociateARootCustomerHasRelationshipFamilyFirm" key="{AD565B20-4293-43BD-8ECC-2D85FB669DAA}" path="CR1793_3222_Rel_AssociateARootCustomerHasRelationshipFamilyFirm.js" />
+				<child name="CR1793_3225_Rel_PreventTheJointOfFamilFirmRelatForExterneClient" key="{9ED32794-BBFA-4ED1-ACF4-018683A6B19E}" path="CR1793_3225_Rel_PreventTheJointOfFamilFirmRelatForExterneClient.js" />
+			</folder>
+		</folder>
+		<folder name="Anomalies">
+			<child name="CROES_7509_Cli_CrashInTheRightClickMenuRooClientInSectionDetail" key="{FE7CE8FB-5A39-44C6-8DCF-E4FEDF16DF7C}" path="CROES_7509_Cli_CrashInTheRightClickMenuRooClientInSectionDetail.js" />
+			<child name="CROES_8311_Cli_CrashAfterSearchingByCPCode" key="{4ABAD96D-3FFB-494A-87EB-28E9DD8214ED}" path="CROES_8311_Cli_CrashAfterSearchingByCPCode.js" />
+			<child name="CROES_7601_CreatRelatFromCustomerWhoIsAlreadyPartOfRelatDisplayMsgNotCorrect" key="{D556DFD4-CF33-4694-9A40-5238041E00C6}" path="CROES_7601_CreatRelatFromCustomerWhoIsAlreadyPartOfRelatDisplayMsgNotCorrect.js" />
+			<child name="CROES_9031_CliMissingColumnsInTheNotesGrid" key="{21CF50DA-301A-471B-AFA5-A2D38E264ECA}" path="CROES_9031_CliMissingColumnsInTheNotesGrid.js" />
+			<child name="CROES_9367_Cli_CrashWinTitleCategoriWhenTryToAddCategory" key="{9278C71E-FC7D-4F65-AC67-425FFF1F533E}" path="CROES_9367_Cli_CrashWinTitleCategoriWhenTryToAddCategory.js" />
+			<child name="CROES_6760_CliCrashWhenDeletPredefSentence" key="{038B4747-72DE-41AE-9423-7410D4C0B36F}" path="CROES_6760_CliCrashWhenDeletPredefSentence.js" />
+			<child name="CROES_1687_CliDisplBlockMsgWhenTryAssocRelatwithGroupRelat" key="{D191FF51-FF28-4005-8CF1-954B8FFA319B}" path="CROES_1687_CliDisplBlockMsgWhenTryAssocRelatwithGroupRelat.js" />
+			<child name="BNC_2222_SetFileNotVisibOnHighLevelOfTheTree" key="{E3724623-D084-4F07-81FF-22089924A39B}" path="BNC_2222_SetFileNotVisibOnHighLevelOfTheTree.js" />
+			<child name="CROES_9345_Cli_ExcelExportDoesNotRespectOrderOfColumnsInGrid" key="{FAD129CF-066F-4B48-AF25-AF78F8F09839}" path="CROES_9345_Cli_ExcelExportDoesNotRespectOrderOfColumnsInGrid.js" />
+			<child name="CROES_10346_ProfilColumnArNotUpdatautomatiAfterChangProfilValu" key="{A4AC1F82-BB92-4B46-9E99-CF15CF47246C}" path="CROES_10346_ProfilColumnArNotUpdatautomatiAfterChangProfilValu.js" />
+			<child name="CROES_9345_Cli_Det_Agenda_ExcelExportDoesNotRespectOrderOfColumnsInGrid" key="{E6E918D2-0944-42B3-ADF3-50A140EE61E1}" path="CROES_9345_Cli_Det_Agenda_ExcelExportDoesNotRespectOrderOfColumnsInGrid.js" />
+			<child name="CROES_10382_WeCanSaveCriterWithoutGivingItName" key="{A7D29D72-5754-4078-B496-DAF30EFF870C}" path="CROES_10382_WeCanSaveCriterWithoutGivingItName.js" />
+			<child name="CROES_9345_Cli_CheckExcelExportData" key="{F24E6269-4F3D-4110-A268-5EAA74D8E06B}" path="CROES_9345_Cli_CheckExcelExportData.js" />
+			<child name="CROES_6661_ProfilesAreNotInAlphabeticalOrderInColumnConfiguration" key="{516F4CF6-D662-41BE-949C-020002462AF9}" path="CROES_6661_ProfilesAreNotInAlphabeticalOrderInColumnConfiguration.js" />
+			<child name="AnomalieMaillageFromClientToAccomp" key="{A2412105-4AA4-4D4B-9BC2-6C2CA1E362F7}" path="AnomalieMaillageFromClientToAccomp.js" />
+			<child name="AnomalieMaillageFromClientToRelationShip" key="{25DE0B7F-EB05-414C-9FAA-6501344973FA}" path="AnomalieMaillageFromClientToRelationShip.js" />
+			<child name="AnomalieMaillageFromClientToTransaction" key="{CF90AA7D-91B3-4495-AEA2-54CDFBEEB3C1}" path="AnomalieMaillageFromClientToTransaction.js" />
+			<child name="AnomalieMaillageFromClientToModels" key="{05345EF7-8134-41B0-B14A-A55D50EE3962}" path="AnomalieMaillageFromClientToModels.js" />
+			<child name="AnomalieMaillageFromClientToPortfolio" key="{1507FD2D-9564-4891-B7CB-BBC6F9564B8A}" path="AnomalieMaillageFromClientToPortfolio.js" />
+			<child name="AnomalieMaillageFromClientToSecurities" key="{EF985A41-23C8-454E-BCC6-FD218756C279}" path="AnomalieMaillageFromClientToSecurities.js" />
+			<child name="CROES_11243_Copy_Note" key="{E52172B7-28B8-42D3-9292-A3A65BF64E0C}" path="CROES_11243_Copy_Note.js" />
+			<child name="TCVE_671_CRM_2490_DisableReportEmailing" key="{B3D8AAEB-F7CE-4F7E-B033-E42880B6FF73}" path="TCVE_671_CRM_2490_DisableReportEmailing.sj" />
+			<child name="TCVE_7757_RPT_5641_Validate_Archiving_WinAndLossReport" key="{2DC6DF8F-7DC0-464D-BE65-2A0698CC8847}" path="TCVE_7757_RPT_5641_Validate_Archiving_WinAndLossReport.js" />
+			<child name="PF_5344_CrashWhenCopyingInfoOfFictitiousClientToRealClient" key="{38AC7DCC-0987-4C0A-BCC8-F750B9D9358F}" path="PF_5344_CrashWhenCopyingInfoOfFictitiousClientToRealClient.js" />
+		</folder>
+		<folder name="CR1483">
+			<child name="CR1483_Cli_Survol_Users_Selection_TabBranches" key="{32904B4C-5F0B-49C2-BE3D-8AD7C0085DB4}" path="CR1483_Cli_Survol_Users_Selection_TabBranches.js" />
+			<child name="CR1483_Cli_CheckErrorMsgPrefMaxWorkAs" key="{2968DED6-55E6-4EB0-A797-379532CD9714}" path="CR1483_Cli_CheckErrorMsgPrefMaxWorkAs.js" />
+			<child name="CR1483_Cli_RememberMySelection" key="{E8CBB4BF-35E5-45D7-AF05-85904F6ECBEC}" path="CR1483_Cli_RememberMySelection.js" />
+			<child name="CR1483_Cli_Check_UserSelection_IACodes" key="{88825307-8A02-4131-9C7E-711644AD2B4C}" path="CR1483_Cli_Check_UserSelection_IACodes.js" />
+			<child name="CR1483_Cli_Survol_Users_Selection_TabUsers" key="{235F757D-9CEC-4899-992C-A1731BDB82E5}" path="CR1483_Cli_Survol_Users_Selection_TabUsers.js" />
+			<child name="CR1483_Cli_CheckErrorMsgPrefMaxWorkAS_TabUsers" key="{C1D83A73-BCCB-4C96-A413-8C439C193485}" path="CR1483_Cli_CheckErrorMsgPrefMaxWorkAS_TabUsers.js" />
+			<child name="CR1483_Cli_RememberMySelection_TabUsers" key="{82AF4745-8489-4A09-83E3-E315C3A4AC0C}" path="CR1483_Cli_RememberMySelection_TabUsers.js" />
+			<child name="CR1483_Cli_Survol_Users_Selection_TabIACodes" key="{04D5C4B3-03A1-49ED-9361-AB2862C4E97D}" path="CR1483_Cli_Survol_Users_Selection_TabIACodes.js" />
+			<child name="CR1483_Cli_CheckErrorMsgPrefMaxWorkAs_TabIACodes" key="{9973DD6D-C369-45FE-9A15-1E9F6B56EBC1}" path="CR1483_Cli_CheckErrorMsgPrefMaxWorkAs_TabIACodes.js" />
+			<child name="CR1483_Cli_RememberMySelection_TabIACodes" key="{DBD08E57-C909-4ADE-8C75-ECB403ACF827}" path="CR1483_Cli_RememberMySelection_TabIACodes.js" />
+			<child name="CR1483_Cli_Check_BrachSelection_IACodes" key="{F9A52DB1-F16F-4BD6-83C1-E163B0DD812E}" path="CR1483_Cli_Check_BrachSelection_IACodes.js" />
+			<child name="CR1483_Common_Functions" key="{65B70D74-B4F0-4EEB-9E06-E9D3E0732976}" path="CR1483_Common_Functions.js" />
+		</folder>
+		<folder name="CR1501">
+			<folder name="Anomalies">
+				<child name="CROES_10678_Cli_FieldDateReferenceNotesMustBeEmptyDefaults" key="{928D49DA-4B53-4F0B-99CA-C972DD873BAC}" path="CROES_10678_Cli_FieldDateReferenceNotesMustBeEmptyDefaults.js" />
+				<child name="CROES_11141_Cli_WhenAddingFilterByCreationDateTheCrashApplication" key="{0E61A880-1750-40D0-AA76-265FCA564A90}" path="CROES_11141_Cli_WhenAddingFilterByCreationDateTheCrashApplication.js" />
+				<child name="TCVE_4078_EditDelNote_ValidateWarnigErrorMessageWhenTryToSaveNote" key="{F0CEC969-4B11-4C07-837D-9A5AD8FF1A0B}" path="TCVE_4078_EditDelNote_ValidateWarnigErrorMessageWhenTryToSaveNote.js" />
+			</folder>
+			<child name="CR1501_790_Cli_SearchWithFilterCreatedByAndOperatorIsExcluding" key="{77479F03-203C-490B-B680-1BDB2694F61E}" path="CR1501_790_Cli_SearchWithFilterCreatedByAndOperatorIsExcluding.js" />
+			<child name="CR1501_804_Cli_ValidatModifPredefinSentenceWhenEnteringNotWithClickRight" key="{E8955AE5-49C8-4FC5-B0B6-1CD03B4E9899}" path="CR1501_804_Cli_ValidatModifPredefinSentenceWhenEnteringNotWithClickRight.js" />
+			<child name="CR1501_806_Cli_ValidatDeletPredefinSentenceWhenEnteringNoteWithClickRight" key="{D1DF0DE6-130E-4693-9525-7AB32045CDAA}" path="CR1501_806_Cli_ValidatDeletPredefinSentenceWhenEnteringNoteWithClickRight.js" />
+			<child name="CR1501_810_Cli__ValidatOperationDateTimebuttonWhenEnteringNotWithClickRight" key="{168E9B63-7215-4A72-B1C6-823A0C83E051}" path="CR1501_810_Cli__ValidatOperationDateTimebuttonWhenEnteringNotWithClickRight.js" />
+			<child name="CR1501_820_Cli_ValidatShadedFieldsAtBottomWindowAreReadOnlyWhenViewingNot" key="{27E8A660-8055-463C-95E5-9647506C1865}" path="CR1501_820_Cli_ValidatShadedFieldsAtBottomWindowAreReadOnlyWhenViewingNot.js" />
+			<child name="CR1501_823_Cli__ValidatInsertingNoteToSeveralClientsAtOnce" key="{B4BB12A9-BD49-4B6B-833C-AAEA64052607}" path="CR1501_823_Cli__ValidatInsertingNoteToSeveralClientsAtOnce.js" />
+			<child name="CR1501_830_Cli_ValidatCopyingSelectedNoteTcustomersWithSameAddress" key="{565511F4-7AA2-4F95-8E98-A9FD3A371999}" path="CR1501_830_Cli_ValidatCopyingSelectedNoteTcustomersWithSameAddress.js" />
+			<child name="CR1501_757_NoModification_OfNote_CreatedOnTheSameDayAndByTheSameUser" key="{5A03998A-40CE-4F7C-BCC5-60D4A3AD0135}" path="CR1501_757_NoModification_OfNote_CreatedOnTheSameDayAndByTheSameUser.js" />
+			<child name="CR1501_759_NoModificationOfCreatedNoteInfoButtonTheSameDayAndByAnotherUser" key="{68CFC08A-12D7-46F2-B9DC-4BA79B816E72}" path="CR1501_759_NoModificationOfCreatedNoteInfoButtonTheSameDayAndByAnotherUser.js" />
+			<child name="CR1501_828_Cli_ValidationAbsenceOfNoteIconInTheGridForNoteCreatedWithTheContextMenu" key="{EEFDCACF-516F-4D72-8BC1-B8573EB393BD}" path="CR1501_828_Cli_ValidationAbsenceOfNoteIconInTheGridForNoteCreatedWithTheContextMenu.js" />
+			<child name="CR1501_777_Cli_FilterSearchByDateModifiedAndOperatorIsIsEarlierThan" key="{9DA3FA86-196B-4F56-8A62-7C0D4850B4CD}" path="CR1501_777_Cli_FilterSearchByDateModifiedAndOperatorIsIsEarlierThan.js" />
+			<child name="CR1501_779_Cli_FilterSearchByDateModifiedAndOperatorIsBetween" key="{B62FE41D-5B90-4D58-B407-7E5AF8E75D0F}" path="CR1501_779_Cli_FilterSearchByDateModifiedAndOperatorIsBetween.js" />
+			<child name="CR1501_752_ValidateAddingNotes_ToAClientFromTheAddANotePopUpMenu" key="{DDE15C4B-55CE-4DD3-BD4B-21D79BB0CCBD}" path="CR1501_752_ValidateAddingNotes_ToAClientFromTheAddANotePopUpMenu.js" />
+			<child name="CR1501_754_ModificationOfANotClickRightCreatedTheSameDayAndByTheSameUser" key="{7BAF2B67-1357-420E-9DCE-19A8D5DD60B0}" path="CR1501_754_ModificationOfANotClickRightCreatedTheSameDayAndByTheSameUser.js" />
+			<child name="CR1501_760_ValidationDeletionOfANoteCreatedclickRightTheSameDayAndByTheSamUser" key="{2BB51CBD-4C0B-47A0-B4D8-DB1D7CE862BE}" path="CR1501_760_ValidationDeletionOfANoteCreatedclickRightTheSameDayAndByTheSamUser.js" />
+			<child name="CR1501_800_804_806_Cli_ValidatAdditionModifDeletePredefinSentenceWhenEnteringNotWithClickRight" key="{2FB8B592-C202-4EF7-927C-A10A02289BAA}" path="CR1501_800_804_806_Cli_ValidatAdditionModifDeletePredefinSentenceWhenEnteringNotWithClickRight.js" />
+			<child name="CR1501_Opti_810_820_757" key="{14CFB953-796D-4506-9B41-1177B64DCC51}" path="CR1501_Opti_810_820_757.js" />
+			<child name="CR1501_Opti_777_779_790_JiraCroes11141" key="{0B3B8961-8241-49D1-B247-50586813C443}" path="CR1501_Opti_777_779_790_JiraCroes11141.js" />
+		</folder>
+		<folder name="Regression">
+			<child name="Regression_Croes_4399_Cli_ValidateColumnsAndGridFunctions" key="{ED3F10E8-54AA-4214-A0D5-83D4BE7B939F}" path="Regression_Croes_4399_Cli_ValidateColumnsAndGridFunctions.js" />
+			<child name="Regression_Croes_4261_Cli_AddEditDeleteClientsAdresses" key="{C216433D-11C3-4BF1-92A6-43FC17C664FC}" path="Regression_Croes_4261_Cli_AddEditDeleteClientsAdresses.js" />
+			<child name="Regression_Croes_4292_Cli_ProfilesClientsManagement" key="{507974C9-4395-4ECA-BAB0-D07C819DA768}" path="Regression_Croes_4292_Cli_ProfilesClientsManagement.js" />
+			<child name="Regression_Croes_4295_Cli_VlaidateOperationInfoButton" key="{AEB26B41-146F-424F-BD14-DA1CDC43853F}" path="Regression_Croes_4295_Cli_VlaidateOperationInfoButton.js" />
+			<child name="Regression_Croes_4271_Cli_AddEditDeleteClientsPhoneNumber" key="{658EBDFB-434E-4E44-91F8-A5C63B62C2AC}" path="Regression_Croes_4271_Cli_AddEditDeleteClientsPhoneNumber.js" />
+			<child name="Regression_Croes_4272_Cli_EsitEmailAdresses" key="{905C38C7-86C2-490A-98E9-45016B2A5792}" path="Regression_Croes_4272_Cli_EsitEmailAdresses.js" />
+			<child name="Regression_Croes_4322_Cli_AddProductsAndServicesToClient" key="{28B15345-C160-44FE-93A9-98BC7BD375F9}" path="Regression_Croes_4322_Cli_AddProductsAndServicesToClient.js" />
+			<child name="Regression_Croes_4278_Cli_CreateRellationshipByRightClickAndEdit" key="{75C36DFA-553C-41BA-99EE-E71A32212E21}" path="Regression_Croes_4278_Cli_CreateRellationshipByRightClickAndEdit.js" />
+			<child name="Regression_Croes_4283_Cli_DeleteSelectedClients" key="{66FCFCB2-839C-4AEE-AD54-338B4B03BBD8}" path="Regression_Croes_4283_Cli_DeleteSelectedClients.js" />
+			<child name="Regression_Croes_4290_Cli_NotesManagement" key="{AAFE834F-CDDD-4075-AC8E-31ADE07ED979}" path="Regression_Croes_4290_Cli_NotesManagement.js" />
+			<child name="Regression_Croes_4307_Cli_VlaidateOperationPerformanceButton" key="{FE778BDB-AC08-4ABC-A532-3D9FAF413FA8}" path="Regression_Croes_4307_Cli_VlaidateOperationPerformanceButton.js" />
+			<child name="Regression_Croes_4313_Cli_AddDeleteClientsContacts" key="{DE11FF61-8EC9-40CF-B28E-5669655DD349}" path="Regression_Croes_4313_Cli_AddDeleteClientsContacts.js" />
+			<child name="Regression_Croes_4318_Cli_ValidateCalculatedValues" key="{82142415-B826-4C80-942A-EA92D8051D5B}" path="Regression_Croes_4318_Cli_ValidateCalculatedValues.js" />
+			<child name="Regression_Croes_6264_Cli_ValidateAddAndDeleteDocuments" key="{20760B28-5A53-404F-87A9-9F966219A53E}" path="Regression_Croes_6264_Cli_ValidateAddAndDeleteDocuments.js" />
+			<child name="Regression_Croes_6267_Cli_ValidateAddDiffrentTypesOfDocumentsWithInfoClient" key="{2160ACF8-1335-47F7-9672-96ABEAB06E0E}" path="Regression_Croes_6267_Cli_ValidateAddDiffrentTypesOfDocumentsWithInfoClient.js" />
+			<child name="Regression_Croes_6271_Cli_ValidateSearchClientsModule" key="{748992A9-6B49-4C27-A8BA-2729A334BB1A}" path="Regression_Croes_6271_Cli_ValidateSearchClientsModule.js" />
+			<child name="Regression_Croes_6272_Cli_ValidateSummationButtonFor2Clients" key="{42700B41-5B50-4FDE-8E92-104A169B419C}" path="Regression_Croes_6272_Cli_ValidateSummationButtonFor2Clients.js" />
+			<child name="Regression_Croes_6279_Cli_ValidateAddAndDeleteDocuments" key="{1F806BF1-9360-40D8-819D-85321B9ABBAB}" path="Regression_Croes_6279_Cli_ValidateAddAndDeleteDocuments.js" />
+			<child name="Regression_OptiCroes_4322_4292_6264_6267" key="{50D54452-272A-4C7B-A845-A0231E3F4AFC}" path="Regression_OptiCroes_4322_4292_6264_6267.js" />
+			<child name="Regression_OptiCroes_6271_4261_4271_4272_4283_4278" key="{B19B2FDB-A7A8-49AD-80A1-91233C98CB01}" path="Regression_OptiCroes_6271_4261_4271_4272_4283_4278.js" />
+		</folder>
+		<folder name="CR1806">
+			<folder name="DataHub Library">
+				<child name="CR1806_4548_Valider_le_format_du_extract_datahubextractor" key="{53198AC0-355A-4DE0-9AD2-2ACF989F53E0}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4548_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{64C6A6A4-5777-41E2-B4DE-FA63D970F3F7}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.js" />
+				<child name="CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{9FA9E314-6DA4-4BE2-B0A4-FFD21224D96F}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB" key="{28FF5FD2-ACE5-4D33-89DB-91EEE16B982D}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{6CD43A13-93D5-482A-8E08-6228A71D7BA2}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{C07F2B96-F77D-4708-9898-179615C68641}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{BE1AE9C8-BD8A-410C-BC21-F1D28E48647B}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{D6E0DCCE-9204-4464-B7DB-2E0F87D70FC1}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{780AD34A-1021-48F8-8B0D-E6A77F17E453}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{C610467F-0B5A-4677-92F3-60003A08BF91}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{4E629693-193B-44E9-ACD2-05BAE35F4213}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+				<child name="CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE" key="{90BD3E40-CA34-4473-BB4B-D3AD4AD6594A}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE.js" />
+				<child name="CR1806_Helper" key="{ACD2E7AF-ADF7-403E-A3FC-1D7EFC209CFD}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_Helper.js" />
+			</folder>
+			<child name="CR1806_4548_Cli_Valider_le_format_du_extract_datahubextractor" key="{703EA613-41FA-405A-9D46-6113FB6C2DF8}" path="CR1806_4548_Cli_Valider_le_format_du_extract_datahubextractor.sj" />
+			<child name="CR1806_4558_Cli_Valider_les_records_dans_la_table_B_DATA_HUB" key="{0141C129-9813-4C27-9606-57387E7AC2D8}" path="CR1806_4558_Cli_Valider_les_records_dans_la_table_B_DATA_HUB.sj" />
+			<child name="CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{71E53DCC-E8FB-4D5A-986D-5DC963FD6FDD}" path="CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.sj" />
+			<child name="CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{22FD1B22-692B-45E6-8F7D-8728522068B7}" path="CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.sj" />
+			<child name="CR1806_4679_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{4787924C-E7FD-4A1B-A464-D5473CE63AE5}" path="CR1806_4679_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.sj" />
+			<child name="CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{D8D4CCE1-9A7D-4B9E-ABDC-7BF200E39EB8}" path="CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.sj" />
+			<child name="CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{13E27E6F-B5EF-4114-84E8-B6E0009051CF}" path="CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.sj" />
+			<child name="CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{B52C5B04-D2B5-4433-8E94-488DD064D551}" path="CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.sj" />
+			<child name="CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{AE931A48-2F73-430F-8067-F3AD6AEF11DF}" path="CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.sj" />
+			<child name="CR1806_4717_Cli_Valider_lexportation_des_donnees_des_rapports_MULTIPLE" key="{2ACF9864-FF9C-48D0-9B18-008D6CC344EA}" path="CR1806_4717_Cli_Valider_lexportation_des_donnees_des_rapports_MULTIPLE.sj" />
+			<child name="CR1806_4557_Cli_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{00EF81A5-D6F5-4595-B349-7C3419B5E36C}" path="CR1806_4557_Cli_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.sj" />
+			<child name="CR1806_4558_Cli_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{EA6158B1-0D86-4529-92B2-F60ABCC8B882}" path="CR1806_4558_Cli_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.sj" />
+		</folder>
+		<folder name="CR908">
+			<child name="CR908_6259_Client_PreparationAccountsAndClientsEnvironment" key="{8CD3735B-769C-4B29-B6BD-95BFCCAE6E8D}" path="CR908_6259_Client_PreparationAccountsAndClientsEnvironment.js" />
+			<child name="CR908_6260_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS1" key="{2C1205C6-15C2-4A21-B06F-D4F41A0DC6E0}" path="CR908_6260_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS1.js" />
+			<child name="CR908_6261_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS2" key="{F777AFA4-0436-4440-A410-54C8F02F64E0}" path="CR908_6261_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS2.js" />
+			<child name="CR908_6262_Client_ReturnAccountsAndClientsToTheirInitialState" key="{FFC83E90-B566-4238-BAF3-C6C563963546}" path="CR908_6262_Client_ReturnAccountsAndClientsToTheirInitialState.js" />
+		</folder>
+		<folder name="CR2345">
+			<child name="CR2345_TCVE_823_CopyPrintExporClienGridWithPrefDefinedWithoutLimitation" key="{6C9633A0-8CBA-4F84-B610-89F8E817AE11}" path="CR2345_TCVE_823_CopyPrintExporClienGridWithPrefDefinedWithoutLimitation.js" />
+			<child name="CR2345_TCVE_869_CopyPrintExporClientGridPrefDefinedwithLimitationZero" key="{58DD22B9-FD10-48E2-9707-2BD7D779C12D}" path="CR2345_TCVE_869_CopyPrintExporClientGridPrefDefinedwithLimitationZero.js" />
+			<child name="CR2345_TCVE_870_CopyPrintExporClientGridPrefDefinedwithLimitationTen" key="{A0815436-4EEA-432B-9C02-99186C0F6BE9}" path="CR2345_TCVE_870_CopyPrintExporClientGridPrefDefinedwithLimitationTen.js" />
+		</folder>
+		<folder name="Mail Merge">
+			<child name="TCVE_8383_MailMerge_ValidateRapportGenerationDoc" key="{F0C8DBAB-5C87-40D0-8833-3D7D9CD8556B}" path="TCVE_8383_MailMerge_ValidateRapportGenerationDoc.js" />
+		</folder>
+		<child name="ExecutionLog" key="{3C2EA1B7-A2AA-4580-B568-55F6719F9AB8}" path="ExecutionLog.sj" />
+		<child name="PreExecution" key="{3151D9C8-88F4-4A84-9C5C-91CE31038286}" path="PreExecution.js" />
+		<child name="Global_variables" key="{D796A231-EB25-4505-81B6-341753E585AC}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{66A70BEF-2AA0-4079-ADB1-0E0200524AC8}" path="..\..\..\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

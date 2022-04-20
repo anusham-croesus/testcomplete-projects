@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{F399B2B7-E0CE-4F62-A947-DDCC6EB94A3B}">
+	<children>
+		<child name="Relations" key="{F122B2B3-699F-435B-9E05-77A8791CD02B}" path="Relations\Relations.mds" />
+	</children>
+	<testItems key="{DD589523-BE5C-4CDA-B9ED-F9D9FCF0F3D6}">
+		<children>
+			<testItem key="{F122B2B3-699F-435B-9E05-77A8791CD02B}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{351CF77D-D088-4562-933F-2F9CF7615AC3}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="VMBL" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{AB23B1E0-F4EC-4A72-87AA-BB5E3F444F03}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

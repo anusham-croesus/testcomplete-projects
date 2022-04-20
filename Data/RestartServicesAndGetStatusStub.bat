@@ -1,0 +1,1 @@
+echo y | (chcp 1252 & PLINK_FILE_TO_BE_SPECIFIED -ssh root@VSERVER_HOSTNAME_TO_BE_SPECIFIED -pw VSERVER_ROOT_PASSWORD_TO_BE_SPECIFIED sudo service cfadm restart ; sleep 30 ; sudo service cfadm status > OUTPUT_FILE_TO_BE_SPECIFIED)

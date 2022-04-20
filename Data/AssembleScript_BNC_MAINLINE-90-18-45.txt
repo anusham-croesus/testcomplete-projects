@@ -1,0 +1,26 @@
+cat <<DEVOPS>> /etc/devops.conf
+VSERVER_TYPE=croesus
+VSERVER_ENV=auto
+DEVOPS
+
+cat <<DEFAULTS >> /etc/defaults.conf
+SOFTWAREURLS="FOR_TESTS_AUTO_VSERVER_URL_TO_BE_SPECIFIED"
+WEBACTIVATE="all"
+CFADMWEB="true"
+ROOT_PSWD="FOR_TESTS_AUTO_VSERVER_ROOT_PSWD_TO_BE_SPECIFIED"
+DEFAULTS
+
+# Fichiers des donnees pour le chargeur
+cd /home/loader/data
+wget -q -r -np -nH --cut-dirs=2 -A .xml http://idefix/archives/loaderDataFiles/
+  group=dev est un parametre requis.
+
+# Ajout du service Order Management Server
+/sbin/chkconfig --add cfordermanagementserver
+
+# Pour les Rapports, Copier le certificat MorningStar vers /etc/finansoft/
+/bin/cp /var/lib/finansoft/morningstar.pfx /etc/finansoft/morningstar.pfx
+
+# Pour les Rapports, enlever les numeros au debut du nom des rapports
+echo "REPORT_SRV_DEST_DEBUG_DATASET:0
+" >> /etc/finansoft/croesus.conf

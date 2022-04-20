@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{15684F1C-8AEB-4BE8-A871-4E910FB8E123}">
+	<children>
+		<child name="Portefeuille" key="{7A1287BA-0086-4440-AB7B-3D0B956C85BA}" path="Portefeuille\Portefeuille.mds" />
+	</children>
+	<testItems key="{812C6CEA-EBC6-4DB0-846C-FB5793C108D8}">
+		<children>
+			<testItem key="{7A1287BA-0086-4440-AB7B-3D0B956C85BA}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{1AC1C807-9712-481F-84C1-A213D6935E93}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="VMBL" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{EC7FCC24-5FA5-4176-A093-3E46EBB05D7F}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

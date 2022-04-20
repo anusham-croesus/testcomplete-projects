@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{FBA37E0C-98A5-42DC-B831-434705D68AE6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{209742D8-593B-4FE4-9D08-55B024281D2C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{1D1D6510-0598-4EB6-8422-9E26FCDA9856}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{D8847B78-50DB-43F3-8479-8A468B1AE265}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{8A5B4B06-24AB-4181-BF9F-A90C54489446}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{4A7F8264-0AEF-43F2-B83E-2BC0021F3E28}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{7B5B6018-04D3-41E4-AF31-0F8C4597FD3D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{AF4EBC1B-464F-4189-B8CA-9713FCE47645}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{2C719655-FBAA-4516-95C9-16CFDAA1FCFF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{446AACE5-85D4-41D7-9163-2C6AB3BEB443}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{1B2A97E1-418D-4BB0-BEBF-E97CD2711D53}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{BB05E0EE-B765-47FE-85BF-E0697761D8EE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{23161211-B42A-4C82-A66E-D02316018454}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{2E37009C-06F0-477B-BD89-FD5E1DB0E625}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{F91B2CB6-F91B-4EF8-BFF5-4F50A0FB4C6B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{289CE5C7-AE3C-447D-B966-C5D8E192D6AE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{0D9ED99D-3623-4639-B80A-F387194B5121}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{5B7057ED-1D8F-4A3C-BD87-8CF5540171D6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{6C9872C6-D72E-4DB1-884F-E8FF76F4CEC0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+		</folder>
+		<child name="Performance_Rel_Rapport_AssetAllocationSubcategory" key="{2B02AC8E-9557-4FE3-9A5E-8D3C30730863}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_AssetAllocationSubcategory.sj" />
+		<child name="Performance_Rel_Rapport_GainsLossesRealized" key="{54EC7103-DC89-492E-A46B-A3ABF129B1C9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_GainsLossesRealized.sj" />
+		<child name="Performance_Rel_Rapport_PortfolioEvaluation" key="{3711D172-E17C-48E3-A555-68E9AC5BCEC0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_PortfolioEvaluation.sj" />
+		<child name="Performance_Rel_Rapport_PortfolioPerformance" key="{2CFAF019-CCEE-4036-B69D-B2EB6CF48040}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_PortfolioPerformance.sj" />
+		<child name="Performance_Rel_Rapport_ProjectedIncomeAnnual" key="{99AF7E8A-A2C8-4474-972C-8F4E2B3D610E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_ProjectedIncomeAnnual.sj" />
+		<child name="Performance_Rel_Rapport_Transactions" key="{6A00F166-D1E9-49F0-9A8D-178CF8ED9F30}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_Transactions.sj" />
+		<child name="Global_variables" key="{03D93F07-9075-46AD-B1BD-E2D86A6FDC95}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{9B12B20E-499A-4F8C-8C50-F950792AE57A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\ExecutionLog.sj" />
+	</children>
+</Root>

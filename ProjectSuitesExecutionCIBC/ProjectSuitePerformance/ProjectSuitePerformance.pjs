@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{7EA8E21A-3193-4E70-8A4F-8CC6F7EE53D0}">
+	<children>
+		<child name="Accounts" key="{8D44746A-6874-4319-A7A1-241BB7E24782}" path="Accounts\Accounts.mds" />
+		<child name="Clients" key="{3BAAF2C7-BC6B-4731-BF38-BEF2292F6102}" path="Clients\Clients.mds" />
+		<child name="LoginCroesus" key="{7384A830-45F6-4E71-B65F-1295EF6C27A3}" path="LoginCroesus\LoginCroesus.mds" />
+		<child name="Portfolio" key="{0B6B7618-7B64-49F7-963D-D2CA5E47FDDF}" path="Portfolio\Portfolio.mds" />
+		<child name="PreExecution" key="{CD21F4A6-0EAF-438F-B9E0-B22C5F0F2FB2}" path="PreExecution\PreExecution.mds" />
+		<child name="Rapport" key="{F2148EDD-EB08-4280-9415-E218B6F4ABF8}" path="Rapport\Rapport.mds" />
+		<child name="Relationships" key="{D22B8C9D-83E9-47DF-A2F0-8DF10CA91005}" path="Relationships\Relationships.mds" />
+		<child name="Titres" key="{7345EA76-95B8-4E66-9EBD-4D92168E92C3}" path="Titres\Titres.mds" />
+		<child name="Transactions" key="{D32CDF3D-2FC7-44F5-B8D1-C31BA13E03CB}" path="Transactions\Transactions.mds" />
+	</children>
+	<testItems key="{0D88D23C-AC6D-43E3-AD5C-5AA6489C59FE}">
+		<children>
+			<testItem key="{CD21F4A6-0EAF-438F-B9E0-B22C5F0F2FB2}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{8D44746A-6874-4319-A7A1-241BB7E24782}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{F2148EDD-EB08-4280-9415-E218B6F4ABF8}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{3BAAF2C7-BC6B-4731-BF38-BEF2292F6102}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{0B6B7618-7B64-49F7-963D-D2CA5E47FDDF}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{D22B8C9D-83E9-47DF-A2F0-8DF10CA91005}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{7345EA76-95B8-4E66-9EBD-4D92168E92C3}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{D32CDF3D-2FC7-44F5-B8D1-C31BA13E03CB}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{7384A830-45F6-4E71-B65F-1295EF6C27A3}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{5A1A0BC6-6F4F-4AA2-8133-79E4877307BB}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="CIBC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{2586EC8D-0242-464D-959A-EFFA87E89A16}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

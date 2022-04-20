@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{8FC5913E-128E-4863-98BD-426BA1A76699}">
+	<children>
+		<child name="AideEnLigne" key="{3D914AC1-156A-488F-9819-702963CB8606}" path="AideEnLigne\AideEnLigne.mds" />
+	</children>
+	<testItems key="{547173AB-9391-490A-AE64-AAC7CCF258EF}">
+		<children>
+			<testItem key="{3D914AC1-156A-488F-9819-702963CB8606}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{F8A3B3DF-26B2-4D8F-A63B-1CF9B5F33EBD}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="BNC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{8CF19D8E-6767-4909-9DC9-87E4ED7816BA}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

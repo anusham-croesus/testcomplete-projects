@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{B8554323-E1DC-4F74-9BBB-C13BA6058C99}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{E5640799-A8E4-42A1-B968-076D4844CB07}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{C2D032C4-C9E1-4A14-A747-59640CEE2770}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{430DA17A-FD96-4A17-906D-01E8184484E8}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{83C400D9-D32B-4A73-B4BD-A9187BED51FA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{BBE0AB09-074A-4730-B0AB-AF2DEC377D19}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{3D2691F4-F3D1-44B7-8476-2EE41565C1F7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="ExcelUtils" key="{51060F37-A608-4E0F-8267-82718C15B2DF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="CommonCheckpoints" key="{B071159D-EC6B-43CD-B6B6-06B48298F3AD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Agenda_Get_functions" key="{EB39FCCD-E94C-4AE8-A937-DC91FBE3B7FF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{742D94E9-23C3-4B04-B9A7-8CB02754C940}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{1B650C82-4DF4-4B5E-8908-2AA6C20B31AB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{467F36EE-0205-485C-AE73-187363ED83FF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{5CBF2D27-8ED4-4404-8DB1-2C0BCEBE0AD7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{4C1BC69E-DCAB-4FF8-BAD2-856892AC087C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{5FC35886-AB21-4ABC-8437-07A0F3C8F43B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{966CF9FF-49F2-4AB4-BB69-0863DA8F1B13}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{70F286A0-16DB-4D7E-B58B-03B231E2358C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{EB10BE7A-570D-4C06-B5AC-7F9FBB0EFB21}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="DBA" key="{606A9A30-7AFE-4FE4-AE9E-BE778B263638}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="PDFUtils" key="{5254D4F1-DF0D-4DF7-B5EF-151A4193A6D5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR2141">
+			<folder name="TestCase mode=2 pref=2">
+				<child name="CR2070_CR2141_6348_Mod_PreparationCaseCreateModelsPrefAndProfile" key="{3A54A408-9017-40A6-A286-26B7B15CD9F4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6348_Mod_PreparationCaseCreateModelsPrefAndProfile.sj" />
+				<child name="CR2070_CR2141_6349_Mod_ValidateNewParameter_AssignedDiscretionaryOrNotDiscretionary" key="{C0FAA3F5-3B3C-47D2-9F59-D2C46B0CC2E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6349_Mod_ValidateNewParameter_AssignedDiscretionaryOrNotDiscretionary.sj" />
+				<child name="CR2070_CR2141_6352_Mod_AssociateClientWithCptDiscrAndNotDiscToModel_AccountsDiscAndNotDisc" key="{A1B3F945-519D-405F-9EDE-3FD846F5CEC9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6352_Mod_AssociateClientWithCptDiscrAndNotDiscToModel_AccountsDiscAndNotDisc.sj" />
+				<child name="CR2070_CR2141_6355_Mod_AssociateNotDiscClientWithModelAllNotDiscAccounts" key="{E5D39218-80CB-42E5-A0B2-E59333EA8DF1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6355_Mod_AssociateNotDiscClientWithModelAllNotDiscAccounts.sj" />
+				<child name="CR2070_CR2141_6361_Mod_RebalancingNotDiscAccountAssociatedWithInternalModelOrAMBA" key="{B74E6E86-4828-4450-8441-1008254BFE44}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6361_Mod_RebalancingNotDiscAccountAssociatedWithInternalModelOrAMBA.sj" />
+				<child name="CR2070_CR2141_6363_RebalancingDiscClientAssociatedWithInternalModelOrAMBA_AllDiscCpts" key="{411CEAAD-BC36-495C-B441-236C8F5865DE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6363_RebalancingDiscClientAssociatedWithInternalModelOrAMBA_AllDiscCpts.sj" />
+				<child name="CR2070_CR2141_6367_RebalancingDiscRelationshipAssociatedWithInternalModelOrAMBA_AllDiscCpts" key="{B9E6A392-C6A8-45A1-8186-FE03AC769D45}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6367_RebalancingDiscRelationshipAssociatedWithInternalModelOrAMBA_AllDiscCpts.sj" />
+				<child name="CR2070_CR2141_6370_Mod_AssociateAndRebalanceNotDiscretionarySleeve_AMBAModel" key="{228CEA20-63CE-4F95-BCC9-A00E0F464836}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6370_Mod_AssociateAndRebalanceNotDiscretionarySleeve_AMBAModel.sj" />
+				<child name="CR2070_CR2141_6371_Mod_AssociateAndRebalanceDiscSleeve_InternalModelAndAMBA" key="{38220AF8-8AC0-4542-86DA-463EC3EBB817}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6371_Mod_AssociateAndRebalanceDiscSleeve_InternalModelAndAMBA.sj" />
+				<child name="CR2070_CR2141_6458_Mod_IdentificationOfDiscNotDiscAccounts" key="{AB484D28-8D94-41A7-A608-293BCB52A204}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6458_Mod_IdentificationOfDiscNotDiscAccounts.sj" />
+				<child name="CR2070_CR2141_6463_Mod_DiscAndNotDiscAccountsTiggers" key="{DCE1A34C-0B04-47E8-B27F-FDBC0F870CDD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6463_Mod_DiscAndNotDiscAccountsTiggers.sj" />
+				<child name="CR2070_CR2141_6532_Mod_CasePreparationToPutBackBDInInitialStateBNC" key="{DE99BE53-A0C2-45DD-9071-5F49876F01A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2070_CR2141_6532_Mod_CasePreparationToPutBackBDInInitialStateBNC.sj" />
+			</folder>
+			<folder name="DiscretionnaryForVMD">
+				<child name="TCVE_7392_Configuration_DiscretionaryAccounts_ForVMD" key="{EC1A59F6-0431-45E5-816A-223E5F2ADB21}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE_7392_Configuration_DiscretionaryAccounts_ForVMD.sj" />
+			</folder>
+			<child name="CR2141_6312_Mod_AssociateAccCliRelWithDelegatedManagementModel" key="{33C48815-4B94-4EE4-B5DA-17838B2BBA1E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6312_Mod_AssociateAccCliRelWithDelegatedManagementModel.sj" />
+			<child name="CR2141_6320_Mod_AssociateAssignedDiscOrNonDiscToInternalModelAndAMBA_Pref_Model_Discretio" key="{FB7E19E1-A70F-48A3-9186-8FD8268457D1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6320_Mod_AssociateAssignedDiscOrNonDiscToInternalModelAndAMBA_Pref_Model_Discretio.sj" />
+			<child name="CR2141_6322_Mod_ValidateRebalancingOfDiscOrNonDdiscAccount_Pref_Model_Discretionary_M" key="{D047C140-BB4B-4B43-B629-EBD5C99F373E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6322_Mod_ValidateRebalancingOfDiscOrNonDdiscAccount_Pref_Model_Discretionary_M.sj" />
+			<child name="CR2141_6324_Mod_RebalancingDiscClientAndNotDisc_Pref_Model_Discretionary_ModeIs1" key="{41D9DF93-C3C9-4807-AB08-BDAC5584C07E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6324_Mod_RebalancingDiscClientAndNotDisc_Pref_Model_Discretionary_ModeIs1.sj" />
+			<child name="CR2141_6325_Mod_AssociateAndRebalanceDiscretionarySleeve_Mode1" key="{E2EE4F56-781D-4439-8D73-C361657560CE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6325_Mod_AssociateAndRebalanceDiscretionarySleeve_Mode1.sj" />
+			<child name="CR2141_6328_Mod_AssociateRebalanceNonDiscretionaryRelationshipToModel_AllDiscreteAccountsAndModeIs1" key="{8C771FDE-0EA1-43B6-AE83-3CD1D451C1CA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6328_Mod_AssociateRebalanceNonDiscretionaryRelationshipToModel_AllDiscreteAccountsAndModeIs1.sj" />
+			<child name="CR2141_6329_Mod_ValidateRebalancingOfDiscAccountOnAmbassadorModel" key="{31842A32-113E-4D6E-AE44-65AE5587B159}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6329_Mod_ValidateRebalancingOfDiscAccountOnAmbassadorModel.sj" />
+			<child name="CR2141_6341_Mod_PreparationCases_CreateModelsWithDelegatedManagementAndPref" key="{BA131178-978A-44E2-BF50-56A8A54CC36F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6341_Mod_PreparationCases_CreateModelsWithDelegatedManagementAndPref.sj" />
+			<child name="CR2141_6344_Mod_AssociateAndRebalanceNonDiscSleeve_Mode1" key="{C3031399-8537-4221-B236-8D27F998938D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\CR2141_6344_Mod_AssociateAndRebalanceNonDiscSleeve_Mode1.sj" />
+		</folder>
+		<folder name="PreExecution">
+			<child name="PreExecution" key="{17F5DF7D-D996-4B72-BB83-0EE32E3D72B3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\PreExecution.sj" />
+		</folder>
+		<folder name="CR2455">
+			<child name="TCVE6776_CR2455_MIB_2014_15_Validate_GenerationProposedorders_with_SmartDOption" key="{276B774B-27AA-4B36-9384-984C211E441A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\TCVE6776_CR2455_MIB_2014_15_Validate_GenerationProposedorders_with_SmartDOption.sj" />
+		</folder>
+		<child name="Global_variables" key="{D1DBAA1A-087C-4522-9757-D8B858871ED7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{8265C5BD-2A17-458F-AA91-C0C69ABD9B32}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteModeles\Modeles\Script\ExecutionLog.sj" />
+		<child name="GetListOfTestsToBeRun" key="{27830D7E-229E-4593-84D6-096BDBCEAB6F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

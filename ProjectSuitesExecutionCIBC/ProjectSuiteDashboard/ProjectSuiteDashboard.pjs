@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{A202CD87-B53B-4CF5-8CB1-6BBDAC69A6F1}">
+	<children>
+		<child name="Dashboard" key="{37C5B3E1-E6ED-4CAB-A36E-A8CDD96BEE97}" path="Dashboard\Dashboard.mds" />
+	</children>
+	<testItems key="{A09BD046-368B-4E25-BB23-C5A434C80A00}">
+		<children>
+			<testItem key="{37C5B3E1-E6ED-4CAB-A36E-A8CDD96BEE97}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{0F48E621-780C-414C-8019-5ADE59AE43C1}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="CIBC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{A92FA6BA-E870-4154-B276-CE6192C1F9F3}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

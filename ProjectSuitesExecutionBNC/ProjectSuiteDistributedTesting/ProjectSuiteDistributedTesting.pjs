@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{6C5DCBF9-5021-46B9-8451-D7A64A47D6F3}">
+	<children>
+		<child name="DistributedTesting" key="{CE6460FB-A925-4D92-9546-CBE04BF5DCBE}" path="DistributedTesting\DistributedTesting.mds" />
+		<child name="ScriptsDistributedTesting" key="{3ABC261E-55EB-4031-81BA-E13F151F9C02}" path="ScriptsDistributedTesting\ScriptsDistributedTesting.mds" />
+	</children>
+	<testItems key="{F4D37D94-D67A-4D1B-A02F-7C2231562D7D}">
+		<children>
+			<testItem key="{CE6460FB-A925-4D92-9546-CBE04BF5DCBE}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{3ABC261E-55EB-4031-81BA-E13F151F9C02}" enabled="False" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{89CB2349-5FAE-46FA-9CF9-E96A69E53A52}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="BNC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{76FA01AC-D31A-40ED-B126-17D299B72DFC}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

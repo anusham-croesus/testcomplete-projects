@@ -1,0 +1,15 @@
+update B_USER set MOTPASSE = "GZz7m3vOe"
+update B_USER set RECOVERY_EMAIL_CONFIRMED = 'Y'
+update B_USER set RECOVERY_EMAIL = 'testauto_' + rtrim(B_USER.STATION_ID) + '@auto.com'
+update B_USER set EMAIL = 'testauto_' + rtrim(B_USER.STATION_ID) + '@auto.com'
+update B_USER set VALIDATION_CODE_COUNT = 0
+update B_USER set HASH = null
+update B_USER set SALT = null
+update B_USER set HASH_VERSION = 0
+update B_USER set LAST_PSWD_CHNGE = null
+update B_USER set VALIDATION_KEY = null
+update B_USER set VALIDATION_CODE_EXPIRATION = null
+update B_USER set PSWD_TENTATIVE_COUNT = 0
+update B_USER set PSWD_REINIT = 0
+update B_USER set BLOCKING_TYPE=''
+update B_USER set VALIDATION_CODE=null

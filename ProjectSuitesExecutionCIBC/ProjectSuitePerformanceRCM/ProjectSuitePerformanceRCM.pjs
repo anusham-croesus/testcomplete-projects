@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{7EA8E21A-3193-4E70-8A4F-8CC6F7EE53D0}">
+	<children>
+		<child name="PerformanceRCM" key="{6FCA7904-E06F-4BC7-979C-566CC9AAFEC9}" path="PerformanceRCM\PerformanceRCM.mds" />
+	</children>
+	<testItems key="{0D88D23C-AC6D-43E3-AD5C-5AA6489C59FE}">
+		<children>
+			<testItem key="{6FCA7904-E06F-4BC7-979C-566CC9AAFEC9}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{5A1A0BC6-6F4F-4AA2-8133-79E4877307BB}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="CIBC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{2586EC8D-0242-464D-959A-EFFA87E89A16}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{98A3BD8F-CAC4-4738-BCEA-C0509F19BD9D}">
+	<children>
+		<child name="Agenda" key="{1EEED27E-1F1F-4DB1-AFF4-90168F9A7583}" path="Agenda\Agenda.mds" />
+	</children>
+	<testItems key="{2A6D78D9-AFA7-4900-87D1-A9F76F9C758E}">
+		<children>
+			<testItem key="{1EEED27E-1F1F-4DB1-AFF4-90168F9A7583}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{8F1E42F0-EDAC-432B-BF5C-71987DA18932}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="BNC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{30BECE3B-65B8-4A83-9FF2-5FEFF2945892}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

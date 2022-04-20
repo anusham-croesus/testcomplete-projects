@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{2638D050-DAC7-493C-BCDB-82FE46DBA53B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{7A521D2F-52DE-466B-B8BB-607A1D154F30}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{C9D43150-9E14-44E7-975D-2D88C58B80F7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{8F735F98-5AB8-424E-B352-BCE593F6C99F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{2F0C08B0-D8B7-4925-B86F-967FA5F505FD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{D99E3FA4-5BC1-46C2-BCFE-A0AF314DA036}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{D7F4151D-ADCB-485F-9F0C-594DA7BA03E6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="ExcelUtils" key="{7A9E9340-2043-4983-895E-0CA7A1855386}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="CommonCheckpoints" key="{228508CE-CB15-4AFB-ABC0-44ED115B2E23}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Agenda_Get_functions" key="{26EF76CA-6674-4389-A4FE-8FFB1892B67F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{3E3216D3-E0CD-4D72-8D81-37B889D9DF2D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{1B8E521E-5AAF-42B9-BB13-4AEC960D3D9D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{5096BD56-4A5C-4B2D-AC42-97A2D78E95E0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{993178CE-8D26-475B-898A-021EA4C9D686}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{7609F4D2-EE9A-4158-93F1-9B4087A5D599}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{FFB226C9-4E35-40F9-A0DE-A4FACF8918D4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{8F18A103-DA38-48BC-8393-9FF51C2A4D63}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{BA33F791-6DAE-4E32-AF53-58AB95C967E9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{4CEF2D66-4C7A-4695-9864-9289E94D958A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="DBA" key="{4D662270-5809-47C6-A91D-B616C10B901B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="PDFUtils" key="{C7EAAAA3-04FD-4016-8EFB-C2A2BBC9A960}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+			<child name="RQS_Get_functions" key="{7E85CD1F-9C75-4CE3-8F46-E54442A38DB3}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\RQS_Get_functions.sj" />
+		</folder>
+		<folder name="CompareXML">
+			<child name="CompareXMLtestsResults" key="{43CF9AAF-309D-445B-BA6F-0F23EAA112C0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\CompareXMLtestsResults.sj" />
+		</folder>
+		<folder name="Test" />
+		<folder name="CR1958_2">
+			<folder name="Preparation">
+				<child name="CR1958_RISK_1822_RQS_Environment_Regeneration" key="{47180DAD-DE38-4F42-9582-156C0F5D03EB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_RISK_1822_RQS_Environment_Regeneration.js" />
+			</folder>
+			<child name="CR1958_2_6644_Validate_RQS_DashboardGenerator" key="{A174C692-1A29-4848-8AFB-0C3098B0BE79}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6644_Validate_RQS_DashboardGenerator.js" />
+			<child name="CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_FilterMenuFields_TabTransactionsBlotter" key="{9F00DE21-C329-41E0-952F-B867B35EEA85}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_FilterMenuFields_TabTransactionsBlotter.js" />
+			<child name="CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_GridColumns_TabAlerts" key="{2424A771-72A3-4EBA-89DE-FF140B0BB48D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_GridColumns_TabAlerts.js" />
+			<child name="CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_GridColumns_TabReports" key="{018D10EE-9D36-4D33-A20C-720DC8F9522D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_GridColumns_TabReports.js" />
+			<child name="CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_GridColumns_TabTransactionsBlotter" key="{76E6B5A8-3A9B-4F3D-A60F-47F7F68453B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_GridColumns_TabTransactionsBlotter.js" />
+			<child name="CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_Plugin_DashboardGenerator" key="{66BFA2C1-5EAB-43DE-9197-BA474EB30294}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_Plugin_DashboardGenerator.js" />
+			<child name="CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_WinQuickSearchFields_TabAlerts" key="{ADB0D7A3-6EA0-4F31-85D5-0511822EF247}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_WinQuickSearchFields_TabAlerts.js" />
+			<child name="CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_WinQuickSearchFields_TabTransactionsBlotter" key="{C35975B6-8C98-47B8-A726-C1662DC5CB0C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6645_PREF_ENABLE_CLIENT_RELATIONSHIPS_equals_NO_Validate_WinQuickSearchFields_TabTransactionsBlotter.js" />
+			<child name="CR1958_2_6646_ValidaDepoTransInAlertCliRela" key="{33D3ADCE-932B-4536-A9E7-CCA461A54071}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6646_ValidaDepoTransInAlertCliRela.js" />
+			<child name="CR1958_2_6647_Validate_BuySellCancelSellTransaction_ClientRelationShips" key="{2908F4D7-7C5E-42E9-B589-F8EB5754D266}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6647_Validate_BuySellCancelSellTransaction_ClientRelationShips.js" />
+			<child name="CR1958_2_6650_Validate_TheNewLogic_TotalValue_TransactionBlotter" key="{79C6FC67-A899-4086-8EDB-F1E958F83F2B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6650_Validate_TheNewLogic_TotalValue_TransactionBlotter.js" />
+			<child name="CR1958_2_6651_ValidtAddDeletCopyVisiblPredefinedSentences" key="{159842D0-1F65-4374-B563-C2356DE711D6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6651_ValidtAddDeletCopyVisiblPredefinedSentences.js" />
+			<child name="CR1958_2_6652_DragAndDropAlerts_RQS_ModuleSecurities" key="{E71D3970-EEDA-4EBF-AE82-391D94E2E38F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6652_DragAndDropAlerts_RQS_ModuleSecurities.js" />
+			<child name="CR1958_2_6653_6073_Validate_DataBase_Columns_Added" key="{F970244E-94C6-49BC-8798-81F2B314F50C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6653_6073_Validate_DataBase_Columns_Added.js" />
+			<child name="CR1958_2_6653_6073_Validate_in_OffsideAccountReport_Display_MgmtLevel_ClientProfile" key="{075872A2-4727-4E0B-9B80-C4BBF34F7FF2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6653_6073_Validate_in_OffsideAccountReport_Display_MgmtLevel_ClientProfile.js" />
+			<child name="CR1958_2_6653_6073_Validate_in_OffsideAccountReport_Display_MgmtLevel_Individual" key="{6EC1A0DF-9A55-4CC3-9212-50FA3C73CC60}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6653_6073_Validate_in_OffsideAccountReport_Display_MgmtLevel_Individual.js" />
+			<child name="CR1958_2_6653_6073_Validate_in_OffsideAccountReport_OffsideTotalValueLogic_MgmtLevel_ClientProfile" key="{6F007896-B805-498D-8CBB-35F0D4C4C093}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6653_6073_Validate_in_OffsideAccountReport_OffsideTotalValueLogic_MgmtLevel_ClientProfile.js" />
+			<child name="CR1958_2_6653_6073_Validate_in_OffsideAccountReport_OffsideTotalValueLogic_MgmtLevel_Individual" key="{73EE3444-301F-4CE9-B8E4-738BB919E914}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6653_6073_Validate_in_OffsideAccountReport_OffsideTotalValueLogic_MgmtLevel_Individual.js" />
+			<child name="CR1958_2_6654_6057_ValidateLogicFilterByThreeFieldsAddedBulkValidations" key="{18830D53-16E5-4A63-87F3-85A046DF1731}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6654_6057_ValidateLogicFilterByThreeFieldsAddedBulkValidations.js" />
+			<child name="CR1958_2_6655_ValidateLogicFilterByThreeFieldsAddedManualAlert" key="{52FB0C3C-2CB2-4848-B48B-210BF08DA6A4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6655_ValidateLogicFilterByThreeFieldsAddedManualAlert.js" />
+			<child name="CR1958_2_6656_6530_ValidateLogicFilterByThreeFieldsAddedAndSpotcheck" key="{DEC54F92-F0DE-4124-B101-4DF14DFF6BF3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6656_6530_ValidateLogicFilterByThreeFieldsAddedAndSpotcheck.js" />
+			<child name="CR1958_2_6658_Validate_Manual_Logic_Client_ID" key="{EEA99FD4-EBD2-4A50-812A-09692D6FE23D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6658_Validate_Manual_Logic_Client_ID.js" />
+			<child name="CR1958_2_6667_Cas_pour_preparer_aux_tests_RQS_activer_les_Pref_Transaction_plugin" key="{EB6439E4-E714-4DAE-B917-2645297BE608}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6667_Cas_pour_preparer_aux_tests_RQS_activer_les_Pref_Transaction_plugin.js" />
+			<child name="CR1958_2_6742_ValidateConcentrationAlertsClientRelationships" key="{9CDC3B19-DEC9-4498-9605-E80741C3D6C2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6742_ValidateConcentrationAlertsClientRelationships.js" />
+			<child name="CR1958_2_6744_PredefinedSentencesNoteTransactionBlotterBulkValidate" key="{198A6EA9-154E-4E1B-886B-EB61EEABE0F2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_6744_PredefinedSentencesNoteTransactionBlotterBulkValidate.js" />
+			<child name="CR1958_2_Helper" key="{1B3A419B-4FBB-4D4F-9673-B62E65725E8B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_2_Helper.js" />
+			<child name="CR1958_RISK_1176_ValidateChangeOf_IACodeAlertClientRelationship" key="{39476377-F248-4729-A453-FEE131C92ED4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRQS\RQS\Script\CR1958_RISK_1176_ValidateChangeOf_IACodeAlertClientRelationship.js" />
+		</folder>
+		<folder name="CR1142">
+			<child name="CR1142_6784_Valider_impossibilite_de_modifier_supprimer_donn_es_Relation_Client_module_Relations" key="{3425BC99-DFD3-4C4E-BD81-B14A52909C1A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6784_Valider_impossibilite_de_modifier_supprimer_donn_es_Relation_Client_module_Relations.sj" />
+			<child name="CR1142_6785_Valider_boutons_Ajouter_Modifier_Supprimer_affichent_pas_Onglet_Comptes_sous_jacents" key="{2C74B461-0973-4479-9159-9795DF063452}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6785_Valider_boutons_Ajouter_Modifier_Supprimer_affichent_pas_Onglet_Comptes_sous_jacents.sj" />
+			<child name="CR1142_6786_Valider_nouvelle_colonne_Est_conjoint_qui_indique_les_icones_de_la_Relation_Client" key="{1C968EEB-35B5-4A84-864F-6FD9748A8473}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6786_Valider_nouvelle_colonne_Est_conjoint_qui_indique_les_icones_de_la_Relation_Client.sj" />
+			<child name="CR1142_6787_Valider_capacite_de_filtrer_par_Niveau_de_gestion_operateur_parmi_excluant" key="{25C0C432-7386-455C-B426-5B726CC91233}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6787_Valider_capacite_de_filtrer_par_Niveau_de_gestion_operateur_parmi_excluant.sj" />
+			<child name="CR1142_6788_Valider_capacite_de_filtrer_par_etat_operateur_parmi_excluant_est_a_blanc" key="{62CA14F7-635F-42B1-9E8E-CCF9E828F599}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6788_Valider_capacite_de_filtrer_par_etat_operateur_parmi_excluant_est_a_blanc.sj" />
+			<child name="CR1142_6800_Valider_capacite_de_filtrer_par_Date_de_fermeture_module_Relations" key="{0E98DE10-AAA6-4EA2-9915-506E0054670C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6800_Valider_capacite_de_filtrer_par_Date_de_fermeture_module_Relations.sj" />
+			<child name="CR1142_6801_Validate_filter_by_RelatioshipType" key="{A0C97D69-0389-4E6A-A702-7FD1485582E5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6801_Validate_filter_by_RelatioshipType.sj" />
+			<child name="CR1142_6802_Validate_Creation_of_searchCriterion" key="{F4ABDCF1-6717-4D81-9B6C-EB8DE9A9522C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6802_Validate_Creation_of_searchCriterion.sj" />
+			<child name="CR1142_6803_Validate_newFields_for_ClientRelatioship" key="{2993F910-A827-4339-94B5-9DB37D51517C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6803_Validate_newFields_for_ClientRelatioship.sj" />
+			<child name="CR1142_6804_Validate_the_tree_DetailsSection" key="{5A12A63B-A497-45DC-82CC-1E0898A7D304}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6804_Validate_the_tree_DetailsSection.sj" />
+			<child name="CR1142_6805_Validate_nesFields_in_ClientInfoWin" key="{1AC51D9A-BAD3-41C0-88D9-51EB1ED81731}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6805_Validate_nesFields_in_ClientInfoWin.sj" />
+			<child name="CR1142_6806_Validate_creation_searchCriterionBy_ClientRelationshipNo" key="{036986B1-AFE1-4D9E-A086-081BC1DF16E2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6806_Validate_creation_searchCriterionBy_ClientRelationshipNo.sj" />
+			<child name="CR1142_6812_Validate_ability_filter_by_NoCient" key="{68EC0F2B-4387-46DC-B6CA-2AE2AE4B6067}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6812_Validate_ability_filter_by_NoCient.sj" />
+		</folder>
+		<folder name="CR2425">
+			<child name="CR2425_PortfolioSummaryAndCopyEndDateWithWeekEnd" key="{FE8F2BFD-5CA8-4429-A7DB-531696E10A7F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\CR2425_PortfolioSummaryAndCopyEndDateWithWeekEnd.sj" />
+		</folder>
+		<folder name="CR2426">
+			<child name="RPT_3420_CR2426_AutomateReportsGenerationWithReportCommander" key="{3D744569-5DCB-41B2-9402-9065D4EEE546}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\RPT_3420_CR2426_AutomateReportsGenerationWithReportCommander.sj" />
+			<child name="ReportCommander_Commonfunctions" key="{08E0D9B3-D934-41CE-B2BA-E6C3D42533D3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRapports\Rapports\Script\ReportCommander_Commonfunctions.sj" />
+		</folder>
+		<folder name="PreExecution">
+			<child name="PreExecution" key="{29FF8588-2A4E-4E43-8075-17FF7418FA97}" path="PreExecution.sj" />
+		</folder>
+		<child name="Global_variables" key="{94EBCCEA-A4FB-4BDC-A123-FDB624B34073}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{AC0A4900-010B-416A-9337-C8CB11A5C4D2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="ExecutionLog" key="{025D2D5F-3F5C-450A-B890-90767E630DA1}" path="ExecutionLog.sj" />
+	</children>
+</Root>

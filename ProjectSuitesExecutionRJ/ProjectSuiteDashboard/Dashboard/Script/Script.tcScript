@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Survol">
+			<folder name="Financial_Instrument_Selector">
+				<folder name="Create_Sell_Order">
+					<child name="Survol_Dash_CreateSellOrder_CtrlShiftS" key="{DC79D6F2-0442-45D4-A80C-5D2098BCBD47}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_CreateSellOrder_CtrlShiftS.sj" />
+					<child name="Survol_Dash_Menubar_CreateSellOrder" key="{0321AD98-9042-43F1-8EF5-E16AB50C30FC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Menubar_CreateSellOrder.sj" />
+					<child name="Survol_Dash_Toolbar_btnCreateSellOrder" key="{2C76E184-EAC6-4666-9415-980F06EE5E0C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Toolbar_btnCreateSellOrder.sj" />
+				</folder>
+				<folder name="Create_Buy_Order">
+					<child name="Survol_Dash_CreateBuyOrder_CtrlShiftB" key="{B6684F57-7A1D-4532-BE08-678BA3EF6D68}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_CreateBuyOrder_CtrlShiftB.sj" />
+					<child name="Survol_Dash_Menubar_CreateBuyOrder" key="{55F03C22-C1DF-454B-AE0A-0A35C75C8390}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Menubar_CreateBuyOrder.sj" />
+					<child name="Survol_Dash_Toolbar_btnCreateBuyOrder" key="{81F2CA80-0D06-4EB1-A0E4-4B1E5E3CDE2D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Toolbar_btnCreateBuyOrder.sj" />
+				</folder>
+			</folder>
+			<folder name="Boards">
+				<child name="Survol_Dash_CalendarBoard" key="{D6AE5987-9211-4698-9C3C-E678F0C89653}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_CalendarBoard.sj" />
+				<child name="Survol_Dash_CampaignManagementBoard" key="{0F78E3B3-14D1-4C4C-B8F9-56CE91CFE1AF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_CampaignManagementBoard.sj" />
+				<child name="Survol_Dash_ExpiredOrdersBoard" key="{83ACCAA8-84D8-4313-A8E2-4808828A5C3E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ExpiredOrdersBoard.sj" />
+				<child name="Survol_Dash_InvestmentObjectiveVariation" key="{25016B0B-ACC1-45F0-8FA9-73F85BC42ACE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_InvestmentObjectiveVariation.sj" />
+				<child name="Survol_Dash_InvestmentObjectiveVariationModels" key="{87DCAFC2-7FEA-4F15-A7C3-4852D6E557F3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_InvestmentObjectiveVariationModels.sj" />
+				<child name="Survol_Dash_NegativeCashBalanceSummaryBoard" key="{54BCB4FF-4ECF-4659-8F02-FFAB52638989}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_NegativeCashBalanceSummaryBoard.sj" />
+				<child name="Survol_Dash_PositiveCashBalanceSummaryBoard" key="{45B39C64-484D-4ADF-8362-C300B521BA2A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_PositiveCashBalanceSummaryBoard.sj" />
+				<child name="Survol_Dash_TriggeredRestrictionsBoard" key="{087F41CA-2142-4195-9C8C-F8BE3040B1E8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_TriggeredRestrictionsBoard.sj" />
+			</folder>
+			<folder name="Print">
+				<folder name="Print_EveryBoard">
+					<child name="Survol_Dash_MenuBar_FilePrint_EveryBoard" key="{EDE4806C-0875-4838-93B2-28F74D75D69C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_FilePrint_EveryBoard.sj" />
+					<child name="Survol_Dash_Print_Alt_Shift_P" key="{6EB957CD-D396-4FE5-BE78-68EE5BCA778A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Print_Alt_Shift_P.sj" />
+					<child name="Survol_Dash_ToolBar_btnPrint_EveryBoard" key="{FB2B5FFF-D8B5-4369-A8F9-CB6D7CC989F1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ToolBar_btnPrint_EveryBoard.sj" />
+				</folder>
+				<folder name="Print_MyTasks">
+					<child name="Survol_Dash_MenuBar_FilePrint_MyTasks" key="{9DA27049-98C2-44D6-A3A5-173EAFC523B1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_FilePrint_MyTasks.sj" />
+					<child name="Survol_Dash_Print_Alt_Shift_T" key="{AD3F874C-94A7-4BD0-BDF5-E610FEA4FAAF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Print_Alt_Shift_T.sj" />
+					<child name="Survol_Dash_ToolBar_btnPrint_MyTasks" key="{FD140FEE-D58F-40E1-8CE2-1D73DC2501FB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ToolBar_btnPrint_MyTasks.sj" />
+				</folder>
+				<folder name="Print_SelectedBoard">
+					<child name="Survol_Dash_Print_Alt_P" key="{54A10FDE-CE4F-49D5-A7E4-DC782E0735FC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Print_Alt_P.sj" />
+					<child name="Survol_Dash_Print_ClickR" key="{7C8415FF-7AC3-49FD-BEDC-53CF24A6B2C3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Print_ClickR.sj" />
+				</folder>
+				<folder name="Print_MyOpenTasks">
+					<child name="Survol_Dash_MenuBar_FilePrint_MyOpenTasks" key="{B2F54C99-B9E5-4F85-8F89-8E36D128C6A3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_FilePrint_MyOpenTasks.sj" />
+					<child name="Survol_Dash_Print_Alt_Shift_O" key="{E4E29F8B-A896-4563-9917-3A54AB977AE2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Print_Alt_Shift_O.sj" />
+					<child name="Survol_Dash_ToolBar_btnPrint_MyOpenTasks" key="{B80D4386-3062-49AD-B0C6-83C3AA0F5DC8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ToolBar_btnPrint_MyOpenTasks.sj" />
+				</folder>
+			</folder>
+			<folder name="Agenda">
+				<child name="Survol_Dash_Agenda_Ctrl_Maj_L" key="{B7D22B51-E2E0-4E32-A012-C6E25ADB12D6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Agenda_Ctrl_Maj_L.sj" />
+				<child name="Survol_Dash_MenuBar_ToolsAgenda" key="{A44F8D37-559D-4127-91B4-8331D0E0EAFF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_ToolsAgenda.sj" />
+				<child name="Survol_Dash_ToolBar_btnAgenda" key="{635BDA99-F87E-41DF-BCF2-DA5D2ED8EA0A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ToolBar_btnAgenda.sj" />
+			</folder>
+			<folder name="Archive_Documents">
+				<child name="Survol_Dash_ArchiveDoc_Ctrl_Maj_A" key="{457A288A-58A6-4D62-BE5F-9E8AEF64133E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ArchiveDoc_Ctrl_Maj_A.sj" />
+				<child name="Survol_Dash_MenuBar_Tools_btnArchiveMyDocuments" key="{B39EDF58-4CAC-44DB-9823-63C27B15D5BA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_Tools_btnArchiveMyDocuments.sj" />
+				<child name="Survol_Dash_ToolBar_BtnArchiveMyDocuments" key="{09944F7C-5160-4D1C-962F-4A5087825AE7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ToolBar_BtnArchiveMyDocuments.sj" />
+			</folder>
+			<folder name="Bond_Calculator">
+				<child name="Survol_Dash_Calculator_Ctrl_Maj_O" key="{CEC9F6D1-4DAA-405F-A197-89D27968ED01}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Calculator_Ctrl_Maj_O.sj" />
+				<child name="Survol_Dash_MenuBar_Tools_btnCalculator" key="{5BD925A5-F87B-4E30-8C81-5218072631E2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_Tools_btnCalculator.sj" />
+				<child name="Survol_Dash_Toolbar_btnBondCalculator" key="{BD4B62DA-5050-4922-B104-1849CE0A1E3B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Toolbar_btnBondCalculator.sj" />
+			</folder>
+			<folder name="Add_Board">
+				<child name="Survol_Dash_AddBoard_CTRL_N" key="{50A778B0-E0D4-470F-A732-5440F874FE01}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_AddBoard_CTRL_N.sj" />
+				<child name="Survol_Dash_MenuBar_EditAdd" key="{A5C217CB-41A8-4D85-B818-B67EB881A6AB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_EditAdd.sj" />
+				<child name="Survol_Dash_ToolBar_BtnAdd" key="{DC747CD1-6425-4F35-9B68-22437A603E8A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ToolBar_BtnAdd.sj" />
+			</folder>
+			<folder name="Internet">
+				<child name="Survol_Dash_MenuBar_Tools_Internet" key="{FBD912C2-95E8-42DE-B954-643AEFB39E8E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_Tools_Internet.sj" />
+				<child name="Survol_Dash_ToolBar_btnInternet" key="{0DB0DF31-0225-4D91-9B5D-B0C0C7AD82F8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ToolBar_btnInternet.sj" />
+			</folder>
+			<folder name="Lock_Application">
+				<child name="Survol_Dash_MenuBar_FileLock_BtnOk_WithoutPSW" key="{5BD05289-B349-4635-953F-13D0741D8279}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_FileLock_BtnOk_WithoutPSW.sj" />
+				<child name="Survol_Dash_MenuBar_FileLock_btnQuit" key="{4ADF5209-FFE1-4B55-A284-33578FFF4FD1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_FileLock_btnQuit.sj" />
+				<child name="Survol_Dash_ToolBar_btnLockTheApplication_BtnOk_WithPSW" key="{F6C8C443-3EB8-43B7-91BB-7D97DB94F176}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ToolBar_btnLockTheApplication_BtnOk_WithPSW.sj" />
+			</folder>
+			<folder name="Close_Application">
+				<child name="Survol_Dash_AltF4" key="{133F7EE8-721E-445B-B96B-4EDC45451DCB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_AltF4.sj" />
+				<child name="Survol_Dash_AltQ" key="{92846BA3-64EC-4A63-A7B2-5B7D8C525964}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_AltQ.sj" />
+				<child name="Survol_Dash_Quitter" key="{AD3391FF-9584-4E7E-8750-EDA953243223}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Quitter.sj" />
+				<child name="Survol_Dash_SysClose" key="{C0D56592-20F1-4484-9BD6-C457237D4FF5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_SysClose.sj" />
+				<child name="Survol_Dash_X" key="{83DDE731-A0EA-4B75-AD8D-539EDD17D256}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_X.sj" />
+			</folder>
+			<folder name="Compose_Address">
+				<child name="Survol_Dash_Internet_ComposeAddress_CtrlO" key="{C4A0C48A-D242-4EAD-81AF-B4AFD63B9535}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_Internet_ComposeAddress_CtrlO.sj" />
+				<child name="Survol_Dash_MenuBar_Tools_Internet_ComposeAddress" key="{8159C6E8-00DB-45F4-A695-370C54CB3593}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_MenuBar_Tools_Internet_ComposeAddress.sj" />
+				<child name="Survol_Dash_ToolBar_BtnInternet_ComposeAddress" key="{D91A82C2-D980-40CA-8E3B-AAFA14F338D8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\Survol_Dash_ToolBar_BtnInternet_ComposeAddress.sj" />
+			</folder>
+		</folder>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{10CF2572-9320-4A7C-A33B-927EAFBEA53F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{96221BE3-B159-4B13-925E-942B299F7423}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{032A8A3D-6477-4453-80DC-58E3D53B115D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{2C1C7E1E-05BC-4D8A-9364-26E1FF259D5E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{9769EB56-53AC-451C-A2CC-38ACE081A026}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{F0B7DA10-E8E1-4F0F-AA89-8AA3611B8DD1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="ExcelUtils" key="{7D5E472A-515A-4C20-8690-9D0F44B46CC7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Common_functions" key="{94FFB2E8-3F77-479E-AEE3-220CA489A0C1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="CommonCheckpoints" key="{E3C7042E-8537-42E1-A70D-BEF5F63B9960}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="DBA" key="{2F165C39-B78D-4437-BF69-A1CD8C10F823}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="Agenda_Get_functions" key="{804B1AFC-CAF2-4632-8E58-51CE85D2FFD9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{14BD5F96-05E2-4209-8862-0826FE4407DB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{1C8C5245-5B6A-4322-85C0-A8D9D95EC6DD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{82394C8C-F597-44BF-A017-342C85A9FA7C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{D256F591-8E4C-44AC-B9FE-67D196622226}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{04415685-55B6-47E1-8912-5E6BC90541A6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{4A7D7724-2150-40EC-9088-D2474EE68E27}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{4330C126-CC32-446C-A24B-833E422AD88B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{F4712882-AA79-4BE3-8EF3-390A7816D711}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{78357EC0-9AEF-437A-95E9-9E4C41BF6BC4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+		</folder>
+		<folder name="Anomalies">
+			<child name="CROES_6404_Dash_Crash_DblClick_Negative_Cash_Balance" key="{62AF4F6B-DC71-4195-B435-63100048DB09}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CROES_6404_Dash_Crash_DblClick_Negative_Cash_Balance.sj" />
+			<child name="CROES_6404_Dash_Crash_DblClick_Positive_Cash_Balance" key="{37D859B7-7785-4AE5-B0FA-5E2AE72FAF0F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CROES_6404_Dash_Crash_DblClick_Positive_Cash_Balance.sj" />
+		</folder>
+		<folder name="CR1483">
+			<child name="CR1483_Dash_Check_BranchSelection_IACodes" key="{87A43DF9-5606-499D-80D4-C829BF57B150}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_Check_BranchSelection_IACodes.sj" />
+			<child name="CR1483_Dash_Check_UserSelection_IACodes" key="{9E1A9727-DBD0-4534-AADE-D95DC1F3374E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_Check_UserSelection_IACodes.sj" />
+			<child name="CR1483_Dash_CheckErrorMsgPrefMaxWorkAs" key="{EC07EB76-319C-437D-B07A-3DE7E581B300}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_CheckErrorMsgPrefMaxWorkAs.sj" />
+			<child name="CR1483_Dash_CheckErrorMsgPrefMaxWorkAs_TabIACodes" key="{E9C2F72C-7539-43DE-BD24-31872EDAA5D5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_CheckErrorMsgPrefMaxWorkAs_TabIACodes.sj" />
+			<child name="CR1483_Dash_CheckErrorMsgPrefMaxWorkAs_TabUsers" key="{24144C1E-7B46-4BB6-8380-A67BD0EDC355}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_CheckErrorMsgPrefMaxWorkAs_TabUsers.sj" />
+			<child name="CR1483_Dash_Common_Functions" key="{9181608D-ABC6-4FA7-9527-BDA210FB9827}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_Common_Functions.sj" />
+			<child name="CR1483_Dash_RememberMySelection" key="{9C046614-1832-4DB4-8780-7D6A3AFF4D7C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_RememberMySelection.sj" />
+			<child name="CR1483_Dash_RememberMySelection_TabIACodes" key="{7BE3E74B-321E-450A-9AAC-29A67435A5C0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_RememberMySelection_TabIACodes.sj" />
+			<child name="CR1483_Dash_RememberMySelection_TabUsers" key="{73657261-8CB1-4234-A77D-1E0AA7FD539E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_RememberMySelection_TabUsers.sj" />
+			<child name="CR1483_Dash_Survol_Users_Selection_TabBranches" key="{954AF7E9-67F3-4577-9EB7-E76941B9F823}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_Survol_Users_Selection_TabBranches.sj" />
+			<child name="CR1483_Dash_Survol_Users_Selection_TabIACodes" key="{91062C42-F2F3-46BE-BEF0-24F846D7F99F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_Survol_Users_Selection_TabIACodes.sj" />
+			<child name="CR1483_Dash_Survol_Users_Selection_TabUsers" key="{D82E68D3-8480-4A40-926C-D19AC25E0FFB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\CR1483_Dash_Survol_Users_Selection_TabUsers.sj" />
+		</folder>
+		<child name="Global_variables" key="{7E7ADCC9-78D7-4F72-B818-612071C3F57E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{96BB1283-67EE-4BE0-A9F2-3C894D0D336D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\ExecutionLog.sj" />
+		<child name="PreExecution" key="{F6845B53-F790-497F-B862-323A0B6EF397}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDashboard\Dashboard\Script\PreExecution.sj" />
+		<child name="GetListOfTestsToBeRun" key="{8D2EDC6D-9CB7-4C5C-BEE4-E6D6C0696AFA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

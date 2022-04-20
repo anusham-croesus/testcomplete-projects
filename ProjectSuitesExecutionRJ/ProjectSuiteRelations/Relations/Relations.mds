@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" version="14.0">
+	<children>
+		<child name="NameMapping" key="{B974D24E-DF08-47FE-85C1-84B52C80F3B7}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="..\..\..\ProjectSuiteLibrary\Library\NameMapping\NameMapping.tcNM" />
+		<child name="Script" key="{DB108410-488E-436B-A089-4D37E0BF7688}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
+		<child name="NetworkSuite" key="{9EA06CE4-2D24-4B58-98D8-F01969BF1A78}" type="Network Suite Core" typeId="{342AA317-C8C7-4232-8A60-069723AAFC67}" pluginName="Network Suite Core" path="NetworkSuite\NetworkSuite.tcNetSuite" />
+		<child name="Events" key="{8B467BF1-F732-4A42-B43D-62051379D8AA}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" pluginName="" path="Events\Events.tcAX" />
+	</children>
+	<config language="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" />
+	<testItems key="{9EC6B5BF-3026-4C56-B31B-C5BD54AA361C}" version="14">
+		<children>
+			<testItem name="ProjectTestItem153" key="{90DB1C13-5379-4BAE-80D9-517BB569DF41}" group="False" enabled="True" testMoniker="{34329903-30B5-40F1-93D5-A663CAB46A02}PreExecution" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="Survol" key="{5CAF633C-DA7A-471D-8A74-E5868418B7E3}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Activities" key="{123C2819-E2A4-4DC5-8591-FF813DE34136}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem2" key="{0D1E82A7-4204-46F2-8FC6-A6121D9105F3}" group="False" enabled="True" testMoniker="{0306B94B-D17C-40D4-801C-B6C96807D780}Survol_Rel_MenuBar_Activities" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem1" key="{65E8BE70-0D82-4954-975E-A4469B940D5F}" group="False" enabled="True" testMoniker="{F836F36F-20D3-4711-A3F5-4624C2D651A0}Survol_Rel_ContextualMenu_Functions_Activities" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem3" key="{7EB1FA2B-18A3-452A-B58F-20C49EBD2C85}" group="False" enabled="True" testMoniker="{467EB47F-643B-4C55-9F8B-07126B0938F3}Survol_Rel_RelationshipsBar_Activities" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Add_Filter" key="{CA5C2214-1B68-41EB-A2AC-939FBEB677F1}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem4" key="{28FDA3A3-BCE0-472C-B462-DE7C3C1A5521}" group="False" enabled="True" testMoniker="{761672BA-414C-4975-9313-0965917715EB}Survol_Rel_MenuBar_SearchAddFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem5" key="{552E230C-0416-4EC2-B81F-2DE45A8C661D}" group="False" enabled="True" testMoniker="{4940B058-6205-4D7F-8536-8CD4C44FDECC}Survol_Rel_ToolBar_btnQuickFilters_AddFilter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Add_Relationship" key="{3C3D9158-64F2-4CFC-A49F-C6595F5C5B21}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem6" key="{B9E80E2E-2D1D-4801-9F09-8BC89177D6A3}" group="False" enabled="True" testMoniker="{7E1F6EAC-929E-4BA4-88E1-EE297010BADF}Survol_Rel_ContextualMenu_AddRelationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem7" key="{689A6D8A-6375-445F-A961-CBD13FABC943}" group="False" enabled="True" testMoniker="{E478D074-578E-4A12-85BA-325826BD4E18}Survol_Rel_MenuBar_Edit_AddRelationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem8" key="{DE743E4F-0941-4CB4-B7F9-F4050602413C}" group="False" enabled="True" testMoniker="{C6811938-0150-4470-9AA4-40EBD6789F34}Survol_Rel_ToolBar_btnAdd" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Add_Search_Criterion" key="{9EEB2F8C-474B-4BC8-915E-4344A06F7A53}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem9" key="{840170E2-10DA-4D79-B028-B86A2124A287}" group="False" enabled="True" testMoniker="{835828C7-C42B-4350-87BE-9121BD9EAEB4}Survol_Rel_MenuBar_SearchCriteriaSubmenuAddSearchCriterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem10" key="{A82BC05E-9FF9-4EDE-9548-665AE1AE88F5}" group="False" enabled="True" testMoniker="{6EC0D74F-91AF-4242-92DE-162301D1ACCB}Survol_Rel_Toolbar_BtnAddSearchCriterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Agenda" key="{AA992454-8F86-4A7C-B533-E132FDF30886}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem11" key="{29CA94D4-374D-44D3-A49D-9E7C8D3DD19F}" group="False" enabled="True" testMoniker="{DFD575F2-A118-4453-B6DC-1B21A0713D37}Survol_Rel_Agenda_Ctrl_Maj_L" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem12" key="{3FECEF6F-AAEF-4837-9F85-6B31C8304D90}" group="False" enabled="True" testMoniker="{CB6B860A-66F7-474C-AF71-2814FC077EBE}Survol_Rel_MenuBar_ToolsAgenda" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem13" key="{5990FF3F-734F-47FE-A3EE-D34FB7553F30}" group="False" enabled="True" testMoniker="{C075C5E7-F5F9-464D-9C27-913CB3C54FB8}Survol_Rel_ToolBar_btnAgenda" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Archive_Documents" key="{6903111E-F0AD-4C24-B19E-B7EEAF8771D6}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem14" key="{78BF3B71-9EDC-4A68-BE4C-8D37D7F433B9}" group="False" enabled="True" testMoniker="{55D81D8A-0F34-4893-88F1-1ACE8DB3054A}Survol_Rel_ArchiveDoc_Ctrl_Maj_A" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem15" key="{7B0E2269-1844-4BBC-8759-3588945FBB10}" group="False" enabled="True" testMoniker="{0B983D4C-D831-4927-AFA9-81CFA69B7451}Survol_Rel_MenuBar_btnArchiveMyDocuments" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem16" key="{61DB1658-C915-4128-9BD1-16EAA720F2CF}" group="False" enabled="True" testMoniker="{F724CF43-D7BD-442B-8E3A-EB4F8C3919C1}Survol_Rel_MenuBar_btnArchiveMyDocuments" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Bon_Calculator" key="{414EC837-5B54-47C5-99B2-4CEF5DEDCD9A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem17" key="{72F32A3C-FD65-44AA-A973-93F82F4E8EBB}" group="False" enabled="True" testMoniker="{D5109577-56AD-4F15-B6D3-2B278FA776A9}Survol_Rel_Calculator_Ctrl_Maj_O" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem18" key="{C34E96D0-C0F8-4760-957C-C882EE6319A5}" group="False" enabled="True" testMoniker="{97189B6D-B91F-41A5-B55F-4A2A99D3E288}Survol_Rel_MenuBar_Tools_btnCalculator" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem19" key="{38813CDE-A2AF-4420-A69A-9C22CCF50D69}" group="False" enabled="True" testMoniker="{7F7E99D3-F2FB-418E-9C90-1FCF10D22753}Survol_Rel_Toolbar_btnBondCalculator" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Compose_Address" key="{C4D3A67A-3F41-4229-8503-1F37BD427478}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem20" key="{3FFE8DF9-B893-4C4F-BCC8-32D140E977CA}" group="False" enabled="True" testMoniker="{761109F7-2C57-42A8-AE22-276DA584A235}Survol_Rel_Internet_ComposeAddress_CtrlO" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem21" key="{7B81C794-C65C-47AF-86BF-4E1E318A41F9}" group="False" enabled="True" testMoniker="{9B2DC857-690B-43A2-9E17-1BD5C016B185}Survol_Rel_MenuBar_Tools_Internet_ComposeAddress" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Financial_Instrument_Selector" key="{BDBE0FDB-0C66-4127-A215-5DF65D168867}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Create_buy_order" key="{603FD470-FD23-4437-A10E-E8B45C210A3C}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="ProjectTestItem22" key="{92F1DBF3-9630-4719-ACD8-C212E31EEA62}" group="False" enabled="True" testMoniker="{DBE84FF7-C34E-4466-9DB1-E2CC98167152}Survol_Rel_CreateBuyOrder_CtrlShiftB" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="ProjectTestItem23" key="{1CEE9994-C5C1-40F6-8F90-1A64DC150E51}" group="False" enabled="True" testMoniker="{B611330D-DCC2-4C65-8ED5-B45C9A26D908}Survol_Rel_Menubar_CreateBuyOrder" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="ProjectTestItem24" key="{450885A1-AB97-41DA-B059-5BE93A5D6931}" group="False" enabled="True" testMoniker="{A0BC7617-FEBE-4A7E-8584-33EF74EF6990}Survol_Rel_Toolbar_btnCreateBuyOrder" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Create_sell_order" key="{95219924-7992-4F39-B24A-F94987A35075}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="ProjectTestItem25" key="{8D8F4BAD-AB92-4DCE-A53C-E0F91E637C0B}" group="False" enabled="True" testMoniker="{1ACF3CA2-81AD-40DE-AA9E-0A5D078531F9}Survol_Rel_CreateSellOrder_CtrlShiftS" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="ProjectTestItem26" key="{03E371C9-918D-4BC8-B440-56A26AC152F2}" group="False" enabled="True" testMoniker="{A39E58BD-55DC-4874-A6E9-DE6BE24F887C}Survol_Rel_Menubar_CreateSellOrder" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="ProjectTestItem27" key="{B0E45A87-DBD6-4552-9775-6DFD8C48D2C6}" group="False" enabled="True" testMoniker="{72EB4257-F0C4-408E-AFFE-607E8B205787}Survol_Rel_Toolbar_btnCreateSellOrder" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Info" key="{21422E1B-04F6-4609-8A02-2D0B8011D4D9}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem28" key="{B524A988-5F87-467E-8836-3DF8C10092BC}" group="False" enabled="True" testMoniker="{BD45D5D6-F380-4829-9017-86AF1FCE6C1E}Survol_Rel_ContextualMenu_Functions_Info" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem29" key="{BD43EBA0-CD0C-4C6F-BC09-C6C25586F7B6}" group="False" enabled="True" testMoniker="{E4DD013D-0BEC-4057-9535-9E7D6E65F63A}Survol_Rel_MenuBar_EditFunctions_Info" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem32" key="{D2C55F9B-A7D0-4BD4-A330-6512BA8382CF}" group="False" enabled="True" testMoniker="{1CBBA48B-48D5-4346-A816-AAF622FC04A7}Survol_Rel_RelationshipsBar_BtnInfo" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Info(i)" key="{FF3C1A98-F6ED-411E-A1B2-852B7540210A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem30" key="{0364B48F-8197-42BA-B13B-38546748E0A0}" group="False" enabled="True" testMoniker="{7E8C0D6C-0D46-4B01-B96D-D0A13D57AB3A}Survol_Rel_ContextualMenu_i" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem31" key="{D447FB2F-D87A-4443-A3A2-54E700BFC0D5}" group="False" enabled="True" testMoniker="{24AAA14B-B2D6-4525-B9DA-0EFBDA38F7D7}Survol_Rel_i_Ctrl_L" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem33" key="{5D31AF0D-2049-4DB0-82D6-FB4433818271}" group="False" enabled="True" testMoniker="{0A4D6069-33DA-4F3D-9282-C3CF02F90E0F}Survol_Rel_MenuBar_Edit_i" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem34" key="{D6AAED1C-7313-4E7D-B6EB-E5C452D4AF5C}" group="False" enabled="True" testMoniker="{19B940A5-0420-4280-AEC5-27D7CBA04465}Survol_Rel_ToolBar_Btn_i" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Internet" key="{59B8696A-2A93-42E3-A6DD-85A0BEB8A18F}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem35" key="{C4A61BB5-7DCA-4670-8CA2-5F9B9FE405B8}" group="False" enabled="True" testMoniker="{8EA53B11-EF61-4711-9695-ED7E08D03343}Survol_Rel_MenuBar_Tools_Internet" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem36" key="{AF1FF1DD-8E86-4B45-A499-CA4F1F15D1EA}" group="False" enabled="True" testMoniker="{37BE3FA6-57BF-49F0-9EFB-B6DC674F005A}Survol_Rel_ToolBar_btnInternet" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Join" key="{D2E72717-3E69-4DC5-A1BD-B75577E655F0}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Accounts" key="{59024869-A408-4F26-9246-2BE800FAE838}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="ProjectTestItem38" key="{6AD15D03-F889-49E9-BC01-233C81BA78DB}" group="False" enabled="True" testMoniker="{7E66A641-0A8F-4001-94B2-76550F44C201}Survol_Rel_ContextualMenu_JoinAccounts" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="ProjectTestItem39" key="{7D703A48-111D-4657-9B7D-4DBF679A7205}" group="False" enabled="True" testMoniker="{411BE80E-A074-45ED-826C-3A3C51129733}Survol_Rel_MenuBar_Edit_JoinAccounts" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="ProjectTestItem40" key="{C925BBCF-074E-4A2E-8E93-E9E993BDD9C3}" group="False" enabled="True" testMoniker="{6D21734B-7CD8-485C-AB81-EF113C693342}Survol_Rel_ToolBar_btnAdd_JoinAccounts" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Clients" key="{A612E9B7-C178-4C7F-BE23-18B4F799AB1C}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="ProjectTestItem41" key="{AB252CA9-02E3-4261-9217-0913D0259D73}" group="False" enabled="True" testMoniker="{1536C2E0-A252-43EB-A032-DA543DEAF268}Survol_Rel_ContextualMenu_JoinClients" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="ProjectTestItem42" key="{613A7799-9035-4A3F-96E7-2E028A768B86}" group="False" enabled="True" testMoniker="{043CCAF9-2F78-45CB-B621-08DF9CD805B8}Survol_Rel_MenuBar_Edit_JoinClients" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="ProjectTestItem43" key="{6B69674B-9F34-4DD0-A3FE-84F51184A040}" group="False" enabled="True" testMoniker="{50CFE951-8FB5-4EE8-84B0-57D9CB4D91B8}Survol_Rel_ToolBar_btnAdd_JoinClients" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Lock_Application" key="{07CEC46D-952A-49C4-98AA-55449F931D7C}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem37" key="{AEE2497A-FD87-4436-96E2-C609194888B8}" group="False" enabled="True" testMoniker="{0D542223-019E-4718-BC07-C778D330BABC}Survol_Rel_MenuBar_FileLock_BtnOk_WithoutPSW" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem44" key="{80888DA9-066F-430E-B526-E1D8662B88B6}" group="False" enabled="True" testMoniker="{1B304E3F-174A-49C6-8AB2-16F1D69C9501}Survol_Rel_MenuBar_FileLock_BtnQuit" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem45" key="{078E3E0F-4830-41E6-9F6F-BE682455F34C}" group="False" enabled="True" testMoniker="{2526C65B-A174-4D5F-8489-37DA337240DE}Survol_Rel_ToolBar_BtnLockTheApplication_BtnOk_WithPSW" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="MainWin" key="{5F5E32B8-D36B-468B-921E-76A7E57E2856}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Details" key="{1D6D5684-208C-4AE4-B11E-389AD5B2E722}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="ProjectTestItem47" key="{1333C66B-D55A-4B2A-816C-AAD16AD6BC7C}" group="False" enabled="True" testMoniker="{8AE35713-01AE-4DA2-9644-CDE005FC3BC6}Survol_Rel_MainWin_Details" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Grid_column_ header" key="{F601C504-6644-4368-9979-AA2F25B4DE39}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="ProjectTestItem50" key="{AA821266-5176-441E-8BA1-CFD31538FD3A}" group="False" enabled="True" testMoniker="{E4632972-151B-4B85-AEAD-F5A09D9C454F}Survol_Rel_Grid_column_header" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Performance" key="{29D0A3F3-9BA2-40FD-8CB5-882A952E1FCB}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem46" key="{6B45C548-A7B4-4B4E-B061-D396B2544889}" group="False" enabled="True" testMoniker="{8CD5885A-1FC7-4DFA-A807-5BBD240CF27C}Survol_Rel_ContextualMenu_Functions_Performance" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem48" key="{6FE19484-9FC3-49D2-9E82-1E94E1AE801E}" group="False" enabled="True" testMoniker="{BAF4A69E-CAE6-4D18-89E8-32E802B904D3}Survol_Rel_MenuBar_EditFunctions_Performance" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem49" key="{006578BB-16DB-41BB-924C-4156CE4EB013}" group="False" enabled="True" testMoniker="{66E8C91D-B37E-4220-9378-85A543B0B83F}Survol_Rel_ClientsBar_Performance" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Print" key="{1177EDB9-060E-44B9-932A-99F43EDFF09F}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem51" key="{1CF5BEB6-1903-4978-A4FE-EC6F2D910A3C}" group="False" enabled="True" testMoniker="{7E0EAE27-88F5-4CB2-94F2-43F2454BC8DB}Survol_Rel_MenuBar_FilePrint" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem52" key="{1598B67A-7088-4AA0-8845-24070FD0134F}" group="False" enabled="True" testMoniker="{622B7577-DD6B-49C3-86A0-7239129DF3FD}Survol_Rel_Print_AltP" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem53" key="{54D0BCD4-C34A-483C-AE20-681D999251FF}" group="False" enabled="True" testMoniker="{92048BE2-B960-47AD-BC89-9EB5B990FE81}Survol_Rel_ClickR" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem54" key="{00212696-9D83-4539-A946-EFE438825F05}" group="False" enabled="True" testMoniker="{DDAF02C3-0C91-40A8-8A09-4D82CE860DA4}Survol_Rel_ClickR" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Relationships_Reports" key="{709E8632-54B7-4365-9AB4-3D6C5AA2B56E}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem55" key="{A2A5B683-AEB4-4998-879B-254AD1CEFFA1}" group="False" enabled="True" testMoniker="{4B1F3879-B198-4852-B36C-10956B66DB68}Survol_Rel_MenuBar_ReportsAccounts" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem56" key="{2F0DC91E-772A-4B3E-A72F-0F141AB9D0B2}" group="False" enabled="True" testMoniker="{96AACCA0-43D6-42FF-87BF-4364070E2480}Survol_Rel_ToolBar_btnReportsAndGraphs" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Restrictions" key="{826847A6-173C-4544-9F53-2F7C65616C85}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem57" key="{C57D96A2-D496-4679-92FC-BD829BECE5F5}" group="False" enabled="True" testMoniker="{1C7C362A-AFA3-4B67-9F9D-E70CA35B340B}Survol_Rel_ContextualMenu_Functions_Restrictions" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem58" key="{9E9C26D6-CD19-4AB2-A30B-621BAAC4ECB6}" group="False" enabled="True" testMoniker="{62BA7611-E8CF-4B27-B7DD-951E6C27E937}Survol_Rel_MenuBar_EditFunctions_Restrictions" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem59" key="{784D71B1-EF55-4735-8B4B-A378DCECE7A2}" group="False" enabled="True" testMoniker="{679F2E05-BED8-4E35-841F-762C67B21518}Survol_Rel_RelationshipsBar_Restrictions" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Search" key="{7BC3E3F1-C5DF-4AE1-87BC-82E8E76985F3}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem61" key="{17705FC8-51C2-4146-9787-3C73F281AFA3}" group="False" enabled="True" testMoniker="{55D00FA9-7EB5-4280-927E-BD1AD8F44616}Survol_Rel_MenuBar_EditSearch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem62" key="{477A2610-388B-4F40-BFD1-B3897A4BC977}" group="False" enabled="True" testMoniker="{0194D296-ABD1-45BC-9EE7-96816F034115}Survol_Rel_Search_KeyboardSearch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem63" key="{95F8C6F4-4273-454F-8D9E-D4E751380497}" group="False" enabled="True" testMoniker="{EE5C1D43-A5DE-488E-9BE1-15A5B5099795}Survol_Rel_ToolBar_btnSearch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Search_Manage" key="{1C5B5B59-2D31-4C37-8EA3-CA9A33779D2F}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem60" key="{A86DD68D-809A-4AE3-A115-67E3BC1585CA}" group="False" enabled="True" testMoniker="{E46A3C8A-7ACC-43ED-B5F3-5DB0116AFF7F}Survol_Rel_MenuBar_SearchCriteriaSubmenuSearchManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem64" key="{0ACAB88C-2155-4266-8721-62CCCD3C7666}" group="False" enabled="True" testMoniker="{09E67D79-CA5C-4B8A-BBB1-F05CBFBAD7FE}Survol_Rel_ToolBar_btnManageSearchCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Sum" key="{1B6158CC-E8F3-4802-8BC5-3BE0C03E6979}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem67" key="{41E12A15-24D1-42EB-A00F-AA715A63F365}" group="False" enabled="True" testMoniker="{BD1015DA-05BF-4013-804A-B9BE9E7644AF}Survol_Rel_MenuBar_EditSum" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem68" key="{4BD9F916-8CDD-43F7-8CA7-F6D01570AD9F}" group="False" enabled="True" testMoniker="{1C77A8BA-CEAE-42D8-959D-6AB94A728BD4}Survol_Rel_MenuBar_EditSum" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem69" key="{B27EAD32-DBB3-48AF-93FF-B414272F475E}" group="False" enabled="True" testMoniker="{55D2C31F-4C03-48B9-A4D4-CD57EF12FBF3}Survol_Rel_ToolBar_btnSum" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="Anomalies" key="{ED6E06C1-DD39-4999-95D4-5C22CD866F8A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="ProjectTestItem157" key="{834F1470-5FFE-4720-B68E-65802D431081}" group="False" enabled="True" testMoniker="{CE1F4EC4-EEFF-4914-A13F-438A5C7D0C02}BNC_1960_Crash_ClicEditionaftherGenerCriterRelationShip" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem159" key="{C083119A-439E-46A6-B57D-EF22E1E82151}" group="False" enabled="True" testMoniker="{6B557B51-EC38-4280-AE2D-FD1F4AD56337}BNC_2034_ConflictIndicatorIsNotInTheRightColor" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem160" key="{8D58E962-9AF4-4234-9DD5-42355744C060}" group="False" enabled="True" testMoniker="{A8E5308B-FB85-4F41-A2A6-DD269FBA198C}CROES_7065_InfoRelationWhenChangeFrequencyToYearlyThisFieldShouldNotEditabl" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem161" key="{D1E1BB71-75BF-41CE-B3FC-C46F347B8B12}" group="False" enabled="True" testMoniker="{5DDB72A3-6082-4104-A701-70AD82E43E8B}CROES_7509_Rel_CrashInTheRightClickMenuRooClientInSectionDetail" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem162" key="{B7B0A7C0-4EB1-47DD-95E9-09E4AE6CF085}" group="False" enabled="True" testMoniker="{4557DA24-0618-405A-B39D-1573A4173F80}CROES_7989_NameOfTheAssignmentFunctOfAnAccountOrCustomerToRelationshipIsIncorrectwhenTheAssignmenInsummary" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem164" key="{CED4B370-0236-4792-8EF5-308D3931D3A6}" group="False" enabled="True" testMoniker="{063AE0FB-D54E-49A7-8D86-D5335B98DAE5}CROES_8311_Rel_CrashAfterSearchingByCPCode" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem165" key="{72022252-C195-46FF-9D8F-212DAC3C2A2A}" group="False" enabled="True" testMoniker="{763D983E-4C56-4A9A-8CF2-C9928E1F3BE6}CROES_8372_Rel_CrashWhenWeClickOnSecuritCategorisat" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem166" key="{DC993402-4215-49A1-8786-D50421F7563E}" group="False" enabled="True" testMoniker="{DC987FA5-7211-48F6-9EB9-E88F74776339}CROES_8447_Rel_CrashWhenWeClickOnProductServices" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem163" key="{029BACAF-1924-449A-8E0C-36DE98DBC56D}" group="False" enabled="True" testMoniker="{AC9CBA44-1C8A-4600-92FA-9AFF91AB5A5A}CROES_86_CrashAssociatiSecondCustomerWithRelationshipThatAssociatedWithAModel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem170" key="{40F7432C-03A8-4C3E-BAF7-4F738D352E94}" group="False" enabled="True" testMoniker="{7356EE8F-ABD6-43A1-A3C9-FB03DEC1EA84}CROES_8579_Rel_CanNotAddAnEntryInAnExistingDiction" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem175" key="{E3681236-6EE9-4B93-8F3B-9235E3CEEF56}" group="False" enabled="True" testMoniker="{61A2AF83-0058-45B3-BB57-B366AFE98947}CROES_9031_RelMissingColumnsInTheNotesGrid" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem176" key="{4BDBE34B-F51A-474F-9A33-0870ED6FB9CC}" group="False" enabled="True" testMoniker="{4FFCA263-1B57-457F-95F3-E147F7C80F9B}CROES_10346_RelProfColumnArNotUpdatautomatiAfterChangProfilValu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem188" key="{34241C61-4114-47F7-8F4A-BF726FC58F2B}" group="False" enabled="True" testMoniker="{573B74F6-A0C6-4928-9DE1-553D00FE6A39}CROES_5754_Rel_NameOfInterlocutorNotVisibleCompletelyInInfoRelation" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem190" key="{76BBA476-7BA8-407F-AF67-040BF5F2B8AC}" group="False" enabled="True" testMoniker="{7969F6AE-B05D-4A06-BE88-1A7D04749ED5}AnomalieMaillageFromRelationToAccomp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem193" key="{A2700DF0-6057-42EB-AABA-5A96A440476D}" group="False" enabled="True" testMoniker="{E906500F-6EA5-4E35-9757-6BBA250CDCD5}AnomalieMaillageFromRelationToClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem195" key="{B92EF7CC-B4DF-48B3-9D17-CEF0A2644625}" group="False" enabled="True" testMoniker="{80AA7E5F-F3A0-4A27-B265-07322529B1B2}AnomalieMaillageFromRelationToModels" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem199" key="{03D5405A-F08D-4B13-AB5B-81B77146B0E0}" group="False" enabled="True" testMoniker="{11652332-088E-4678-ABE5-B9B7E6804277}AnomalieMaillageFromRelationToTransaction" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem198" key="{675BBE39-A962-4536-9718-4EDD83F14B7B}" group="False" enabled="True" testMoniker="{8FA1E725-6D74-4F7C-A0E5-158A3E692894}AnomalieMaillageFromRelationToSecurities" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem197" key="{739947B9-581C-424B-9514-19F0DF2D51D9}" group="False" enabled="True" testMoniker="{C2D68C90-AD43-41CD-B71F-37C15BE971AC}AnomalieMaillageFromRelationToPortfolio" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1281" key="{1D7AA729-2B7D-4E92-8C40-2E65D738C7F9}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{7640BBBC-94A1-4C99-9412-C39908C1AFB4}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem174" key="{C8A73338-8333-4717-BF53-1B3A39018DD7}" group="False" enabled="True" testMoniker="{A5DADF8B-372F-4382-9FB5-3B8E2E6533DB}CR1281_4757_UnableToAssociaAccountsOrCustomersWithRelationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1352" key="{34DA05B1-9398-4F1A-9C59-31802310CD52}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{29BC4A6D-21C8-43A6-9F43-1E5BF1D9C178}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem155" key="{34961697-15E5-491B-A34A-F16905E80C62}" group="False" enabled="True" testMoniker="{1ED907F1-397B-4B9C-97BD-086822CD13CD}CR1352_CROES_6004_Rel_Wrong_Sum_when_we_have_search_criteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem158" key="{E490EF7C-6BD3-47DC-AAC0-B500E2FF9390}" group="False" enabled="True" testMoniker="{74D3D368-FACB-4220-9CC0-41BD4BE8DD70}CR1352_CROES_6243_Rel_TestDeSelectionMultipleAvecShift_MouseWheel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem154" key="{515553DD-D6C5-45EE-A600-712ED2A6A149}" group="False" enabled="True" testMoniker="{73AB9B4E-1E24-4BB2-AAB9-8C658D388E6E}CR1352_CROES_6243_Rel_TestDeSelectionMultipleAvecShift_DownKey" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem156" key="{C0202015-4BBE-4ECF-853E-FA93DFE1AE76}" group="False" enabled="True" testMoniker="{548D3C63-7D48-4F4E-B69A-1329B808ACB1}CR1352_CROES_8230_Rel_TestDeSelectionMultipleAvecShift_ScrollDown" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_export_and_print" key="{F13C20EE-B1CC-4AAD-8D4E-11589C9A7C4F}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem71" key="{972ECB6E-EE2F-46B1-A91F-552B79386E9E}" group="False" enabled="True" testMoniker="{4268CF7F-BD00-4BF9-8070-F6CFC3534C69}CR1352_0606_Rel_Validate_printing_in_the_Relationship_module_using_the_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem66" key="{7F5AB9DE-EC3F-488C-87E1-DF75EA5D6744}" group="False" enabled="True" testMoniker="{1C2EB952-AC01-4E62-8DB0-15E39727B47C}CR1352_0607_Rel_Validate_printing_in_the_Relationship_module_using_the_shortcut" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem70" key="{B1D7E100-C153-463E-AB8C-A9639D106D6D}" group="False" enabled="True" testMoniker="{823A86C9-2576-472D-BA57-1970AABDDC32}CR1352_0608_Rel_Validate_printing_in_the_Relationship_module_using_the_right_click" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem72" key="{22AD0764-F477-47E7-BC36-CFEE28AFF846}" group="False" enabled="True" testMoniker="{D6652C88-1A87-4E3F-B630-236C5A854023}CR1352_0609_Rel_Validate_printing_in_the_Relationship_module_using_the_file_menu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem73" key="{F5E98870-0FD5-4608-ABFB-663849B8FB0A}" group="False" enabled="True" testMoniker="{781C5478-3D9B-4C7A-A7C3-D8FF0E57AB6F}CR1352_0611_Rel_Validate_export_to_MS_Excel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem74" key="{4BEC6411-5A7D-4DAC-BED3-325278A2498D}" group="False" enabled="True" testMoniker="{AA05002F-16E1-4993-9519-0C2C56354ED9}CR1352_0612_Rel_Validate_export_to_MS_Excel_of_some_relationships" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_quick_filters" key="{46A5B5C3-B21E-47CF-969E-2854CA6E4264}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem75" key="{66075CC5-0E0E-4F17-B03B-2340AD7689FA}" group="False" enabled="True" testMoniker="{11DBA3EB-8750-4994-9B59-43C4EF35E874}CR1352_0637_Rel_Create_a_temporary_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem76" key="{6261AB07-28EA-4D96-A931-D975A78ED3DD}" group="False" enabled="True" testMoniker="{DB576A5B-2CF4-4978-979A-D47DE0CBCAC5}CR1352_0638_Rel_Add_a_permanent_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem77" key="{BE06A0A0-1DDB-4148-A944-E7CECF1640D8}" group="False" enabled="True" testMoniker="{51BB102C-E0A0-47B0-B07D-4AD9A3E3FB5A}CR1352_0639_Rel_Delete_a_permanent_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem78" key="{02A7B451-691D-47D8-A943-15B6006EBCCD}" group="False" enabled="True" testMoniker="{82481ACC-D5EC-4159-8BDA-5F9D36C48E3F}CR1352_0640_Rel_Create_a_date_type_filter_with_value" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem79" key="{59316106-8A19-46E8-8B7A-000543D15810}" group="False" enabled="True" testMoniker="{4E950F2A-2D25-4962-9A2F-A6398B6812E6}CR1352_0641_Rel_Create_a_date_type_filter_with_no_value" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem80" key="{E5DB30AE-6445-4424-9430-8AAEC8529413}" group="False" enabled="True" testMoniker="{65B95DBC-BE06-4D81-A2BE-969E715D7F13}CR1352_0644_Rel_Create_a_Language_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem81" key="{F8653E00-46D0-4C6D-9EE5-9B55375A65B4}" group="False" enabled="True" testMoniker="{3CC74146-703C-4701-AD96-B1579A2C4C9C}CR1352_0645_Rel_Create_a_Currency_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem82" key="{C95B9EF8-256E-435B-8B76-4CBB5D976AC4}" group="False" enabled="True" testMoniker="{9146EB66-4FD3-4E27-A67C-11373B8DA355}CR1352_0646_Rel_Create_a_Date_Last_Update_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem83" key="{B658E768-2939-4310-85F5-CF31EB1F61D2}" group="False" enabled="True" testMoniker="{DA809930-410D-44B3-AE0A-5E2C1241BE7B}CR1352_0647_Rel_Create_a_Note_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem84" key="{6C6FFDCE-6C68-4D72-9C20-B40B53A890B7}" group="False" enabled="True" testMoniker="{8F0D53FF-3AB6-40EF-BBD1-F4FEBCDD9201}CR1352_0648_Rel_Create_a_City_and_Province_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem85" key="{24A979A1-9B1C-4BDE-A622-0DBAB293F811}" group="False" enabled="True" testMoniker="{D5A1389D-CDF8-42CF-81C6-8D15C796F0C8}CR1352_0649_Rel_Create_a_Margin_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem86" key="{F4F1EC36-1879-4EF3-96F8-24980B7B1A2D}" group="False" enabled="True" testMoniker="{368CE4FC-FD70-446F-AF9D-2DB60633E191}CR1352_0650_Rel_Create_a_Type_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem87" key="{732C44DE-B8B2-44B3-AFE1-6A12C69737EB}" group="False" enabled="True" testMoniker="{FF23E3BA-3534-4C85-B145-B3608176CCF6}CR1352_0651_Rel_Create_an_Email_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem88" key="{20ADF6DE-9318-49E5-9DDB-7CEB1FAFD8E4}" group="False" enabled="True" testMoniker="{4F43D4DE-EBE6-41EC-9975-28BB8FEE3525}CR1352_0652_Rel_Create_a_Telephone_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem89" key="{325AF316-1D4C-4BF1-95A6-FE059ABC3EC6}" group="False" enabled="True" testMoniker="{4D774ABD-E61B-4DCF-9F96-1C8246D4CDA0}CR1352_0653_Rel_Create_a_Total_Value_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem90" key="{8FAC37DC-9E92-435D-80B2-A7309FF87E9C}" group="False" enabled="True" testMoniker="{EEA728D5-0F2A-4112-B02E-DD5214F66400}CR1352_0654_Rel_Create_a_filter_with_no_value" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem91" key="{6D60FBBC-B8A2-4FF8-8C42-4D6F9D1A6022}" group="False" enabled="True" testMoniker="{B517D3E8-0220-4872-9F37-789F1EBF9230}CR1352_0655_Rel_Check_access_management_for_permanent_filters_User" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem150" key="{8DBFB85C-FED4-43C7-9F00-C79750B680C7}" group="False" enabled="True" testMoniker="{E367542E-6B5F-4554-932D-3ED2451EAF72}CR1352_0658_Rel_Check_access_management_for_permanent_filters_Global" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem92" key="{AED70723-A292-4C64-8B9E-0F1B9FBD4F50}" group="False" enabled="True" testMoniker="{D7973ED5-386F-4DC4-9346-EC7E84E0FED1}CR1352_0659_Rel_Check_access_management_for_permanent_filters_Branch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem93" key="{EE95E480-8B79-44AB-BF3A-5AB6D0DDE907}" group="False" enabled="True" testMoniker="{F4DAF8A5-5771-496B-AAE5-6C484BB0D50A}CR1352_0660_Rel_Check_access_management_for_permanent_filters_Firm" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem94" key="{F1A73937-05DD-4734-9CD2-D5F283E3D4D8}" group="False" enabled="True" testMoniker="{FC1C50E0-6EB7-453D-A1FE-D7AAB1A04FC7}CR1352_0661_Rel_Check_access_management_for_permanent_filters_Workgroup" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem95" key="{D63AB77C-808B-42DA-A489-F27D30D39858}" group="False" enabled="True" testMoniker="{E58B3999-D149-4BBE-BCDD-A29E43CFF58F}CR1352_0664_Rel_Create_a_filter_with_the_same_name_and_access" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem96" key="{12762144-B009-451F-90A8-339A4F5D0E53}" group="False" enabled="True" testMoniker="{A2C47B2A-9B89-4F8B-838F-C65F6A661E9D}CR1352_0665_Rel_Create_a_filter_with_the_same_name_but_with_a_different_access" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem97" key="{14EF5D54-302F-4215-8D97-328A8CF3CCD5}" group="False" enabled="True" testMoniker="{DBA20E8A-E1E7-4E0F-9098-FDFDC765D4FD}CR1352_0666_Rel_Activate_Deactivate_a_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem98" key="{82535E31-20E8-4113-A4A7-78FFBF0C3A57}" group="False" enabled="True" testMoniker="{CA037849-0B2D-42EB-AFC0-A717C7E55E29}CR1352_0669_Rel_Edit_a_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem99" key="{8790927D-D3E6-4FAF-A4A1-83C4CDA7FD6D}" group="False" enabled="True" testMoniker="{EFD5A1CE-A710-4062-A364-BA1150D814D7}CR1352_0670_Rel_Remove_a_filter_from_the_bar" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem100" key="{00AEDEEA-316B-43D3-AEF9-B390A274C26F}" group="False" enabled="True" testMoniker="{B862D720-B2A2-4B6A-A0DC-2541F20E2FEC}CR1352_0673_Rel_Create_a_filter_by_dragging_an_item_to_another_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem101" key="{AF8E943B-3707-4407-811F-9B3C04A650E3}" group="False" enabled="True" testMoniker="{D847952A-9507-45A8-8803-2478F9BE3FD1}CR1352_0675_Rel_Check_the_presence_of_the_active_filters_after_restarting_the_application" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem102" key="{E1330505-3BA1-490B-BD32-29A60B3445AE}" group="False" enabled="True" testMoniker="{38551A40-D730-435C-8E15-BDA988F866BF}CR1352_0678_Rel_Check_the_presence_of_the_inactive_filters_after_restarting_the_application" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem103" key="{A9230CFA-3D77-4B87-AE70-62884413A420}" group="False" enabled="True" testMoniker="{79CB429F-7F34-4CE5-BAFD-BC3921EAB6E4}CR1352_0685_Rel_Check_the_space_available_for_multiple_filters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem104" key="{91D4A5D7-C002-4221-9E7F-77BCE9459051}" group="False" enabled="True" testMoniker="{218F1910-BDFC-4A74-A488-BCC5BE588383}CR1352_0689_Rel_Create_a_filter_in_the_filter_manager" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem139" key="{A14DD505-7FFB-4F43-A839-554DD78658D0}" group="False" enabled="True" testMoniker="{A50B8905-3F89-47D7-BD43-6610D5193AC8}CR1352_0695_Rel_Create_an_IPS_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem105" key="{E5D839AC-BD76-4395-8272-2FB0476FD9B5}" group="False" enabled="True" testMoniker="{164E0E4A-30FF-49CF-A2AF-619C94C9BEEF}CR1352_0704_Rel_Search_for_a_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem106" key="{C6233AF3-D477-48E8-B1E0-3072DCE622C1}" group="False" enabled="True" testMoniker="{F3231904-C258-413D-B715-039C42663DE4}CR1352_2549_Rel_Create_a_temporary_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_search_criteria" key="{1A91A623-8508-4C9A-9E47-A3BEC61CF9FA}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem107" key="{3F6C8FD7-4A92-4745-82AA-983125ED2F90}" group="False" enabled="True" testMoniker="{20FBDB7E-0AAE-497B-BE41-74CD68CC8438}CR1352_0745_Rel_Create_a_search_criterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem108" key="{C13D872B-303A-4283-9FDF-E1B218D34ED0}" group="False" enabled="True" testMoniker="{D094D223-EE87-4922-B84B-F74C750C9C63}CR1352_0747_Rel_Delete_search_criterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_the_creation_of_relationships" key="{FF600406-6E86-4548-9CCE-0ACB4BF483AE}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem110" key="{84E5F89C-D72C-4FAB-9C13-EF0376F3AE54}" group="False" enabled="True" testMoniker="{BDCE11CE-8ADB-4ED0-BCCB-3F306CB2651F}CR1352_0530_Rel_Add_a_relationship_with_the_plus_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem109" key="{A0CBE3D6-E719-48D0-B1DD-BF5547DA88C2}" group="False" enabled="True" testMoniker="{AFB57409-0087-4601-9949-3EDD1D59F7E1}CR1352_0531_Rel_Add_a_relationship_by_right_clicking_the_mouse" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem111" key="{C0E8E7F6-2782-4CE0-9027-A31BD47B56FA}" group="False" enabled="True" testMoniker="{F533EE5A-6096-43B5-B94A-BAF4B6200359}CR1352_0532_Rel_Add_a_relationship_using_the_Edit_menu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem112" key="{5FD39D36-5E61-4AC3-9709-6CB94CDF25E5}" group="False" enabled="True" testMoniker="{91DE148C-3333-4CE5-9755-403654EC92AE}CR1352_0533_Rel_Add_a_relationship_by_the_shortcut_CTRL_N" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem113" key="{0EB32A0C-C60F-4CA1-9CF0-6612A6D75E98}" group="False" enabled="True" testMoniker="{E25945C1-CC85-46A8-84FB-5BF5A3F9531E}CR1352_0603_Rel_Cancel_adding_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem114" key="{12A3B629-B311-4663-B809-62A1C94D5CD1}" group="False" enabled="True" testMoniker="{3C3E4204-3352-424B-95D4-4BB37E4CB912}CR1352_2469_Rel_Add_a_grouped_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_the_relationships_deletion" key="{713D3D00-1DCD-4824-A7B9-57FF6D20712E}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem115" key="{4D7C4C98-5C5B-491B-90D8-786CF7CA6D17}" group="False" enabled="True" testMoniker="{6FA5336D-6387-4B23-A531-C1C6676E5D57}CR1352_0598_Rel_Delete_a_relationship_with_the_Delete_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem116" key="{F9F6E00E-A1C6-4F01-958A-CC7A78AF396D}" group="False" enabled="True" testMoniker="{6F04AF83-47E8-4158-B6E2-A98481CF8E31}CR1352_0599_Rel_Delete_a_relationship_with_the_mouse_right_click" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem117" key="{3F6C2107-2EB4-439A-ACB4-37A9BE19267B}" group="False" enabled="True" testMoniker="{E76156E7-1927-4C2F-B4C0-30B55FF42D6E}CR1352_0600_Rel_Delete_a_relationship_with_the_Edit_menu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem118" key="{2BE2A1AE-ECF0-4444-9E6B-0EFA67F0A971}" group="False" enabled="True" testMoniker="{8FF4FCCD-3439-4573-8A29-2D3B50541813}CR1352_0601_Rel_Delete_a_relationship_with_the_CTRL_D_shortcut" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem119" key="{F051151D-D38E-4F96-9B06-7995A8ECC770}" group="False" enabled="True" testMoniker="{BCA2C6D6-7C0E-4DE2-8734-54ABB019A59C}CR1352_0602_Rel_Cancel_the_deletion_action" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem120" key="{9F76453B-77C0-483B-8CBF-36AEF27FF2CE}" group="False" enabled="True" testMoniker="{AEFA77DA-AF1F-4E96-B70C-BF989E246B62}CR1352_0604_Rel_Remove_an_account_from_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem121" key="{20258C65-C2DA-4B8B-8BC9-2B693EBF6E1B}" group="False" enabled="True" testMoniker="{84F617DF-B011-444E-BC89-4FAC2B67860E}CR1352_0605_Rel_Remove_a_client_from_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem122" key="{010C41AB-E48D-4A0C-A8D0-C9D695227C1E}" group="False" enabled="True" testMoniker="{7039AEF3-E8E6-4E1B-A299-0D586B7996F0}CR1352_0634_Rel_Delete_multiple_relationships_at_once" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem123" key="{9130A3F6-F7C3-4D4D-A831-0CEA76FF48C8}" group="False" enabled="True" testMoniker="{B080F2A6-CA38-4C11-ACCF-090796C63AD2}CR1352_0636_Rel_Delete_a_grouped_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_the_relationships_update" key="{D9F39BD8-B7F0-4DF6-B93B-D4D7C4FD88B1}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem124" key="{B9774D1E-64EF-4567-AE21-9035495D8A48}" group="False" enabled="True" testMoniker="{B4A26998-F701-454D-B471-FB13D2E16215}CR1352_0534_Rel_Join_to_a_Grouped_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem125" key="{10C0183B-C6E5-4106-8439-50537742EC8E}" group="False" enabled="True" testMoniker="{660E5DC3-C690-4BFD-AC4A-F050AA5B2D5A}CR1352_0546_Rel_Edit_a_relationship_with_the_Info_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem151" key="{A1C69990-C1FA-4858-B35D-B8C0D4FE71A8}" group="False" enabled="True" testMoniker="{57B6B09C-BB9F-4B0E-8DC0-041F4F6171EE}CR1352_0547_Rel_Edit_a_relationship_with_a_double_click" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem126" key="{249BE6B5-BF0D-47F1-8C96-4397BCB7755A}" group="False" enabled="True" testMoniker="{F1062089-E125-4578-97B5-23F8F2F6F62F}CR1352_0548_Rel_Join_real_clients_to_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem127" key="{50B7F43C-D619-4B86-B4DE-E20E9561A6E1}" group="False" enabled="True" testMoniker="{C56BD181-79F0-4B96-A412-82C1F3B55E48}CR1352_0549_Rel_Join_real_accounts_to_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem128" key="{4D720F90-42EF-432F-85C8-1AC2D560FDA2}" group="False" enabled="True" testMoniker="{196AF907-CDA4-46D4-931D-5E52F4353B18}CR1352_0550_Rel_Join_external_clients_to_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem129" key="{99833BBB-48D6-46BB-983D-EA75AC26646D}" group="False" enabled="True" testMoniker="{CE89CE36-8B04-4EF7-8FB4-EE82E8A25D45}CR1352_0580_Rel_Join_fictitious_clients_to_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem130" key="{4C5AF6E1-05C7-4103-AF5F-90C7D5A114F6}" group="False" enabled="True" testMoniker="{5BF6968B-AA07-49C6-90F5-348ED6F9C427}CR1352_0585_Rel_Update_client_bound_to_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem131" key="{90F839A4-F602-4C97-AB12-581166A75157}" group="False" enabled="True" testMoniker="{C99D04F7-7D4E-4C89-8296-138A7AFE268B}CR1352_0613_Rel_Error_when_adding_a_fictitious_account_to_a_relationship_assigned_to_a_model" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem133" key="{DDE80BD3-6C65-4A27-91FE-264F21727FCE}" group="False" enabled="True" testMoniker="{5AB1E0B0-671E-48C4-9CC4-76BDA5215E13}CR1352_0614_Rel_Error_when_adding_account_to_relationship_B_if_account_is_already_assigned_to_relationship_A" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem134" key="{25A06E27-8212-4BA7-A4D9-D00218C14E1A}" group="False" enabled="True" testMoniker="{FBCDEC92-35E0-495A-9942-52E612941CE8}CR1352_0617_Rel_Error_when_adding_an_account_already_assigned_to_a_model" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem136" key="{2D43387B-E517-4E4A-87CB-8DDC566EF3B2}" group="False" enabled="True" testMoniker="{5799C9DD-7D19-4855-8C2C-5DD7DAAD6302}CR1352_0635_Rel_Edit_a_grouped_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_the_various_elements_of_the_interface" key="{05F906FA-600C-4BCE-8617-D597F48D7637}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem132" key="{6706A748-455E-4CB5-9798-AD8A426EF2DA}" group="False" enabled="True" testMoniker="{1360F27B-32E7-4894-B2D3-3627C3C32167}CR1352_0581_Rel_Validate_operation_of_the_Info_icon" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem137" key="{E7BA0AA0-2BB0-4DA3-B954-AC1B23042B61}" group="False" enabled="True" testMoniker="{CC9F8D9D-4BB0-44B1-8C9F-43D72ACB780D}CR1352_0582_Rel_Validate_a_client_performance_in_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem138" key="{38A7BE4C-561D-4127-A13E-C06932BF4B47}" group="False" enabled="True" testMoniker="{D5956715-FC98-4FBD-B205-D5798834B9DC}CR1352_0583_Rel_Validate_the_operation_of_the_Relationships_Sum_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem135" key="{983D34F7-4856-41CC-9D0B-0C588C85308F}" group="False" enabled="True" testMoniker="{825ABCC1-BB15-4105-9539-B5DE131FDF70}CR1352_0584_Rel_Validate_the_relationships_search_with_keyboard_shortcut" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem140" key="{F15D05C9-D302-4714-B179-61F04BDC0F31}" group="False" enabled="True" testMoniker="{34D944C2-7B51-446B-8288-9352E600D3B6}CR1352_0593_Rel_Validate_the_grouped_relationships_search_with_keyboard_shortcut" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem141" key="{0F4F2E14-4260-418A-9865-22775E9FE966}" group="False" enabled="True" testMoniker="{B4922299-2C36-4810-B988-70DBDC68E702}CR1352_0615_Rel_Validate_relationships_search_by_the_Search_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem142" key="{3F07E195-B20F-4898-81A1-E815D8040EDA}" group="False" enabled="True" testMoniker="{2ADEF04B-6F45-4981-8951-0C789EE026FB}CR1352_0616_Rel_Validate_relationships_search_by_the_Edit_menu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem143" key="{E1A198C6-CA37-4BA9-995C-01404CD5324A}" group="False" enabled="True" testMoniker="{6610E2F7-4025-4430-94A4-676098F68FC7}CR1352_0618_Rel_Add_a_column_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem144" key="{14336FC0-CF0B-40F3-9E55-0DE1F3BE750E}" group="False" enabled="True" testMoniker="{752B0593-C343-4EEF-B412-62276191451C}CR1352_0619_Rel_Remove_a_column_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem145" key="{E286D087-5060-426F-94B2-1B08C86E81DF}" group="False" enabled="True" testMoniker="{7F5F0B89-4D29-49E5-A991-64F2627E2FB3}CR1352_0620_Rel_Replace_a_column_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem146" key="{86EC6E23-7873-4D69-8273-00F6D92EDD3D}" group="False" enabled="True" testMoniker="{C4304CA1-92FD-4ACE-AE88-A6020B4DD425}CR1352_0621_Rel_Insert_a_field_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem147" key="{00A57BF3-60EA-4122-A5D2-DCB39FC328F0}" group="False" enabled="True" testMoniker="{D2166EC5-317C-4B76-B8E3-20C67C7BD385}CR1352_0622_Rel_Remove_a_field_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem148" key="{99FDE96A-5AFF-4231-9E71-AD241403ADED}" group="False" enabled="True" testMoniker="{32A02E96-FAE9-4D0D-BD8A-A86D40A1854A}CR1352_0630_Rel_Change_the_position_of_a_field_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem149" key="{25536B3D-6BD4-43EC-8B51-6473DCD4D4C5}" group="False" enabled="True" testMoniker="{8005E9F1-AEDE-4456-9421-124D58A2ECB4}CR1352_0631_Rel_Change_the_position_of_a_column_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem152" key="{C3EEA207-D889-47AB-B8D7-B7DE6775BD36}" group="False" enabled="True" testMoniker="{60F17508-F094-41DF-915C-14444BB1DC5F}CR1352_0632_Rel_Validate_the_default_configuration_of_column_display_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1473" key="{3244BBF1-08F4-4047-8321-F25417D1CEA7}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{E6B32647-7D04-4DDF-BD24-490B6D36AD74}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem172" key="{E48445A7-3FCB-4147-8D4D-A898E37EE237}" group="False" enabled="True" testMoniker="{5C41711F-DBB6-4784-B0AA-78B5907693E8}CR1473_CROES_7670_NewMethodOfAssignAccounRelatiDoesNotWork" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1793" key="{987BA256-8D1A-4940-A778-1728CC28081A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{46A45B5F-580B-4867-BADE-AB1394E0C0AC}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="ProjectTestItem171" key="{3A7CD8BC-7DCF-4636-B2CF-A7590E1C4B55}" group="False" enabled="True" testMoniker="{E4F03CD8-4932-4AD4-91EC-754F91A87BFF}CR1793_BNC_1145_Rel_DisponiRelationDansPicker" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="ProjectTestItem173" key="{3298FC7A-E474-402C-87E3-9A6218816C87}" group="False" enabled="True" testMoniker="{DF863EAC-0050-444D-8DB7-043FE7FF305B}CR1793_BNC_1178_Rel_CheckValTotalRelFamilFirm" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1483" key="{D353D7B0-FAB8-4744-8A36-F7189FD3204E}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="ProjectTestItem177" key="{1DA440E6-FD2A-4D8B-9D78-085A90FAEC4E}" group="False" enabled="True" testMoniker="{BC1BC52B-3D96-44EC-B3D6-AFA9FD9921CB}CR1483_Rel_Check_BranchSelection_IACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem178" key="{F7E3B3A0-1E2C-48EF-8BF0-873D3D502F0D}" group="False" enabled="True" testMoniker="{FE6D3ADD-D3AB-47C3-BE0D-F88981574339}CR1483_Rel_Check_UserSelection_IACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem179" key="{3CB6B6BD-30F7-4874-920C-4D2F8F44BD41}" group="False" enabled="True" testMoniker="{640E727B-6BD4-4F4B-B086-32A3B96A461B}CR1483_Rel_CheckErrorMsgPrefMaxWorkAs" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem180" key="{B382C343-104F-4D9C-8E91-C6BFF683E967}" group="False" enabled="True" testMoniker="{8552B667-25D0-4037-9F8B-2D7C45F0B1DF}CR1483_Rel_CheckErrorMsgPrefMaxWorkAs_TabIACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem181" key="{C8D95AF8-B833-4350-A75B-819ECA224ABF}" group="False" enabled="True" testMoniker="{93BBFEF0-D07A-45C1-BE36-854C8A167C10}CR1483_Rel_CheckErrorMsgPrefMaxWorkAs_TabUsers" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem182" key="{667E117D-E9DC-40C0-89C6-F79971055E38}" group="False" enabled="True" testMoniker="{51B98969-77B8-446F-BF8F-CA2C10FD71DC}CR1483_Rel_RememberMySelection" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem183" key="{1640A129-20C9-4E4C-9F3B-1837884719FD}" group="False" enabled="True" testMoniker="{55E65A71-AEC5-41B6-B935-E25B52101759}CR1483_Rel_RememberMySelection_TabIACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem184" key="{4BC367A7-91F5-4CBE-9B12-21713F77659D}" group="False" enabled="True" testMoniker="{9A8B34ED-D1F4-4B2C-B09A-86E767F78863}CR1483_Rel_RememberMySelection_TabUsers" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem185" key="{B2AF6586-DCCE-47CB-8851-386800C580A1}" group="False" enabled="True" testMoniker="{6CD1A4DA-62C0-4ACB-9A0B-FCB5BF0A6578}CR1483_Rel_Survol_Users_Selection_TabBranches" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem186" key="{862F4F85-DF02-4947-B0E1-692C37C0FA8D}" group="False" enabled="True" testMoniker="{D02868E1-BE94-4C06-B6CF-DA9BB26CDFFF}CR1483_Rel_Survol_Users_Selection_TabIACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem187" key="{299385C6-41AF-45FE-B7C8-D3A69A05350D}" group="False" enabled="True" testMoniker="{03BA079F-DF28-4A08-ACC8-F26220873CA9}CR1483_Rel_Survol_Users_Selection_TabUsers" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1302" key="{C735234F-62D6-4438-B28E-A187C6B92BEC}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="ProjectTestItem196" key="{1758D71F-7769-4FDB-83F8-464BED77DE6A}" group="False" enabled="True" testMoniker="{F10BD89D-DC34-424B-8654-3A2CCCBC0A35}CR1302_Prerequisites" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem189" key="{17C9D86B-05ED-4C55-A0A3-7195A5CCA8E1}" group="False" enabled="True" testMoniker="{358D1936-168D-4C8F-A81F-9C30946AD4C6}CR1302_AddFrequencyAndValidateNextRevisionDate" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem191" key="{C63628CF-A689-40AC-AE36-148178449904}" group="False" enabled="True" testMoniker="{AAB32D22-564B-47E6-A1E8-7C23B5CC8AC5}CR1302_AddRelationshipWithNoteOfManualRevisionXi" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem192" key="{664A29C8-9A35-4C26-90D5-F6B3F61FBE1B}" group="False" enabled="True" testMoniker="{1BB5D38A-BB02-4B5D-8750-39D74B4276D6}CR1302_CreateAndEditSearchCriteriaWithAnnualReview" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem194" key="{7521C2FF-C9CA-4408-B6AA-F0F32791497E}" group="False" enabled="True" testMoniker="{08A6C213-6EEB-456D-B6F7-73D85FAB9B87}CR1302_AddFrequencyAndValidateNextRevisionDate" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="ProjectTestItem65" key="{EE6027E4-ACA2-48F5-B17D-E3F36D4E9CC7}" group="False" enabled="True" testMoniker="{9DCD178B-E2FD-442D-886F-95356738D6CC}ExecutionLog" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+				<testParameters />
+				<children>
+					<testItem name="ProjectTestItem167" key="{D224CC99-81AA-476A-B4F7-53EFD08590BC}" group="False" enabled="True" testMoniker="{7356EE8F-ABD6-43A1-A3C9-FB03DEC1EA84}CROES_8579_Rel_CanNotAddAnEntryInAnExistingDiction" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem168" key="{3775D5B9-28B9-4112-A9DE-E342D80911A9}" group="False" enabled="True" testMoniker="{7356EE8F-ABD6-43A1-A3C9-FB03DEC1EA84}SearchForDictionaryRelatType" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ProjectTestItem169" key="{626E58FC-DA4F-4AAE-9915-27680AE11A6B}" group="False" enabled="True" testMoniker="{AC9CBA44-1C8A-4600-92FA-9AFF91AB5A5A}CROES_86_CrashAssociatiSecondCustomerWithRelationshipThatAssociatedWithAModel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+		</children>
+	</testItems>
+	<variables key="{959613B1-FE6C-4E11-859E-9E315536D265}">
+		<data Version="3" />
+	</variables>
+	<settings key="{416728E4-75A3-47F8-8DBD-B5595E2FBFC1}">
+		<settingsVersion value="14.30" />
+		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />
+		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Use all processes" />
+				<row val0="Use only tested applications" />
+				<row val0="Use only selected processes" />
+				<row val0="Ignore selected processes" />
+				<row val0="Ignore all processes" />
+			</data>
+		</setting>
+		<setting name="ApplicationHangingProcessList" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="ApplicationHangingTimeout" type="2" value="30000" />
+		<setting name="AzureDevOps_CollectionID" type="5" value="" />
+		<setting name="AzureDevOps_ProjectID" type="5" value="" />
+		<setting name="AzureDevOps_ServerName" type="5" value="" />
+		<setting name="AzureDevOps_TeamProject" type="5" value="" />
+		<setting name="AzureDevOps_TeamProjectCollection" type="5" value="" />
+		<setting name="AzureDevOps_URL" type="5" value="" />
+		<setting name="CLRBridge_PreferredApartmentModel" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Does not matter" />
+				<row val0="Single-threaded apartment" />
+				<row val0="Multi-threaded apartment" />
+			</data>
+		</setting>
+		<setting name="CLRBridge_PreferredArchitecture" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="The same as the operating system" />
+				<row val0="32-bit" />
+				<row val0="64-bit" />
+			</data>
+		</setting>
+		<setting name="CLRBridge_SelectedComponents" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="1" enabled="True" />
+			</columns>
+			<data>
+				<row val0="System.Management.Automation, version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" val1="True" />
+			</data>
+		</setting>
+		<setting name="CountProcessesOfAllUsers" type="1" value="True" />
+		<setting name="DbgServices_Active" type="1" value="True" />
+		<setting name="DbgServices_DepthShown" type="2" value="10" />
+		<setting name="DbgServices_EnableEvents" type="1" value="True" />
+		<setting name="DbgServices_Priority" type="6" rowIndex="3" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="pmLowest" />
+				<row val0="pmLower" />
+				<row val0="pmNormal" />
+				<row val0="pmHigher" />
+				<row val0="pmHighest" />
+			</data>
+		</setting>
+		<setting name="DbgServices_UseExtendedDebugger" type="1" value="True" />
+		<setting name="DraggingDelay" type="2" value="5" />
+		<setting name="General_CurrentImageFormat" type="5" value="126_0_0_0_97_113_115_111_1_0_0_0_4_0_0_0_114_0_111_0_111_0_116_0_1_0_0_0_9_0_0_0_102_0_111_0_114_0_109_0_97_0_116_0_107_0_101_0_121_0_1_0_0_0_38_0_0_0_123_0_66_0_65_0_55_0_52_0_53_0_49_0_54_0_57_0_45_0_70_0_51_0_52_0_68_0_45_0_52_0_55_0_49_0_48_0_45_0_66_0_51_0_55_0_70_0_45_0_68_0_53_0_69_0_70_0_69_0_56_0_65_0_53_0_49_0_51_0_51_0_57_0_125_0_1_0_0_0_16_0_0_0_112_0_110_0_103_0_99_0_111_0_110_0_102_0_105_0_103_0_117_0_114_0_97_0_116_0_105_0_111_0_110_0_2_0_0_0_16_0_0_0_99_0_111_0_109_0_112_0_114_0_101_0_115_0_115_0_105_0_111_0_110_0_108_0_101_0_118_0_101_0_108_0_0_0_0_0_4_0_0_0_10_0_0_0_105_0_110_0_116_0_101_0_114_0_108_0_97_0_99_0_101_0_100_0_5_0_0_0_0_0_0_0_0_0_" />
+		<setting name="General_DisableDWMBeforeCapturingImage" type="1" value="True" />
+		<setting name="General_ImageFormat" type="5" value="Format: PNG; Compression level: 4" />
+		<setting name="General_ObjectTreeModel" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Tree" />
+				<row val0="Flat" />
+			</data>
+		</setting>
+		<setting name="General_ProjectLogLocation" type="5" value="Log" />
+		<setting name="General_UnitsEncoding" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="UTF-16" />
+				<row val0="UTF-8" />
+				<row val0="ANSI" />
+				<row val0="Auto" />
+			</data>
+		</setting>
+		<setting name="HipTest_ProjectID" type="2" value="-1" />
+		<setting name="HipTest_ProjectName" type="5" value="The current project is not bound to HipTest." />
+		<setting name="HipTest_SaveResults" type="1" value="True" />
+		<setting name="HipTest_SynchronizeBeforeRun" type="1" value="True" />
+		<setting name="HipTest_SynchronizeOnOpening" type="1" value="True" />
+		<setting name="HipTest_SynchronizeTestRun" type="1" value="False" />
+		<setting name="HipTest_TestRunID" type="5" value="" />
+		<setting name="HipTest_TestRunName" type="5" value="[Test run created last]" />
+		<setting name="JavaBridge_Classes" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="JavaBridge_ClassPaths" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="JavaFXOpenApp_DoNotRecognizeJavaFXStageAsAWTComponent" type="1" value="True" />
+		<setting name="JavaFXOpenApp_ExposedCustomNodes" type="6" rowIndex="-1" colIndex="2">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="JavaFXOpenApp_NodeByClassNameFilters" type="6" rowIndex="7" colIndex="2">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="1" enabled="True" />
+			</columns>
+			<data>
+				<row val0="False" val1="*" val2="False" />
+				<row val0="True" val1="javafx.scene.SubScene" val2="True" />
+				<row val0="True" val1="javafx.scene.control.Control" val2="True" />
+				<row val0="True" val1="javafx.scene.web.WebView" val2="False" />
+				<row val0="False" val1="javafx.scene.canvas.Canvas" val2="True" />
+				<row val0="False" val1="javafx.scene.image.ImageView" val2="True" />
+				<row val0="False" val1="javafx.scene.media.MediaView" val2="True" />
+				<row val0="True" val1="com.sun.javafx.scene.control.skin.ContextMenuContent$MenuItemContainer" val2="True" />
+			</data>
+		</setting>
+		<setting name="JavaOpenApp_DoNotRecognizeChildSWTAsParent" type="1" value="False" />
+		<setting name="KeyPressingDelay" type="2" value="0" />
+		<setting name="MouseMovementDelay" type="2" value="0" />
+		<setting name="ObjectMapping_Objects" type="6" rowIndex="-1" colIndex="3">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="OpenApps_ActivateSystemProcesses" type="1" value="False" />
+		<setting name="OpenApps_DbgAgent_AdvancedExceptionHandling" type="1" value="True" />
+		<setting name="OpenApps_DbgAgent_CombineClassDefinitions" type="1" value="False" />
+		<setting name="OpenApps_DbgAgent_EnableDebugAgent" type="1" value="True" />
+		<setting name="OpenApps_DbgAgent_StringLengthLimit" type="2" value="1024" />
+		<setting name="OpenApps_DbgAgent_UseStaticLibs" type="1" value="True" />
+		<setting name="OpenApps_EnableMultipleNamesForObjects" type="1" value="False" />
+		<setting name="OpenApps_FlashFlex_InstallFlashInjector" type="1" value="False" />
+		<setting name="OpenApps_FlashFlex_TrustedLocations" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="True" val1="%PRODUCT_LOCATION%\Open Apps\Flex\FlashInjector.swf" />
+			</data>
+		</setting>
+		<setting name="OpenApps_HybridMobile_AccessPolicy" type="1" value="False" />
+		<setting name="OpenApps_HybridMobile_DynamicIdentifiers" type="6" rowIndex="30" colIndex="9">
+			<columns>
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Yahoo! UI library" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;yui-gen&quot;" val5="Wildcard" val6="yui-gen*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;yui_3_&quot;" val5="Wildcard" val6="*yui_3_*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="jQuery UI library" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="3" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;ui-id-&quot;" val5="Wildcard" val6="ui-id-*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Dojo toolkit" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="5" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;dijit_&quot;" val5="Wildcard" val6="dijit_*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Other" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Do not use IDs containing GUID" val5="RegExp" val6="\h+-\h+-\h+-\h+-\h+" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Remove leading characters from IDs like &quot;c1114509959-searchform&quot;" val5="RegExp" val6="^[A-Za-z](\d\d\d\d\d+){[A-Za-z-]*}$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Remove trailing digits from IDs like &quot;unique-123456&quot;" val5="RegExp" val6="^{[A-Za-z-]+}(\d\d\d\d\d+)$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="ASP.NET" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="11" val1="-1" val2="False" val3="True" val4="Do not use IDs ending with a string like &quot;ctl00&quot;" val5="RegExp" val6="^(.*[-_$])?(ctl[0-9]+)$" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="11" val1="-1" val2="False" val3="True" val4="Remove GUIDs and ctl00-like prefixes from Sharepoint IDs" val5="RegExp" val6="(.+?_(\h+_\h+_\h+_\h+_\h+))+(.*ctr?l[0-9]+)?[_$]?{.*}$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="11" val1="-1" val2="False" val3="True" val4="For IDs containing a string like &quot;ctl00_&quot;, leave only symbols after this string" val5="RegExp" val6=".*(ctl[0-9]+[-_$]+){.*}" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha ExtJS" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-gen&quot;" val5="RegExp" val6="^(.*-)?ext-gen" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-comp&quot;" val5="RegExp" val6="^(.*-)?ext-comp" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;extdd-&quot;" val5="Wildcard" val6="extdd-*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Remove digits from IDs like &quot;treepicker-1038&quot; or &quot;treepicker-1038-inputEl&quot;" val5="RegExp" val6="^{[A-Za-z-]+}-{\d\d\d\d+}{.*}$" val7="$1$3" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha Touch" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="20" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha Touch IDs" val5="RegExp" val6="^ext-{.*}-\d+$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="JavaServer Faces" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;_t14&quot;" val5="RegExp" val6="^{_t}{[0-9]+}$" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;j_id23&quot; or &quot;j_idt23&quot;" val5="RegExp" val6="^{j_idt?}{[0-9]+}$" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;frm:menuLinks:0:link&quot;" val5="RegExp" val6="(.+):{[^0-9]+}$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;frm:menuLinks:3:link&quot;" val5="RegExp" val6="(.+):(.*)" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Google Web Toolkit" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="27" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;gwt-uid-370_runButton&quot;" val5="RegExp" val6="^(gwt-uid-[0-9]+)(_{.*})?$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="27" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha GXT IDs" val5="RegExp" val6="^(x-((widget)|(auto))-.*[0-9]+)([-_]{.*})?$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Custom" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+			</data>
+		</setting>
+		<setting name="OpenApps_HybridMobile_IdentificationAttribute" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="ID" />
+				<row val0="Name" />
+			</data>
+		</setting>
+		<setting name="OpenApps_MethodInvokeTimeout" type="2" value="3000" />
+		<setting name="OpenApps_MSAA_ListOfAcceptedWindows" type="6" rowIndex="11" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="False" val1="*" />
+				<row val0="True" val1="MsoCommandBar*" />
+				<row val0="True" val1="_Ww*" />
+				<row val0="True" val1="OpusApp" />
+				<row val0="True" val1="Vfp*" />
+				<row val0="True" val1="bosa_sdm_Microsoft Word *" />
+				<row val0="False" val1="Internet Explorer_Server" />
+				<row val0="True" val1="XTPToolBar" />
+				<row val0="True" val1="XTPDockingPaneTabbedContainer" />
+				<row val0="True" val1="XTPTaskPanel" />
+				<row val0="True" val1="XTPReport" />
+				<row val0="True" val1="XTPPopupBar" />
+			</data>
+		</setting>
+		<setting name="OpenApps_MSAA_TreeModel" type="1" value="False" />
+		<setting name="OpenApps_PriorityOfObjects" type="6" rowIndex="13" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="NativeClrObject" />
+				<row val0="NativeSlObject" />
+				<row val0="NativeWebObject" />
+				<row val0="NativeVBObject" />
+				<row val0="NativeSafariObject" />
+				<row val0="NativeDelphiObject" />
+				<row val0="NativeOperaObject" />
+				<row val0="NativeTextObject" />
+				<row val0="NativeJavaObject" />
+				<row val0="NativeChromeObject" />
+				<row val0="NativeCPPObject" />
+				<row val0="NativeFirefoxObject" />
+				<row val0="NativeJavaFXObject" />
+				<row val0="NativeQtObject" />
+				<row val0="NativeUIAObject" />
+				<row val0="NativeMSAA" />
+			</data>
+		</setting>
+		<setting name="OpenApps_ProcessFilter_ProcessFilterMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Use all processes" />
+				<row val0="Use only tested applications" />
+				<row val0="Use only selected processes" />
+				<row val0="Ignore selected processes" />
+			</data>
+		</setting>
+		<setting name="OpenApps_ProcessFilter_ProcessList" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="OpenApps_UIA_ListOfAcceptedWindows" type="6" rowIndex="2" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="False" val1="*" />
+				<row val0="True" val1="DirectUIHWND" />
+				<row val0="True" val1="Windows.UI.Core.CoreWindow" />
+			</data>
+		</setting>
+		<setting name="OpenApps_UseNativeObjectNames" type="1" value="True" />
+		<setting name="OpenApps_Web_AddCommentsForWaitMethod" type="1" value="False" />
+		<setting name="OpenApps_Web_CSSTransitionForPagePicture" type="1" value="True" />
+		<setting name="OpenApps_Web_CustomAttributes_AttributesForNameMapping" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="True" val1="data-test-id" />
+				<row val0="True" val1="data-testid" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_EnableSupportForWebComponents" type="1" value="True" />
+		<setting name="OpenApps_Web_ObjIdentification_DynamicIdentifiers" type="6" rowIndex="29" colIndex="9">
+			<columns>
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Yahoo! UI library" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;yui-gen&quot;" val5="Wildcard" val6="yui-gen*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;yui_3_&quot;" val5="Wildcard" val6="*yui_3_*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="jQuery UI library" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="3" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;ui-id-&quot;" val5="Wildcard" val6="ui-id-*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Dojo toolkit" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="5" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;dijit_&quot;" val5="Wildcard" val6="dijit_*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Other" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Do not use IDs containing GUID" val5="RegExp" val6="\h+-\h+-\h+-\h+-\h+" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Remove trailing digits from IDs like &quot;unique-123456&quot;" val5="RegExp" val6="^{[A-Za-z-]+}(\d\d\d\d\d\d+)$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="ASP.NET" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="10" val1="-1" val2="False" val3="True" val4="Do not use IDs ending with a string like &quot;ctl00&quot;" val5="RegExp" val6="^(.*[-_$])?(ctl[0-9]+)$" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="10" val1="-1" val2="False" val3="True" val4="Remove GUIDs and ctl00-like prefixes from Sharepoint IDs" val5="RegExp" val6="(.+?_(\h+_\h+_\h+_\h+_\h+))+(.*ctr?l[0-9]+)?[_$]?{.*}$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="10" val1="-1" val2="False" val3="True" val4="For IDs containing a string like &quot;ctl00_&quot;, leave only symbols after this string" val5="RegExp" val6=".*(ctl[0-9]+[-_$]+){.*}" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha ExtJS" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-gen&quot;" val5="RegExp" val6="^(.*-)?ext-gen" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-comp&quot;" val5="RegExp" val6="^(.*-)?ext-comp" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;extdd-&quot;" val5="Wildcard" val6="extdd-*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Remove digits from IDs like &quot;treepicker-1038&quot; or &quot;treepicker-1038-inputEl&quot;" val5="RegExp" val6="^{[A-Za-z-]+}-{\d\d\d\d+}{.*}$" val7="$1$3" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha Touch" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="19" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha Touch IDs" val5="RegExp" val6="^ext-{.*}-\d+$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="JavaServer Faces" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;_t14&quot;" val5="RegExp" val6="^{_t}{[0-9]+}$" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;j_id23&quot; or &quot;j_idt23&quot;" val5="RegExp" val6="^{j_idt?}{[0-9]+}$" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;frm:menuLinks:0:link&quot;" val5="RegExp" val6="(.+):{[^0-9]+}$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;frm:menuLinks:3:link&quot;" val5="RegExp" val6="(.+):(.*)" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Google Web Toolkit" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="26" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;gwt-uid-370_runButton&quot;" val5="RegExp" val6="^(gwt-uid-[0-9]+)(_{.*})?$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="26" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha GXT IDs" val5="RegExp" val6="^(x-((widget)|(auto))-.*[0-9]+)([-_]{.*})?$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Custom" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_ObjIdentification_IdentificationAttribute" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="ID" />
+				<row val0="Name" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_RecordTestedHost" type="5" value="" />
+		<setting name="OpenApps_Web_TestedHost" type="5" value="" />
+		<setting name="OpenApps_Web_TreeModel" type="6" rowIndex="3" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="DOM" />
+				<row val0="Tag" />
+				<row val0="Hybrid" />
+				<row val0="Tree" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_URLProcessing_DynamicParameters" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="*" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_URLProcessing_IgnoreDynamicURLParameters" type="1" value="True" />
+		<setting name="OpenApps_Web_UseCSSPixels" type="1" value="True" />
+		<setting name="OpenApps_Web_UseLegacyWebTestingFeatures" type="1" value="False" />
+		<setting name="OpenApps_Web_VirtBrowsers_AdvancedMode" type="1" value="False" />
+		<setting name="OpenApps_Web_VirtBrowsers_AutoLaunchWhenRecording" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="None" />
+				<row val0="Apple iPad" />
+				<row val0="Apple iPhone 3" />
+				<row val0="Apple iPhone 5" />
+				<row val0="Blackberry Z10" />
+				<row val0="Nokia Lumia 800" />
+				<row val0="Samsung Galaxy Mini" />
+				<row val0="Samsung Galaxy S3" />
+				<row val0="Samsung Nexus 10" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_VirtBrowsers_List" type="6" rowIndex="7" colIndex="9">
+			<columns>
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="4" enabled="True" />
+			</columns>
+			<data>
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Apple iPad" val6="Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25" val7="768" val8="1024" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Apple iPhone 3" val6="Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16" val7="320" val8="480" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Apple iPhone 5" val6="Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25" val7="320" val8="568" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Blackberry Z10" val6="Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.9.2372 Mobile Safari/537.10+" val7="342" val8="570" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Nokia Lumia 800" val6="Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800)" val7="480" val8="800" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Samsung Galaxy Mini" val6="Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; GT-S5570I Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" val7="240" val8="320" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Samsung Galaxy S3" val6="Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" val7="360" val8="640" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Samsung Nexus 10" val6="Mozilla/5.0 (Linux; Android 4.2.1; Nexus 10 Build/JOP40D) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.37 Safari/537.22" val7="800" val8="1280" val9="1" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_WebPageLoadingTimeout" type="2" value="60000" />
+		<setting name="OpenApps_WPF_CompositeControls" type="6" rowIndex="2" colIndex="0">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="True" val1="ToggleButton" val2="" />
+				<row val0="True" val1="MessageWindow" val2="" />
+				<row val0="True" val1="SplitDropDownButton" val2="" />
+			</data>
+		</setting>
+		<setting name="OpenApps_WPF_ItemsTemplates" type="6" rowIndex="-1" colIndex="2">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="OpenApps_WPF_SimplifiedWPFObjectTree" type="1" value="True" />
+		<setting name="PerformanceCounters_List" type="6" rowIndex="-1" colIndex="5">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="1" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="Playback_ErrHandling_OnError" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Continue running" val1="0" />
+				<row val0="Stop project" val1="1" />
+				<row val0="Stop test item" val1="2" />
+			</data>
+		</setting>
+		<setting name="Playback_ErrHandling_OnObjectRecognitionError" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Continue running" val1="0" />
+				<row val0="Stop project" val1="1" />
+				<row val0="Stop test item" val1="2" />
+			</data>
+		</setting>
+		<setting name="Playback_ErrHandling_OnWarning" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Continue running" val1="0" />
+				<row val0="Stop project" val1="1" />
+				<row val0="Stop test item" val1="2" />
+			</data>
+		</setting>
+		<setting name="Playback_ErrHandling_ShowErrorDialog" type="1" value="False" />
+		<setting name="Playback_Log_AutosaveInterval" type="2" value="5" />
+		<setting name="Playback_Log_EventCount" type="2" value="0" />
+		<setting name="Playback_Log_PostImageOnError" type="1" value="True" />
+		<setting name="Playback_ObjectSearchStrategy" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Depth-first" />
+				<row val0="Breadth-first" />
+			</data>
+		</setting>
+		<setting name="Playback_OverlappingWindow_IgnoreOverlappingWindow" type="1" value="False" />
+		<setting name="Playback_Runtime_AutoWaitTimeout" type="2" value="40000" />
+		<setting name="Playback_Runtime_DelayBetweenEvents" type="2" value="100" />
+		<setting name="Playback_Runtime_DisableMouse" type="1" value="False" />
+		<setting name="Playback_Runtime_MinimizeBeforePlayback" type="1" value="False" />
+		<setting name="Playback_Runtime_UseCaseSensitiveParameters" type="1" value="False" />
+		<setting name="Playback_StopOnError" type="1" value="False" />
+		<setting name="Playback_StopOnObjectRecognitionError" type="1" value="False" />
+		<setting name="Playback_StopOnWarning" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_ClickOnFocusedControl" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_IgnoreUnexpectedWindow" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_PressEnter" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_PressEsc" type="1" value="True" />
+		<setting name="Playback_UnexpectedWndHandling_SendCloseCommand" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_StopExecution" type="1" value="False" />
+		<setting name="Recording_TestedAppsOnly" type="1" value="False" />
+		<setting name="RecreateActiveXObjects" type="1" value="False" />
+		<setting name="RunStandaloneServer" type="1" value="False" />
+		<setting name="StandaloneServerAdditionalOptions" type="5" value="" />
+		<setting name="StandaloneServerPort" type="2" value="4444" />
+		<setting name="TextRecognizer_AcceptedProcesses" type="6" rowIndex="-1" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="TextRecognizer_AcceptedWindows" type="6" rowIndex="-1" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="Visualizer_AutoUpdate" type="1" value="False" />
+		<setting name="Visualizer_AutoUpdateMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Update existing frames and capture new frames, if needed" />
+				<row val0="Update existing frames only" />
+			</data>
+		</setting>
+		<setting name="Visualizer_BindToSCC" type="1" value="False" />
+		<setting name="Visualizer_CaptureStyle" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Top-level parent" />
+				<row val0="Desktop" />
+			</data>
+		</setting>
+		<setting name="Visualizer_DeleteAll" type="1" value="True" />
+		<setting name="Visualizer_PlaybackCaptureProperties" type="1" value="False" />
+		<setting name="Visualizer_PlaybackCollectMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Off" />
+				<row val0="Capture images" />
+			</data>
+		</setting>
+		<setting name="Visualizer_RecordingCaptureProperties" type="1" value="False" />
+		<setting name="Visualizer_RecordingCollectMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Off" />
+				<row val0="Capture images" />
+			</data>
+		</setting>
+		<setting name="Visualizer_UseDuringPlayback" type="1" value="True" />
+		<setting name="Visualizer_UseDuringRecording" type="1" value="True" />
+		<setting name="ZFJ_Cycle" type="5" value="" />
+		<setting name="ZFJ_ExecutionStatus_Failed" type="5" value="FAIL" />
+		<setting name="ZFJ_ExecutionStatus_Passed" type="5" value="PASS" />
+		<setting name="ZFJ_ExecutionStatus_Wip" type="5" value="WIP" />
+		<setting name="ZFJ_ExecutionStepStatus_Unexecuted" type="5" value="UNEXECUTED" />
+		<setting name="ZFJ_InstanceType" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Zephyr for Jira Server" />
+				<row val0="Zephyr for Jira Cloud" />
+			</data>
+		</setting>
+		<setting name="ZFJ_JiraLogin" type="5" value="" />
+		<setting name="ZFJ_JiraPassword" type="5" value="" />
+		<setting name="ZFJ_JiraProject" type="5" value="" />
+		<setting name="ZFJ_JiraUrl" type="5" value="" />
+		<setting name="ZFJ_TestIssueTypeName" type="5" value="Test" />
+		<setting name="ZFJ_Version" type="5" value="" />
+		<setting name="ZFJ_ZephyrAccessKey" type="5" value="" />
+		<setting name="ZFJ_ZephyrSecretKey" type="5" value="" />
+	</settings>
+	<analysis key="{502F5452-BB2D-4505-BF7A-8061179A8F10}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<issueTracking key="{38C147BE-7AFF-48CC-B5E7-5263F6189FE8}">
+		<Templates>
+			<Template Id="{1EB17ADF-E4EB-404D-97DC-AD758A1E8C1D}" ConnectionId="{00000000-0000-0000-0000-000000000000}" Description="This template is used by TestComplete&apos;s Log subsystem to post test results to an issue-tracking system. You can also use it at your desire." Name="CreateWorkItem" IsSystem="True" ItemTypeName="" ProjectName="" IsEditing="False" ItemId="">
+				<Fields>
+					<Field ItemId="{6D1530CF-E36D-46D3-8363-A814F596337E}" AliasIsRequired="True" DBFieldNameIsRequired="False" Value="" DBFieldName="" Alias="Subject" />
+					<Field ItemId="{E45E435C-C8D1-4F56-9612-A06DE273FC57}" AliasIsRequired="True" DBFieldNameIsRequired="False" Value="" DBFieldName="" Alias="Description" />
+				</Fields>
+			</Template>
+		</Templates>
+	</issueTracking>
+</Root>

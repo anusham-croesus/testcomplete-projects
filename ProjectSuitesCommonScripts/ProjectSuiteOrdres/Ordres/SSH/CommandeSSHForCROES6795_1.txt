@@ -1,0 +1,7 @@
+
+::Modifier le fichier dans var/lib/finansoft/configs et celui dans etc/finansoft
+
+sed -i -e 's/add key="TDMutualFundFolder" value="."/add key="TDMutualFundCommand" value="\/etc\/finansoft\/AddSentExtension.sh"/g' /etc/finansoft/OrderManagementServer.exe.config
+
+sed -i -e 's/add key="TDMutualFundCommand" value="AddSentExtension.bat"/add key="TDMutualFundFolder" value="\/home\/crweb\/Test_CR1571"/g' /etc/finansoft/OrderManagementServer.exe.config
+

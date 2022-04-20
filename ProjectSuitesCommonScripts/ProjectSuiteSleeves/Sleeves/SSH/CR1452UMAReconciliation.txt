@@ -1,0 +1,16 @@
+:: Étapes pour avancer le loader multifirme en mode full:
+cd /home/christine/TestsCR1452/TestsenmodefullMulti/
+
+:: traiter le fichier de titres
+loader -FULL=1 -SECURITY_ONLY -LOG2STDOUT
+
+:: traiter les fichiers de la firme 1 en premier suivi des fichiers des autres firmes
+loader -FULL=1 -FIRM=FIRM_1 -LOG2STDOUT
+loader -FULL=1 -FIRM=FIRM_2 -LOG2STDOUT
+
+:: ensuite lancer les commandes suivantes une à la fois pour compléter la journée loader en mode LOB:
+loader -ENDOFDAYGLOBALTASKS -FORCE -LOG2STDOUT
+loader -EXPIRYSECURITY -FORCE -LOG2STDOUT
+
+cfLoader -UpdateDiscretionaryStatus -FIRM=FIRM_1
+cfLoader -UpdateDiscretionaryStatus -FIRM=FIRM_2

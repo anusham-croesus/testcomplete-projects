@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{2638D050-DAC7-493C-BCDB-82FE46DBA53B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{B77086B4-18FB-4CC9-8CFE-0369FB845400}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{EBABFB43-EE2A-4529-93FB-38EA17D49A60}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{E25E5A1E-D51E-44C1-BCE0-521D4D8969FE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{F8D02DA4-A002-43A5-BBFD-20099A4CC71E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{5D0A5804-B3D2-42A5-AA15-37D915DD6F08}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{D7F4151D-ADCB-485F-9F0C-594DA7BA03E6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="ExcelUtils" key="{7A9E9340-2043-4983-895E-0CA7A1855386}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="CommonCheckpoints" key="{228508CE-CB15-4AFB-ABC0-44ED115B2E23}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Agenda_Get_functions" key="{26EF76CA-6674-4389-A4FE-8FFB1892B67F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{3E3216D3-E0CD-4D72-8D81-37B889D9DF2D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{1B8E521E-5AAF-42B9-BB13-4AEC960D3D9D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{5096BD56-4A5C-4B2D-AC42-97A2D78E95E0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{993178CE-8D26-475B-898A-021EA4C9D686}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{7609F4D2-EE9A-4158-93F1-9B4087A5D599}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{FFB226C9-4E35-40F9-A0DE-A4FACF8918D4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{8F18A103-DA38-48BC-8393-9FF51C2A4D63}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{BA33F791-6DAE-4E32-AF53-58AB95C967E9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{4CEF2D66-4C7A-4695-9864-9289E94D958A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="DBA" key="{4D662270-5809-47C6-A91D-B616C10B901B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="PDFUtils" key="{C7EAAAA3-04FD-4016-8EFB-C2A2BBC9A960}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CompareXML">
+			<child name="CompareXMLtestsResults" key="{43CF9AAF-309D-445B-BA6F-0F23EAA112C0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\CompareXMLtestsResults.sj" />
+		</folder>
+		<folder name="Test">
+			<folder name="CR1142">
+				<child name="CR1142_6784_Valider_impossibilite_de_modifier_supprimer_donn_es_Relation_Client_module_Relations" key="{74963BE9-353B-416C-9103-A4E0838C7883}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6784_Valider_impossibilite_de_modifier_supprimer_donn_es_Relation_Client_module_Relations.sj" />
+				<child name="CR1142_6785_Valider_boutons_Ajouter_Modifier_Supprimer_affichent_pas_Onglet_Comptes_sous_jacents" key="{0B75BAC1-E6CD-4028-89A6-6D2E3FEB5B2E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6785_Valider_boutons_Ajouter_Modifier_Supprimer_affichent_pas_Onglet_Comptes_sous_jacents.sj" />
+				<child name="CR1142_6786_Valider_nouvelle_colonne_Est_conjoint_qui_indique_les_icones_de_la_Relation_Client" key="{DE80BCBA-1D1E-4E75-B029-12173A9A678C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6786_Valider_nouvelle_colonne_Est_conjoint_qui_indique_les_icones_de_la_Relation_Client.sj" />
+				<child name="CR1142_6787_Valider_capacite_de_filtrer_par_Niveau_de_gestion_operateur_parmi_excluant" key="{B58FC5A0-4794-49C5-BE74-FAE8B2B1F5FA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6787_Valider_capacite_de_filtrer_par_Niveau_de_gestion_operateur_parmi_excluant.sj" />
+				<child name="CR1142_6788_Valider_capacite_de_filtrer_par_etat_operateur_parmi_excluant_est_a_blanc" key="{1FC3BC1D-9393-49D6-8D2B-B8422BBD2EA5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6788_Valider_capacite_de_filtrer_par_etat_operateur_parmi_excluant_est_a_blanc.sj" />
+				<child name="CR1142_6800_Valider_capacite_de_filtrer_par_Date_de_fermeture_module_Relations" key="{CC9CFEE3-E3B3-4F6F-BD9D-B0F4311F6360}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6800_Valider_capacite_de_filtrer_par_Date_de_fermeture_module_Relations.sj" />
+				<child name="CR1142_6801_Validate_filter_by_RelatioshipType" key="{5A9832DE-080E-4C3B-834B-24C0F14659D3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6801_Validate_filter_by_RelatioshipType.sj" />
+				<child name="CR1142_6802_Validate_Creation_of_searchCriterion" key="{D03BEDA6-7096-422C-8F43-D5F4B38ACE91}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6802_Validate_Creation_of_searchCriterion.sj" />
+				<child name="CR1142_6803_Validate_newFields_for_ClientRelatioship" key="{B6D16CA6-883F-4B3B-B2A1-F78AE5A232D6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6803_Validate_newFields_for_ClientRelatioship.sj" />
+				<child name="CR1142_6804_Validate_the_tree_DetailsSection" key="{3726FA2E-9E2D-4813-A238-2C78A4944CDF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6804_Validate_the_tree_DetailsSection.sj" />
+				<child name="CR1142_6805_Validate_nesFields_in_ClientInfoWin" key="{44CF3CFA-4DFE-404D-AE49-F0EA15097624}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6805_Validate_nesFields_in_ClientInfoWin.sj" />
+				<child name="CR1142_6806_Validate_creation_searchCriterionBy_ClientRelationshipNo" key="{394FBEF0-6E8C-46BE-A227-E1098F94FC73}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6806_Validate_creation_searchCriterionBy_ClientRelationshipNo.sj" />
+				<child name="CR1142_6812_Validate_ability_filter_by_NoCient" key="{37CA3E9B-B796-4CD1-A88A-FB573061179B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\CR1142_6812_Validate_ability_filter_by_NoCient.sj" />
+				<child name="TCVE_1868_ValidateTheIncludeUnderlyingItemsCheckboxForCustomerRelationships" key="{76519011-61F3-46B1-9673-EBEDFB08AF7A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteRelations\Relations\Script\TCVE_1868_ValidateTheIncludeUnderlyingItemsCheckboxForCustomerRelationships.sj" />
+			</folder>
+		</folder>
+		<folder name="PreExecution">
+			<child name="PreExecution" key="{29FF8588-2A4E-4E43-8075-17FF7418FA97}" path="PreExecution.sj" />
+		</folder>
+		<child name="Global_variables" key="{94EBCCEA-A4FB-4BDC-A123-FDB624B34073}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{AC0A4900-010B-416A-9337-C8CB11A5C4D2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="ExecutionLog" key="{025D2D5F-3F5C-450A-B890-90767E630DA1}" path="ExecutionLog.sj" />
+	</children>
+</Root>

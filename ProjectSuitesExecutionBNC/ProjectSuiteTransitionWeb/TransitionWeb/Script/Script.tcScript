@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{2D174694-E236-4A64-A9D2-1923A6DAF38E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{586CAE68-D711-4819-9A93-F4742B111CDD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{C425DB90-6611-4564-A306-087E186F5373}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{E0418A94-8B84-456E-908E-90EEAD368D39}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{3687D838-1A46-46D9-AA43-364A9E7111DB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{1CDF0E11-B7B5-487F-81E6-D12E9E7E722B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="ExcelUtils" key="{3C68FEE0-4638-444D-A2F2-4247CEA666BF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Common_functions" key="{A9DBAF9C-5F43-41A6-9170-9B9BE320ECE8}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="CommonCheckpoints" key="{0C1F6F96-951A-4560-8F6D-7E9AB55A3843}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Agenda_Get_functions" key="{429AC3A3-3E4A-4045-919C-0073BC5C0286}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{01D0250F-A19D-4635-89C3-91A94A92590F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{0CE6DEFA-DD6E-4315-B2FA-C6ADDB44EC82}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{BA4B3227-8BC5-4158-AA5A-168A314F9824}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{949041ED-A3B7-40A7-8AA3-E1605AAE5AA6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{5D1942A7-1A0C-471B-960B-042EF3B90A92}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{54752932-C082-4AE4-8F66-FBFD423C4EF2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{A998A69F-1F2F-4CBA-BB2B-E214F6C03175}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{36123176-B6C9-477D-A80A-6C17B03639E9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{EFC940CF-0CD6-4886-BDA4-81647DB6020D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="DBA" key="{D4ECCB5C-D0D1-4149-AA68-DBCDFC67FED5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="WebConfigurator_Get_functions" key="{ABB46DF2-1F2B-40E6-B969-DB9A1801FB4F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\WebConfigurator_Get_functions.sj" />
+			<child name="PDFUtils" key="{52264EC8-89A9-494B-9F24-D7358FEFBAA2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR1755_Regression">
+			<child name="CR1755_TwoFactorAuthentication" key="{B7AB5A8B-BAF2-458B-85B3-67F1CC464872}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_TwoFactorAuthentication.sj" />
+			<child name="CR1755_Web1433_PSWD_TENTATIVE_COUNT" key="{F82923DF-BC54-4E2F-9938-CE0D9F42CDB1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1433_PSWD_TENTATIVE_COUNT.sj" />
+			<child name="CR1755_Web1434_BlockedAccount" key="{F186E3C1-07FC-4DCC-B8B7-8F1466EFBD97}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1434_BlockedAccount.sj" />
+			<child name="CR1755_Web1473_ResetPSW_WebConfigurator" key="{1F4B94C8-B600-40E2-92BE-A7664FCA4A60}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1473_ResetPSW_WebConfigurator.sj" />
+			<child name="CR1755_Web1590_ValidePermisAccessWebConfig" key="{0F6C8877-CCD4-41D0-91A0-5F88305CFEA0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1590_ValidePermisAccessWebConfig.sj" />
+			<child name="CR1755_Web1628_FlowTwoFactorCroesusPass" key="{8E3988B3-A93E-4F33-9766-5C085DAE336E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1628_FlowTwoFactorCroesusPass.sj" />
+			<child name="CR1755_Web1628_FlowTwoFactorProfilPass" key="{52D2FC3B-3B95-40F8-8D45-158380C132CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1628_FlowTwoFactorProfilPass.sj" />
+			<child name="CR1755_Web1628_FlowWebConfiguratorPass" key="{D8D65328-399C-4271-99BB-53240C56802C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1628_FlowWebConfiguratorPass.sj" />
+			<child name="CR1755_Web1650_FlowProfileValide" key="{D595CBD8-A387-497B-A258-71F03F1F4E50}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1650_FlowProfileValide.sj" />
+			<child name="CR1755_Web1652_MaximumNumAttempts" key="{29407AA8-D08E-47B1-B065-57307317682D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1652_MaximumNumAttempts.sj" />
+			<child name="CR1755_Web1653_FlowNewUserCroesusPass" key="{B4B14005-A609-4961-BB7B-D3C73CA2B5B5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1653_FlowNewUserCroesusPass.sj" />
+			<child name="CR1755_Web1653_FlowNewUserProfilPass" key="{9834598F-EA36-43E9-AB7C-080596FD9ACB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1653_FlowNewUserProfilPass.sj" />
+			<child name="CR1755_Web1655_Error400_404" key="{0FE098F6-12AA-43B2-8165-F5F08853235E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1655_Error400_404.sj" />
+			<child name="CR1755_Web1658_ModePer_FlowCroesusPass" key="{27E10EF8-FD0F-441F-8B86-650188DA13DC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1658_ModePer_FlowCroesusPass.sj" />
+			<child name="CR1755_Web1658_ModePer_FlowProfilPass" key="{CF061FD8-5722-44E1-9EC5-AE26B38791BD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1658_ModePer_FlowProfilPass.sj" />
+			<child name="CR1755_Web1661_MessageErrorMaximumValide" key="{CD8032FF-96C6-4B6C-9BE2-4A192E6C9D8E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\CR1755_Web1661_MessageErrorMaximumValide.sj" />
+		</folder>
+		<folder name="PreExecution">
+			<child name="PreExecution" key="{D53D3260-44F0-4472-A3BD-3B71E4D2ACF5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\PreExecution.sj" />
+		</folder>
+		<child name="Global_variables" key="{80040375-A3B4-4463-9886-A7B7DFB41A12}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{DB004459-CA5F-4F8A-B8FF-8C2DA098E0FB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="ExecutionLog" key="{39CA1ABB-036A-46B7-937B-37DA4F3B44B6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTransitionWeb\TransitionWeb\Script\ExecutionLog.sj" />
+	</children>
+</Root>

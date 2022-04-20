@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE secData SYSTEM "/usr/lib/finansoft/loader/dtd/secur_data.dtd">
+<secData xmlns="SEC_NS">
+	<header timeStamp="20100125" dest="UNI" noElem="2"/>
+	<sec id="987654" underSec="" updDate="2010-01-25">
+		<priceInfo curr="CAD" priceDate="2010-01-25">
+			<bid>19.75</bid>
+			<ask>20.15</ask>
+			<close>19.95</close>
+		</priceInfo>
+		<secInfo symbol="CROES" bourse="TSE" secCurr="CAD" country="CA" factor="1" prinFact="1" type="315" expPrice="0" cusip="123456789" foreign="0" indCode="5" optionType="NULL" isin="CA1234567890" >
+			<secDesc idLang="FDS_DESC_L1" value="CROESUS FINANSOFT CORP"/>
+			<secDesc idLang="FDS_DESC_L2" value="CROESUS FINANSOFT CORP"/>
+			<intDiv divCurr="CAD" div="0.19" divDate="2010-01-25" regDate="2010-01-25" interest="0" giveInts="" freq="4" />
+		</secInfo>
+	</sec> 
+	<sec id="123456" underSec="" updDate="2010-01-25">
+		<priceInfo curr="CAD" priceDate="2010-01-25">
+			<bid>19.75</bid>
+			<ask>20.15</ask>
+			<close>19.95</close>
+		</priceInfo>
+		<secInfo symbol="CRFN" bourse="TSE" secCurr="CAD" country="CA" factor="1" prinFact="1" type="315" expPrice="0" cusip="987654321" foreign="0" indCode="7" optionType="NULL" isin="CA9876543210" >
+			<secDesc idLang="FDS_DESC_L1" value="CROESUS FINANSOFT INC"/>
+			<secDesc idLang="FDS_DESC_L2" value="CROESUS FINANSOFT INC"/>
+			<intDiv divCurr="CAD" div="0.15" divDate="2010-01-25" regDate="2010-01-25" interest="0" giveInts="" freq="2" />
+		</secInfo>
+	</sec> 
+</secData>

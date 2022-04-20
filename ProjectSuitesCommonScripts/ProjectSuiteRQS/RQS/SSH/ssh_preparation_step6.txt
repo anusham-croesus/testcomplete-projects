@@ -1,0 +1,7 @@
+#!/bin/bash
+cfLoader -RiskRating " "
+cd /home/malikai/CR1483
+cfLoader -RiskRating \"-feed:test.csv\"
+cd
+cfLoader -RiskRating \"-overwrite\"
+sudo service cfadm restart

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{6115D02F-8EC4-49F8-885B-1B23B6DBC6A2}">
+	<children>
+		<child name="Comptes" key="{8A6DD89B-EAFF-46B6-8DFE-3390C8415FEE}" path="Comptes\Comptes.mds" />
+	</children>
+	<testItems key="{2782F2B7-848A-4E0F-B66C-D9E6CDBBA4CD}">
+		<children>
+			<testItem key="{8A6DD89B-EAFF-46B6-8DFE-3390C8415FEE}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{3B40FE9B-7DBA-46AA-B33A-9468EDACEDFD}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="US" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{D3F8D120-587E-4A58-972C-AADC77A91BA1}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{A4A0B743-38E7-40EF-B92D-3A3CD5CDCF2A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{BBD0C343-A711-4BE0-9463-68660EAA70E0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{18A12DD4-65AE-474B-A9EC-B103542D1172}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{87F4BA1C-8B88-4EEB-9854-E1A4000477E8}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{517702AF-5B9B-493B-9C9C-F72F0FEC90CD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{8E59A6E8-C06E-4E23-B8B9-6540ED426BAE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{6D28220B-DE6D-4FDD-A87F-CCA5E4CA412F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="ExcelUtils" key="{AFCFEDD2-C8D0-4937-8ADA-24F37521E258}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Global_variables" key="{BC272A63-7E23-4FE2-86CE-E97B4B4C616F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+			<child name="Agenda_Get_functions" key="{BCF79B30-3319-4824-820F-7CD7CF07E9BA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{7F3AB67F-2561-4202-A5B1-423481CB8DD2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{5FE98652-3A48-4DB1-A838-D939685F87BB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{C3825055-491E-44B3-B4C9-FAB544F67922}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{4A779419-34A9-4EBF-866C-6DB64706B1CB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="Modeles_Get_functions" key="{A3A799DD-0B99-4C45-B955-A980C580D705}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{1E479DD6-BE13-4BA2-9DF3-76A45F58118D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{43076EBC-4644-4651-B4E1-F175B13F0F96}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{7D601BB8-F3CE-4A3F-9559-929B7A0E8D10}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{49E0732D-2D9D-411E-823A-FB3F9D854521}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{F9B88622-25A1-4A56-B27C-0AAAD5A5DE67}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="PDFUtils" key="{6EE1BD12-E6C2-4851-9111-A9218036E37E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="SmokeTests">
+			<child name="SmokeTest_Common" key="{65C10439-28B9-41A6-9E5A-3F370329CC0D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_Common.js" />
+			<child name="SmokeTest_ConfigurateurWeb" key="{D4F6BB76-9A43-4331-8021-5EE996399AA3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ConfigurateurWeb.sj" />
+			<child name="SmokeTest_CROES_8363_ValiderCriteresSimpleAvanceExistantUtilisantProfils_Clients_CritereAvance" key="{04A00EDA-47DB-446A-90E9-78037DA31768}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_CROES_8363_ValiderCriteresSimpleAvanceExistantUtilisantProfils_Clients_CritereAvance.js" />
+			<child name="SmokeTest_CROES_8363_ValiderCriteresSimpleAvanceExistantUtilisantProfils_Clients_CritereSimple" key="{F4308B57-07D5-4835-9894-88B501934D90}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_CROES_8363_ValiderCriteresSimpleAvanceExistantUtilisantProfils_Clients_CritereSimple.js" />
+			<child name="SmokeTest_Login" key="{7B839DFB-F459-452C-B4DB-8DFFFC8C26DB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_Login.sj" />
+			<child name="SmokeTest_ScenarioDeValidation_Loader" key="{7E3392F4-B4F4-4D20-AFDA-8A9FEAE42118}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ScenarioDeValidation_Loader.js" />
+			<child name="SmokeTest_ValiderFonctionnalites_Clients" key="{3621AC61-BBE0-4732-A62C-D5751D08EEF2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderFonctionnalites_Clients.js" />
+			<child name="SmokeTest_ValiderFonctionnalites_Comptes" key="{9406694E-21D8-4682-BF26-22C2F6F774AD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderFonctionnalites_Comptes.js" />
+			<child name="SmokeTest_ValiderFonctionnalites_Modeles" key="{6B66EEEA-8CEC-4B88-B6F0-2E5E0CAE83A9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderFonctionnalites_Modeles.js" />
+			<child name="SmokeTest_ValiderFonctionnalites_Portefeuille" key="{B4FE9F25-AD9C-44B5-A2F1-2A00526CB40D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderFonctionnalites_Portefeuille.js" />
+			<child name="SmokeTest_ValiderFonctionnalites_Relations" key="{14E3A7FD-8A50-4F06-B377-7145A7EB8BCB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderFonctionnalites_Relations.js" />
+			<child name="SmokeTest_ValiderFonctionnalites_Titres" key="{23881F0F-DC7A-4DB7-9F07-2F568BB42F53}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderFonctionnalites_Titres.js" />
+			<child name="SmokeTest_ValiderFonctionnalites_Transactions" key="{9CE2498A-9B55-4470-9A33-7D67CAD467F1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderFonctionnalites_Transactions.js" />
+			<child name="SmokeTest_ValiderFonctionnalitesduTableauDeBord" key="{103EE078-40E4-4273-B125-3C5D50029CF0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderFonctionnalitesduTableauDeBord.js" />
+			<child name="SmokeTest_ValiderLesFiltresRapidesSauvegardes_Clients" key="{C5D8E7C7-C763-45DB-B7A1-A52B56D2742F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderLesFiltresRapidesSauvegardes_Clients.js" />
+			<child name="SmokeTest_ValiderLesFiltresRapidesSauvegardes_Comptes" key="{1081E466-A37E-432E-B657-837B0688F53A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderLesFiltresRapidesSauvegardes_Comptes.js" />
+			<child name="SmokeTest_ValiderLesFiltresRapidesSauvegardes_Relations" key="{D5965400-E014-4E15-967B-07B50A51C3AD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderLesFiltresRapidesSauvegardes_Relations.js" />
+			<child name="SmokeTest_ValiderLesFiltresRapidesSauvegardes_Titres" key="{5963BA8D-FE6A-4DD9-A6F6-407B11EA72E8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderLesFiltresRapidesSauvegardes_Titres.js" />
+			<child name="SmokeTest_ValiderRQS" key="{BBD07D77-F953-4119-9F4C-6E6F4B4A7FE5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderRQS.js" />
+			<child name="SmokeTest_ValiderUnRapport" key="{1FDC1CFF-500F-4B94-873E-1D80277AC9A1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderUnRapport.js" />
+			<child name="SmokeTest_ValiderAideEnligne" key="{155FA5A7-0DE7-4AB2-8C0B-041FC6554A95}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\SmokeTest_ValiderAideEnligne.sj" />
+		</folder>
+		<child name="RemoveReadOnlyProtection" key="{A45419FD-F8BC-46F4-B964-775CE54C0734}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\RemoveReadOnlyProtection.sj" />
+		<child name="ExecutionLog" key="{0C8C940A-60F3-4B56-AC2C-BBA32A890077}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\ExecutionLog.sj" />
+		<child name="PreExecution" key="{A8D1A536-1E2F-4B26-B0E2-7896ED84800E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteGeneral\General\Script\PreExecution.sj" />
+		<child name="GetListOfTestsToBeRun" key="{43292F78-6875-47A5-A034-1F812FF11116}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

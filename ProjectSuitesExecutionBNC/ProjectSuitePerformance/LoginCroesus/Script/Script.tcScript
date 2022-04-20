@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Performance">
+			<folder name="Performance_NFR">
+				<child name="Performance_Acc_15bpsCash" key="{BE93DD1C-0D67-4728-BBB7-863A0CD8B87F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_15bpsCash.sj" />
+			</folder>
+			<folder name="Performance_Rapport">
+				<folder name="Performance_Rapport_Accounts">
+					<child name="Performance_Acc_Rapport_AssetAllocationSubcategory" key="{160EACB2-3B3E-4C4D-A583-0ECC1976FEE5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Rapport_AssetAllocationSubcategory.sj" />
+					<child name="Performance_Acc_Rapport_GainsLossesRealized" key="{1E3F1A6B-D9EE-4049-B681-CEB3D4E651D6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Rapport_GainsLossesRealized.sj" />
+					<child name="Performance_Acc_Rapport_PortfolioEvaluation" key="{3AD58454-FEC0-4D77-A5A1-4CD36091E532}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Rapport_PortfolioEvaluation.sj" />
+					<child name="Performance_Acc_Rapport_PortfolioPerformance" key="{9A78682A-7AA6-430B-9896-7B6CE2B6F069}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Rapport_PortfolioPerformance.sj" />
+					<child name="Performance_Acc_Rapport_ProjectedIncomeAnnual" key="{39777A77-B9E9-4249-BFA3-D3F09295DD06}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Rapport_ProjectedIncomeAnnual.sj" />
+					<child name="Performance_Acc_Rapport_Transactions" key="{474D3603-1CF7-4544-BE02-0444DFB0D8DB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Rapport_Transactions.sj" />
+				</folder>
+				<folder name="Performance_Rapport_Clients">
+					<child name="Performance_Cli_Rapport_AssetAllocationSubcategory" key="{78AFA0E6-1AE7-4E40-AB7B-27086B8A9A3E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_Rapport_AssetAllocationSubcategory.sj" />
+					<child name="Performance_Cli_Rapport_GainsLossesRealized" key="{9C75EBFD-E6FF-4CF3-A2EA-B35D2BAB156A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_Rapport_GainsLossesRealized.sj" />
+					<child name="Performance_Cli_Rapport_PortfolioEvaluation" key="{3399E686-6ED4-41A7-92B6-8A31C1DD5D21}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_Rapport_PortfolioEvaluation.sj" />
+					<child name="Performance_Cli_Rapport_PortfolioPerformance" key="{59D8DB26-45AA-4B07-B0E0-D4005313EBA3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_Rapport_PortfolioPerformance.sj" />
+					<child name="Performance_Cli_Rapport_ProjectedIncomeAnnual" key="{0327C98C-5BA5-44DD-B554-5F1FEDCD4FA3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_Rapport_ProjectedIncomeAnnual.sj" />
+					<child name="Performance_Cli_Rapport_Transactions" key="{8BCBA41B-DA58-4B29-9A2C-303E0CB9D013}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_Rapport_Transactions.sj" />
+				</folder>
+				<folder name="Performance_Rapport_Relationships">
+					<child name="Performance_Rel_Rapport_AssetAllocationSubcategory" key="{BAB2C083-EA2D-44E9-894C-BFE74EB74A42}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_AssetAllocationSubcategory.sj" />
+					<child name="Performance_Rel_Rapport_GainsLossesRealized" key="{90109D9F-2C75-4057-8DFB-0FD45EC94313}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_GainsLossesRealized.sj" />
+					<child name="Performance_Rel_Rapport_PortfolioEvaluation" key="{D5FA8A52-C8F0-4C33-BDD6-05EE189D35F8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_PortfolioEvaluation.sj" />
+					<child name="Performance_Rel_Rapport_PortfolioPerformance" key="{12587386-292B-4DA6-9C5B-5AEA71129225}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_PortfolioPerformance.sj" />
+					<child name="Performance_Rel_Rapport_ProjectedIncomeAnnual" key="{F0A3F36A-78B8-4390-A45F-2AEE3E67555E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_ProjectedIncomeAnnual.sj" />
+					<child name="Performance_Rel_Rapport_Transactions" key="{4CF22EAD-20E5-4731-B2F7-6E3B95A3A981}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Rapport_Transactions.sj" />
+				</folder>
+			</folder>
+			<folder name="Performance_Module_Titres">
+				<child name="Performance_Tit_ClickModule" key="{79D30439-AEBE-44D0-A482-8EDAAC2D4219}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tit_ClickModule.sj" />
+				<child name="Performance_Tit_Drag_FromAccounts" key="{17C8EA9B-3220-41C5-BFCD-254DA3491740}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tit_Drag_FromAccounts.sj" />
+				<child name="Performance_Tit_Drap_FromClients" key="{69DE2993-0FA6-4412-BFB7-4BBF300D2C9B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tit_Drap_FromClients.sj" />
+				<child name="Performance_Tit_Drap_FromTransactions" key="{8CFABFB3-2555-43D1-96D6-2B5C06D7CC62}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tit_Drap_FromTransactions.sj" />
+				<child name="Performance_Tit_FiltersIcon" key="{AD1293D5-0F38-457C-9F92-5922843B0D0C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tit_FiltersIcon.sj" />
+				<child name="Performance_Tit_HistoricalDataBtn" key="{3128A928-A4B0-4156-B5F2-2176DCF0FBEA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tit_HistoricalDataBtn.sj" />
+				<child name="Performance_Tit_InfoBtn" key="{220669FB-2B3C-4FDC-88F7-67E4087010F4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tit_InfoBtn.sj" />
+				<child name="Performance_Tit_MSExcel" key="{15883F4F-53BB-453D-ACFE-EF0CC5BEA53F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tit_MSExcel.sj" />
+				<child name="Performance_Tit_SearchCriteria" key="{87F243C4-DCD4-4ABE-BBC1-FAB01B69932F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tit_SearchCriteria.sj" />
+				<child name="Performance_Tit_SearchTitre" key="{02A616D2-3E29-4999-92B3-3592DF4C93BB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tit_SearchTitre.sj" />
+			</folder>
+			<folder name="Performance_Jira">
+				<folder name="Crash">
+					<child name="Performance_CROES_6602" key="{2A6DCF9C-3964-4D0D-B9BA-C13C08E67565}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_CROES_6602.sj" />
+					<child name="Performance_CROES_6604" key="{D9F71817-1601-4845-92D2-34EA4A7B3D03}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_CROES_6604.sj" />
+					<child name="Performance_CROES_6743" key="{F16AE481-9EE7-4AB8-B437-5680A69A5BB8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_CROES_6743.sj" />
+					<child name="Performance_CROES_6813" key="{DFBE53E2-B50F-484F-8546-F4BBBE4638DE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_CROES_6813.sj" />
+				</folder>
+				<folder name="Function_Tri">
+					<child name="TCVE3273_MIB764_Validate_Thesort_OnThe_LastRebalancingColumn_InThe_AssociatedPortfoliosGrid_InThePadModel" key="{6E9599D1-01DA-423A-9762-949A70A9385E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\TCVE3273_MIB764_Validate_Thesort_OnThe_LastRebalancingColumn_InThe_AssociatedPortfoliosGrid_InThePadModel.sj" />
+				</folder>
+				<child name="Performance_CROES_10617" key="{0231727F-A66C-418D-9D0E-00175519884A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_CROES_10617.sj" />
+				<child name="Performance_CROES_6694" key="{B9B9B672-D2F0-4569-A24F-80D836CF89A7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_CROES_6694.sj" />
+				<child name="Performance_CROES_9160" key="{AE68625D-84D4-4228-87FF-65A483C370DD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_CROES_9160.sj" />
+				<child name="Performance_BNC_1918" key="{2AFBC6FE-A075-4107-A962-8B508475F462}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_BNC_1918.sj" />
+				<child name="Performance_BNC_2234_2235" key="{92053BC7-8712-4FCD-868B-E14CDEEB57BD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_BNC_2234_2235.sj" />
+				<child name="Performance_BNC_2288" key="{C65AC559-CD2F-447E-A013-165E084A38BD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_BNC_2288.sj" />
+				<child name="Performance_BNC_2304" key="{90758EBB-9A94-4E4C-A247-14A0ADA0E98B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_BNC_2304.sj" />
+				<child name="Performance_CROES_6561_BNC_1784_DashboardCrash" key="{C5E9B23C-1FD4-4452-9755-70C05C8870CA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_CROES_6561_BNC_1784_DashboardCrash.sj" />
+			</folder>
+			<folder name="Performance_Module_Models">
+				<child name="Performance_Mod_ALTER_INFRA" key="{CEDD24A6-2B7E-4E5D-8001-0BBAA144A1BC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_ALTER_INFRA.sj" />
+				<child name="Performance_Mod_BDC5050" key="{A95C8854-7865-42EB-8832-BC87C4165814}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_BDC5050.sj" />
+				<child name="Performance_Mod_CASH" key="{4CAAD9A1-AAC7-40D4-9E7E-CD341652781E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CASH.sj" />
+				<child name="Performance_Mod_CashMgmt_ALTER_INFRA" key="{55FC6A85-2604-42DD-91F7-255247F5A942}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_ALTER_INFRA.sj" />
+				<child name="Performance_Mod_CashMgmt_BDC5050" key="{34706B85-74C7-4962-A695-CDDD4CEF5597}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_BDC5050.sj" />
+				<child name="Performance_Mod_CashMgmt_CASH" key="{331279B5-AF14-4AAF-A7F6-CAF7135D7A7E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_CASH.sj" />
+				<child name="Performance_Mod_CashMgmt_CROISSANCEMAX" key="{EA5515C5-25B3-4FA6-B84B-5EDEB1150A09}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_CROISSANCEMAX.sj" />
+				<child name="Performance_Mod_CashMgmt_EQUILIBRE" key="{9D0D2CC3-AA95-4828-B2A5-A4229434A04D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_EQUILIBRE.sj" />
+				<child name="Performance_Mod_CashMgmt_GE_BLEND" key="{B5F6FF66-15E6-48BD-B5F7-080DC803635B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_GE_BLEND.sj" />
+				<child name="Performance_Mod_CashMgmt_GROW" key="{62BE570D-9B49-4F99-ACF3-9E373AE6C95D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_GROW.sj" />
+				<child name="Performance_Mod_CashMgmt_SMALLBAL" key="{627FF36A-B8D9-469C-B234-113E33BE6C19}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_SMALLBAL.sj" />
+				<child name="Performance_Mod_CashMgmt_TAA" key="{186A8B09-01F8-45C1-9D6F-E0F18E44030A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_TAA.sj" />
+				<child name="Performance_Mod_CR1845" key="{F31EFE2C-1ACA-48D6-989F-C92E5C0081E0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CR1845.sj" />
+				<child name="Performance_Mod_CROISSANCEMAX" key="{21E63DC8-3376-4172-BE2E-774269341BC3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CROISSANCEMAX.sj" />
+				<child name="Performance_Mod_EQUILIBRE" key="{70681CA7-563C-4934-AE57-339FD4B4D33F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_EQUILIBRE.sj" />
+				<child name="Performance_Mod_GE_BLEND" key="{3B7A2CDF-F89B-41B6-B30F-540DDAAE948C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_GE_BLEND.sj" />
+				<child name="Performance_Mod_GenerateOrdersAccumulator_TAA" key="{FCB9DA90-A6EC-4FBA-845D-ADC702DD8BC4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_GenerateOrdersAccumulator_TAA.sj" />
+				<child name="Performance_Mod_GROW" key="{867605A1-862B-486A-8E20-2CB6CC231D3F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_GROW.sj" />
+				<child name="Performance_Mod_Rebalance" key="{63919EE4-D277-4085-A1EE-202C370E001F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_Rebalance.sj" />
+				<child name="Performance_Mod_SMALLBAL" key="{4A921829-93CB-4C69-8D04-579F9B95D4EA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_SMALLBAL.sj" />
+				<child name="Performance_Mod_TAA" key="{D83ED962-CB68-454E-9C7F-2C5D10B2F764}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_TAA.sj" />
+				<child name="Performance_Mod_UMA" key="{2D1B3D88-38F3-48EB-8FAD-3DEC5254A72E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_UMA.sj" />
+			</folder>
+			<folder name="Performance_Module_Transactions">
+				<child name="Performance_Tra_ClickModule" key="{367CD8BA-8332-4E49-ADE9-2DA58CC466AD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_ClickModule.sj" />
+				<child name="Performance_Tra_Drag_FromAccounts" key="{6D5EB897-4E06-4023-9422-8556D9582326}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_Drag_FromAccounts.sj" />
+				<child name="Performance_Tra_Drag_FromClients" key="{CE520AA2-867B-4C74-B395-07F881421A2A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_Drag_FromClients.sj" />
+				<child name="Performance_Tra_Drag_FromPortfolio" key="{AED9B2FF-2327-4B07-B8DA-11DE7C5FF48E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_Drag_FromPortfolio.sj" />
+				<child name="Performance_Tra_Drag_FromRelationships" key="{3F91A409-2BDC-4BB0-8101-C6AE896E718B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_Drag_FromRelationships.sj" />
+				<child name="Performance_Tra_Drag_FromTitres" key="{822DD9F0-AC80-44EA-8D68-39B2DD621DCD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_Drag_FromTitres.sj" />
+				<child name="Performance_Tra_DragFromClients_Sum" key="{35E47ED6-CECE-4035-91D6-E24A36CE2EB4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_DragFromClients_Sum.sj" />
+				<child name="Performance_Tra_DragFromPortfolio_Sum" key="{6E3F72A5-DE91-4F8D-8EB2-D6F5FACE4184}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_DragFromPortfolio_Sum.sj" />
+				<child name="Performance_Tra_DragFromTitres_Sum" key="{9B9EC129-572A-4B82-BA96-8D3E3DBBB889}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_DragFromTitres_Sum.sj" />
+				<child name="Performance_Tra_FiltersIcon" key="{0CA5E175-6FA1-4AB3-B4C4-DD4AFE0BEB7C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_FiltersIcon.sj" />
+				<child name="Performance_Tra_InfoBtn" key="{2F32A522-B83C-4CBC-87B4-22B70C87922D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_InfoBtn.sj" />
+				<child name="Performance_Tra_SearchTransaction" key="{0727CAA9-60C9-4C3C-B4A6-DD9630195A54}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_SearchTransaction.sj" />
+				<child name="Performance_Tra_SumIcon" key="{4936450D-7C0A-42DA-A558-2D94AF125182}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Tra_SumIcon.sj" />
+			</folder>
+			<folder name="Performance_Module_Relationships">
+				<child name="Performance_Rel_Add_NewRelationships" key="{B4A9BFA1-45C3-4965-BB20-235B7E60A27F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Add_NewRelationships.sj" />
+				<child name="Performance_Rel_AddNoteBtn" key="{00BDAD39-E947-431D-A7ED-34165E55146B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_AddNoteBtn.sj" />
+				<child name="Performance_Rel_ClickModule" key="{31124A76-1C23-438C-A944-C99D53C5DF96}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_ClickModule.sj" />
+				<child name="Performance_Rel_DeleteAccount_FromRelationships" key="{3AB57596-6410-4FBC-96E1-FFB0E7DE28DB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_DeleteAccount_FromRelationships.sj" />
+				<child name="Performance_Rel_DoubleClickRelationships" key="{EB41E1DC-F266-4457-9DF6-7FB58A7111D2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_DoubleClickRelationships.sj" />
+				<child name="Performance_Rel_Drap_FromAccounts" key="{60AA8C21-EC02-4DD6-BB91-90265D1D6162}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Drap_FromAccounts.sj" />
+				<child name="Performance_Rel_Drap_FromClients" key="{8845D652-197C-421A-B40A-549B3F840606}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Drap_FromClients.sj" />
+				<child name="Performance_Rel_Drap_FromTitres" key="{8DFB8560-B84C-4439-AFA8-5F4E51C16AFA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Drap_FromTitres.sj" />
+				<child name="Performance_Rel_Drap_FromTransactions" key="{11C370EE-4D37-4C2C-88D7-D58ED1FABCC5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_Drap_FromTransactions.sj" />
+				<child name="Performance_Rel_InfoBtn" key="{FBEC170A-7D78-4B83-9A75-7871F4A0C33B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_InfoBtn.sj" />
+				<child name="Performance_Rel_SearchRelationships" key="{AFA0E50A-33E4-44D1-B00F-C80281E1A461}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Rel_SearchRelationships.sj" />
+			</folder>
+			<folder name="Performance_Module_Portfolio">
+				<child name="Performance_Por_AllBtn" key="{B3EBB32B-3A54-4D69-A9AE-43891A63C5FE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_AllBtn.sj" />
+				<child name="Performance_Por_ChangeCurrency" key="{23BDC69B-8F30-45E5-B52E-E412ECA29FF7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_ChangeCurrency.sj" />
+				<child name="Performance_Por_ChangeDate" key="{01D4E22D-D81B-41B3-9502-41A2FEBCEAA4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_ChangeDate.sj" />
+				<child name="Performance_Por_Drag_FromAccounts" key="{84A18D21-16BD-4D56-95C0-0488156AEE3D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_Drag_FromAccounts.sj" />
+				<child name="Performance_Por_Drag_FromClients" key="{453473AA-5772-47B0-9FA1-9545D527A13F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_Drag_FromClients.sj" />
+				<child name="Performance_Por_Drag_FromRelationships" key="{EE0B52E4-8315-4B22-B2C7-BFBBEFEDA07B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_Drag_FromRelationships.sj" />
+				<child name="Performance_Por_Drag_FromTitres" key="{471089A4-D4BE-4C5C-B591-4E6701307F95}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_Drag_FromTitres.sj" />
+				<child name="Performance_Por_GroupBtn" key="{64C2689B-19AB-44D0-B487-714FF54C0F93}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_GroupBtn.sj" />
+				<child name="Performance_Por_InfoBtn" key="{53FE6643-3412-482B-BB91-8C0DF5E7FBFF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_InfoBtn.sj" />
+				<child name="Performance_Por_SumBtn" key="{BA82B2BD-E075-4FF0-B37B-293B305546DE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_SumBtn.sj" />
+				<child name="Performance_Por_CreateSleeves" key="{101E8EB0-9C8C-43FB-81B6-E0A63F887506}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_CreateSleeves.sj" />
+				<child name="Performance_Por_PerformanceBtn" key="{70FF2BF1-EC5B-450D-9A98-564019368435}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_PerformanceBtn.sj" />
+				<child name="Performance_Por_SleevesBtn" key="{79216721-A287-41D0-91AA-15FA1AD1C210}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Por_SleevesBtn.sj" />
+			</folder>
+			<folder name="Performance_Module_Clients">
+				<child name="Performance_Cli_Drag_FromAccounts" key="{A46CE8D3-A74A-4CB2-AF34-19E7E5233718}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_Drag_FromAccounts.sj" />
+				<child name="Performance_Cli_Drag_FromRelationships" key="{FAEBEE90-F5E5-4CD6-889E-F6BD78CF7EA2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_Drag_FromRelationships.sj" />
+				<child name="Performance_Cli_Drag_FromTitres" key="{53EE44B3-3298-4076-ADF4-F1028C92D47E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_Drag_FromTitres.sj" />
+				<child name="Performance_Cli_Drag_FromTransactions" key="{24E66564-B6D1-46B1-9A1C-EB2B353B47EA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_Drag_FromTransactions.sj" />
+				<child name="Performance_Cli_InfoBtn" key="{161E642D-8AB3-42AF-A054-C57B6658990C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_InfoBtn.sj" />
+				<child name="Performance_Cli_MSExcel_Filter" key="{9017AA85-3107-4CDF-860A-B780198C31A6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_MSExcel_Filter.sj" />
+				<child name="Performance_Cli_PerformanceBtn" key="{5FF38749-A4BB-43EA-8A42-AA6E67B8DD7F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_PerformanceBtn.sj" />
+				<child name="Performance_Cli_SearchClient" key="{015A89DF-2A49-40E7-813E-8148BC251DE1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_SearchClient.sj" />
+				<child name="Performance_Cli_SearchCriteria" key="{E4631553-110B-4C95-9FFE-3B8B87765CDC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_SearchCriteria.sj" />
+				<child name="Performance_Cli_SumBtn" key="{1FBD32EE-C3CB-4242-ADC5-5DA1B32E5A83}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_SumBtn.sj" />
+				<child name="Performance_Cli_ClickModule" key="{18F196DC-C8B6-47AD-BB15-04CF81FA3650}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Cli_ClickModule.sj" />
+			</folder>
+			<folder name="Performance_Module_Accounts">
+				<child name="Performance_Acc_AlarmsBtn" key="{CFAEE26A-70C1-4A52-A5FD-2F3A36AD33D8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_AlarmsBtn.sj" />
+				<child name="Performance_Acc_ClickModule" key="{17F06B23-2B65-41CD-8F10-AFEE1F64B86F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_ClickModule.sj" />
+				<child name="Performance_Acc_Drag_FromClients" key="{11BED359-274F-48EC-8D89-81AED4A70C95}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Drag_FromClients.sj" />
+				<child name="Performance_Acc_Drag_FromRelationships" key="{27FD38CC-F33E-4D92-A834-51AD0921C4F5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Drag_FromRelationships.sj" />
+				<child name="Performance_Acc_Drag_FromTitres" key="{E8DE7C41-6FB2-4FB1-B614-DCF45DC9E8B6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Drag_FromTitres.sj" />
+				<child name="Performance_Acc_Drag_FromTransactions" key="{69335EE4-CB3F-45DA-A83C-EBD0698AEDDC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Drag_FromTransactions.sj" />
+				<child name="Performance_Acc_InfoBtn" key="{C2DFC321-C326-4B74-91D8-65B49072CAC2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_InfoBtn.sj" />
+				<child name="Performance_Acc_MSExcel_Filter" key="{39CC596D-7040-4CDE-9D33-8F59DC193384}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_MSExcel_Filter.sj" />
+				<child name="Performance_Acc_PerformanceBtn" key="{470DA770-D74D-4DAB-9AE9-76D39B3EEC9B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_PerformanceBtn.sj" />
+				<child name="Performance_Acc_ReportBtn" key="{E5638844-D85C-4816-9CAB-CF510517AB9A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_ReportBtn.sj" />
+				<child name="Performance_Acc_SearchAccount" key="{69910AD2-BAF3-4194-8EA0-0DC804C85463}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_SearchAccount.sj" />
+				<child name="Performance_Acc_SearchCriteria" key="{302837AE-D48E-4316-8BC0-85792246DC44}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_SearchCriteria.sj" />
+				<child name="Performance_Acc_SumBtn" key="{F5B8331B-37ED-4D07-9F05-B84F9C36578C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_SumBtn.sj" />
+				<child name="Performance_Acc_CROES_11353_SearchCriteriaNBC4415" key="{4833A4E1-5884-4821-BE28-807779AFDABB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_CROES_11353_SearchCriteriaNBC4415.sj" />
+				<child name="Performance_Acc_Sleeves_RebalanceAccount" key="{A77F6858-8353-4946-94DC-CFD317759870}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Sleeves_RebalanceAccount.sj" />
+				<child name="Performance_Acc_Sleeves_RebalanceAllSleeves" key="{5869611C-2A33-49B3-8C60-8F39B47EB5CE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Acc_Sleeves_RebalanceAllSleeves.sj" />
+			</folder>
+			<folder name="Performance_LoginCroesus">
+				<child name="Performance_Dashboard" key="{B039C0D7-61C4-4CD1-804C-741695673F31}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Dashboard.sj" />
+				<child name="Performance_LoginCroesus" key="{531AAC2B-E9BA-428C-9A38-47266F9DA197}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_LoginCroesus.sj" />
+			</folder>
+			<folder name="Performance_WebConfigurator">
+				<child name="BNC_2368_HomePage_ScrollIACode_DefaultBranch" key="{73612DEE-4375-4E1D-AA34-926B23FD425B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\BNC_2368_HomePage_ScrollIACode_DefaultBranch.sj" />
+				<child name="BNC_2369_HomePage_SearchIACode" key="{F6BDF527-F55A-49EB-9ECB-B6C9CD94BDCC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\BNC_2369_HomePage_SearchIACode.sj" />
+				<child name="BNC_2388_HomePage_2Characters_SearchIACode" key="{1CC31D4E-0A0C-4325-AFFF-717AECD48F5F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\BNC_2388_HomePage_2Characters_SearchIACode.sj" />
+				<child name="WebConfig_HomePage_SearchName" key="{94F9F9F8-1299-4908-8827-FBC402FB098B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\WebConfig_HomePage_SearchName.sj" />
+				<child name="WebConfig_HomePage_SearchUser" key="{BC968DD4-5093-40B9-879B-177BC91E287C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\WebConfig_HomePage_SearchUser.sj" />
+				<child name="WebConfig_UserPage_IACode_2Characters_SearchIACode" key="{B9460F7C-E141-453C-B3EA-06DD1D08A63F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\WebConfig_UserPage_IACode_2Characters_SearchIACode.sj" />
+				<child name="WebConfig_UserPage_IACode_SearchIACode" key="{42BCD265-45B7-414C-885D-136937DCD5A8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\WebConfig_UserPage_IACode_SearchIACode.sj" />
+			</folder>
+			<folder name="Performance_RCM">
+				<child name="Performance_RCM_ActivateFiltersInAlertsTab" key="{7E30FFD9-4E48-4D9A-AC8E-62FEE7D50740}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_ActivateFiltersInAlertsTab.sj" />
+				<child name="Performance_RCM_AddSpotCheck40Transactions" key="{76C778D6-B72B-4C4F-9763-86C7B2034DEA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_AddSpotCheck40Transactions.sj" />
+				<child name="Performance_RCM_AddSpotCheckOneTransaction" key="{2B2B3895-3A80-4F2E-AAAD-006B1A93E5E0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_AddSpotCheckOneTransaction.sj" />
+				<child name="Performance_RCM_AlertsTabExportToExcel" key="{2863A61F-6255-4D2E-8F6B-27EF06D87B26}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_AlertsTabExportToExcel.sj" />
+				<child name="Performance_RCM_BlotterDateChange" key="{62534E42-C266-4E3D-8558-71AB6211D581}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_BlotterDateChange.sj" />
+				<child name="Performance_RCM_BrancheAndAllSelection" key="{5B279083-3B3F-404F-8BAD-844CDAA48290}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_BrancheAndAllSelection.sj" />
+				<child name="Performance_RCM_CurrentFilterEdition" key="{47B60938-4C9E-4979-989C-1541CBE9FBD7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_CurrentFilterEdition.sj" />
+				<child name="Performance_RCM_DragTransactionsToCroesusPortfolio" key="{F0181AF0-715A-4F47-A055-3B39882031A8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_DragTransactionsToCroesusPortfolio.sj" />
+				<child name="Performance_RCM_DragTransactionsToCroesusSecurities" key="{72579593-F986-450A-9DE3-808EE66551D4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_DragTransactionsToCroesusSecurities.sj" />
+				<child name="Performance_RCM_DragTransactionsToCroesusTransactions" key="{BF15A64D-C812-42AF-8ADB-5EE6DE4CF1C7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_DragTransactionsToCroesusTransactions.sj" />
+				<child name="Performance_RCM_QueryLogStatusAll" key="{42C7E7DF-C22C-46B4-AC3C-7F90DE5C7A43}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_QueryLogStatusAll.sj" />
+				<child name="Performance_RCM_QueryLogStatusAnythingButClosed" key="{686195AC-05A1-4B16-9C57-BDC476F72E30}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_QueryLogStatusAnythingButClosed.sj" />
+				<child name="Performance_RCM_QueryLogStatusClosed" key="{79BF3DBA-6D8F-470E-BC9B-54E112948C45}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_QueryLogStatusClosed.sj" />
+				<child name="Performance_RCM_ReportsTabExportToExcel" key="{1688B76D-AD33-4556-B97B-879BCBB22D2D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_ReportsTabExportToExcel.sj" />
+				<child name="Performance_RCM_SwitchSecurityAlertsToReportsTab" key="{A45E835B-4D4B-449F-9404-0A612493C6E5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_SwitchSecurityAlertsToReportsTab.sj" />
+				<child name="Performance_RCM_SwitchTransactionBlotterToAlertsTab" key="{25C10867-77F9-4CCB-B457-1096A3989958}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_SwitchTransactionBlotterToAlertsTab.sj" />
+				<child name="Performance_RCM_SwitchTransactionBlotterToSecurityAlertsTab" key="{B070E6AC-1477-4873-AC6E-78E0F1F22185}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_SwitchTransactionBlotterToSecurityAlertsTab.sj" />
+				<child name="Performance_RCM_TransactionTabBtnBulkValidate" key="{5AC16021-9495-4782-A0AE-3C3E1D2B3EC3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_TransactionTabBtnBulkValidate.sj" />
+				<child name="Performance_RCM_TransactionTabBtnSummary" key="{059B0F0F-4EB0-483E-888B-8B8D73873E1A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_TransactionTabBtnSummary.sj" />
+				<child name="Performance_RCM_TransactionTabExportToExcel" key="{FD97EAD9-BC03-4522-A80E-54C7BA9F237C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCM_TransactionTabExportToExcel.sj" />
+				<child name="Performance_RCMBtn" key="{B09087F8-080A-44E7-984E-61166A918297}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_RCMBtn.sj" />
+			</folder>
+			<folder name="Performance_Module_Orders">
+				<child name="Performance_Ord_ClickModule" key="{C0428CDD-CD9E-411B-B3E2-6E3F7D2F9FA4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Ord_ClickModule.sj" />
+				<child name="Performance_Ord_MSExcel" key="{9D368C89-C7A7-4698-A908-C113354F8F91}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Ord_MSExcel.sj" />
+				<child name="Performance_Ord_SumBtn" key="{E94148D4-48E4-45DA-9E00-49A1708B9466}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Ord_SumBtn.sj" />
+				<child name="Performance_Ord_ViewBtn" key="{02D42CD8-BB8E-450E-A996-B9DA2F27F35F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Ord_ViewBtn.sj" />
+				<child name="Performance_ORC_1331_LongTimeBeforePreview" key="{290AE038-721F-480F-96BC-2DED7CB97E53}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_1331_LongTimeBeforePreview.sj" />
+				<child name="Performance_ORC_1623_TimeTooLongBeforePreview" key="{D76EA280-DEAE-4A71-843D-D12D6B2FE4CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_1623_TimeTooLongBeforePreview.sj" />
+				<child name="Performance_ORC_Over16000Accounts_UnitPerAccount" key="{1F8D5D4F-2CC1-4FA5-AE5E-6CF5E2AFDDA6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_Over16000Accounts_UnitPerAccount.sj" />
+				<child name="Performance_ORC_Over5000Accounts_UnitPerAccount" key="{136B4F36-202D-4C73-81DB-C964E0EA839A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_Over5000Accounts_UnitPerAccount.sj" />
+				<child name="Performance_ORC_3000Accounts_DollarPerAccount" key="{9E1E28B1-4136-44AF-B66F-D40519048482}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_3000Accounts_DollarPerAccount.sj" />
+				<child name="Performance_ORC_3000Accounts_PercentAccountMarketValue" key="{FA9E0C3D-B893-41A0-990F-58551C28AE4F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_3000Accounts_PercentAccountMarketValue.sj" />
+				<child name="Performance_ORC_3000Accounts_PercentOfBalance_negative" key="{839535E3-17E0-4DF0-B9C0-1A942306DBBE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_3000Accounts_PercentOfBalance_negative.sj" />
+				<child name="Performance_ORC_3000Accounts_PercentOfPositionHeld" key="{FF1155D8-E5DB-4850-8810-D59D664F1E3C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_3000Accounts_PercentOfPositionHeld.sj" />
+				<child name="Performance_ORC_3000Accounts_UnitsPerAccount" key="{F0626D4B-A3A9-4F92-A097-7E5D49B90041}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_3000Accounts_UnitsPerAccount.sj" />
+				<child name="Performance_ORC_3000Accounts_BlockedPosition" key="{1AAC18AF-CD06-4606-BDBE-E66EFD88B0AA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_3000Accounts_BlockedPosition.sj" />
+				<child name="Performance_ORC_3000Accounts_CurrentListSelection_JustActions" key="{E4AEA4EA-27F1-40AF-9385-DC0557E8BE2F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_3000Accounts_CurrentListSelection_JustActions.sj" />
+				<child name="Performance_ORC_3000Accounts_CurrentListSelection_WithFM" key="{2C0C1B6D-5FC4-475B-A7EE-30F264519378}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_3000Accounts_CurrentListSelection_WithFM.sj" />
+				<child name="Performance_ORC_3000Accounts_CurrentSelection" key="{68CAF930-1498-48A4-9F5C-B1C375C6C57C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_3000Accounts_CurrentSelection.sj" />
+				<child name="Performance_ORC_3000Accounts_JustActions" key="{9B67752C-9FAC-4A8A-9374-442FA219F01B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_3000Accounts_JustActions.sj" />
+				<child name="Performance_ORC_Common_functions" key="{8983048B-B323-448A-9A1D-3D432261CC5F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_ORC_Common_functions.sj" />
+			</folder>
+			<folder name="Performance_RemoveReadOnlyAndSaveDataPerformance">
+				<folder name="PreExecution">
+					<child name="RemoveReadOnlyFromFileDataPerformance" key="{AFE9BF79-EBD2-43AC-AF42-82D1E62F6BFF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\RemoveReadOnlyFromFileDataPerformance.sj" />
+				</folder>
+				<child name="CopyFileDataPerformanceToPAfterEndOfExecution" key="{798AE217-FA8E-4FEC-BA44-26E6490DCA00}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\CopyFileDataPerformanceToPAfterEndOfExecution.sj" />
+			</folder>
+		</folder>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{10A6E1EB-1EA3-41D7-B764-0D45530ACCA6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{4679D70A-0A07-465D-917B-424DE0EC0281}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{C0C068B4-4B97-4617-8EAF-201D11802D5C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{8225D48D-F317-427D-8256-D7241EC9E3BA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{5E27DDC1-8255-4C65-B7E8-B3A2FE885C82}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{61355542-5C67-480E-99A8-71A6829CDE6C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{82153D08-399B-4632-9F70-C356EB429DAB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="ExcelUtils" key="{1CF17110-FD21-4FB5-8529-88CBD5187CE6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="CommonCheckpoints" key="{B209DA67-683E-406A-A8B3-76AD18A756E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Agenda_Get_functions" key="{E9EE399C-F551-48B1-8D48-F556C6E66B3B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{3607ABB8-852B-4E68-AF38-D488BE4D18B7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{E86321A0-9893-40C7-8350-C197C60F8F11}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{89188E27-D087-4161-A740-A4EAB6655826}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{FAE59376-78A6-4B3F-8307-1402F7F4868A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{B1F8A575-C959-4CB2-B1BD-34244FFE2C05}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{2227C8AA-4782-4428-B7E4-59E784BDE4F6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{AC0092F1-75CF-4673-B087-9DB6555E55FA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{6B276229-B5FF-4553-9BF3-17810B6453BE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{21361CCF-88E6-47A4-A340-E22D05077C97}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="DBA" key="{E6D4D17F-5C83-4BEC-B657-7475CD620186}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="PDFUtils" key="{4E1205D0-D5CB-49C8-92DE-7D4A23B566B3}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+			<child name="WebConfigurator_Get_functions" key="{902338FC-F1A9-449F-B9ED-804EAF57CB3A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\WebConfigurator_Get_functions.sj" />
+			<child name="RQS_Get_functions" key="{BED6CB54-0C74-48E8-A771-6B37F26839EF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\RQS_Get_functions.sj" />
+		</folder>
+		<folder name="PreExecution">
+			<child name="PreExecution" key="{38D37647-A980-4931-8D0D-BE59F0532FB2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\PreExecution.sj" />
+		</folder>
+		<child name="Global_variables" key="{E9AEDB7D-4AD3-4A69-B88B-56DAC7293D18}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{791147CF-66C6-41E5-B5E4-2ADC6FB32B59}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="ExecutionLog" key="{52E0AE81-6C13-4773-9427-3011A6666112}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\ExecutionLog.sj" />
+	</children>
+</Root>

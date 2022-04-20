@@ -1,0 +1,16 @@
+:: Looking for a Json file taht was last modified 
+PathOfJSON=$(find /home/crweb/Test_CR1571 -type f -name "*.send" -cmin -0.5)
+echo $PathOfJSON > /home/crweb/Test_CR1571/JSONTCVE1410.txt
+
+grep -c '"qty": 500.0' $PathOfJSON > /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt
+grep -c '"dollarAmt": 500.0' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt
+grep -c '"dollarAmt": 7173.0' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt
+
+grep -c '"accountNum": "800011GT"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt
+grep -c '"accountNum": "800021GT"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt
+grep -c '"accountNum": "800020RE"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt
+grep -c '"accountNum": "800021JW"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt
+grep -c '"accountNum": "800021NA"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt
+grep -c '"accountNum": "800039NA"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt
+grep -c '"accountNum": "800022HU"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt
+grep -c '"accountNum": "800049NA"' $PathOfJSON >> /home/crweb/Test_CR1571/SearchResultsTCVE1410.txt

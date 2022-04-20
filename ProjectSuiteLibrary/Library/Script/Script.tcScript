@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_funtions">
+				<child name="Common_Get_functions" key="{2297897E-FAD2-4F6D-8ABD-EB334904EF35}" path="Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{62D07426-145D-4CCC-8A02-06162E2182A4}" path="Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{AA689194-0821-4D43-9078-77990F4B54BC}" path="Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{704551F8-4570-405C-BB65-2C2B547DF1EC}" path="Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{65157627-E708-43E1-AD10-2CDD71A30D7A}" path="Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{BEA1A20E-CEA2-426B-B71C-72A9BA43B7DC}" path="Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{B3883190-8EE6-4291-943E-777C52CE4CC0}" path="Common_functions.sj" />
+			<child name="Agenda_Get_functions" key="{23CECA21-B5DD-4612-91AE-32D33EF6E93E}" path="Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{922EDA54-D965-4886-AE4D-71542B256A86}" path="Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{7EF202E5-ADD5-42D4-B8F1-3390DBD1E2D2}" path="Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{A1812E87-6E6F-43E0-A3B1-8EBB7F8CFDCB}" path="Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{3651AB19-8C3A-4935-99BF-C8D7008D62CB}" path="Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{F8427190-E106-45BD-8F44-B4AE35A9D12D}" path="Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{1FEC03A1-3AF6-4EDA-8E03-693CB3E3421E}" path="Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{13534215-0BE4-4CAE-804E-826AB6433434}" path="Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{8073ADD1-EF73-4EFF-B1C9-251EF5E40F1F}" path="Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{8127FCE2-FE1F-41DC-9ADD-E7BF93CF4478}" path="Transactions_Get_functions.sj" />
+			<child name="WebConfigurator_Get_functions" key="{E35160CE-BAA6-4440-A4C9-12FD84A14E3C}" path="WebConfigurator_Get_functions.sj" />
+		</folder>
+		<folder name="Utilities">
+			<child name="DBA" key="{F3FD144D-18DB-4E98-8536-E4EEAFC58D90}" path="DBA.sj" />
+			<child name="Global_variables" key="{781424AB-37E2-4A3F-8858-33E2D94056E5}" path="Global_variables.sj" />
+			<child name="ExcelUtils" key="{D86C522D-B95B-40F1-87D5-30DC547CF908}" path="ExcelUtils.sj" />
+			<child name="PDFUtils" key="{1F629F19-30E4-4308-8892-706D1886B4DC}" path="PDFUtils.sj" />
+		</folder>
+	</children>
+</Root>

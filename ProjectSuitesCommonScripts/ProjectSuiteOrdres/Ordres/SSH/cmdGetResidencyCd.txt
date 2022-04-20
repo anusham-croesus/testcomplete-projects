@@ -1,0 +1,15 @@
+cd /home/crweb/Test_CR1571/
+newestFileName=$(ls -Art | tail -n 1)
+grep -oP '(?<="residencyCd": ")[^"]*' $newestFileName  > resultsResidencyCd.txt
+
+grep -c "MB" $newestFileName > /home/crweb/Test_CR1571/ResultsMB.txt
+grep -c "QC" $newestFileName > /home/crweb/Test_CR1571/ResultsQC.txt
+grep -c "NY" $newestFileName > /home/crweb/Test_CR1571/ResultsNY.txt
+grep -c "FRA" $newestFileName > /home/crweb/Test_CR1571/ResultsFR.txt
+grep -c "NY" $newestFileName > /home/crweb/Test_CR1571/ResultsNY.txt
+grep -c "AUS" $newestFileName > /home/crweb/Test_CR1571/ResultsAUS.txt
+
+
+
+
+

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Survol">
+			<folder name="Print">
+				<child name="Survol_Acc_MenuBar_FilePrint" key="{F8A84FB5-BC8E-449E-A981-1C929F23810F}" path="Survol_Acc_MenuBar_FilePrint.sj" />
+				<child name="Survol_Acc_Print_AltP" key="{A997268A-EFA9-46A7-88A1-370DECBA86B1}" path="Survol_Acc_Print_AltP.sj" />
+				<child name="Survol_Acc_Print_ClickR" key="{33A1A972-8EF6-4F3A-AFE2-0C951E999094}" path="Survol_Acc_Print_ClickR.sj" />
+				<child name="Survol_Acc_ToolBar_btnPrint" key="{A81D09F3-7516-4AC4-BB81-5206B1999567}" path="Survol_Acc_ToolBar_btnPrint.sj" />
+			</folder>
+			<folder name="Sum">
+				<child name="Survol_Acc_Sum_AltS" key="{65C33551-350B-41F0-A33C-A9B5D20E6934}" path="Survol_Acc_Sum_AltS.sj" />
+				<child name="Survol_Acc_ToolBar_btnSum" key="{36E58F46-988A-4E0A-8FFC-ED877144BCD6}" path="Survol_Acc_ToolBar_btnSum.sj" />
+				<child name="Survol_Acc_MenuBar_EditSum" key="{9E89EB05-E095-45E2-B4A1-9C8714B529A7}" path="Survol_Acc_MenuBar_EditSum.sj" />
+			</folder>
+			<folder name="Close_Application">
+				<child name="Survol_Acc_AltF4" key="{692DD688-E7AC-4057-A53B-469858E31602}" path="Survol_Acc_AltF4.sj" />
+				<child name="Survol_Acc_Quitter" key="{C8D5E9F3-C235-4BC5-8A70-63E3282EA320}" path="Survol_Acc_Quitter.sj" />
+				<child name="Survol_Acc_SysClose" key="{83DBC562-02D2-4AF1-BF73-38FB3D5B2F44}" path="Survol_Acc_SysClose.sj" />
+				<child name="Survol_Acc_X" key="{5A27A273-7384-4553-B2EC-EC0DE34731C0}" path="Survol_Acc_X.sj" />
+				<child name="Survol_Acc_AltQ" key="{4BB46C98-2696-4165-994D-EBAFEBEA66C5}" path="Survol_Acc_AltQ.sj" />
+			</folder>
+			<folder name="Internet">
+				<child name="Survol_Acc_ToolBar_btnInternet" key="{4791237D-C422-4FA4-A6B6-187DC1B63569}" path="Survol_Acc_ToolBar_btnInternet.sj" />
+				<child name="Survol_Acc_MenuBar_Tools_Internet" key="{62D8A303-9AA2-421D-9EDB-60D74E7FF29C}" path="Survol_Acc_MenuBar_Tools_Internet.sj" />
+			</folder>
+			<folder name="Financial_Instrument_Selector">
+				<folder name="Create_Sell_Order">
+					<child name="Survol_Acc_Menubar_CreateSellOrder" key="{6EB6F3AA-0BF1-455F-815E-FD3080AEF0BD}" path="Survol_Acc_Menubar_CreateSellOrder.sj" />
+					<child name="Survol_Acc_Toolbar_btnCreateSellOrder" key="{0BB70B1A-D300-41F1-B8A7-75D6261C2766}" path="Survol_Acc_Toolbar_btnCreateSellOrder.sj" />
+					<child name="Survol_Acc_CreateSellOrder_CtrlShiftS" key="{266372CF-0721-44F5-A9F5-EC4CD416E806}" path="Survol_Acc_CreateSellOrder_CtrlShiftS.sj" />
+					<child name="Survol_Acc_CreateSellOrder_ClickR" key="{4729CC2E-DDF7-477E-8643-D0ACB50583BF}" path="Survol_Acc_CreateSellOrder_ClickR.sj" />
+				</folder>
+				<folder name="Create_Buy_Order">
+					<child name="Survol_Acc_Menubar_CreateBuyOrder" key="{1DF3EDA0-345C-49BF-9D7F-F3A033A03F49}" path="Survol_Acc_Menubar_CreateBuyOrder.sj" />
+					<child name="Survol_Acc_Toolbar_btnCreateBuyOrder" key="{E39CC7E7-096C-4A13-A1A8-39346A56F072}" path="Survol_Acc_Toolbar_btnCreateBuyOrder.sj" />
+					<child name="Survol_Acc_CreateBuyOrder_CtrlShiftB" key="{C1D84C0C-159F-4B00-B66D-C8509067812A}" path="Survol_Acc_CreateBuyOrder_CtrlShiftB.sj" />
+					<child name="Survol_Acc_CreateBuyOrder_ClickR" key="{636567F1-97B2-4AC0-8AE5-B66D126FEEB7}" path="Survol_Acc_CreateBuyOrder_ClickR.sj" />
+				</folder>
+			</folder>
+			<folder name="Bond_Calculator">
+				<child name="Survol_Acc_Toolbar_btnBondCalculator" key="{7A040690-29D7-4AE0-80FD-B439DD5D763E}" path="Survol_Acc_Toolbar_btnBondCalculator.sj" />
+				<child name="Survol_Acc_MenuBar_Tools_btnCalculator" key="{8DE1FC49-BC5D-40A8-92DD-7F702E31F082}" path="Survol_Acc_MenuBar_Tools_btnCalculator.sj" />
+				<child name="Survol_Acc_Calculator_Ctrl_Maj_O" key="{9F2284F2-E4B5-43AB-BC15-8ED9285506E4}" path="Survol_Acc_Calculator_Ctrl_Maj_O.sj" />
+			</folder>
+			<folder name="Agenda">
+				<child name="Survol_Acc_Agenda_Ctrl_Maj_L" key="{8672126E-3F91-4C3C-B671-36CC070EE0E2}" path="Survol_Acc_Agenda_Ctrl_Maj_L.sj" />
+				<child name="Survol_Acc_ToolBar_btnAgenda" key="{F7DB4F1E-4FF6-4E5F-B34E-3D0CEE815DAD}" path="Survol_Acc_ToolBar_btnAgenda.sj" />
+				<child name="Survol_Acc_MenuBar_ToolsAgenda" key="{B3C93196-422A-464F-A228-7BF816B20CD2}" path="Survol_Acc_MenuBar_ToolsAgenda.sj" />
+			</folder>
+			<folder name="Archive_Documents">
+				<child name="Survol_Acc_MenuBar_Tools_btnArchiveMyDocuments" key="{CA3CF247-A7AE-4244-9B62-ED1C3F916203}" path="Survol_Acc_MenuBar_Tools_btnArchiveMyDocuments.sj" />
+				<child name="Survol_Acc_ToolBar_BtnArchiveMyDocuments" key="{BDCB3E33-A120-4FB7-8342-2A5CA0753CF9}" path="Survol_Acc_ToolBar_BtnArchiveMyDocuments.sj" />
+				<child name="Survol_Acc_ArchiveDoc_Ctrl_Maj_A" key="{DA2C7E90-4CEA-42E2-B63C-06561F8A593B}" path="Survol_Acc_ArchiveDoc_Ctrl_Maj_A.sj" />
+			</folder>
+			<folder name="Lock_Application">
+				<child name="Survol_Acc_ToolBar_BtnLockTheApplication_BtnOk_WithPSW" key="{4DC5B10B-399D-4E32-BD07-36ECC16639DD}" path="Survol_Acc_ToolBar_BtnLockTheApplication_BtnOk_WithPSW.sj" />
+				<child name="Survol_Acc_MenuBar_FileLock_BtnOk_WithoutPSW" key="{F15DC644-2BF1-48D3-B818-EA62CFD916B5}" path="Survol_Acc_MenuBar_FileLock_BtnOk_WithoutPSW.sj" />
+				<child name="Survol_Acc_MenuBar_FileLock_BtnQuit" key="{681626DA-6A8D-4EBD-84DC-99E585A3ABC9}" path="Survol_Acc_MenuBar_FileLock_BtnQuit.sj" />
+			</folder>
+			<folder name="Activities">
+				<child name="Survol_Acc_ContextualMenu_Functions_Activities" key="{9441491F-F468-4F8F-B4BB-285D55756965}" path="Survol_Acc_ContextualMenu_Functions_Activities.sj" />
+				<child name="Survol_Acc_AccountsBar_Activities" key="{424ED37B-5533-4B5D-88CE-1932010526C4}" path="Survol_Acc_AccountsBar_Activities.sj" />
+				<child name="Survol_Acc_MenuBar_Activities" key="{56E22C47-2237-4E53-AFB5-BBF222BE4698}" path="Survol_Acc_MenuBar_Activities.sj" />
+			</folder>
+			<folder name="Performance">
+				<child name="Survol_Acc_AccountsBar_Performance" key="{7A7F7520-DEAF-4502-8AE8-F993493DD22F}" path="Survol_Acc_AccountsBar_Performance.sj" />
+				<child name="Survol_Acc_ContextualMenu_Functions_Performance" key="{CEF5D290-48D7-4593-996F-28A2FDC51833}" path="Survol_Acc_ContextualMenu_Functions_Performance.sj" />
+				<child name="Survol_Acc_MenuBar_Perfomance" key="{4965418A-8130-43B5-B6FF-BEB82C1BD2EB}" path="Survol_Acc_MenuBar_Perfomance.sj" />
+			</folder>
+			<folder name="Restrictions">
+				<child name="Survol_Acc_MenuBar_EditFunctions_Restrictions" key="{3CD410EA-3180-4B6E-B9C8-30AF660060FD}" path="Survol_Acc_MenuBar_EditFunctions_Restrictions.sj" />
+				<child name="Survol_Acc_AccountsBar_Restrictions" key="{03E830F4-9FA3-4085-B831-3763EF47B15D}" path="Survol_Acc_AccountsBar_Restrictions.sj" />
+				<child name="Survol_Acc_ContextualMenu_Functions_Restrictions" key="{D8B6C7AE-BCEB-4E68-9DA6-D464835D6674}" path="Survol_Acc_ContextualMenu_Functions_Restrictions.sj" />
+			</folder>
+			<folder name="Alarms">
+				<child name="Survol_Acc_AccountsBar_Alarms" key="{EF921BCF-F500-4611-B5C0-1D91D460B06A}" path="Survol_Acc_AccountsBar_Alarms.sj" />
+				<child name="Survol_Acc_ContextualMenu_Functions_Alarms" key="{0FCDB8E3-D9CA-4C07-81B4-C0DEBAB6AC5D}" path="Survol_Acc_ContextualMenu_Functions_Alarms.sj" />
+				<child name="Survol_Acc_MenuBar_EditFunctions_Alarms" key="{21289BB2-D1AA-4057-8938-0BA46ADB5587}" path="Survol_Acc_MenuBar_EditFunctions_Alarms.sj" />
+			</folder>
+			<folder name="Info">
+				<child name="Survol_Acc_AccountsBar_BtnInfo" key="{5A7A334B-A74B-4BEA-AA0C-157ED7784386}" path="Survol_Acc_AccountsBar_BtnInfo.sj" />
+				<child name="Survol_Acc_ContextualMenu_Functions_Info" key="{39B917FF-1B66-465C-963D-6402813CE79F}" path="Survol_Acc_ContextualMenu_Functions_Info.sj" />
+			</folder>
+			<folder name="Info_list">
+				<folder name="Notes">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_Notes" key="{A991D29F-D0A6-4F11-928C-1196E1A9A029}" path="Survol_Acc_AccountsBar_BtnInfo_Notes.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_Notes" key="{B62667E9-2A99-42C4-B025-3ECFC8472F62}" path="Survol_Acc_MenuBar_Edit_Functions_Info_Notes.sj" />
+				</folder>
+				<folder name="InvestmentObjective">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_InvestmentObjective" key="{C7328965-470C-4B37-A784-700DC7F59D36}" path="Survol_Acc_AccountsBar_BtnInfo_InvestmentObjective.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_InvestmentObjective" key="{86AB2C65-9022-42BF-ADCC-33CB35BD1E5C}" path="Survol_Acc_MenuBar_Edit_Functions_Info_InvestmentObjective.sj" />
+				</folder>
+				<folder name="DefaultReports">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_DefaultReports" key="{E99CE58F-CC0F-4C3B-9179-F4A8A39B33D0}" path="Survol_Acc_AccountsBar_BtnInfo_DefaultReports.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_DefaultReports" key="{3F5366DF-1BF8-45A8-80D9-5C2CD67B5196}" path="Survol_Acc_MenuBar_Edit_Functions_Info_DefaultReports.sj" />
+				</folder>
+				<folder name="DefaultIndices">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_DefaultIndices" key="{F9C757AA-6BEC-4A73-B4A8-9840079D257A}" path="Survol_Acc_AccountsBar_BtnInfo_DefaultIndices.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_DefaultIndices" key="{4913C729-E668-4DE4-BD5D-9E62D0ECF90B}" path="Survol_Acc_MenuBar_Edit_Functions_Info_DefaultIndices.sj" />
+				</folder>
+				<folder name="Profiles">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_Profiles" key="{430FD6ED-89F7-4131-AF78-02825258F95E}" path="Survol_Acc_AccountsBar_BtnInfo_Profiles.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_Profiles" key="{72072925-09AA-4EB7-9C8A-3308AF9E085A}" path="Survol_Acc_MenuBar_Edit_Functions_Info_Profiles.sj" />
+				</folder>
+				<folder name="Dates">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_Dates" key="{A0D8A145-BA36-4F62-81DE-C93F02E17678}" path="Survol_Acc_AccountsBar_BtnInfo_Dates.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_Dates" key="{8083106D-2A09-4347-9AFB-A76D1A960E01}" path="Survol_Acc_MenuBar_Edit_Functions_Info_Dates.sj" />
+				</folder>
+				<folder name="Holders">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_Holders" key="{6D2B861B-3B27-44D1-B468-17BE1CFBC43E}" path="Survol_Acc_AccountsBar_BtnInfo_Holders.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_Holders" key="{64C7EE77-A304-41BC-B9A5-C9EFE0A836C9}" path="Survol_Acc_MenuBar_Edit_Functions_Info_Holders.sj" />
+				</folder>
+				<folder name="PW1859">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_PW1859" key="{E0982D3C-6692-4DE5-A20C-BEBBA7C1C9E3}" path="Survol_Acc_AccountsBar_BtnInfo_PW1859.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_PW1859" key="{503B93A3-2268-4676-AF89-192DACEEED27}" path="Survol_Acc_MenuBar_Edit_Functions_Info_PW1859.sj" />
+				</folder>
+				<folder name="Contributions">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_Contributions" key="{6B8B9FEF-BDBF-4F13-9C33-5B27090F6FEF}" path="Survol_Acc_AccountsBar_BtnInfo_Contributions.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_Contributions" key="{0604B0A4-3E46-491E-8392-FB711207B7CD}" path="Survol_Acc_MenuBar_Edit_Functions_Info_Contributions.sj" />
+				</folder>
+				<child name="Survol_Acc_MenuBar_EditFunctions_InfoGrouped" key="{1AD17A39-03FF-48AD-9511-06B159F2E809}" path="Survol_Acc_MenuBar_EditFunctions_InfoGrouped.sj" />
+				<child name="Survol_Acc_AccountsBar_BtnInfoGrouped" key="{F4E04938-5B1B-46D1-9D49-9E7E5F101438}" path="Survol_Acc_AccountsBar_BtnInfoGrouped.sj" />
+				<child name="Survol_Acc_BtnInfo_EditFunctions_Info_Common" key="{367EA9A6-5E87-4A11-B039-06F5DA41BB8F}" path="Survol_Acc_BtnInfo_EditFunctions_Info_Common.sj" />
+			</folder>
+			<folder name="Add_Filter">
+				<child name="Survol_Acc_MenuBar_Search_Filters_AddAFilter" key="{681104B5-0570-445E-B552-87AA777F4A03}" path="Survol_Acc_MenuBar_Search_Filters_AddAFilter.sj" />
+				<child name="Survol_Acc_ToolBar_BtnQuickFilters_AddFilter" key="{83BCE8B0-C0AF-4171-9057-57E1E8A54FE9}" path="Survol_Acc_ToolBar_BtnQuickFilters_AddFilter.sj" />
+			</folder>
+			<folder name="Accounts_Reports">
+				<child name="Survol_Acc_MenuBar_ReportsAccounts" key="{2BB3BD9F-8720-458F-9144-E2387DB4E416}" path="Survol_Acc_MenuBar_ReportsAccounts.sj" />
+				<child name="Survol_Acc_ToolBar_btnReportsAndGraphs" key="{FD5484DC-0F3A-4B13-BF85-F3B61F3C4060}" path="Survol_Acc_ToolBar_btnReportsAndGraphs.sj" />
+			</folder>
+			<folder name="Compose_Address">
+				<child name="Survol_Acc_Internet_ComposeAddress_CtrlO" key="{95752CF1-4C6C-4C0F-BCF1-7DCD98D0C8C8}" path="Survol_Acc_Internet_ComposeAddress_CtrlO.sj" />
+				<child name="Survol_Acc_MenuBar_Tools_Internet_ComposeAddress" key="{93CCD418-89D3-49EF-B7E8-D88CCB083522}" path="Survol_Acc_MenuBar_Tools_Internet_ComposeAddress.sj" />
+				<child name="Survol_Acc_ToolBar_BtnInternet_ComposeAddress" key="{4AB26CAC-B37A-4515-870C-7E593104E9D3}" path="Survol_Acc_ToolBar_BtnInternet_ComposeAddress.sj" />
+			</folder>
+			<folder name="MainWin">
+				<folder name="Details">
+					<child name="Survol_Acc_MainWin_Details" key="{456D135C-EE68-420B-8B45-87D70E23F625}" path="Survol_Acc_MainWin_Details.sj" />
+				</folder>
+				<folder name="Grid_column_ header">
+					<child name="Survol_Acc_Grid_column_header" key="{CA45B472-1614-42ED-95F7-1F85CDAE0F05}" path="Survol_Acc_Grid_column_header.sj" />
+				</folder>
+			</folder>
+		</folder>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{9427D9A6-AF76-4269-8B84-1E9C9F3CCDCF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{8D5CB8DE-F0CD-4741-A91F-0BD7495523B2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{A0ABC494-9095-4A25-8E54-A53C1A93F33C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{57AE9D5A-1A18-4018-98FD-7C073AF4364D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{BAEEDD62-C39D-4F77-886B-E483925BC2A7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{DDA5BBA0-287C-49C3-BBAD-958E9493F334}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{105F7B31-17C6-4594-847C-E2CC5217F148}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{9BB45C92-36C5-4786-B5CD-F7632CF2EF2B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{4EA623AC-AF63-483F-A2AD-AEF3C0BAD4A9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{C5A1A65F-DA1A-48AA-B083-B3D8D57688EE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{B43FFBB5-0C99-4F95-BD66-550D65A8D9DC}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{A7028853-A5B2-4FCA-9420-22D121B0A86D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{B5744B19-4F00-4A64-8FE3-256F4A813650}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{F9782AFD-FD29-4F8B-BE6F-B26E367102CC}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{0C50CC75-2B7F-48D8-8FC1-5D0DF4E085A9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{470E40BE-D326-4BA5-A850-5DEFCB6BBD93}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{32394C9C-8ADA-4D40-A795-F2F1C0946CE1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{C2510750-27E0-4F2A-B2FE-7CC7F00B2413}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{40716714-9353-4533-A3E7-0FEF3BE479D6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="CommonCheckpoints" key="{1101C813-09FC-4041-9B20-512A406A1BAA}" path="..\..\..\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="PDFUtils" key="{AD3B022D-8043-4508-A14E-ECCEAD85BB71}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR1352">
+			<folder name="Validate_the_operation_of_the_Summation_button">
+				<child name="CR1352_1490_Acc_Validate_the_operation_of_the_Summation_button_CAD" key="{D69B5512-CB2B-4285-B968-340BA32B95EA}" path="CR1352_1490_Acc_Validate_the_operation_of_the_Summation_button_CAD.sj" />
+				<child name="CR1352_1491_Acc_Validate_the_operation_of_the_Summation_button_USD" key="{41293DED-587C-4852-B56B-2DBD2BB81EAD}" path="CR1352_1491_Acc_Validate_the_operation_of_the_Summation_button_USD.sj" />
+				<child name="CR1352_1492_Acc_Validate_the_operation_of_the_Summation_for_some_accounts" key="{415FDEBD-FDEF-4D96-BA9D-B345CB72C604}" path="CR1352_1492_Acc_Validate_the_operation_of_the_Summation_for_some_accounts.sj" />
+				<child name="CR1352_1493_Acc_Validate_the_operation_of_the_Summation_button_with_different_levels_of_access" key="{A6BBECEB-5542-41BF-A480-7263545710F7}" path="CR1352_1493_Acc_Validate_the_operation_of_the_Summation_button_with_different_levels_of_access.sj" />
+				<child name="CR1352_1494_Acc_Validate_the_operation_of_the_Summation_button_with_filters" key="{2F4B3542-FDF4-47FD-8DC9-0D48D13C73A2}" path="CR1352_1494_Acc_Validate_the_operation_of_the_Summation_button_with_filters.sj" />
+			</folder>
+			<folder name="Validate_the_various_operations_of_an_account">
+				<child name="CR1352_1504_Acc_Drag_an_account_to_all_modules" key="{20A5C147-1F48-4646-AED7-A88C2D9DD1CD}" path="CR1352_1504_Acc_Drag_an_account_to_all_modules.sj" />
+				<child name="CR1352_1501_Acc_Validate_the_operation_of_Performance_button_for_one_account" key="{70B61CC4-88BC-4213-BC7E-9FBCBE669BBB}" path="CR1352_1501_Acc_Validate_the_operation_of_Performance_button_for_one_account.sj" />
+				<child name="CR1352_1502_Acc_Validate_the_operation_of_Performance_button_for_multiple_accounts" key="{2F8C0B12-41A6-475D-BF73-91CCEC4C2658}" path="CR1352_1502_Acc_Validate_the_operation_of_Performance_button_for_multiple_accounts.sj" />
+				<child name="CR1352_1512_Acc_Copy_and_paste_the_information_from_the_accounts_module" key="{7F418CA5-304E-47DE-90DF-4D3665AB8B56}" path="CR1352_1512_Acc_Copy_and_paste_the_information_from_the_accounts_module.sj" />
+				<child name="CR1352_1621_Acc_Assign_a_model_to_an_account" key="{281BF7D3-6632-4EE8-A382-CCFDE6ACB6F5}" path="CR1352_1621_Acc_Assign_a_model_to_an_account.sj" />
+				<child name="CR1352_1505_Acc_Validate_email_sending_in_the_accounts_module" key="{744FF382-A6E3-4C30-9F0E-207E09E5B65B}" path="CR1352_1505_Acc_Validate_email_sending_in_the_accounts_module.sj" />
+				<child name="CR1352_1514_Acc_Validate_job_draft_printing_in_Accounts_module" key="{DF6711B3-4E8A-4E2F-988F-E5CA3DB9E346}" path="CR1352_1514_Acc_Validate_job_draft_printing_in_Accounts_module.sj" />
+				<child name="CR1352_1515_Acc_Window_printing_in_the_Accounts_module" key="{9716CB89-2FC4-4B27-8201-A5F9C66ACB1D}" path="CR1352_1515_Acc_Window_printing_in_the_Accounts_module.sj" />
+			</folder>
+			<folder name="Validate_the_creation_updating_and_deleting_of_account">
+				<child name="CR1352_1498_Acc_Update_an_account_from_the_Info_button_with_the_rights" key="{DC141EAB-08D8-44AF-B375-3CAC5DBAEB24}" path="CR1352_1498_Acc_Update_an_account_from_the_Info_button_with_the_rights.sj" />
+				<child name="CR1352_1499_Acc_Update_an_account_from_the_Info_button_without_the_rights" key="{AB8942D5-F341-480D-BB2A-1F38CCBA1E78}" path="CR1352_1499_Acc_Update_an_account_from_the_Info_button_without_the_rights.sj" />
+				<child name="CR1352_1500_Acc_Verify_updates_in_summary_details" key="{3A2B6238-EB37-45EB-8CB1-DD9E7BF1A688}" path="CR1352_1500_Acc_Verify_updates_in_summary_details.sj" />
+				<child name="CR1352_1519_Acc_Verify_the_creation_of_relationship_from_an_account_with_right_click" key="{3D18F78E-1627-44D5-83DD-7A2C480DD263}" path="CR1352_1519_Acc_Verify_the_creation_of_relationship_from_an_account_with_right_click.sj" />
+				<child name="CR1352_1520_Acc_Manage_Accounts_notes" key="{71500547-D72D-4352-8ED5-8FC95F38C67B}" path="CR1352_1520_Acc_Manage_Accounts_notes.sj" />
+				<child name="CR1352_1532_Acc_Verify_the_creation_of_relationship_from_an_account_with_Edition_Menu" key="{6FE5BA12-DC59-4BFA-AED6-7487A9158E90}" path="CR1352_1532_Acc_Verify_the_creation_of_relationship_from_an_account_with_Edition_Menu.sj" />
+				<child name="CR1352_1533_Acc_Delete_a_fictitious_account" key="{49C9A827-031E-40EC-80C9-B47D8E76F1CF}" path="CR1352_1533_Acc_Delete_a_fictitious_account.sj" />
+				<child name="CR1352_1547_Acc_Delete_a_selection_of_fictitious_accounts_at_once" key="{06EA215F-A062-4FBE-B6D0-4E3D7B13421B}" path="CR1352_1547_Acc_Delete_a_selection_of_fictitious_accounts_at_once.sj" />
+				<child name="CR1352_1613_Acc_Update_an_external_account" key="{01FA94F3-4247-40A2-A1F8-3192227D4AE0}" path="CR1352_1613_Acc_Update_an_external_account.sj" />
+				<child name="CR1352_1551_Acc_Manage_Account_Profiles_and_hide_empty_profiles_checkbox" key="{EB8421D3-7233-4B23-8816-D1B6E33A67D7}" path="CR1352_1551_Acc_Manage_Account_Profiles_and_hide_empty_profiles_checkbox.sj" />
+			</folder>
+			<folder name="Validate_the_different_actions_on_the_fields_and_columns">
+				<child name="CR1352_1557_Acc_Confirm_adding_column" key="{3AD10E48-C197-4084-8E63-48310E8D4F75}" path="CR1352_1557_Acc_Confirm_adding_column.sj" />
+				<child name="CR1352_1558_Acc_Confirm_the_replacement_of_a_column" key="{3A9DBB0A-EB0A-4A15-8A3F-8A03AE607E58}" path="CR1352_1558_Acc_Confirm_the_replacement_of_a_column.sj" />
+				<child name="CR1352_1560_Acc_Validate_the_deletion_of_a_column" key="{DC29ECB5-0CBB-4916-AD4F-CC549AC69367}" path="CR1352_1560_Acc_Validate_the_deletion_of_a_column.sj" />
+				<child name="CR1352_1561_Acc_Validate_the_default_configuration_of_column_display" key="{87721FBD-B1C9-4F4E-AE2A-4511CF575D10}" path="CR1352_1561_Acc_Validate_the_default_configuration_of_column_display.sj" />
+				<child name="CR1352_1564_Acc_Validate_the_addition_of_a_field" key="{41D24397-B8EB-45C2-9C70-F736B89CD53D}" path="CR1352_1564_Acc_Validate_the_addition_of_a_field.sj" />
+				<child name="CR1352_1566_Acc_Validate_the_deletion_of_a_field" key="{01CA30F9-E3C8-4A1D-9EA8-49714540E5FF}" path="CR1352_1566_Acc_Validate_the_deletion_of_a_field.sj" />
+				<child name="CR1352_1567_Acc_Validate_the_save_of_the_columns_display_after_closing_of_Croesus" key="{BE10A1C8-E89A-493F-AF59-C340165F895F}" path="CR1352_1567_Acc_Validate_the_save_of_the_columns_display_after_closing_of_Croesus.sj" />
+				<child name="CR1352_1568_Acc_Verify_column_displacement" key="{F2A76CFE-CE23-4B3A-B619-6811EE00B852}" path="CR1352_1568_Acc_Verify_column_displacement.sj" />
+				<child name="CR1352_1614_Acc_Validate_the_addition_of_a_profiles_column" key="{F4CEFC18-453D-4AF1-A879-8697BFB5AD51}" path="CR1352_1614_Acc_Validate_the_addition_of_a_profiles_column.sj" />
+				<child name="CR1352_1575_Acc_Validate_the_addition_of_a_profiles_field" key="{79E266EE-652E-4327-91DE-02606347638C}" path="CR1352_1575_Acc_Validate_the_addition_of_a_profiles_field.sj" />
+				<child name="CR1352_1622_Acc_Sort_Columns_by_header" key="{EC373629-BE3C-420D-94E1-3E4E2CB21F9A}" path="CR1352_1622_Acc_Sort_Columns_by_header.sj" />
+				<child name="CR1352_1623_Acc_Sort_columns_by_right_click" key="{FA89F99F-AD6A-484D-B42A-5D8070509974}" path="CR1352_1623_Acc_Sort_columns_by_right_click.sj" />
+				<child name="CR1352_1585_Acc_Validate_column_display_after_activating_PREFs" key="{854F1321-4745-44D1-A2B0-6A0A21D1F096}" path="CR1352_1585_Acc_Validate_column_display_after_activating_PREFs.sj" />
+			</folder>
+			<folder name="Validate_search_criteria_and_filters">
+				<child name="CR1352_1595_Acc_Apply_a_search_criterion_and_an_active_filter" key="{E5EF398E-F225-4BB4-B8F8-E7A1A5A3B28A}" path="CR1352_1595_Acc_Apply_a_search_criterion_and_an_active_filter.sj" />
+				<child name="CR1352_1617_Acc_Quick_Search_by_Account_Number" key="{C013C2F9-9015-49D1-8390-0FC61D8DC155}" path="CR1352_1617_Acc_Quick_Search_by_Account_Number.sj" />
+				<child name="CR1352_1618_Acc_Quick_Search_by_Name" key="{D14A8F94-DEB9-4CA5-B236-3B6E7BEB17D4}" path="CR1352_1618_Acc_Quick_Search_by_Name.sj" />
+				<child name="CR1352_1619_Acc_Quick_Search_by_IA_Code" key="{76282D75-0D8F-4613-86E0-8D847189F341}" path="CR1352_1619_Acc_Quick_Search_by_IA_Code.sj" />
+			</folder>
+			<folder name="Anomalies">
+				<child name="CR1352_CROES_6004_Acc_Wrong_Sum_when_we_have_search_criteria" key="{43A2F57E-43C1-4D29-9D7A-B76D22EF94FA}" path="CR1352_CROES_6004_Acc_Wrong_Sum_when_we_have_search_criteria.sj" />
+				<child name="CR1352_CROES_6243_Acc_TestDeSelectionMultipleAvecShift_MouseWheel" key="{2FF10EF4-FA44-4C3F-9134-C07AA6415E17}" path="CR1352_CROES_6243_Acc_TestDeSelectionMultipleAvecShift_MouseWheel.sj" />
+				<child name="CR1352_CROES_6243_Acc_TestDeSelectionMultipleAvecShift_DownKey" key="{8D2F7DCA-8CD3-49E9-80AE-5F501D253880}" path="CR1352_CROES_6243_Acc_TestDeSelectionMultipleAvecShift_DownKey.sj" />
+				<child name="CR1352_CROES_8230_Acc_TestDeSelectionMultipleAvecShift_ScrollDown" key="{048A1561-906A-4642-A75A-12F250650D20}" path="CR1352_CROES_8230_Acc_TestDeSelectionMultipleAvecShift_ScrollDown.sj" />
+			</folder>
+		</folder>
+		<folder name="Reports">
+			<child name="PortfolioPerformance_Acc_KEYNEJ_1" key="{BBD9FEC2-6AEA-46D7-A7B2-C7F47FE2E155}" path="PortfolioPerformance_Acc_KEYNEJ_1.sj" />
+			<child name="PerformanceDuPortefeuille_Acc_KEYNEJ_2" key="{1DA517F3-75AD-48E7-B810-2F1B25B8AF5C}" path="PerformanceDuPortefeuille_Acc_KEYNEJ_2.sj" />
+		</folder>
+		<folder name="Anomalies">
+			<child name="CROES_8712_CrashWhenCreatingConditionOnAnAdvancedCriterion" key="{77ECDA43-8046-427C-81E8-608A70A7B474}" path="CROES_8712_CrashWhenCreatingConditionOnAnAdvancedCriterion.sj" />
+			<child name="CROES_7509_Accou_CrashInTheRightClickMenuRooClientInSectionDetail" key="{99394B4D-DDA6-4E9B-BDE7-E5C1B30429D5}" path="CROES_7509_Accou_CrashInTheRightClickMenuRooClientInSectionDetail.sj" />
+			<child name="CROES_8311_Account_CrashAfterSearchingByCPCode" key="{76FEEAFC-5290-427D-BAF2-BD49143FF864}" path="CROES_8311_Account_CrashAfterSearchingByCPCode.sj" />
+			<child name="CROES_9031_ComMissingColumnsInTheNotesGrid" key="{0615CCB3-0A3D-4A25-9F5A-D389A053D732}" path="CROES_9031_ComMissingColumnsInTheNotesGrid.sj" />
+			<child name="CROES_1687_ComDisplBlockMsgWhenTryAssocRelatwithGroupRelat" key="{22C78146-32FC-41AB-ADAB-D2E0F173D23F}" path="CROES_1687_ComDisplBlockMsgWhenTryAssocRelatwithGroupRelat.sj" />
+			<child name="CROES_9345_Acc_ExcelExportDoesNotRespectOrderOfColumnsInGrid" key="{F8607641-FA8D-4C3F-951E-516A5F72D011}" path="CROES_9345_Acc_ExcelExportDoesNotRespectOrderOfColumnsInGrid.sj" />
+			<child name="CROES_9495_CrashApplicToAddExternAccounOrFictious" key="{66245CA4-B1B1-42BC-A499-09CB5E6E2526}" path="CROES_9495_CrashApplicToAddExternAccounOrFictious.sj" />
+			<child name="CROES_10085_CrashWhenExportExcelFilWithFilterWithoutData" key="{FB4DBAA4-36A0-4919-A44B-0802E3B11155}" path="CROES_10085_CrashWhenExportExcelFilWithFilterWithoutData.sj" />
+			<child name="CROES_9345_Acc_CheckExcelExportData" key="{C8534D82-6CB3-4BAA-8A1F-F9D5D8402C57}" path="CROES_9345_Acc_CheckExcelExportData.sj" />
+			<child name="AnomalieMaillageFromAccompToModels" key="{AB9B9C86-A95E-42F3-BFAF-17E4204C7067}" path="AnomalieMaillageFromAccompToModels.sj" />
+			<child name="AnomalieMaillageFromAccompToPortfolio" key="{7034AC62-8C16-4F55-A35D-4A322999AB49}" path="AnomalieMaillageFromAccompToPortfolio.sj" />
+			<child name="AnomalieMaillageFromAccompToRelationShip" key="{987E0652-2138-465F-881D-73C92BEB9340}" path="AnomalieMaillageFromAccompToRelationShip.sj" />
+			<child name="AnomalieMaillageFromAccompToSecurities" key="{A8217DC9-81F5-4BDF-8361-8928E6CE9BF1}" path="AnomalieMaillageFromAccompToSecurities.sj" />
+			<child name="AnomalieMaillageFromAccompToTransaction" key="{D3033DDF-1E70-4BAA-8D87-D594FD2DEB44}" path="AnomalieMaillageFromAccompToTransaction.sj" />
+			<child name="AnomalieMaillageFromAccomptToClient" key="{DA20889E-B49C-4407-ADFB-E44FF2168FE6}" path="AnomalieMaillageFromAccomptToClient.sj" />
+			<child name="CROES_11731_CompCrashApplicaWhenYouClickOnButtonApplyThenOkInTabCashManagement" key="{0D826032-F06C-41C8-8DF9-89212EFE3E90}" path="CROES_11731_CompCrashApplicaWhenYouClickOnButtonApplyThenOkInTabCashManagement.sj" />
+			<child name="Croes_6642_Acc_ExportToExcelInAccountModule" key="{E8A93AAA-6071-4F1D-A5F7-A45DDE3F2C03}" path="Croes_6642_Acc_ExportToExcelInAccountModule.sj" />
+			<child name="CROES_6810_Jira_CROES_10892_SearchCriterionOnLockedPosition" key="{4CECB2F1-9C90-457A-B50D-69E2241C7CE9}" path="CROES_6810_Jira_CROES_10892_SearchCriterionOnLockedPosition.sj" />
+			<child name="TCVE_1326_CROES_11680" key="{E625539E-4A06-4B96-B3E5-4BD3D5031F5C}" path="TCVE_1326_CROES_11680.sj" />
+			<child name="TCVE_3272_FEDS1_TelephoneNoLongerDisplayedWhenPrefIsActive" key="{BC898EDE-017E-4AF8-BFB1-5EC1A653EFF0}" path="TCVE_3272_FEDS1_TelephoneNoLongerDisplayedWhenPrefIsActive.sj" />
+			<child name="TCVE_4705_CALCUL_3080_AccountPerformanceManagementStartDate" key="{0623B5BA-DA58-4D79-A26F-D60067073505}" path="TCVE_4705_CALCUL_3080_AccountPerformanceManagementStartDate.sj" />
+		</folder>
+		<folder name="CR1483">
+			<child name="CR1483_Acc_Survol_Users_Selection_TabBranches" key="{9A312695-8235-4453-9174-C89FD04C686C}" path="CR1483_Acc_Survol_Users_Selection_TabBranches.sj" />
+			<child name="CR1483_Acc_CheckErrorMsgPrefMaxWorkAs" key="{7215730D-2C06-46F4-BBCD-B7FC91DAAA01}" path="CR1483_Acc_CheckErrorMsgPrefMaxWorkAs.sj" />
+			<child name="CR1483_Acc_RememberMySelection" key="{B730E52B-9A90-42D4-8BBA-E5322440BF85}" path="CR1483_Acc_RememberMySelection.sj" />
+			<child name="CR1483_Acc_Check_BranchSelection_IACodes" key="{1235CCDF-44A0-4F58-B95B-9A369EC335FC}" path="CR1483_Acc_Check_BranchSelection_IACodes.sj" />
+			<child name="CR1483_Acc_CheckErrorMsgPrefMaxWorkAs_TabIACodes" key="{FCE8F453-2F97-429B-8419-65577F506BFA}" path="CR1483_Acc_CheckErrorMsgPrefMaxWorkAs_TabIACodes.sj" />
+			<child name="CR1483_Acc_CheckErrorMsgPrefMaxWorkAs_TabUsers" key="{8CC4F296-8040-4D23-A2A5-EFC78A0C04BE}" path="CR1483_Acc_CheckErrorMsgPrefMaxWorkAs_TabUsers.sj" />
+			<child name="CR1483_Acc_RememberMySelection_TabIACodes" key="{D27E9BAF-B307-456F-B998-379B2DA3CD0C}" path="CR1483_Acc_RememberMySelection_TabIACodes.sj" />
+			<child name="CR1483_Acc_RememberMySelection_TabUsers" key="{8D921C6E-C1C1-461A-94BA-1E63485DD7FB}" path="CR1483_Acc_RememberMySelection_TabUsers.sj" />
+			<child name="CR1483_Acc_Survol_Users_Selection_TabIACodes" key="{4566964C-6AED-4793-8744-45020357E978}" path="CR1483_Acc_Survol_Users_Selection_TabIACodes.sj" />
+			<child name="CR1483_Acc_Survol_Users_Selection_TabUsers" key="{B2A96893-40CE-46EC-9D33-FEAD0AE4AF98}" path="CR1483_Acc_Survol_Users_Selection_TabUsers.sj" />
+			<child name="CR1483_Acc_Common_Functions" key="{15BCAB26-822B-4A4C-97E3-313C3F929EEA}" path="CR1483_Acc_Common_Functions.sj" />
+			<child name="CR1483_Acc_Check_UserSelection_IACodes" key="{008DF1D1-DD11-44B3-8FB4-EAEA3299067E}" path="CR1483_Acc_Check_UserSelection_IACodes.sj" />
+		</folder>
+		<folder name="CR1917">
+			<child name="CR1917_Croes_4733_Acc_ValidateBehaviorForFictitiousAccounts" key="{D3E8227E-0062-441C-B76F-3D3C5CCDAB7D}" path="CR1917_Croes_4733_Acc_ValidateBehaviorForFictitiousAccounts.sj" />
+			<child name="CR1917_Croes_4732_Acc_EnsuringIntegrityOfFrontvsBD" key="{9CF33C7B-F1FA-4D2E-AC75-E368B3E7C7FC}" path="CR1917_Croes_4732_Acc_EnsuringIntegrityOfFrontvsBD.sj" />
+			<child name="CR1917_Croes_4735_Acc_EnsuringIntegrityOfRealAccountInformationByBranch" key="{ACD41C08-5DFE-447C-B58B-A4A0685EB468}" path="CR1917_Croes_4735_Acc_EnsuringIntegrityOfRealAccountInformationByBranch.sj" />
+		</folder>
+		<folder name="CR1501">
+			<folder name="Anomalies">
+				<child name="CROES_10678_Comp_FieldDateReferenceNotesMustBeEmptyDefaults" key="{33385171-6F3D-4766-BC6C-5AF0EC628D54}" path="CROES_10678_Comp_FieldDateReferenceNotesMustBeEmptyDefaults.sj" />
+				<child name="CROES_11141_Comp_WhenAddingFilterByCreationDateTheCrashApplication" key="{3646AEC2-BAAE-4CBD-A608-601AD81AF8CB}" path="CROES_11141_Comp_WhenAddingFilterByCreationDateTheCrashApplication.sj" />
+				<child name="CROES_11034_Comp_CanNotDeletePredefinedPhraseCreatedByTheUserHimself" key="{9B681ED2-15FB-4B04-B237-0B2F1C68ACE4}" path="CROES_11034_Comp_CanNotDeletePredefinedPhraseCreatedByTheUserHimself.sj" />
+			</folder>
+			<child name="CR1501_833_Cli_ModificatNoteCreatedNoteClickRightTheSameDayAndByTheSameUser" key="{51665222-965B-4A3C-88B4-1C56BAF3A906}" path="CR1501_833_Cli_ModificatNoteCreatedNoteClickRightTheSameDayAndByTheSameUser.sj" />
+			<child name="CR1501_920_NoDeletePredefinePhraseWhenEnteringANoteWithClickRightAndOtherUser" key="{1853B78A-4C48-454D-B29B-433166B9DCA2}" path="CR1501_920_NoDeletePredefinePhraseWhenEnteringANoteWithClickRightAndOtherUser.sj" />
+			<child name="CR1501_916_ModificationOfPredefinedSentenceWhenEnteringAnoteWithClickRight" key="{BB22F274-5C72-4A94-91C3-B84735A75EBE}" path="CR1501_916_ModificationOfPredefinedSentenceWhenEnteringAnoteWithClickRight.sj" />
+			<child name="CR1501_878_ValidationOfAdditionOfPredefinedSentenceWhenEnteringNoteFromInfoButton" key="{1E2F5C3B-D854-4450-AA1D-2F2AA12FE95D}" path="CR1501_878_ValidationOfAdditionOfPredefinedSentenceWhenEnteringNoteFromInfoButton.sj" />
+			<child name="CR1501_879_ValidationOfNonPresenceOfPredefinedSentenceAddedByAnotherUser" key="{23FFC072-A830-4150-B05F-51D9EAC28A8A}" path="CR1501_879_ValidationOfNonPresenceOfPredefinedSentenceAddedByAnotherUser.sj" />
+			<child name="CR1501_923_ValidationOfTheOperationOfTheButtonDateAndTimeWhenEnteringANoteWithInfo" key="{94B5C3A4-1D22-4D37-8B66-3E53B19F194B}" path="CR1501_923_ValidationOfTheOperationOfTheButtonDateAndTimeWhenEnteringANoteWithInfo.sj" />
+			<child name="CR1501_1244_ValidatingTheModificationOfASearchFilter" key="{4AB060DA-B202-4447-A8A3-EA52B52B659C}" path="CR1501_1244_ValidatingTheModificationOfASearchFilter.sj" />
+			<child name="CR1501_838_Cli_NoModifiOfCreatedNoteWithInfoButtonTheSameDayAndByAnotherUser" key="{68E72B82-2CB2-4C35-B8D8-52CF808E7A7D}" path="CR1501_838_Cli_NoModifiOfCreatedNoteWithInfoButtonTheSameDayAndByAnotherUser.sj" />
+			<child name="CR1501_842_Cli_NotDeletingNoteCreatedOnTheSameDayAndByTheSameUser" key="{18A3CF9C-598A-423B-9F10-D8829CC7DB38}" path="CR1501_842_Cli_NotDeletingNoteCreatedOnTheSameDayAndByTheSameUser.sj" />
+		</folder>
+		<folder name="CR1957">
+			<child name="CR1957_Croes_4635_Acc_ValidatePerformanceGraphInAccountModule" key="{A4C949EC-218D-4020-8A5E-FD2C2D82077D}" path="CR1957_Croes_4635_Acc_ValidatePerformanceGraphInAccountModule.sj" />
+		</folder>
+		<folder name="Regression">
+			<child name="Regression_CROES_4115_Acc_CheckAlarmsOperationInAccountsWithAddEditButton" key="{90795AF5-97F4-495D-967E-3B4D5CC0AE8F}" path="Regression_CROES_4115_Acc_CheckAlarmsOperationInAccountsWithAddEditButton.sj" />
+			<child name="Regression_CROES_4115_Acc_CheckAlarmsOperationInAccountsWithAddTitle" key="{2412FDD6-C948-44A0-952E-304F2458332F}" path="Regression_CROES_4115_Acc_CheckAlarmsOperationInAccountsWithAddTitle.sj" />
+			<child name="Regression_CROES_4116_Acc_AddRestrictionsToAccounts" key="{4672440E-01D6-4D08-ABE6-D60EC0B2600C}" path="Regression_CROES_4116_Acc_AddRestrictionsToAccounts.sj" />
+			<child name="Regression_CROES_4118_Acc_ValidatePerformanceButtonOperation" key="{EBF1C66A-F65C-49C3-9FC2-94F5AFE01005}" path="Regression_CROES_4118_Acc_ValidatePerformanceButtonOperation.sj" />
+			<child name="Regression_CROES_4122_Acc_CreateRelationshipFromAccountsByARightClicking" key="{140D70E7-B473-422F-885D-B93016B8E8BF}" path="Regression_CROES_4122_Acc_CreateRelationshipFromAccountsByARightClicking.sj" />
+			<child name="Regression_CROES_4122_Acc_CreateRelationshipFromAccountsByEditionMenu" key="{542970D8-F2CE-4798-9C09-A91AAC1DDE41}" path="Regression_CROES_4122_Acc_CreateRelationshipFromAccountsByEditionMenu.sj" />
+			<child name="Regression_CROES_4122_Acc_JoinToARelationshipFromAccountsByARightClicking" key="{9EFDF70D-DE84-473E-AD72-D3094115463F}" path="Regression_CROES_4122_Acc_JoinToARelationshipFromAccountsByARightClicking.sj" />
+			<child name="Regression_CROES_4122_Acc_JoinToARelationshipFromAccountsByEditionMenu" key="{17F3514C-CE39-409A-BC76-CC37DA140E8C}" path="Regression_CROES_4122_Acc_JoinToARelationshipFromAccountsByEditionMenu.sj" />
+			<child name="Regression_CROES_4123_Acc_DeleteSelectedAccountAtOnce" key="{DC362835-2100-4143-A9E2-AE6923DB2BAD}" path="Regression_CROES_4123_Acc_DeleteSelectedAccountAtOnce.sj" />
+			<child name="Regression_CROES_4123_Acc_ImpossibleDeleteSelectedAccounts" key="{47F8A53D-31B1-475A-B819-8FF1B291E216}" path="Regression_CROES_4123_Acc_ImpossibleDeleteSelectedAccounts.sj" />
+			<child name="Regression_CROES_4132_Acc_AddFictitiousClient" key="{51786439-63C9-4EED-BC77-74CF41AC5970}" path="Regression_CROES_4132_Acc_AddFictitiousClient.sj" />
+			<child name="Regression_CROES_4139_Acc_AddExternalAccountWtithProfile" key="{8C58DC3B-6229-4E5B-B52F-C04283ACC45A}" path="Regression_CROES_4139_Acc_AddExternalAccountWtithProfile.sj" />
+			<child name="Regression_CROES_4128_Acc_CheckOperationAccountButtonInfo" key="{71F4E0D7-E605-45F5-A979-EC6F350A1458}" path="Regression_CROES_4128_Acc_CheckOperationAccountButtonInfo.sj" />
+			<child name="Regression_CROES_4127_Acc_ProfilesManagementInAccount" key="{4E95D540-37CD-4AFC-B4AB-73FE7670D9B7}" path="Regression_CROES_4127_Acc_ProfilesManagementInAccount.sj" />
+			<child name="Regression_CROES_4124_Acc_LegalEntityIsMandatoryToSaveExternalAccount" key="{32B4B702-0B53-4D93-B0BC-7DCD64B558BD}" path="Regression_CROES_4124_Acc_LegalEntityIsMandatoryToSaveExternalAccount.sj" />
+			<child name="Regression_CROES_4126_Acc_NotesManagementInAccount" key="{F64DC19A-2F85-4EC8-89DD-1FE409091F94}" path="Regression_CROES_4126_Acc_NotesManagementInAccount.sj" />
+			<child name="Regression_CROES_6276_Acc_ValidateAddReportsFilesToDocument" key="{3E6705EE-ABA2-41D0-88D2-FC5E299BEC71}" path="Regression_CROES_6276_Acc_ValidateAddReportsFilesToDocument.sj" />
+		</folder>
+		<folder name="CR1679">
+			<child name="CR1679_001_Acc_all_trans" key="{3119EC68-4098-46F5-99EF-8EDBA1CC88D0}" path="CR1679_001_Acc_all_trans.sj" />
+			<child name="CR1679_002_Acc_full_b_statis" key="{AA5039FC-1E02-440B-96C3-6326B74E214B}" path="CR1679_002_Acc_full_b_statis.sj" />
+		</folder>
+		<folder name="CR2050">
+			<child name="CR2050_5743_Mod_ValidateCriteriaWhenPrefNO" key="{3314B45E-4C84-44FF-921C-C80E80FE5B83}" path="CR2050_5743_Mod_ValidateCriteriaWhenPrefNO.sj" />
+			<child name="CR2050_5744_Rel_ValidateAddSearchCriteriaWhenPrefNO" key="{8EAE35BB-E1A7-4A5E-AC38-2120C00B1E27}" path="CR2050_5744_Rel_ValidateAddSearchCriteriaWhenPrefNO.sj" />
+			<child name="CR2050_5745_Rel_ValidateSearchCriteriaNoVisibleWhenPrefNO" key="{6ED83A95-1928-4188-9A18-3614420F5D06}" path="CR2050_5745_Rel_ValidateSearchCriteriaNoVisibleWhenPrefNO.sj" />
+			<child name="CR2050_5746_Clt_ValidateCriteriaWhenPrefNO" key="{29AB102D-EA90-4361-B7C1-015EE79F9B83}" path="CR2050_5746_Clt_ValidateCriteriaWhenPrefNO.sj" />
+			<child name="CR2050_5747_ACC_ValidateCriteriaNotPreservedWhenPrefNO" key="{3005C66F-3C9E-4932-8F77-D1B0A0F887B1}" path="CR2050_5747_ACC_ValidateCriteriaNotPreservedWhenPrefNO.sj" />
+			<child name="CR2050_5748_TIT_ValidateNotDisplayCriteriaWhenPrefNo" key="{4C8AD14E-E208-4D82-AFBE-81DC1F55E599}" path="CR2050_5748_TIT_ValidateNotDisplayCriteriaWhenPrefNo.sj" />
+			<child name="CR2050_5749_ORD_ValidateNotDisplayCriteriaWhenPrefYes" key="{FA53C81F-A31A-4BA3-97AB-ED0740F37618}" path="CR2050_5749_ORD_ValidateNotDisplayCriteriaWhenPrefYes.sj" />
+		</folder>
+		<folder name="CR1806">
+			<folder name="DataHub Library">
+				<child name="CR1806_4548_Valider_le_format_du_extract_datahubextractor" key="{03DDF13A-649C-44EA-9AB5-D41C36BEC640}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4548_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{369AD70A-681B-476A-AFD4-D44807953D10}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.js" />
+				<child name="CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{F62BFA2D-35C6-4CCE-96B2-B04030256610}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB" key="{64293203-6A5A-454C-BF41-7FA06C6C0C45}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{ACA93855-FA71-4C12-85C9-F897CA94C983}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{6C5D139F-3F6D-490E-AFA7-BA158D95932F}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{6548D014-1D13-4BCE-A53F-99229D7E9BBB}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{5B045BF8-4265-40A4-AB76-18DFA6821FCB}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{2CFD74E8-06AC-40F2-96C4-AFE0CB8FF5E0}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{D680E9C2-D9F1-4D9F-8DD3-A162C00D7A3C}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{0B2AED8E-E19D-43BF-96BC-35E06D440E86}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+				<child name="CR1806_Helper" key="{69948BBF-BEE5-4AE3-A394-18607B96203A}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_Helper.js" />
+				<child name="CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE" key="{11100DDC-A1E6-431D-BFAE-DB7F4ACF4BF7}" path="..\..\..\ProjectSuiteDataHub\DataHub\Script\CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE.js" />
+			</folder>
+			<child name="CR1806_4548_Acc_Valider_le_format_du_extract_datahubextractor" key="{4DC217FA-C0E4-4E68-90A6-36A67F919264}" path="CR1806_4548_Acc_Valider_le_format_du_extract_datahubextractor.sj" />
+			<child name="CR1806_4557_Acc_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{FEF07439-75C1-47B9-9A6B-3B2076FC9D4E}" path="CR1806_4557_Acc_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.sj" />
+			<child name="CR1806_4558_Acc_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{F969734C-0CF0-411C-A748-777546DC67DC}" path="CR1806_4558_Acc_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.sj" />
+			<child name="CR1806_4558_Acc_Valider_les_records_dans_la_table_B_DATA_HUB" key="{2B0D2EE3-763E-4A65-9572-C9C99FCEE917}" path="CR1806_4558_Acc_Valider_les_records_dans_la_table_B_DATA_HUB.sj" />
+			<child name="CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{DE5F7BB3-3639-49E8-92A7-4FA7AE011A8C}" path="CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.sj" />
+			<child name="CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{C60B4822-D9D6-42F9-A3B1-DB0D1C7E5E4D}" path="CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.sj" />
+			<child name="CR1806_4679_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{6D3320F0-D070-4CA6-9D47-E53AD1F4C535}" path="CR1806_4679_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.sj" />
+			<child name="CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{6B7776B5-29D1-42D6-A79F-683756725FCE}" path="CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.sj" />
+			<child name="CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{6FB750D5-85F3-480C-B79A-12B887DB498C}" path="CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.sj" />
+			<child name="CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{4D5ED267-93DD-4DB4-90B1-9AA6D786004A}" path="CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.sj" />
+			<child name="CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{01118D87-3F5F-44AE-9FFA-CF8939125D32}" path="CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.sj" />
+		</folder>
+		<folder name="CR1772">
+			<child name="Regression_CR1772_TCVE_1210" key="{7F0D48A6-B3A3-4137-B74D-66E1CF071836}" path="Regression_CR1772_TCVE_1210.sj" />
+		</folder>
+		<folder name="CR1487">
+			<child name="CR1487_TCVE_2185_ReprocessAccountInDebugModeWithoutCorrectionTransaction" key="{BF80E5D6-012C-4AA5-9A46-3A357C7EA664}" path="CR1487_TCVE_2185_ReprocessAccountInDebugModeWithoutCorrectionTransaction.sj" />
+			<child name="CR1487_TCVE_2186_ReprocessAccountInDebugModeWithCorrectionTransaction" key="{FBDBC827-5DDD-431D-A21A-1D52BAF43F16}" path="CR1487_TCVE_2186_ReprocessAccountInDebugModeWithCorrectionTransaction.sj" />
+		</folder>
+		<folder name="CR2183">
+			<child name="CR2183_TCVE_7007_ImportManualListsFromAnExternalSource" key="{8802BE5B-5633-45FB-A300-ECA1985C245B}" path="CR2183_TCVE_7007_ImportManualListsFromAnExternalSource.sj" />
+		</folder>
+		<child name="ExecutionLog" key="{1EFD12F9-7738-4FF0-B842-E4560F49C188}" path="ExecutionLog.sj" />
+		<child name="PreExecution" key="{0A2FD6FB-19CC-4F4F-8BBC-EEAA29009461}" path="PreExecution.sj" />
+		<child name="Global_variables" key="{A72ED80A-5C5B-435A-A07D-4970A06C010F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{B2AAD6EA-5F5D-4B9E-85F7-3164D33D3DA6}" path="..\..\..\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="TCVE_1233_ActivationDeactivation_Sorting_CRM" key="{FA6D270B-DA21-4E63-A05D-981B3CC7C806}" path="TCVE_1233_ActivationDeactivation_Sorting_CRM.sj" />
+	</children>
+</Root>

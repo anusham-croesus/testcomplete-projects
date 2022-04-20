@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE secData SYSTEM "/usr/lib/finansoft/loader/dtd/secur_data.dtd">
+<secData xmlns="SEC_NS">
+	<header timeStamp="20090101" dest="UNI" noElem="1"/>
+	<sec id="77ENDK" updDate="2009-12-01">
+		<priceInfo curr="CAD" priceDate="">
+			<bid>0.00000000</bid>
+			<ask>0.00000000</ask>
+			<close>0.00000000</close>
+		</priceInfo>
+		<secInfo country="CA" secCurr="CAD" symbol="CROES" cusip="51938CFX6" factor="-100" prinFact="1.00000000" type="2601411" expDate="" expPrice="100.000000" issueDate="2009-01-25"> 
+			<secDesc idLang="FR" value="LAVAL ICS  3.95%  CROESUS"/>
+			<secDesc idLang="2" value="LAVAL ICS  3.95%  CROESUS"/>
+			<intDiv interest="1.000" coupDate="2009-01-26" giveInts="I" freq="1"/>
+			<secHisto/>
+		</secInfo>
+	</sec>
+</secData>

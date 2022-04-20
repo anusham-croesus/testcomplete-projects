@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{0532B938-80B1-40F3-B2D9-E28C33698E34}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{0A44FC64-94CE-4DF0-9F8E-6423B25E1B9E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{740F68A2-4022-4740-88A4-AACAABF1917F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{550EF2FA-EBAC-4874-83C3-70CE17DB6630}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{A11A683C-8579-4DFC-A4EF-FB546220754D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{6F20856F-706B-4BBB-9B8B-6424CAE338E3}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{2E9058A5-FD75-4093-9817-F04E795C956C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{354B45A4-72C7-4AEA-A27A-0CF36AD9AB72}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{47C7E46C-A959-422E-AA0E-0D4A7A2260B2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{4E02C95D-6DF9-4884-BB24-681A3C35A678}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{D3EDFFE3-370A-4A8B-858A-B9DD864586C8}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{B75D867C-2941-4A24-A0ED-50E872E5C5BC}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{61517B29-FC0A-4CB7-944B-301F3DB33470}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{23C11D3A-37F4-4439-8A7D-95C3BEE9BB93}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{F605F892-92C5-45BE-A307-97CAB0DCB187}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{D508061D-7726-4560-9DDA-761A4726EB8C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{DBC8EA63-10EF-4718-B3DD-8EBDF9F8D1E2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{CDCA9714-34F8-4907-AEDE-C2D8C01A08AB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{CB5D5ED9-1A74-4621-8C48-DEC19AFE4535}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+		</folder>
+		<child name="Performance_Mod_Rebalance" key="{961149CA-BBA3-4873-9C1D-962C6A91465B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_Rebalance.sj" />
+		<child name="Global_variables" key="{D73DA544-0060-4AFD-9162-BD211AD54864}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{1182FB00-E673-4C59-AE25-1A0E4C2217BC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\ExecutionLog.sj" />
+		<child name="Performance_Mod_CR1845" key="{21DB6EF8-5E62-4BAC-8CA0-B2393FD9B6A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CR1845.sj" />
+		<child name="Performance_Mod_ALTER_INFRA" key="{058486AC-5A85-49B5-9579-F1D1BD8B48CB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_ALTER_INFRA.sj" />
+		<child name="Performance_Mod_CASH" key="{3988A405-F3E9-452D-B7DF-E0D3A8572692}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CASH.sj" />
+		<child name="Performance_Mod_CashMgmt_ALTER_INFRA" key="{A3E45061-2F6D-4E9E-8111-B27515241A3B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_ALTER_INFRA.sj" />
+		<child name="Performance_Mod_CashMgmt_CASH" key="{DC4F6314-A8C1-4948-80C5-447FC00D0894}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_CASH.sj" />
+		<child name="Performance_Mod_CashMgmt_GE_BLEND" key="{03456CB7-D627-4DC6-BED3-C1AC6624C93B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_GE_BLEND.sj" />
+		<child name="Performance_Mod_CashMgmt_GROW" key="{91A6D8D9-4CBB-4678-AFA2-DB494B87D20C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_GROW.sj" />
+		<child name="Performance_Mod_CashMgmt_TAA" key="{1EFD3962-B9FD-460A-AED1-CF8040DF65A7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_TAA.sj" />
+		<child name="Performance_Mod_GE_BLEND" key="{B5091A37-DC3B-411B-9212-E561B8736432}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_GE_BLEND.sj" />
+		<child name="Performance_Mod_GROW" key="{7C407102-EDB4-45CE-8094-9483957CE2E4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_GROW.sj" />
+		<child name="Performance_Mod_TAA" key="{9C9E8393-AA4E-49B2-8A1E-0613B7E064E0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_TAA.sj" />
+		<child name="Performance_Mod_UMA" key="{2D58F781-D1C4-49EE-BE84-6C88D3C77BF2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_UMA.sj" />
+		<child name="Performance_Mod_BDC5050" key="{BB1EA197-A0A5-4C28-856B-E1FDDC50EB29}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_BDC5050.sj" />
+		<child name="Performance_Mod_CashMgmt_BDC5050" key="{CE698321-E62B-4BC2-A4E9-10FFB710F894}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_BDC5050.sj" />
+		<child name="Performance_Mod_CashMgmt_CROISSANCEMAX" key="{E4688468-526A-461D-9A43-A979B8F81B6E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_CROISSANCEMAX.sj" />
+		<child name="Performance_Mod_CashMgmt_EQUILIBRE" key="{03BC8FBF-676F-473B-873E-B7F32368E631}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_EQUILIBRE.sj" />
+		<child name="Performance_Mod_CashMgmt_SMALLBAL" key="{A5DDCB0C-D6DF-4074-9DF1-A081B68278C8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CashMgmt_SMALLBAL.sj" />
+		<child name="Performance_Mod_CROISSANCEMAX" key="{BEE18E3D-C49C-483B-B014-3B0423B60EAE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_CROISSANCEMAX.sj" />
+		<child name="Performance_Mod_EQUILIBRE" key="{BEB04548-8C93-420D-AA6D-A748515C7D02}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_EQUILIBRE.sj" />
+		<child name="Performance_Mod_SMALLBAL" key="{B402DAB6-26A4-495F-A507-FC6D25B53002}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuitePerformance\Performance\Script\Performance_Mod_SMALLBAL.sj" />
+	</children>
+</Root>

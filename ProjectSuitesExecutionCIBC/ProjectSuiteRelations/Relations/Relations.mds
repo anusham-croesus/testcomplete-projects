@@ -1,0 +1,2033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" version="14.0">
+	<children>
+		<child name="NameMapping" key="{B974D24E-DF08-47FE-85C1-84B52C80F3B7}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="..\..\..\ProjectSuiteLibrary\Library\NameMapping\NameMapping.tcNM" />
+		<child name="Script" key="{DB108410-488E-436B-A089-4D37E0BF7688}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
+		<child name="NetworkSuite" key="{9EA06CE4-2D24-4B58-98D8-F01969BF1A78}" type="Network Suite Core" typeId="{342AA317-C8C7-4232-8A60-069723AAFC67}" pluginName="Network Suite Core" path="NetworkSuite\NetworkSuite.tcNetSuite" />
+		<child name="Events" key="{A9F9A246-40FF-44EA-965B-CE42C515FDA8}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" pluginName="" path="Events\Events.tcAX" />
+	</children>
+	<config language="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" />
+	<testItems key="{9EC6B5BF-3026-4C56-B31B-C5BD54AA361C}" version="14">
+		<children>
+			<testItem name="PreExecution" key="{EA871804-9107-4814-B8B1-74FA41A0904D}" group="False" enabled="True" testMoniker="{43A1E7B7-E1A7-47EE-AB39-7F849FDA4997}PreExecution" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="Survol" key="{5CAF633C-DA7A-471D-8A74-E5868418B7E3}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Activities" key="{123C2819-E2A4-4DC5-8591-FF813DE34136}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_Activities_CombinedAccessMethods" key="{C6851096-EAA3-43A8-A838-1D4185EFACBC}" group="False" enabled="False" testMoniker="{FCA68B96-2FCB-4C1A-A26D-8E7A5A286562}Survol_Rel_Activities_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Add_Filter" key="{CA5C2214-1B68-41EB-A2AC-939FBEB677F1}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_AddFilter_CombinedAccessMethods" key="{55B728B7-D041-421A-8B17-8D61875D9CC4}" group="False" enabled="True" testMoniker="{368C7804-B559-42F6-8644-C1CD786C5FCA}Survol_Rel_AddFilter_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Add_Relationship" key="{3C3D9158-64F2-4CFC-A49F-C6595F5C5B21}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_AddRelationship_CombinedAccessMethods" key="{3F8FF46C-97B5-4D6E-9B39-A74C643DDD00}" group="False" enabled="True" testMoniker="{5EBE72C8-00C9-4BBD-A153-245A11E65ED7}Survol_Rel_AddRelationship_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ContextualMenu_AddRelationship" key="{B9E80E2E-2D1D-4801-9F09-8BC89177D6A3}" group="False" enabled="False" testMoniker="{7E1F6EAC-929E-4BA4-88E1-EE297010BADF}Survol_Rel_ContextualMenu_AddRelationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_Edit_AddRelationship" key="{689A6D8A-6375-445F-A961-CBD13FABC943}" group="False" enabled="False" testMoniker="{E478D074-578E-4A12-85BA-325826BD4E18}Survol_Rel_MenuBar_Edit_AddRelationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ToolBar_btnAdd" key="{DE743E4F-0941-4CB4-B7F9-F4050602413C}" group="False" enabled="False" testMoniker="{C6811938-0150-4470-9AA4-40EBD6789F34}Survol_Rel_ToolBar_btnAdd" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Add_Search_Criterion" key="{9EEB2F8C-474B-4BC8-915E-4344A06F7A53}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_AddSearchCriterion_CombinedAccessMethods" key="{E49F3F6B-0402-4434-841F-D1D6AB063119}" group="False" enabled="True" testMoniker="{AAC438D5-D34A-42AA-BB40-5BE1F86F5808}Survol_Rel_AddSearchCriterion_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_SearchCriteriaSubmenuAddSearchCriterion" key="{840170E2-10DA-4D79-B028-B86A2124A287}" group="False" enabled="False" testMoniker="{835828C7-C42B-4350-87BE-9121BD9EAEB4}Survol_Rel_MenuBar_SearchCriteriaSubmenuAddSearchCriterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_Toolbar_BtnAddSearchCriterion" key="{A82BC05E-9FF9-4EDE-9548-665AE1AE88F5}" group="False" enabled="False" testMoniker="{6EC0D74F-91AF-4242-92DE-162301D1ACCB}Survol_Rel_Toolbar_BtnAddSearchCriterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Agenda" key="{AA992454-8F86-4A7C-B533-E132FDF30886}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_Agenda_Ctrl_Maj_L" key="{29CA94D4-374D-44D3-A49D-9E7C8D3DD19F}" group="False" enabled="False" testMoniker="{DFD575F2-A118-4453-B6DC-1B21A0713D37}Survol_Rel_Agenda_Ctrl_Maj_L" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_ToolsAgenda" key="{3FECEF6F-AAEF-4837-9F85-6B31C8304D90}" group="False" enabled="False" testMoniker="{CB6B860A-66F7-474C-AF71-2814FC077EBE}Survol_Rel_MenuBar_ToolsAgenda" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ToolBar_btnAgenda" key="{5990FF3F-734F-47FE-A3EE-D34FB7553F30}" group="False" enabled="False" testMoniker="{C075C5E7-F5F9-464D-9C27-913CB3C54FB8}Survol_Rel_ToolBar_btnAgenda" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Archive_Documents" key="{6903111E-F0AD-4C24-B19E-B7EEAF8771D6}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_ArchiveDoc_Ctrl_Maj_A" key="{78BF3B71-9EDC-4A68-BE4C-8D37D7F433B9}" group="False" enabled="False" testMoniker="{55D81D8A-0F34-4893-88F1-1ACE8DB3054A}Survol_Rel_ArchiveDoc_Ctrl_Maj_A" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_Tools_btnArchiveMyDocuments" key="{7B0E2269-1844-4BBC-8759-3588945FBB10}" group="False" enabled="False" testMoniker="{0B983D4C-D831-4927-AFA9-81CFA69B7451}Survol_Rel_MenuBar_btnArchiveMyDocuments" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ToolBar_btnArchiveMyDocuments" key="{61DB1658-C915-4128-9BD1-16EAA720F2CF}" group="False" enabled="False" testMoniker="{F724CF43-D7BD-442B-8E3A-EB4F8C3919C1}Survol_Rel_MenuBar_btnArchiveMyDocuments" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Bon_Calculator" key="{414EC837-5B54-47C5-99B2-4CEF5DEDCD9A}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_Calculator_Ctrl_Maj_O" key="{72F32A3C-FD65-44AA-A973-93F82F4E8EBB}" group="False" enabled="False" testMoniker="{D5109577-56AD-4F15-B6D3-2B278FA776A9}Survol_Rel_Calculator_Ctrl_Maj_O" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_Tools_btnCalculator" key="{C34E96D0-C0F8-4760-957C-C882EE6319A5}" group="False" enabled="False" testMoniker="{97189B6D-B91F-41A5-B55F-4A2A99D3E288}Survol_Rel_MenuBar_Tools_btnCalculator" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_Toolbar_btnBondCalculator" key="{38813CDE-A2AF-4420-A69A-9C22CCF50D69}" group="False" enabled="False" testMoniker="{7F7E99D3-F2FB-418E-9C90-1FCF10D22753}Survol_Rel_Toolbar_btnBondCalculator" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Compose_Address" key="{C4D3A67A-3F41-4229-8503-1F37BD427478}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_Internet_ComposeAddress_CtrlO" key="{3FFE8DF9-B893-4C4F-BCC8-32D140E977CA}" group="False" enabled="False" testMoniker="{761109F7-2C57-42A8-AE22-276DA584A235}Survol_Rel_Internet_ComposeAddress_CtrlO" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_Tools_Internet_ComposeAddress" key="{7B81C794-C65C-47AF-86BF-4E1E318A41F9}" group="False" enabled="False" testMoniker="{9B2DC857-690B-43A2-9E17-1BD5C016B185}Survol_Rel_MenuBar_Tools_Internet_ComposeAddress" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Info" key="{21422E1B-04F6-4609-8A02-2D0B8011D4D9}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_Info_CombinedAccessMethods" key="{D3431604-55A1-422F-B101-506943C031E0}" group="False" enabled="True" testMoniker="{3FA21869-CE3D-42D0-9BF0-7FDF157E9B66}Survol_Rel_Info_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ContextualMenu_Functions_Info" key="{B524A988-5F87-467E-8836-3DF8C10092BC}" group="False" enabled="False" testMoniker="{BD45D5D6-F380-4829-9017-86AF1FCE6C1E}Survol_Rel_ContextualMenu_Functions_Info" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_EditFunctions_Info" key="{BD43EBA0-CD0C-4C6F-BC09-C6C25586F7B6}" group="False" enabled="False" testMoniker="{E4DD013D-0BEC-4057-9535-9E7D6E65F63A}Survol_Rel_MenuBar_EditFunctions_Info" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_RelationshipsBar_BtnInfo" key="{D2C55F9B-A7D0-4BD4-A330-6512BA8382CF}" group="False" enabled="False" testMoniker="{1CBBA48B-48D5-4346-A816-AAF622FC04A7}Survol_Rel_RelationshipsBar_BtnInfo" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Info(i)" key="{FF3C1A98-F6ED-411E-A1B2-852B7540210A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_Info_i_CombinedAccessMethods" key="{D6F1CA5C-1DE9-4438-AD0D-F71677BFD906}" group="False" enabled="True" testMoniker="{2E661B99-1141-42EE-95CD-24B75D747093}Survol_Rel_Info_i_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ContextualMenu_i" key="{0364B48F-8197-42BA-B13B-38546748E0A0}" group="False" enabled="False" testMoniker="{7E8C0D6C-0D46-4B01-B96D-D0A13D57AB3A}Survol_Rel_ContextualMenu_i" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_i_Ctrl_L" key="{D447FB2F-D87A-4443-A3A2-54E700BFC0D5}" group="False" enabled="False" testMoniker="{24AAA14B-B2D6-4525-B9DA-0EFBDA38F7D7}Survol_Rel_i_Ctrl_L" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_Edit_i" key="{5D31AF0D-2049-4DB0-82D6-FB4433818271}" group="False" enabled="False" testMoniker="{0A4D6069-33DA-4F3D-9282-C3CF02F90E0F}Survol_Rel_MenuBar_Edit_i" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ToolBar_Btn_i" key="{D6AAED1C-7313-4E7D-B6EB-E5C452D4AF5C}" group="False" enabled="False" testMoniker="{19B940A5-0420-4280-AEC5-27D7CBA04465}Survol_Rel_ToolBar_Btn_i" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Internet" key="{59B8696A-2A93-42E3-A6DD-85A0BEB8A18F}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_Internet_CombinedAccessMethods" key="{5C55B339-576F-48CD-916D-AA6BFD329A01}" group="False" enabled="True" testMoniker="{D0A2B412-FD93-49CD-A465-DC060B9E259F}Survol_Rel_Internet_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Rel_Internet_CombinedAccessMethods_2" key="{E422D1AB-FA88-445A-A04D-3AB0209D94CF}" group="False" enabled="True" testMoniker="{6B8B2029-EF92-4049-9DE7-962F29A24568}Survol_Rel_Internet_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_Tools_Internet" key="{C4A61BB5-7DCA-4670-8CA2-5F9B9FE405B8}" group="False" enabled="False" testMoniker="{8EA53B11-EF61-4711-9695-ED7E08D03343}Survol_Rel_MenuBar_Tools_Internet" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ToolBar_btnInternet" key="{AF1FF1DD-8E86-4B45-A499-CA4F1F15D1EA}" group="False" enabled="False" testMoniker="{37BE3FA6-57BF-49F0-9EFB-B6DC674F005A}Survol_Rel_ToolBar_btnInternet" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Join" key="{D2E72717-3E69-4DC5-A1BD-B75577E655F0}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Accounts" key="{59024869-A408-4F26-9246-2BE800FAE838}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Rel_ContextualMenu_JoinAccounts" key="{6AD15D03-F889-49E9-BC01-233C81BA78DB}" group="False" enabled="True" testMoniker="{7E66A641-0A8F-4001-94B2-76550F44C201}Survol_Rel_ContextualMenu_JoinAccounts" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Rel_MenuBar_Edit_JoinAccounts" key="{7D703A48-111D-4657-9B7D-4DBF679A7205}" group="False" enabled="True" testMoniker="{411BE80E-A074-45ED-826C-3A3C51129733}Survol_Rel_MenuBar_Edit_JoinAccounts" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Rel_ToolBar_btnAdd_JoinAccounts" key="{C925BBCF-074E-4A2E-8E93-E9E993BDD9C3}" group="False" enabled="True" testMoniker="{6D21734B-7CD8-485C-AB81-EF113C693342}Survol_Rel_ToolBar_btnAdd_JoinAccounts" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Clients" key="{A612E9B7-C178-4C7F-BE23-18B4F799AB1C}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Rel_ContextualMenu_JoinClients" key="{AB252CA9-02E3-4261-9217-0913D0259D73}" group="False" enabled="True" testMoniker="{1536C2E0-A252-43EB-A032-DA543DEAF268}Survol_Rel_ContextualMenu_JoinClients" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Rel_MenuBar_Edit_JoinClients" key="{613A7799-9035-4A3F-96E7-2E028A768B86}" group="False" enabled="True" testMoniker="{043CCAF9-2F78-45CB-B621-08DF9CD805B8}Survol_Rel_MenuBar_Edit_JoinClients" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+									<testItem name="Survol_Rel_ToolBar_btnAdd_JoinClients" key="{6B69674B-9F34-4DD0-A3FE-84F51184A040}" group="False" enabled="True" testMoniker="{50CFE951-8FB5-4EE8-84B0-57D9CB4D91B8}Survol_Rel_ToolBar_btnAdd_JoinClients" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Lock_Application" key="{07CEC46D-952A-49C4-98AA-55449F931D7C}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_LockApplication_CombinedAccessMethods" key="{31BBE293-D792-4DA2-80EA-B72161D47035}" group="False" enabled="True" testMoniker="{6B8B2029-EF92-4049-9DE7-962F29A24568}Survol_Rel_LockApplication_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_FileLock_BtnOk_WithoutPSW" key="{AEE2497A-FD87-4436-96E2-C609194888B8}" group="False" enabled="False" testMoniker="{0D542223-019E-4718-BC07-C778D330BABC}Survol_Rel_MenuBar_FileLock_BtnOk_WithoutPSW" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_FileLock_BtnQuit" key="{80888DA9-066F-430E-B526-E1D8662B88B6}" group="False" enabled="False" testMoniker="{1B304E3F-174A-49C6-8AB2-16F1D69C9501}Survol_Rel_MenuBar_FileLock_BtnQuit" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ToolBar_BtnLockTheApplication_BtnOk_WithPSW" key="{078E3E0F-4830-41E6-9F6F-BE682455F34C}" group="False" enabled="False" testMoniker="{2526C65B-A174-4D5F-8489-37DA337240DE}Survol_Rel_ToolBar_BtnLockTheApplication_BtnOk_WithPSW" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="MainWin" key="{5F5E32B8-D36B-468B-921E-76A7E57E2856}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Details" key="{1D6D5684-208C-4AE4-B11E-389AD5B2E722}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Rel_MainWin_Details" key="{1333C66B-D55A-4B2A-816C-AAD16AD6BC7C}" group="False" enabled="True" testMoniker="{8AE35713-01AE-4DA2-9644-CDE005FC3BC6}Survol_Rel_MainWin_Details" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+							<testItem name="Grid_column_ header" key="{F601C504-6644-4368-9979-AA2F25B4DE39}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children>
+									<testItem name="Survol_Rel_Grid_column_header" key="{AA821266-5176-441E-8BA1-CFD31538FD3A}" group="False" enabled="True" testMoniker="{E4632972-151B-4B85-AEAD-F5A09D9C454F}Survol_Rel_Grid_column_header" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+										<testParameters />
+										<children />
+									</testItem>
+								</children>
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Performance" key="{29D0A3F3-9BA2-40FD-8CB5-882A952E1FCB}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_Performance_CombinedAccessMethods" key="{CAB3D3B4-760D-4231-9867-E6120160D215}" group="False" enabled="True" testMoniker="{6352247E-9C8C-4CFE-A6D1-CCE1AC92396C}Survol_Rel_Performance_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ContextualMenu_Functions_Performance" key="{6B45C548-A7B4-4B4E-B061-D396B2544889}" group="False" enabled="False" testMoniker="{8CD5885A-1FC7-4DFA-A807-5BBD240CF27C}Survol_Rel_ContextualMenu_Functions_Performance" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_EditFunctions_Performance" key="{6FE19484-9FC3-49D2-9E82-1E94E1AE801E}" group="False" enabled="False" testMoniker="{BAF4A69E-CAE6-4D18-89E8-32E802B904D3}Survol_Rel_MenuBar_EditFunctions_Performance" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_RelationshipsBar_Performance" key="{006578BB-16DB-41BB-924C-4156CE4EB013}" group="False" enabled="False" testMoniker="{66E8C91D-B37E-4220-9378-85A543B0B83F}Survol_Rel_ClientsBar_Performance" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Print" key="{1177EDB9-060E-44B9-932A-99F43EDFF09F}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_MenuBar_FilePrint" key="{1CF5BEB6-1903-4978-A4FE-EC6F2D910A3C}" group="False" enabled="False" testMoniker="{7E0EAE27-88F5-4CB2-94F2-43F2454BC8DB}Survol_Rel_MenuBar_FilePrint" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_Print_AltP" key="{1598B67A-7088-4AA0-8845-24070FD0134F}" group="False" enabled="False" testMoniker="{622B7577-DD6B-49C3-86A0-7239129DF3FD}Survol_Rel_Print_AltP" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_Print_ClickR" key="{54D0BCD4-C34A-483C-AE20-681D999251FF}" group="False" enabled="False" testMoniker="{92048BE2-B960-47AD-BC89-9EB5B990FE81}Survol_Rel_ClickR" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ToolBar_btnPrint" key="{00212696-9D83-4539-A946-EFE438825F05}" group="False" enabled="False" testMoniker="{DDAF02C3-0C91-40A8-8A09-4D82CE860DA4}Survol_Rel_ClickR" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Relationships_Reports" key="{709E8632-54B7-4365-9AB4-3D6C5AA2B56E}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_MenuBar_ReportsRelationships" key="{A2A5B683-AEB4-4998-879B-254AD1CEFFA1}" group="False" enabled="True" testMoniker="{4B1F3879-B198-4852-B36C-10956B66DB68}Survol_Rel_MenuBar_ReportsAccounts" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ToolBar_btnReportsAndGraphs" key="{2F0DC91E-772A-4B3E-A72F-0F141AB9D0B2}" group="False" enabled="True" testMoniker="{96AACCA0-43D6-42FF-87BF-4364070E2480}Survol_Rel_ToolBar_btnReportsAndGraphs" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Restrictions" key="{826847A6-173C-4544-9F53-2F7C65616C85}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_ContextualMenu_Functions_Restrictions" key="{C57D96A2-D496-4679-92FC-BD829BECE5F5}" group="False" enabled="True" testMoniker="{1C7C362A-AFA3-4B67-9F9D-E70CA35B340B}Survol_Rel_ContextualMenu_Functions_Restrictions" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_EditFunctions_Restrictions" key="{9E9C26D6-CD19-4AB2-A30B-621BAAC4ECB6}" group="False" enabled="True" testMoniker="{62BA7611-E8CF-4B27-B7DD-951E6C27E937}Survol_Rel_MenuBar_EditFunctions_Restrictions" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_RelationshipsBar_Restrictions" key="{784D71B1-EF55-4735-8B4B-A378DCECE7A2}" group="False" enabled="True" testMoniker="{679F2E05-BED8-4E35-841F-762C67B21518}Survol_Rel_RelationshipsBar_Restrictions" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Search" key="{7BC3E3F1-C5DF-4AE1-87BC-82E8E76985F3}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_Search_CombinedAccessMethods" key="{DE66546E-0C1D-4C2C-B477-60C2B6D1A9F2}" group="False" enabled="True" testMoniker="{ED5B0BD4-2157-4C2A-B483-BAE43CFCE672}Survol_Rel_Search_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Check_Properties" key="{D8C4BCBF-67A7-422A-991C-DAFFCC5BC426}" group="False" enabled="False" testMoniker="{ED5B0BD4-2157-4C2A-B483-BAE43CFCE672}Check_Properties" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters>
+									<param0 name="language" type="3" localVarName="" varType="0" value="" />
+								</testParameters>
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_EditSearch" key="{17705FC8-51C2-4146-9787-3C73F281AFA3}" group="False" enabled="False" testMoniker="{55D00FA9-7EB5-4280-927E-BD1AD8F44616}Survol_Rel_MenuBar_EditSearch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_Search_KeybordSearch" key="{477A2610-388B-4F40-BFD1-B3897A4BC977}" group="False" enabled="False" testMoniker="{0194D296-ABD1-45BC-9EE7-96816F034115}Survol_Rel_Search_KeyboardSearch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ToolBar_btnSearch" key="{95F8C6F4-4273-454F-8D9E-D4E751380497}" group="False" enabled="False" testMoniker="{EE5C1D43-A5DE-488E-9BE1-15A5B5099795}Survol_Rel_ToolBar_btnSearch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Search_Manage" key="{1C5B5B59-2D31-4C37-8EA3-CA9A33779D2F}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_SearchManage_CombinedAccessMethods" key="{1A0496D7-D5A4-43AD-8CC2-B9B15C627310}" group="False" enabled="True" testMoniker="{B670E5AC-A6FE-4BA7-8C92-82BF813EF7E9}Survol_Rel_SearchManage_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_MenuBar_SearchCriteriaSubmenuSearchManage" key="{A86DD68D-809A-4AE3-A115-67E3BC1585CA}" group="False" enabled="False" testMoniker="{E46A3C8A-7ACC-43ED-B5F3-5DB0116AFF7F}Survol_Rel_MenuBar_SearchCriteriaSubmenuSearchManage" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="Survol_Rel_ToolBar_btnManageSearchCriteria" key="{0ACAB88C-2155-4266-8721-62CCCD3C7666}" group="False" enabled="False" testMoniker="{09E67D79-CA5C-4B8A-BBB1-F05CBFBAD7FE}Survol_Rel_ToolBar_btnManageSearchCriteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Sum" key="{1B6158CC-E8F3-4802-8BC5-3BE0C03E6979}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="Survol_Rel_Sum_CombinedAccessMethods" key="{4FFD6DA5-25F4-4A27-9008-552DFEFD41C9}" group="False" enabled="False" testMoniker="{AA99A7A6-A1AC-4C3F-99F5-536EA9870DFE}Survol_Rel_Sum_CombinedAccessMethods" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="Anomalies" key="{1FE0AD99-3A3E-4A95-81DF-A2599AC0BFB5}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="BNC_1960_Crash_ClicEditionaftherGenerCriterRelationShip" key="{0ECFBF74-DD64-4154-B4D9-05B5E08DCB90}" group="False" enabled="True" testMoniker="{7C0DC29B-4517-45A8-8ECE-604618E3EE1E}BNC_1960_Crash_ClicEditionaftherGenerCriterRelationShip" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="BNC_2034_ConflictIndicatorIsNotInTheRightColor" key="{DA08E597-E6F9-4192-9DE1-B7E73945CB03}" group="False" enabled="False" testMoniker="{2CEE11DD-C569-407B-A3FB-0894E0370EE0}BNC_2034_ConflictIndicatorIsNotInTheRightColor" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_7065_InfoRelationWhenChangeFrequencyToYearlyThisFieldShouldNotEditabl" key="{95FFAE09-E8C9-415F-9354-88C349B34533}" group="False" enabled="True" testMoniker="{909B8402-C16E-4AE8-BF07-1D412B1946D7}CROES_7065_InfoRelationWhenChangeFrequencyToYearlyThisFieldShouldNotEditabl" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_7509_Rel_CrashInTheRightClickMenuRooClientInSectionDetail" key="{23B8DA48-08B8-4F67-B34F-48BACB10C39A}" group="False" enabled="True" testMoniker="{83A4E38C-FF95-43EF-AC30-D10897D993C1}CROES_7509_Rel_CrashInTheRightClickMenuRooClientInSectionDetail" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_7989_NameOfTheAssignmentFunctOfAnAccountOrCustomerToRelationshipIsIncorrectwhenTheAssignmenInsummary" key="{2BFBE776-5AFB-46E9-B41C-66CB94688C09}" group="False" enabled="True" testMoniker="{4FC32076-E164-4A7E-8A22-70C2FDB93C52}CROES_7989_NameOfTheAssignmentFunctOfAnAccountOrCustomerToRelationshipIsIncorrectwhenTheAssignmenInsummary" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_8311_Rel_CrashAfterSearchingByCPCode" key="{3823A1B2-AE26-4C53-B033-149ADB2FDBF5}" group="False" enabled="True" testMoniker="{5562246C-613B-4C78-AA4F-A10B71F0B347}CROES_8311_Rel_CrashAfterSearchingByCPCode" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_8447_Rel_CrashWhenWeClickOnProductServices" key="{04F1E848-4864-46EF-B3D0-A776057DE8A5}" group="False" enabled="True" testMoniker="{0188FB89-34EF-4936-B908-6CF4276F0D28}CROES_8447_Rel_CrashWhenWeClickOnProductServices" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_8579_Rel_CanNotAddAnEntryInAnExistingDiction" key="{BE88B58F-FCA8-42DF-9BF1-8ED4EBC50496}" group="False" enabled="True" testMoniker="{DECEBCA0-0E20-4164-8248-AEAF98DB96C4}CROES_8579_Rel_CanNotAddAnEntryInAnExistingDiction" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_86_CrashAssociatiSecondCustomerWithRelationshipThatAssociatedWithAModel" key="{DFE8E632-532C-4BCA-8F3D-51CCE16D7F27}" group="False" enabled="True" testMoniker="{4AABF755-0F2F-4059-85D5-2B74C9A4C368}CROES_86_CrashAssociatiSecondCustomerWithRelationshipThatAssociatedWithAModel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_9031_RelMissingColumnsInTheNotesGrid" key="{D9F92AB3-6C35-4AD2-B7C9-255C9603AAE2}" group="False" enabled="True" testMoniker="{E5DD105B-6095-4117-BE26-43DAEBBE4F4A}CROES_9031_RelMissingColumnsInTheNotesGrid" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_8372_Rel_CrashWhenWeClickOnSecuritCategorisat" key="{03BD5643-C391-4D1E-AF04-3B751B611B40}" group="False" enabled="True" testMoniker="{5DA9D6CF-2AA4-4E2D-B02F-77B2C45B377D}CROES_8372_Rel_CrashWhenWeClickOnSecuritCategorisat" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_10346_RelProfColumnArNotUpdatautomatiAfterChangProfilValu" key="{62482366-E6E0-4F30-8E77-050AC89EEB13}" group="False" enabled="False" testMoniker="{8BB69F81-F209-4300-9909-3F4E153CB5BD}CROES_10346_RelProfColumnArNotUpdatautomatiAfterChangProfilValu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CROES_5754_Rel_NameOfInterlocutorNotVisibleCompletelyInInfoRelation" key="{21ECD15D-4D64-495D-8A27-648AF9AF1AAD}" group="False" enabled="True" testMoniker="{F0F95770-3865-4C61-B4C6-54C886BC1939}CROES_5754_Rel_NameOfInterlocutorNotVisibleCompletelyInInfoRelation" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromRelationToAccomp" key="{A6FB084A-8479-4BFA-86AC-A8221F70A757}" group="False" enabled="True" testMoniker="{6284461B-B28C-4BEC-B423-9828EEEC38E1}AnomalieMaillageFromRelationToAccomp" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromRelationToClient" key="{13089123-B635-46E4-841C-4778B5C8DFDD}" group="False" enabled="True" testMoniker="{15423C90-7CB8-4DF9-8A42-F46560CC304A}AnomalieMaillageFromRelationToClient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromRelationToModels" key="{AB33DC16-7940-45EF-9DCF-00437E729222}" group="False" enabled="True" testMoniker="{E33E185F-4995-46AC-A123-519EB7039D9F}AnomalieMaillageFromRelationToModels" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromRelationToPortfolio" key="{EA57B4EF-3CEF-44A3-9C05-5C2E65AD1B65}" group="False" enabled="True" testMoniker="{5E1BC72C-AFEF-439F-B8B1-EEF851346D03}AnomalieMaillageFromRelationToPortfolio" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromRelationToSecurities" key="{8BB731B6-AAA8-4327-9617-60D1F938D1A1}" group="False" enabled="True" testMoniker="{15B78470-2E00-4555-8CAD-3E5750FD1D71}AnomalieMaillageFromRelationToSecurities" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="AnomalieMaillageFromRelationToTransaction" key="{64E511F4-600B-4C34-9BD6-11F4FC19C80D}" group="False" enabled="True" testMoniker="{24FA6ED6-6870-4DB0-8CD1-8ED23E513A7C}AnomalieMaillageFromRelationToTransaction" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="ExecutionLog" key="{35152CBE-C7EE-46E3-AD9F-919CDA478DDE}" group="False" enabled="False" testMoniker="{9DCD178B-E2FD-442D-886F-95356738D6CC}ExecutionLog" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1142" key="{9CDC84BB-2712-4A49-B74B-2F3A728F704D}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="CR1142_6784_Valider_impossibilite_de_modifier_supprimer_donn_es_Relation_Client_module_Relations" key="{3C894D4E-622C-401C-8366-7D5F0D9624DA}" group="False" enabled="True" testMoniker="{DE29B61E-82E4-4943-9091-DE40C81F0B63}CR1142_6784_Valider_impossibilite_de_modifier_supprimer_donn_es_Relation_Client_module_Relations" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6785_Valider_boutons_Ajouter_Modifier_Supprimer_affichent_pas_Onglet_Comptes_sous_jacents" key="{21AF1B18-789C-4EED-87D1-E8C6569C75CE}" group="False" enabled="True" testMoniker="{1CD6341F-AE0A-4EE9-8055-AC4F4B11C5D0}CR1142_6785_Valider_boutons_Ajouter_Modifier_Supprimer_affichent_pas_Onglet_Comptes_sous_jacents" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6786_Valider_nouvelle_colonne_Est_conjoint_qui_indique_les_icones_de_la_Relation_Client" key="{A8F82AD9-4C64-479D-AFD4-81E120340E5C}" group="False" enabled="True" testMoniker="{CD4A791B-6A7F-46B1-AA70-4755AA4C0B91}CR1142_6786_Valider_nouvelle_colonne_Est_conjoint_qui_indique_les_icones_de_la_Relation_Client" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6787_Valider_capacite_de_filtrer_par_Niveau_de_gestion_operateur_parmi_excluant" key="{364BC37D-D197-41B2-B4B4-64BF11879A98}" group="False" enabled="True" testMoniker="{4EE72D8D-AB00-4684-859E-546C26A1C47E}CR1142_6787_Valider_capacite_de_filtrer_par_Niveau_de_gestion_operateur_parmi_excluant" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6788_Valider_capacite_de_filtrer_par_etat_operateur_parmi_excluant_est_a_blanc" key="{F99B67CE-72CE-48F4-B40E-77BAC6FB72B2}" group="False" enabled="True" testMoniker="{F4D6C60B-99C5-436D-B6F9-2D3E84D7BF77}CR1142_6788_Valider_capacite_de_filtrer_par_etat_operateur_parmi_excluant_est_a_blanc" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6800_Valider_capacite_de_filtrer_par_Date_de_fermeture_module_Relations" key="{07C05715-9D64-4C44-9D56-60A2305C321B}" group="False" enabled="True" testMoniker="{92D52124-8928-4FAD-B430-2210859F9EC2}CR1142_6800_Valider_capacite_de_filtrer_par_Date_de_fermeture_module_Relations" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6801_Validate_filter_by_RelatioshipType" key="{22892F99-457F-40C0-88C5-3DE537C66812}" group="False" enabled="True" testMoniker="{C00512ED-0145-410C-8705-2DFD1F3C2980}CR1142_6801_Validate_filter_by_RelatioshipType" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6802_Validate_Creation_of_searchCriterion" key="{44E85E55-8D91-4D0B-8059-8BFF2F6AA5F9}" group="False" enabled="True" testMoniker="{1D7E4AA2-CD6A-4092-8EAA-2A297BF2DF4F}CR1142_6802_Validate_Creation_of_searchCriterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6803_Validate_newFields_for_ClientRelatioship" key="{E2D346A5-4E5F-46D6-A23A-F337A1FA6539}" group="False" enabled="True" testMoniker="{8ED06239-018B-4B72-968B-177F7D96451D}CR1142_6803_Validate_newFields_for_ClientRelatioship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6804_Validate_the_tree_DetailsSection" key="{C2425152-1AD7-4C95-BC04-564E50AC09BA}" group="False" enabled="True" testMoniker="{9513CCAC-1D6B-4F7D-A5D6-96E16DD09603}CR1142_6804_Validate_the_tree_DetailsSection" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6805_Validate_nesFields_in_ClientInfoWin" key="{F815A8FA-5A31-4555-A121-71762D549E54}" group="False" enabled="True" testMoniker="{C1DE6D6A-ED59-486A-B712-518EDA38C0FE}CR1142_6805_Validate_nesFields_in_ClientInfoWin" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6806_Validate_creation_searchCriterionBy_ClientRelationshipNo" key="{7E81C7F7-E676-4F79-AD91-464189E7D3DF}" group="False" enabled="True" testMoniker="{0DE6179E-9ADC-4657-8919-88147237A48D}CR1142_6806_Validate_creation_searchCriterionBy_ClientRelationshipNo" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6812_Validate_ability_filter_by_NoCient" key="{381116DE-5662-4B2B-8EBD-F238D0D2BB66}" group="False" enabled="True" testMoniker="{6D48A3BA-A348-42A8-9828-277C88DCE4C4}CR1142_6812_Validate_ability_filter_by_NoCient" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="TCVE_1868_ValidateTheIncludeUnderlyingItemsCheckboxForCustomerRelationships" key="{C817059F-16FC-4757-9FD2-D029084747E7}" group="False" enabled="True" testMoniker="{4AF8E2D6-9AD3-4D62-8173-CB21FF88DA80}TCVE_1868_ValidateTheIncludeUnderlyingItemsCheckboxForCustomerRelationships" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1142_6902_PF2930" key="{FAD670BD-0E9D-4DB4-B1AB-4B365CE7C3C4}" group="False" enabled="True" testMoniker="{C9948EAC-F1B5-4B9D-924F-0899DA1DE221}CR1142_6902_PF2930" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1272" key="{E152659A-3665-46CF-9B5F-81F9481DF531}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="RelationshipEditionQC23199" key="{BDFCDD93-CDEA-4456-B713-96D087CFCC24}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteCOPERN" key="{527CD8F1-B41D-4927-AEC5-CB77DA24CD74}" group="False" enabled="True" testMoniker="{436BF203-98B0-4FDF-93CC-9B35C87F5EF6}CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteCOPERN" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteDARWIC" key="{52C93D85-BE86-4401-B265-1E1B64F8D747}" group="False" enabled="True" testMoniker="{CDE6DE02-3E25-40CE-B2B0-89EA83C8DE62}CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteDARWIC" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteFORTINN" key="{520057E1-0EC0-4BF5-825E-861BAC43A5A6}" group="False" enabled="True" testMoniker="{5B356CD2-18A6-4A8E-9CA0-E81C718D68CD}CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteFORTINN" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteGP1859" key="{5E807D1D-0E5D-43D1-9538-AF0A3C399F60}" group="False" enabled="True" testMoniker="{CAD9D362-EDB4-453B-A6F0-03BB38763CBB}CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteGP1859" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteKENNEJ" key="{F98DA7B7-793E-4067-B4FA-2CBAA61C436D}" group="False" enabled="True" testMoniker="{1361F322-80A6-48EE-9917-61E80189B529}CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteKENNEJ" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteKEYNEJ" key="{5E73C2C1-0813-4DF7-860A-72AF8CEC4BFD}" group="False" enabled="True" testMoniker="{DBC1CBAD-F39D-4D87-82EA-A92DCBAADEDF}CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteKEYNEJ" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteMONETC" key="{B995F006-89AF-426A-983E-E582E2CE846A}" group="False" enabled="True" testMoniker="{3433F162-EA50-407D-9BE0-F2B4C72EB0DD}CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteMONETC" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteVICTOM" key="{3D7B2746-F74A-4F17-9E5D-3AA838DA9913}" group="False" enabled="True" testMoniker="{9568631C-AD40-4F69-9857-629EED9F06DA}CR1272_4199_Rel_ValidatIfPREFActivForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteVICTOM" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteCOPERN" key="{9128A65A-DF91-4D5A-94CA-9846E208A965}" group="False" enabled="True" testMoniker="{F6C48285-3560-4EAF-861F-A76CC979C15C}CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteCOPERN" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteDARWIC" key="{42A95B55-6BE7-40BF-8E02-E982D86CA75B}" group="False" enabled="True" testMoniker="{386A4DCC-5A97-435B-900C-2B1FDE981474}CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteDARWIC" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteFORTINN" key="{1B6AA876-BC03-44A5-8CD3-3CA526226E93}" group="False" enabled="True" testMoniker="{3C7BC479-52E4-40BB-AA9D-FD2180CEA6AA}CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteFORTINN" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteGP1859" key="{15FBA00F-D5B8-4C9B-BFA7-5360B6D379E5}" group="False" enabled="True" testMoniker="{2A1BBA0D-C034-4865-BCCC-3FAD2ECF7156}CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteGP1859" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteKENNEJ" key="{83C20A0F-C930-4800-97F6-6B505064D292}" group="False" enabled="True" testMoniker="{A350D596-0642-4D3A-BE22-C5D8C18939B4}CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteKENNEJ" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteKEYNEJ" key="{C366EEF4-D03B-4EE4-952E-5710A6151208}" group="False" enabled="True" testMoniker="{E5B3317B-6E76-4E08-A242-BCE7F4185756}CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteKEYNEJ" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteMONETC" key="{10ACFE5B-A4BC-4024-8814-1E9E44524A61}" group="False" enabled="True" testMoniker="{C97EF238-2327-4B56-882F-F2E957E960D3}CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteMONETC" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteVICTOM" key="{3CD6C64C-1299-4F9D-8461-AF53C6A07B41}" group="False" enabled="True" testMoniker="{C0FF9E86-515E-493A-B86A-6DC1BF8A93C3}CR1272_4199_Rel_ValidatIfPREFDeasacForAcessLevelAllUserWithThisAccessLevelHaveAccessToTheDeleteVICTOM" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4200_Rel_ValidatMessageViaTooltipIfDeletButtonIsDisabledCOPERN" key="{8B2EF7A2-3342-4B36-8AF6-1D575E7FB989}" group="False" enabled="True" testMoniker="{945853F0-F847-4235-BEE5-DC31B0C78020}CR1272_4200_Rel_ValidatMessageViaTooltipIfDeletButtonIsDisabledCOPERN" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulCOPERN" key="{CCD2CE08-D14B-41E8-94A6-CD878EE7AD47}" group="False" enabled="True" testMoniker="{876EAA9A-D132-4DB1-94C4-39DDA20E577A}CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulCOPERN" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulDARWIC" key="{E0255937-7A4D-45E3-8463-4E8DFA077A2A}" group="False" enabled="True" testMoniker="{9B9441E0-E404-4937-9343-61E34A81727D}CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulDARWIC" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulFORTINN" key="{9000B35E-9344-457E-85F1-DBAFE2E96AD1}" group="False" enabled="True" testMoniker="{CA5E8AB1-3084-46A3-98D4-90BB392BFC0E}CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulFORTINN" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulGP1859" key="{C47BABD9-7226-46F3-BE32-B588DD83F028}" group="False" enabled="True" testMoniker="{4BABEE2A-35D4-4C2B-A0A8-9728530CECCE}CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulGP1859" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulKENNEJ" key="{C4B57C89-4810-4F76-A78C-58CC42A28643}" group="False" enabled="True" testMoniker="{A47BA896-3E3C-40F3-85C7-3AE1441DD368}CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulKENNEJ" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulKEYNEJ" key="{53C9FC53-DBB8-4E2A-B862-F2FC02978032}" group="False" enabled="True" testMoniker="{5666F2C5-40D9-4F7E-9CAF-B0C7FF5E6923}CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulKEYNEJ" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulMONETC" key="{8EBD7BDE-BE00-48B4-80C9-1976EBBABD3F}" group="False" enabled="True" testMoniker="{949F3A27-5D9F-4B6D-A8D3-296A87717039}CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulMONETC" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulVICTOM" key="{AAF0441E-C39E-4DBB-A950-447D055899FA}" group="False" enabled="True" testMoniker="{B2952C59-3063-4AC8-8995-0E837BBF18DE}CR1272_4201_Rel_ValidatiIfPrefActiWeCanDeleteRelationInContextMenuOfAccountModulVICTOM" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulCOPERN" key="{BDA7FDA0-B90E-4425-AB53-CC6DA3AB307A}" group="False" enabled="True" testMoniker="{E4429D2C-3D80-46E7-8C71-1B16370AB837}CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulCOPERN" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulDARWIC" key="{D5B1AB50-78C4-4CB6-9573-2E55F90454B3}" group="False" enabled="True" testMoniker="{49B905A2-BED4-429D-9647-17EA5FB5DFB2}CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulDARWIC" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulFORTINN" key="{5B0A85CB-E603-4209-93FB-655F5E5C4482}" group="False" enabled="True" testMoniker="{19670206-D95D-45E3-9AD8-2CA4E7448C94}CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulFORTINN" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulGP1859" key="{0DC0267C-857A-4E7A-8D03-A125C3D71EC7}" group="False" enabled="True" testMoniker="{3E176AD7-89A8-436A-95CE-33C43F9529B0}CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulGP1859" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulKENNEJ" key="{A6853CA3-3597-438B-96C0-3E01C449BC4D}" group="False" enabled="True" testMoniker="{C50A0476-B9C1-4B39-86A5-8B179F94BA1F}CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulKENNEJ" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulKEYNEJ" key="{1533C6F0-2350-4ECF-B518-09CDDFF17D26}" group="False" enabled="True" testMoniker="{7BABC329-302C-40E4-B7D0-BD9B080F4660}CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulKEYNEJ" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulMONETC" key="{9D4D3B73-F77D-4FC8-BCA1-939DE4DFB009}" group="False" enabled="True" testMoniker="{9880E70E-624B-4DF0-BF58-1F32C0610DDA}CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulMONETC" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulVICTOM" key="{09D7D06F-C0BF-4DBD-95CD-F6E8CB7F17D1}" group="False" enabled="True" testMoniker="{F3358A48-2778-452A-9D9B-55A6A49847F2}CR1272_4201_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAccountModulVICTOM" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4202_Rel_ValidatiIfPrefActivWeCanDeleteRelationInContextMenuOfAclientModulGP1859" key="{0A332C2D-8516-4829-8A49-ABB264920EB6}" group="False" enabled="True" testMoniker="{DC63F137-5306-4D21-95AC-6A7A08E796F2}CR1272_4202_Rel_ValidatiIfPrefActivWeCanDeleteRelationInContextMenuOfAclientModulGP1859" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1272_4202_Rel_ValidatiIfPrefDesacWeCanDeleteRelationInContextMenuOfAclientModulGP1859" key="{CE1BE00E-0A6F-4CAC-8AAE-A464309BC0DC}" group="False" enabled="True" testMoniker="{0D02441C-CF36-4DC5-96E6-7C7CE2ED45EA}CR1272_4202_Rel_ValidatiIfPrefActivWeCanDeleteRelationInContextMenuOfAclientModulGP1859" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1281" key="{64F54B60-8328-41B8-8BB8-0E239535AD6C}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{1E63B7F5-1CD9-4EEB-B995-E1265F3E23EF}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1281_4757_UnableToAssociaAccountsOrCustomersWithRelationship" key="{59F29197-2869-499E-AB28-281845049B7A}" group="False" enabled="True" testMoniker="{6702042D-C8B8-48A8-9F67-44EBF85F5D07}CR1281_4757_UnableToAssociaAccountsOrCustomersWithRelationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1302" key="{58F1385F-C415-453E-B5E0-922727A4C45C}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="CR1302_Prerequisites" key="{EA39845E-014B-4935-BA48-B770DF429F69}" group="False" enabled="True" testMoniker="{8E2AB7A7-B058-44C6-B8F5-73DE049EB03E}CR1302_Prerequisites" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1302_AddFrequencyAndValidateNextRevisionDate" key="{3F289239-D821-4E36-B2B6-F83B1FA4977C}" group="False" enabled="True" testMoniker="{C223A554-0EC9-4297-809B-331F17FB3AF3}CR1302_AddFrequencyAndValidateNextRevisionDate" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1302_AddRelationshipWithNoteOfManualRevisionXi" key="{7A28ED52-3148-449D-A8CD-FB429E315298}" group="False" enabled="True" testMoniker="{7AA45DD3-BFCD-4666-AB2C-DDAA7938F512}CR1302_AddRelationshipWithNoteOfManualRevisionXi" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1302_CreateAndEditSearchCriteriaWithAnnualReview" key="{E80C5308-5C94-4807-91CB-3085AFA32EE5}" group="False" enabled="True" testMoniker="{026C2C88-DF64-446E-B124-2A1F5DD8109A}CR1302_CreateAndEditSearchCriteriaWithAnnualReview" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1302_DisableAnnualReviewAndAddRelationship" key="{2D8671F8-A8CB-4FD9-87C5-3628F3DA7FC8}" group="False" enabled="True" testMoniker="{C23F3934-7FA4-40D5-9012-AF015C1C8FAB}CR1302_DisableAnnualReviewAndAddRelationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1352" key="{4F1119CF-063A-4B77-887D-AAE55AA48527}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{7BD42945-FF3C-405A-BEEE-2A40391F43D5}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_CROES_6004_Rel_Wrong_Sum_when_we_have_search_criteria" key="{0121216C-1ED9-4CC0-9BE2-F7481FCB5837}" group="False" enabled="True" testMoniker="{F71A2FA0-15D8-409E-B3E4-863C40CC20F4}CR1352_CROES_6004_Rel_Wrong_Sum_when_we_have_search_criteria" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_CROES_6243_Rel_TestDeSelectionMultipleAvecShift_MouseWheel" key="{EDAC02BA-DAC5-4C6C-B0BC-770995B6B288}" group="False" enabled="True" testMoniker="{E6A90959-0672-4FBD-A765-65D52825DC29}CR1352_CROES_6243_Rel_TestDeSelectionMultipleAvecShift_MouseWheel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_CROES_6243_Rel_TestDeSelectionMultipleAvecShift_DownKey" key="{6DF092A8-7CC4-41C5-86FD-379E14310D33}" group="False" enabled="True" testMoniker="{72229A61-F3EE-400A-8501-6A179F01335F}CR1352_CROES_6243_Rel_TestDeSelectionMultipleAvecShift_DownKey" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_CROES_8230_Rel_TestDeSelectionMultipleAvecShift_ScrollDown" key="{DB6FADDA-E39B-4B64-9A7D-057E8CFCAFB5}" group="False" enabled="False" testMoniker="{67B1D204-82AA-4C1A-9707-5F5D40329653}CR1352_CROES_8230_Rel_TestDeSelectionMultipleAvecShift_ScrollDown" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_export_and_print" key="{747FFE23-6655-486A-B5A4-555C4926ACE2}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_0606_Rel_Validate_printing_in_the_Relationship_module_using_the_button" key="{965252C9-0DF6-4F0F-A9BF-F3C144D6CD37}" group="False" enabled="True" testMoniker="{289841E4-AABD-4E32-BF4D-5166191F347D}CR1352_0606_Rel_Validate_printing_in_the_Relationship_module_using_the_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0607_Rel_Validate_printing_in_the_Relationship_module_using_the_shortcut" key="{DAF3E16F-4D7D-4EA5-90AE-06C047A48210}" group="False" enabled="True" testMoniker="{59BAA69C-8E9C-433B-93A3-2B9C4646EFD7}CR1352_0607_Rel_Validate_printing_in_the_Relationship_module_using_the_shortcut" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0608_Rel_Validate_printing_in_the_Relationship_module_using_the_right_click" key="{4020D4B3-E294-4E1B-A512-3F0C9574AC69}" group="False" enabled="True" testMoniker="{CCD414D9-5657-4C3C-AEAF-18FCB4E803F5}CR1352_0608_Rel_Validate_printing_in_the_Relationship_module_using_the_right_click" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0609_Rel_Validate_printing_in_the_Relationship_module_using_the_file_menu" key="{26B739D2-3742-459D-A409-FEA575E550C5}" group="False" enabled="True" testMoniker="{853DE944-674D-4820-85C9-38326BC5FC68}CR1352_0609_Rel_Validate_printing_in_the_Relationship_module_using_the_file_menu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0611_Rel_Validate_export_to_MS_Excel" key="{EC3B7150-9C5E-48C8-92F3-3A0FC47DDF38}" group="False" enabled="True" testMoniker="{DA33138D-ECF6-4C41-92CD-E9C3C3DE5C73}CR1352_0611_Rel_Validate_export_to_MS_Excel" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0612_Rel_Validate_export_to_MS_Excel_of_some_relationships" key="{47598748-73D2-4554-B036-C8A6033B27D5}" group="False" enabled="True" testMoniker="{E9C0FB3D-7946-4E74-A1C2-9610F2FDEAF9}CR1352_0612_Rel_Validate_export_to_MS_Excel_of_some_relationships" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_quick_filters" key="{8C7A1D79-E9CD-4DFC-A5CE-8D5F3E3B8E0A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_0637_Rel_Create_a_temporary_filter" key="{71A0EED9-17B4-4092-8224-EDEBFD7FA297}" group="False" enabled="True" testMoniker="{9E97ECEB-36B9-4468-983C-219B186B3B35}CR1352_0637_Rel_Create_a_temporary_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0638_Rel_Add_a_permanent_filter" key="{EFA593F1-D3BE-48FB-8FC4-9F32F253A562}" group="False" enabled="True" testMoniker="{0EE01FC5-C96C-4EED-BC83-38216A4EE4C9}CR1352_0638_Rel_Add_a_permanent_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0639_Rel_Delete_a_permanent_filter" key="{B46D3FBD-7ED9-44BD-9903-B4F48DB56BDB}" group="False" enabled="False" testMoniker="{D3B3254B-4F67-4981-AE20-A82325644A93}CR1352_0639_Rel_Delete_a_permanent_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0640_Rel_Create_a_date_type_filter_with_value" key="{6D6BFF22-3EA1-4E02-9B00-279D854D8244}" group="False" enabled="True" testMoniker="{313C5B5A-A808-4519-8DC2-EF1F5C54770B}CR1352_0640_Rel_Create_a_date_type_filter_with_value" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0641_Rel_Create_a_date_type_filter_with_no_value" key="{DF7F6E24-1587-4F02-8CA1-7B91282AF9FB}" group="False" enabled="True" testMoniker="{5E53A0EF-2CC2-492D-A614-2283FC166F96}CR1352_0641_Rel_Create_a_date_type_filter_with_no_value" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0644_Rel_Create_a_Language_type_filter" key="{4BBB1E3B-9E30-4715-957D-CE50820C1D28}" group="False" enabled="True" testMoniker="{9C4FFFEE-DF72-4EEE-A76B-2532984756ED}CR1352_0644_Rel_Create_a_Language_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0645_Rel_Create_a_Currency_type_filter" key="{1806C0F7-1938-4EF3-B8D0-E726B888EDCC}" group="False" enabled="True" testMoniker="{675AC95D-E7A1-48B4-A2E1-E312B9B98622}CR1352_0645_Rel_Create_a_Currency_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0647_Rel_Create_a_Note_type_filter" key="{599766DD-0676-4FA7-A204-92CA34E38817}" group="False" enabled="True" testMoniker="{4EEE2744-9272-4535-AA97-5C5E6B394975}CR1352_0647_Rel_Create_a_Note_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0648_Rel_Create_a_City_and_Province_type_filter" key="{B7F9ED6F-C303-48A3-8F35-F24F15CF84C5}" group="False" enabled="True" testMoniker="{9E2A2304-6FE3-477C-8689-E148FEA4CBC5}CR1352_0648_Rel_Create_a_City_and_Province_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0649_Rel_Create_a_Margin_type_filter" key="{9CD86E23-786F-48C2-AF6A-E1A875277E55}" group="False" enabled="True" testMoniker="{E9998903-2089-4A29-9ACE-E1D7B041DAA6}CR1352_0649_Rel_Create_a_Margin_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0650_Rel_Create_a_Type_type_filter" key="{EE7A21CE-3442-4223-836A-FCE91506A61C}" group="False" enabled="True" testMoniker="{608ED368-31D0-46A3-BD2E-ABF38C4C8A8C}CR1352_0650_Rel_Create_a_Type_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0651_Rel_Create_an_Email_type_filter" key="{00D4AC51-DBF8-4492-B1E6-23AFD6D27A8F}" group="False" enabled="True" testMoniker="{6AB30DCF-EA32-4906-82BB-55B642AAEC4C}CR1352_0651_Rel_Create_an_Email_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0652_Rel_Create_a_Telephone_type_filter" key="{CCBEC67E-5097-4DBE-9842-0098BCD10F3A}" group="False" enabled="True" testMoniker="{DCF1BE3E-2483-40F2-BD6B-7B5F93204D61}CR1352_0652_Rel_Create_a_Telephone_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0653_Rel_Create_a_Total_Value_type_filter" key="{686E0F42-CFA5-4246-A0EC-958BA048972C}" group="False" enabled="True" testMoniker="{577830D1-A17C-424E-BAE9-8B0A460CCFF2}CR1352_0653_Rel_Create_a_Total_Value_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0654_Rel_Create_a_filter_with_no_value" key="{AD7C3C5E-7E26-4213-AB8A-687242A119D9}" group="False" enabled="True" testMoniker="{21B6FA00-28A7-43CE-B10A-EAE603D69199}CR1352_0654_Rel_Create_a_filter_with_no_value" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0655_Rel_Check_access_management_for_permanent_filters_User" key="{A2760F54-D0FD-4CD4-93A6-45F498EE5225}" group="False" enabled="True" testMoniker="{E85D5012-FF16-4392-9609-2B2E3A852F44}CR1352_0655_Rel_Check_access_management_for_permanent_filters_User" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0658_Rel_Check_access_management_for_permanent_filters_Global" key="{1E9B85FC-DCC4-4D1B-8B57-DF4C9B4499C7}" group="False" enabled="True" testMoniker="{1A6DFFBE-3765-40BD-8AEA-CC9DA9558429}CR1352_0658_Rel_Check_access_management_for_permanent_filters_Global" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0659_Rel_Check_access_management_for_permanent_filters_Branch" key="{99237707-A777-4D16-A6BA-59B8EEA2770D}" group="False" enabled="True" testMoniker="{58EE4633-1B46-40ED-9AB9-F4B91F32BF78}CR1352_0659_Rel_Check_access_management_for_permanent_filters_Branch" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0660_Rel_Check_access_management_for_permanent_filters_Firm" key="{BD933C90-7DA8-488A-A60E-A3FF2A605225}" group="False" enabled="True" testMoniker="{EE55BCAE-0273-46C9-B37E-81E8DA8B6386}CR1352_0660_Rel_Check_access_management_for_permanent_filters_Firm" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0661_Rel_Check_access_management_for_permanent_filters_Workgroup" key="{A5051B1D-CD19-4581-AFF8-7D38A39EEA6C}" group="False" enabled="True" testMoniker="{4C3A1A03-B617-464C-9680-6A1A70340A43}CR1352_0661_Rel_Check_access_management_for_permanent_filters_Workgroup" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0664_Rel_Create_a_filter_with_the_same_name_and_access" key="{56838763-E3AC-4531-BAFF-62313575B683}" group="False" enabled="True" testMoniker="{0C97FA7D-F7C3-47E0-80E4-0401D8945272}CR1352_0664_Rel_Create_a_filter_with_the_same_name_and_access" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0665_Rel_Create_a_filter_with_the_same_name_but_with_a_different_access" key="{2B2ABCB7-8443-431D-81D6-A23C854984D5}" group="False" enabled="True" testMoniker="{08E4DA1E-355E-4C29-9264-69C51C397A93}CR1352_0665_Rel_Create_a_filter_with_the_same_name_but_with_a_different_access" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0666_Rel_Activate_Deactivate_a_filter" key="{E0CA014E-4AD1-4409-AE6F-29BB42DEFF6E}" group="False" enabled="True" testMoniker="{8E895E59-11E9-4629-913B-34D1E9B29D1F}CR1352_0666_Rel_Activate_Deactivate_a_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0669_Rel_Edit_a_filter" key="{335D3591-C98E-4FCB-AA3C-8BD2EAF073BA}" group="False" enabled="False" testMoniker="{E70AF9F2-5244-4C33-9E3E-3494AFF3C18D}CR1352_0669_Rel_Edit_a_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0670_Rel_Remove_a_filter_from_the_bar" key="{290FF78C-90CD-4665-97F4-563CFC85EB17}" group="False" enabled="True" testMoniker="{579D2802-689E-46E6-AA45-38E0712A4C1B}CR1352_0670_Rel_Remove_a_filter_from_the_bar" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0673_Rel_Create_a_filter_by_dragging_an_item_to_another_module" key="{CFD4C379-5E62-4BE1-8949-9C570A325E2B}" group="False" enabled="True" testMoniker="{EE883186-3514-4CA9-9B75-1D0A26DC57B0}CR1352_0673_Rel_Create_a_filter_by_dragging_an_item_to_another_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0675_Rel_Check_the_presence_of_the_active_filters_after_restarting_the_application" key="{3D0CE068-0BA2-439B-952F-E5F90F0CA092}" group="False" enabled="True" testMoniker="{F6DA9786-BDA2-480D-97D3-93CA300FBDDA}CR1352_0675_Rel_Check_the_presence_of_the_active_filters_after_restarting_the_application" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0678_Rel_Check_the_presence_of_the_inactive_filters_after_restarting_the_application" key="{A194727C-93AA-496B-863C-EF4D0E3FC9D9}" group="False" enabled="True" testMoniker="{99243907-6E12-4EBD-B7B2-45F60E8C38C9}CR1352_0678_Rel_Check_the_presence_of_the_inactive_filters_after_restarting_the_application" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0685_Rel_Check_the_space_available_for_multiple_filters" key="{878CBC3B-CF58-49E7-9B5B-B7FF45D3D653}" group="False" enabled="True" testMoniker="{CC17DBF2-57AC-4852-8B2E-31B95573C2EA}CR1352_0685_Rel_Check_the_space_available_for_multiple_filters" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0689_Rel_Create_a_filter_in_the_filter_manager" key="{87DF05D8-89E9-46B9-9618-BC01823AC1AF}" group="False" enabled="True" testMoniker="{D0E6F01C-6C21-4934-B46B-6FEE0038B833}CR1352_0689_Rel_Create_a_filter_in_the_filter_manager" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0695_Rel_Create_an_IPS_type_filter" key="{D0068AEA-D60F-499F-A865-E8A5299D957B}" group="False" enabled="True" testMoniker="{88D61A9C-E988-46CE-B168-32BD42E935A8}CR1352_0695_Rel_Create_an_IPS_type_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0704_Rel_Search_for_a_filter" key="{E55FF2D9-33E3-41C3-BF06-E830549C7E0A}" group="False" enabled="True" testMoniker="{3685E251-0A6C-40A4-8D71-2AE36E3B1F72}CR1352_0704_Rel_Search_for_a_filter" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_2549_Rel_Create_a_temporary_relationship" key="{3087863A-BC93-4DE3-A769-FA80F8C75A1A}" group="False" enabled="True" testMoniker="{74EE7114-704D-475C-ABED-49467A03E57C}CR1352_2549_Rel_Create_a_temporary_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_search_criteria" key="{D95626C9-47B3-4714-8571-AB3AC406F4DB}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_0745_Rel_Create_a_search_criterion" key="{8201369B-C137-4B3C-A842-7A5725049904}" group="False" enabled="True" testMoniker="{B46D6EF4-08E6-4F3E-8C4D-331F9301BF18}CR1352_0745_Rel_Create_a_search_criterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0746_Rel_Edit_a_search_criterion" key="{02AFD809-412F-4E69-A1EB-80122DBA3F00}" group="False" enabled="True" testMoniker="{F572BB7C-B0D7-4077-8A7D-E4E617B70941}CR1352_0746_Rel_Edit_a_search_criterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0747_Rel_Delete_search_criterion" key="{90BA72B9-5D78-4495-903E-AC18E38F41E5}" group="False" enabled="True" testMoniker="{E6F88190-9245-4B88-B955-AE4A6880ABA0}CR1352_0747_Rel_Delete_search_criterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0748_Rel_Create_a_search_criterion_from_a_template" key="{BBCF0BBB-248A-4866-AE5B-E1E5AB85CBE0}" group="False" enabled="True" testMoniker="{C3468F93-ADDF-4A28-BDB7-E191F65B9CE1}CR1352_0748_Rel_Create_a_search_criterion_from_a_template" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0749_Rel_Save_the_display_of_a_default_criterion" key="{23E4BD2A-B479-4F58-85A7-E667F22A2ED8}" group="False" enabled="True" testMoniker="{49484557-735C-429B-9AEE-C2F2EB578B31}CR1352_0749_Rel_Save_the_display_of_a_default_criterion" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_the_creation_of_relationships" key="{388DE713-DD24-419B-96B8-11AA9998297D}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_0530_Rel_Add_a_relationship_with_the_plus_button" key="{211F5A4E-0A63-419F-94A7-1A5DC5F03F47}" group="False" enabled="True" testMoniker="{DC5D9C1F-F4F2-4128-9607-4179803D22A7}CR1352_0530_Rel_Add_a_relationship_with_the_plus_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0531_Rel_Add_a_relationship_by_right_clicking_the_mouse" key="{35D1A826-D655-4D97-AAA4-86EB3C686321}" group="False" enabled="False" testMoniker="{CE14DB6F-2E15-4F7A-89AE-0F81660BE60D}CR1352_0531_Rel_Add_a_relationship_by_right_clicking_the_mouse" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0532_Rel_Add_a_relationship_using_the_Edit_menu" key="{277A49E7-3ED8-49A2-8415-D242BA3159C2}" group="False" enabled="False" testMoniker="{1D59CAC8-9C34-4A5C-8DBF-149D9C2A781B}CR1352_0532_Rel_Add_a_relationship_using_the_Edit_menu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0533_Rel_Add_a_relationship_by_the_shortcut_CTRL_N" key="{D5663379-4AC9-408E-B567-B5DD45997488}" group="False" enabled="False" testMoniker="{05A463A5-EB2A-43A8-97B4-7DBAFF6F118E}CR1352_0533_Rel_Add_a_relationship_by_the_shortcut_CTRL_N" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0603_Rel_Cancel_adding_a_relationship" key="{D4A775D5-81A0-4DE5-8454-29343CA15F8F}" group="False" enabled="False" testMoniker="{2848F859-8548-4AE7-8002-98DEEE562A46}CR1352_0603_Rel_Cancel_adding_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_2469_Rel_Add_a_grouped_relationship" key="{BF833548-52E0-424E-BC8A-2F8BDAFF280F}" group="False" enabled="False" testMoniker="{ACC50736-FB5A-417D-B3FA-D3FA000E2B9F}CR1352_2469_Rel_Add_a_grouped_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_2884_Rel_Add_an_IPS_relationship" key="{671AFD48-B73B-4EA9-9ED3-B9B9CFB2D268}" group="False" enabled="True" testMoniker="{DBABE43C-C3A6-4EFA-AC55-7A0E13515EFA}CR1352_2884_Rel_Add_an_IPS_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_the_relationships_deletion" key="{EA18AFAA-9ECD-43BE-B099-5D715A43DC60}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_0598_Rel_Delete_a_relationship_with_the_Delete_button" key="{C05D0075-DC33-4F58-BEFD-E715FADC9DF2}" group="False" enabled="True" testMoniker="{6BCC80D9-68F1-49BD-9C7F-33BC553D98AD}CR1352_0598_Rel_Delete_a_relationship_with_the_Delete_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0599_Rel_Delete_a_relationship_with_the_mouse_right_click" key="{8BB14528-B129-4395-A2C4-EA2A188E2950}" group="False" enabled="False" testMoniker="{23B66A5F-9EBE-414E-B3E2-2B90B15B0D38}CR1352_0599_Rel_Delete_a_relationship_with_the_mouse_right_click" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0600_Rel_Delete_a_relationship_with_the_Edit_menu" key="{1E7E5786-FE45-448B-BD01-C558CABB4CBF}" group="False" enabled="False" testMoniker="{68BB9CFD-2C42-4C34-8452-078D5C4927F8}CR1352_0600_Rel_Delete_a_relationship_with_the_Edit_menu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0601_Rel_Delete_a_relationship_with_the_CTRL_D_shortcut" key="{0E3F0C33-8742-425D-A7EC-C8B43505DBAE}" group="False" enabled="False" testMoniker="{6CBD9E26-6D4F-4106-9079-22482FA00DE3}CR1352_0601_Rel_Delete_a_relationship_with_the_CTRL_D_shortcut" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0602_Rel_Cancel_the_deletion_action" key="{41EE7091-8F24-46E9-B7A1-FF338BE3CC60}" group="False" enabled="True" testMoniker="{F1E86D61-F311-4D27-BF12-25E564F529DD}CR1352_0602_Rel_Cancel_the_deletion_action" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0604_Rel_Remove_an_account_from_a_relationship" key="{C0FE03C2-A29F-4AA0-A915-EFAB0AD9FB24}" group="False" enabled="True" testMoniker="{99A14FB6-97E9-405E-A7C5-080C309B436E}CR1352_0604_Rel_Remove_an_account_from_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0605_Rel_Remove_a_client_from_a_relationship" key="{11FC388B-E610-4D30-9F11-7A51BE23562F}" group="False" enabled="True" testMoniker="{604959B5-0727-4D0D-8B87-A18CF75BAD4D}CR1352_0605_Rel_Remove_a_client_from_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0634_Rel_Delete_multiple_relationships_at_once" key="{119906EE-86B2-40EA-A614-4AD0A24C5141}" group="False" enabled="True" testMoniker="{6F0AF3E5-1846-4554-88C8-EA6F8B1850E1}CR1352_0634_Rel_Delete_multiple_relationships_at_once" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0636_Rel_Delete_a_grouped_relationship" key="{088C1B41-C069-477A-A303-7A2D553F0FF2}" group="False" enabled="True" testMoniker="{94422ABD-2B60-4F37-A893-499C75C4648A}CR1352_0636_Rel_Delete_a_grouped_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_the_relationships_update" key="{C3F55839-4577-4D9E-BB2C-6602CCD9F002}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_0534_Rel_Join_to_a_Grouped_relationship" key="{0EEA9920-0299-42DE-B614-ECDFAB87486A}" group="False" enabled="True" testMoniker="{E45AFECB-B778-43AB-AB72-48D62986821D}CR1352_0534_Rel_Join_to_a_Grouped_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0546_Rel_Edit_a_relationship_with_the_Info_button" key="{9C52B43D-6D74-4CEA-BFC0-394F808D2B79}" group="False" enabled="True" testMoniker="{6ED85502-F4F8-41A0-BA83-7C26241D3DEC}CR1352_0546_Rel_Edit_a_relationship_with_the_Info_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0547_Rel_Edit_a_relationship_with_a_double_click" key="{9A2CD580-8D00-4D66-82A9-B2603EBA8CAA}" group="False" enabled="True" testMoniker="{1DAA18CD-B70C-4E97-956C-1FCAF7A870D0}CR1352_0547_Rel_Edit_a_relationship_with_a_double_click" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0548_Rel_Join_real_clients_to_a_relationship" key="{11EE58D3-1324-469E-9FCF-6C562BB0C307}" group="False" enabled="True" testMoniker="{4C4168A2-ABEB-46A0-94DF-51E556270B37}CR1352_0548_Rel_Join_real_clients_to_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0549_Rel_Join_real_accounts_to_a_relationship" key="{C25E388B-5E5D-43E8-B9DE-E98C0A20A7DE}" group="False" enabled="True" testMoniker="{1261F2ED-3471-4A4E-83B7-AA356FD2121C}CR1352_0549_Rel_Join_real_accounts_to_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0550_Rel_Join_external_clients_to_a_relationship" key="{17EEB308-551F-4974-ADEA-7A12AAC486EC}" group="False" enabled="True" testMoniker="{89EC7E19-66CD-4866-83DE-6F0DA61B95FA}CR1352_0550_Rel_Join_external_clients_to_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0580_Rel_Join_fictitious_clients_to_a_relationship" key="{1E7BB35E-DE50-4C05-8DFD-A002CB74F908}" group="False" enabled="True" testMoniker="{F1F1E80F-C898-4DE6-A490-38597E4CE5DA}CR1352_0580_Rel_Join_fictitious_clients_to_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0585_Rel_Update_client_bound_to_a_relationship" key="{803E341B-8B92-4C1A-A66E-9285561F3A21}" group="False" enabled="True" testMoniker="{D0BC60E4-C1DF-4D97-8822-B1318030ADD2}CR1352_0585_Rel_Update_client_bound_to_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0613_Rel_Error_when_adding_a_fictitious_account_to_a_relationship_assigned_to_a_model" key="{99E81C2E-688A-47C1-A101-86446EF8FAD2}" group="False" enabled="True" testMoniker="{A0392F87-8CEB-4ABA-8C1D-E40E72FF3FD1}CR1352_0613_Rel_Error_when_adding_a_fictitious_account_to_a_relationship_assigned_to_a_model" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0614_Rel_Error_when_adding_account_to_relationship_B_if_account_is_already_assigned_to_relationship_A " key="{A5495B74-5464-4922-95BD-87499D934AA0}" group="False" enabled="True" testMoniker="{43DE54B1-4B8E-4C1A-B215-1EC42578439D}CR1352_0614_Rel_Error_when_adding_account_to_relationship_B_if_account_is_already_assigned_to_relationship_A" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0617_Rel_Error_when_adding_an_account_already_assigned_to_a_mode" key="{0961B3ED-10DA-483B-ABDC-CE7331D9981C}" group="False" enabled="True" testMoniker="{5D03F9D4-F691-4473-9E45-596A00A6994A}CR1352_0617_Rel_Error_when_adding_an_account_already_assigned_to_a_model" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0635_Rel_Edit_a_grouped_relationship" key="{F9A275D3-1D8F-410E-9B4A-5A708BC8501D}" group="False" enabled="True" testMoniker="{BABFA76B-BC80-4106-BCD6-373D861D99F7}CR1352_0635_Rel_Edit_a_grouped_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="Validate_the_varios_elements_of_the_interface" key="{9A90CD59-20DF-4B1A-AFCF-18F236B5CDE3}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1352_0581_Rel_Validate_operation_of_the_Info_icon" key="{11C88035-A8F9-4C4F-A389-9A439490C74A}" group="False" enabled="True" testMoniker="{F0E4B20E-CF54-4329-888C-0204A81853AD}CR1352_0581_Rel_Validate_operation_of_the_Info_icon" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0582_Rel_Validate_a_client_performance_in_a_relationship" key="{49E08BEC-AC03-48B2-9D13-A92387842CC5}" group="False" enabled="True" testMoniker="{5C0B7184-7669-4FF3-A414-0F69BE289E55}CR1352_0582_Rel_Validate_a_client_performance_in_a_relationship" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0583_Rel_Validate_the_operation_of_the_Relationships_Sum_button" key="{01C95356-5808-44D3-8DEA-7F5884435F8C}" group="False" enabled="True" testMoniker="{409B7215-5D01-4457-92D0-9F8E76C06633}CR1352_0583_Rel_Validate_the_operation_of_the_Relationships_Sum_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0584_Rel_Validate_the_relationships_search_with_keyboard_shortcut" key="{E7C8792A-AC7F-422F-A4CB-DCE523940902}" group="False" enabled="True" testMoniker="{05408B38-3525-4775-A414-583361517E0C}CR1352_0584_Rel_Validate_the_relationships_search_with_keyboard_shortcut" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0593_Rel_Validate_the_grouped_relationships_search_with_keyboard_shortcut" key="{8B93FFEA-C394-4879-B77D-8A6EACE96498}" group="False" enabled="True" testMoniker="{625FF1DD-81C1-4DFE-B544-4B7D99625B01}CR1352_0593_Rel_Validate_the_grouped_relationships_search_with_keyboard_shortcut" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0615_Rel_Validate_relationships_search_by_the_Search_button" key="{0B77FA0A-B9C7-43D2-82B6-B0DE6A38B3CD}" group="False" enabled="True" testMoniker="{004AA49D-6D28-4E9F-A901-98EA822F182B}CR1352_0615_Rel_Validate_relationships_search_by_the_Search_button" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0616_Rel_Validate_relationships_search_by_the_Edit_menu" key="{FD4863E8-DDD8-4C17-8544-DCB28C72B7B3}" group="False" enabled="True" testMoniker="{58F294EB-679C-493C-BC79-1D97321E2F5A}CR1352_0616_Rel_Validate_relationships_search_by_the_Edit_menu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0618_Rel_Add_a_column_in_the_Relationships_module" key="{415C520F-670C-44CC-B166-C4B46B101FFA}" group="False" enabled="True" testMoniker="{B9EFA778-ED2F-4D53-A062-35D4AD644E65}CR1352_0618_Rel_Add_a_column_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0619_Rel_Remove_a_column_in_the_Relationships_module" key="{6CDAAD9C-67FF-4AFA-87A9-B601D1877C80}" group="False" enabled="True" testMoniker="{CA62BD37-0D89-430E-B3C4-8F0E629E8F62}CR1352_0619_Rel_Remove_a_column_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0620_Rel_Replace_a_column_in_the_Relationships_module" key="{A0A39F98-51EC-49A4-A839-D541F0B7E4D5}" group="False" enabled="True" testMoniker="{349E7E6E-FE2E-491D-A16A-B0702E8700C6}CR1352_0620_Rel_Replace_a_column_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0621_Rel_Insert_a_field_in_the_Relationships_module" key="{5074382B-1F57-43F2-A1B3-84F3E0813AA5}" group="False" enabled="True" testMoniker="{3DE2C87B-8ABA-4CD3-ABB6-C0063DE3F812}CR1352_0621_Rel_Insert_a_field_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0622_Rel_Remove_a_field_in_the_Relationships_module" key="{F0B33009-8C61-4489-B49F-66F619321FB9}" group="False" enabled="True" testMoniker="{E90FA9DC-2115-4E00-B30B-088C202A482A}CR1352_0622_Rel_Remove_a_field_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0630_Rel_Change_the_position_of_a_field_in_the_Relationships_module" key="{489CD778-5C97-482A-BB4C-5F690F8A01F7}" group="False" enabled="True" testMoniker="{0B5ADC61-E33B-459E-80CB-5985F688428E}CR1352_0630_Rel_Change_the_position_of_a_field_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0631_Rel_Change_the_position_of_a_column_in_the_Relationships_module" key="{F8493D3C-F687-452B-8B03-60F993813C90}" group="False" enabled="True" testMoniker="{0F7AE20A-995C-410C-861D-3E17ED3EBAFA}CR1352_0631_Rel_Change_the_position_of_a_column_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1352_0632_Rel_Validate_the_default_configuration_of_column_display_in_the_Relationships_module" key="{B840FF47-9BE9-467E-A6B3-B66BA62A5D44}" group="False" enabled="True" testMoniker="{A60187BE-D726-442F-A02E-DD005BDF4E86}CR1352_0632_Rel_Validate_the_default_configuration_of_column_display_in_the_Relationships_module" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1473" key="{C9A2031A-53EB-49EF-AEA5-550035618D6B}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{0B8BB5C5-11A4-448D-B42D-05E45DEA180A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1473_CROES_7670_NewMethodOfAssignAccounRelatiDoesNotWork" key="{D08403B3-09A5-46F8-84D1-8797B3C3C6C2}" group="False" enabled="True" testMoniker="{8E4C2301-8617-4D45-BD7C-2DC7159E6048}CR1473_CROES_7670_NewMethodOfAssignAccounRelatiDoesNotWork" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1483" key="{7F7777DE-8D9A-4B41-8C5F-7AE99605BC06}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="CR1483_Rel_Check_BranchSelection_IACodes" key="{5E771755-F46F-43BC-949E-91E4AEE4B819}" group="False" enabled="True" testMoniker="{5951EB21-7E91-4265-9495-E784552B7B8D}CR1483_Rel_Check_BranchSelection_IACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Rel_Check_UserSelection_IACodes" key="{587427F4-C036-4F2D-9519-A0145E8521C2}" group="False" enabled="True" testMoniker="{C38135DB-78F3-44A5-B875-40637470D84D}CR1483_Rel_Check_UserSelection_IACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Rel_CheckErrorMsgPrefMaxWorkAs" key="{130B6176-7F79-4C97-99D6-A04E99C6141B}" group="False" enabled="True" testMoniker="{F905BB0C-6118-441D-8D3D-11179CE190FB}CR1483_Rel_CheckErrorMsgPrefMaxWorkAs" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Rel_CheckErrorMsgPrefMaxWorkAs_TabIACodes" key="{495A7D4C-D8D7-4855-AAD8-4D1BF73EC82E}" group="False" enabled="True" testMoniker="{3FFBBAE5-6391-44D2-ABA4-26D32E0EA923}CR1483_Rel_CheckErrorMsgPrefMaxWorkAs_TabIACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Rel_CheckErrorMsgPrefMaxWorkAs_TabUsers" key="{72747A19-EFAF-472E-9AE8-D05F4ED981F2}" group="False" enabled="True" testMoniker="{A7242581-B1AB-4FEB-8808-281C45472C57}CR1483_Rel_CheckErrorMsgPrefMaxWorkAs_TabUsers" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Rel_RememberMySelection" key="{2BC305C6-717E-492A-911D-D2BF6BEA7045}" group="False" enabled="True" testMoniker="{6FB11038-22CC-4998-8917-4822E9043EF7}CR1483_Rel_RememberMySelection" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Rel_RememberMySelection_Tab_IACodes" key="{7DACED20-F4FB-4965-B796-B240BD925990}" group="False" enabled="True" testMoniker="{0556CCFB-07C1-4266-BD23-076183AD05E6}CR1483_Rel_RememberMySelection_TabIACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_rel_RememberMySelection_TabUsers" key="{6943A1F0-05FE-4CB4-89EF-3CCBDE562E77}" group="False" enabled="True" testMoniker="{FA871A9B-77C1-4E41-9481-2EFAE5D02ACA}CR1483_Rel_RememberMySelection_TabUsers" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Rel_Survol_Users_Selection_TabBranches" key="{7C7DA35E-A88D-457A-8BD1-04C2A43CFCD8}" group="False" enabled="True" testMoniker="{1CA02FDF-DF7D-46DA-A136-C4C2E5DCC90F}CR1483_Rel_Survol_Users_Selection_TabBranches" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Rel_Survol_Users_Selection_TabIACodes" key="{A5743ED5-E851-4F9D-B363-4E749FB2ADA3}" group="False" enabled="True" testMoniker="{121B24D0-1433-4192-BCAD-8D6359993EAE}CR1483_Rel_Survol_Users_Selection_TabIACodes" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1483_Rel_Survol_Users_selection_TabUsers" key="{7BEB4E3D-FA60-4E33-9174-6E72FEB6751C}" group="False" enabled="True" testMoniker="{2933D254-2829-4C73-AA8A-46D064BD530D}CR1483_Rel_Survol_Users_Selection_TabUsers" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1490_CR1764" key="{ED9293F1-67F0-49EE-ADF3-DF104BD63D35}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="CR1490_CR1764_6289_Rel_ValidateAddProfilesForREAGAR_PrefIs5" key="{3C94E51E-5A0C-467F-A0E1-C7EAE58958AF}" group="False" enabled="True" testMoniker="{17242FDC-BE43-4502-99DB-5FF4B22FF31C}CR1490_CR1764_6289_Rel_ValidateAddProfilesForREAGAR_PrefIs5" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1490_CR1764_6290_Rel_ValidateAddProfilesForADAMSJ_PrefIs1" key="{AE0528D0-441E-4BE0-9084-EE3CC91AABC5}" group="False" enabled="True" testMoniker="{9F14EC6A-27B4-47B4-8ED1-128A48510618}CR1490_CR1764_6290_Rel_ValidateAddProfilesForADAMSJ_PrefIs1" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1490_CR1764_6291_Rel_ValidateAddProfilesForKEYNEJ_PrefIs15" key="{65828395-7888-4568-94F2-5A0C1E67E362}" group="False" enabled="True" testMoniker="{3E3C659A-68EB-403F-A826-126290CA898B}CR1490_CR1764_6291_Rel_ValidateAddProfilesForKEYNEJ_PrefIs15" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1490_CR1764_6302_Cli_ValidateAddProfilesClientsForREAGAR_PrefIs5" key="{A1033615-29AF-4413-B781-17033E929340}" group="False" enabled="True" testMoniker="{09682BC7-373D-4C64-8B0A-5D5CCB98B214}CR1490_CR1764_6302_Cli_ValidateAddProfilesClientsForREAGAR_PrefIs5" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1490_CR1764_6303_Cli_ValidateAddProfilesClientsForKEYNEJ_PrefIs15" key="{03BF57A2-941E-4CF4-BA4B-B8409B212811}" group="False" enabled="True" testMoniker="{FB010226-7C79-4F1D-8E7C-26513A6A4385}CR1490_CR1764_6303_Cli_ValidateAddProfilesClientsForKEYNEJ_PrefIs15" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1490_CR1764_6304_Acc_ValidateAddProfilesAccountsForADAMSJ_PrefIs1" key="{85150D16-31EC-4789-85DE-DE8831FF5F51}" group="False" enabled="True" testMoniker="{5BFB64BD-5BDE-4FC5-8C25-D31A7BD290F1}CR1490_CR1764_6304_Acc_ValidateAddProfilesAccountsForADAMSJ_PrefIs1" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1490_CR1764_6306_Tit_ValidateAddProfilesSecuritiesForADAMSJ_PrefIs1" key="{9E2595EA-E598-494C-9835-606A6088D076}" group="False" enabled="True" testMoniker="{59123091-6B83-4D50-B893-DFB3BCC56547}CR1490_CR1764_6306_Tit_ValidateAddProfilesSecuritiesForADAMSJ_PrefIs1" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1501" key="{C9A4BA8B-F9AD-43A8-B5DB-82A8FA59A714}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{BC43E2FB-1AB8-42B1-861A-A74B272C741A}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CROES_10678_Rel_FieldDateReferenceNotesMustBeEmptyDefaults" key="{DC93B083-5207-4CD8-85CF-9DDE1C8C3DB0}" group="False" enabled="True" testMoniker="{E14FE64A-8145-4020-B939-06EF63D9EA0A}CROES_10678_Rel_FieldDateReferenceNotesMustBeEmptyDefaults" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CROES_11141_Rel_WhenAddingFilterByCreationDateTheCrashApplication" key="{B71032CF-81F1-4B02-89D6-44B8FF54B8C3}" group="False" enabled="True" testMoniker="{F88A1D58-6B1E-4E2F-9735-003FEFB6A33B}CROES_11141_Rel_WhenAddingFilterByCreationDateTheCrashApplication" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+					<testItem name="CR1501_1264_Rel_ValidatingTheDeletionOfRevisionNote" key="{4290A0AE-19A8-424F-AA9D-D1E28D575A36}" group="False" enabled="True" testMoniker="{EA6F7A47-AF26-4A69-9E6B-9E249F634592}CR1501_1264_Rel_ValidatingTheDeletionOfRevisionNote" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1265_Rel_ValidationOfTheAdditionOfARevisionNote" key="{B8E6240C-181B-41B9-B992-54022CBA9863}" group="False" enabled="True" testMoniker="{9FA5F750-D7B0-4B8C-9049-516C25B0C546}CR1501_1265_Rel_ValidationOfTheAdditionOfARevisionNote" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1266_Rel_ValidateModificationOfAnExistingNoteToCheck_Revision" key="{8C4326E2-2A30-4219-9D99-68BC6E004754}" group="False" enabled="True" testMoniker="{F1528DFD-7EB4-4B3A-AF41-5F860D0A72EA}CR1501_1266_Rel_ValidateModificationOfAnExistingNoteToCheck_Revision" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1268_Rel_ValidateAddingNotesToRelationshipFromThe_AddANotePopUpMenu" key="{AF0A0C71-5104-4CBD-9484-6340448A35EF}" group="False" enabled="True" testMoniker="{27A59BFF-5E1E-471F-8723-414240686FF2}CR1501_1268_Rel_ValidateAddingNotesToRelationshipFromThe_AddANotePopUpMenu" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1275_Rel_Not_ModifyingCreatedNoteWithInfoButtonTheSameDayAndByAnotherUser" key="{B6271A6E-C086-4E0E-975E-CFEB967C5544}" group="False" enabled="True" testMoniker="{6B9F0AF4-EF09-46EC-B4D6-71E3FC51BB51}CR1501_1275_Rel_Not_ModifyingCreatedNoteWithInfoButtonTheSameDayAndByAnotherUser" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1276_Rel_ValidationDeletionOfNoteCreatedClickRightTheSameDayAndByTheSameUser" key="{69957516-F4CB-408D-AE15-D10C148889A3}" group="False" enabled="True" testMoniker="{68E59A2D-2456-4E42-BFDD-5D197128D772}CR1501_1276_Rel_ValidationDeletionOfNoteCreatedClickRightTheSameDayAndByTheSameUser" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1277_Rel_Not_DeletingCreatedNoteClickRightTheSameDayAndByAnotherUser" key="{96263017-F0CB-4F8D-BD19-C2D566AE9750}" group="False" enabled="True" testMoniker="{F4C071A1-E053-42EB-BB59-D1A31A25926E}CR1501_1277_Rel_Not_DeletingCreatedNoteClickRightTheSameDayAndByAnotherUser" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1278_Rel_NotDeleting_NoteThatIsNotCreatedTheSameDayButWithTheSameUser" key="{63F39DEB-B570-47A7-8B5C-C70D9DD9EBFF}" group="False" enabled="True" testMoniker="{95A47699-3264-4787-9346-111BB4B451FA}CR1501_1278_Rel_NotDeleting_NoteThatIsNotCreatedTheSameDayButWithTheSameUser" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1280_Rel_DeletingCreatedNoteWithInfoButtonTheSameDayAndByTheSameUser" key="{907C3810-E238-4704-ABE4-A3020F2BB06E}" group="False" enabled="True" testMoniker="{BF209A80-8CE7-4E31-BF44-C83567D2DEE9}CR1501_1280_Rel_DeletingCreatedNoteWithInfoButtonTheSameDayAndByTheSameUser" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1282_Rel_ValidationOfTheSearchWithTheFilterByCreationDateAndOperatorIsEqualTo" key="{4BBE3E49-C0C1-40FF-9A92-6178FCE83428}" group="False" enabled="True" testMoniker="{3E62C429-D6A2-4EB3-B318-E7E8D5580EBE}CR1501_1282_Rel_ValidationOfTheSearchWithTheFilterByCreationDateAndOperatorIsEqualTo" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1291_Rel_FiltersearchByDateModifiedAndOperatorIsIsLaterThan" key="{4D6CEF3D-5BF7-461D-9A9A-CC89318C019E}" group="False" enabled="True" testMoniker="{34BB145C-5A7E-41C5-BB62-0032C606D13D}CR1501_1291_Rel_FiltersearchByDateModifiedAndOperatorIsIsLaterThan" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1299_Rel_SearchWithFilterByNoteAndOperatorIsNotContaining" key="{F4E4B530-1B93-4DCC-B46B-802AC8BCE2B4}" group="False" enabled="True" testMoniker="{FE34806D-9E1F-4681-8832-04047EBDE4E3}CR1501_1299_Rel_SearchWithFilterByNoteAndOperatorIsNotContaining" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1309_Rel_SearchWithTheFilterByDateCreatedDateModifiedNoteAndCreatedBy" key="{C1022089-BFB5-4F1E-8556-E0C3E0A97CBC}" group="False" enabled="True" testMoniker="{C27F6A18-17A6-45AA-955F-D3E8E714FECC}CR1501_1309_Rel_SearchWithTheFilterByDateCreatedDateModifiedNoteAndCreatedBy" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1313_Rel_ValidationOfNotePrintingWithAltP" key="{25BDFB48-5043-4C46-9D3C-1F23D0A6841D}" group="False" enabled="False" testMoniker="{82284D29-C1DC-4817-BD06-2458E02A7884}CR1501_1313_Rel_ValidationOfNotePrintingWithAltP" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1319_Rel_ValidationOfThePresenceOfPredefinedSentenceCreatedByTheUNI00User" key="{B5E40FEA-25FD-4F42-8043-5796BED7FAF3}" group="False" enabled="True" testMoniker="{5FEC6EE4-E139-4340-8225-A43F553C395F}CR1501_1319_Rel_ValidationOfThePresenceOfPredefinedSentenceCreatedByTheUNI00User" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1322_Rel_ValidationOfThDeletionOfPredefinedSentenceWhenEnteringNoteWithClickRight" key="{A67C63C1-CE45-4271-92D2-6E8442663122}" group="False" enabled="True" testMoniker="{83209E91-AC29-48B6-B521-6563FE10CA0D}CR1501_1322_Rel_ValidationOfThDeletionOfPredefinedSentenceWhenEnteringNoteWithClickRight" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1325_Rel_NoDeletPredefinedSentenceWhenEnteringNoteWithInfoAndOtherUser" key="{B0A8757A-4010-41D1-B617-5129DB758BE5}" group="False" enabled="True" testMoniker="{349BB8BD-ED91-4534-B011-E80F85FF7A74}CR1501_1325_Rel_NoDeletPredefinedSentenceWhenEnteringNoteWithInfoAndOtherUser" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="CR1501_1344_Rel_ValidationAnnualReviewWhenAddingANoteOnSeveralRelationships" key="{A45C16A2-6563-4B57-8B81-30BBFB01B786}" group="False" enabled="True" testMoniker="{BE830F6B-6F46-4238-995C-D85027F445AE}CR1501_1344_Rel_ValidationAnnualReviewWhenAddingANoteOnSeveralRelationships" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="CR1793" key="{04EBB072-D8C7-4EA2-A5EB-5D3E169AB9C7}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Anomalies" key="{5E8A988B-427C-4739-922B-4071F144F9D1}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children>
+							<testItem name="CR1793_BNC_1178_Rel_CheckValTotalRelFamilFirm" key="{07A352AF-C0F0-435B-84B2-5AA360E0710C}" group="False" enabled="True" testMoniker="{1D1ACFD5-46C8-4965-976C-80129CF73791}CR1793_BNC_1178_Rel_CheckValTotalRelFamilFirm" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+							<testItem name="CR1793_BNC_1145_Rel_DisponiRelationDansPicker" key="{FA772FD5-9AEF-4604-93E1-EDB078DD3609}" group="False" enabled="True" testMoniker="{E493DB95-DBFC-450B-9BA1-8D21CCECD8B9}CR1793_BNC_1145_Rel_DisponiRelationDansPicker" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+								<testParameters />
+								<children />
+							</testItem>
+						</children>
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="Regression" key="{2C748EE0-DE95-4215-8068-040860D7A670}" group="True" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Regression_Croes_4207_Rel_ManageRelationshipProfiles" key="{1A81C43D-24AF-4D6F-B2B6-3CCF679DF49E}" group="False" enabled="True" testMoniker="{E7391331-4632-49EE-A3E9-22E418A2C36A}Regression_Croes_4207_Rel_ManageRelationshipProfiles" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4220_Rel_AddRestrictionToRelationShip" key="{73627A45-7124-4142-AF28-C41D0D51DD31}" group="False" enabled="True" testMoniker="{0F8A3645-772F-4FC4-A62B-8EFC9A36E433}Regression_Croes_4220_Rel_AddRestrictionToRelationShip" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_4436_Rel_MaillageToOtherModulesFromDetailsSection" key="{D585CC51-4B00-4744-A85F-0C5A466932B8}" group="False" enabled="True" testMoniker="{68D56D16-383E-4FE0-8ECD-943F10FE2163}Regression_Croes_4436_Rel_MaillageToOtherModulesFromDetailsSection" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_6277_Rel_ValidateAddReportsFilesToDocument" key="{08708041-C64D-44F0-9839-6227B6518D13}" group="False" enabled="True" testMoniker="{6DFE572F-9172-44BA-B497-64B733838BE0}Regression_Croes_6277_Rel_ValidateAddReportsFilesToDocument" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+					<testItem name="Regression_Croes_6278_Rel_ValidateAddAndDeleteDocuments" key="{9CDA1311-DE3C-4905-840E-801D8F7097E1}" group="False" enabled="True" testMoniker="{66D1C378-6B64-42F7-80CC-C64A67370B83}Regression_Croes_6278_Rel_ValidateAddAndDeleteDocuments" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="ExecutionLog" key="{EE6027E4-ACA2-48F5-B17D-E3F36D4E9CC7}" group="False" enabled="True" testMoniker="{9DCD178B-E2FD-442D-886F-95356738D6CC}ExecutionLog" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+				<testParameters />
+				<children />
+			</testItem>
+		</children>
+	</testItems>
+	<variables key="{959613B1-FE6C-4E11-859E-9E315536D265}">
+		<data Version="3" />
+	</variables>
+	<settings key="{416728E4-75A3-47F8-8DBD-B5595E2FBFC1}">
+		<settingsVersion value="14.30" />
+		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />
+		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Use all processes" />
+				<row val0="Use only tested applications" />
+				<row val0="Use only selected processes" />
+				<row val0="Ignore selected processes" />
+				<row val0="Ignore all processes" />
+			</data>
+		</setting>
+		<setting name="ApplicationHangingProcessList" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="ApplicationHangingTimeout" type="2" value="30000" />
+		<setting name="AzureDevOps_CollectionID" type="5" value="" />
+		<setting name="AzureDevOps_ProjectID" type="5" value="" />
+		<setting name="AzureDevOps_ServerName" type="5" value="" />
+		<setting name="AzureDevOps_TeamProject" type="5" value="" />
+		<setting name="AzureDevOps_TeamProjectCollection" type="5" value="" />
+		<setting name="AzureDevOps_URL" type="5" value="" />
+		<setting name="CLRBridge_PreferredApartmentModel" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Does not matter" />
+				<row val0="Single-threaded apartment" />
+				<row val0="Multi-threaded apartment" />
+			</data>
+		</setting>
+		<setting name="CLRBridge_PreferredArchitecture" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="The same as the operating system" />
+				<row val0="32-bit" />
+				<row val0="64-bit" />
+			</data>
+		</setting>
+		<setting name="CLRBridge_SelectedComponents" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="1" enabled="True" />
+			</columns>
+			<data>
+				<row val0="System.Management.Automation, version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" val1="True" />
+			</data>
+		</setting>
+		<setting name="CountProcessesOfAllUsers" type="1" value="True" />
+		<setting name="DbgServices_Active" type="1" value="True" />
+		<setting name="DbgServices_DepthShown" type="2" value="10" />
+		<setting name="DbgServices_EnableEvents" type="1" value="True" />
+		<setting name="DbgServices_Priority" type="6" rowIndex="3" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="pmLowest" />
+				<row val0="pmLower" />
+				<row val0="pmNormal" />
+				<row val0="pmHigher" />
+				<row val0="pmHighest" />
+			</data>
+		</setting>
+		<setting name="DbgServices_UseExtendedDebugger" type="1" value="True" />
+		<setting name="DraggingDelay" type="2" value="5" />
+		<setting name="General_CurrentImageFormat" type="5" value="126_0_0_0_97_113_115_111_1_0_0_0_4_0_0_0_114_0_111_0_111_0_116_0_1_0_0_0_9_0_0_0_102_0_111_0_114_0_109_0_97_0_116_0_107_0_101_0_121_0_1_0_0_0_38_0_0_0_123_0_66_0_65_0_55_0_52_0_53_0_49_0_54_0_57_0_45_0_70_0_51_0_52_0_68_0_45_0_52_0_55_0_49_0_48_0_45_0_66_0_51_0_55_0_70_0_45_0_68_0_53_0_69_0_70_0_69_0_56_0_65_0_53_0_49_0_51_0_51_0_57_0_125_0_1_0_0_0_16_0_0_0_112_0_110_0_103_0_99_0_111_0_110_0_102_0_105_0_103_0_117_0_114_0_97_0_116_0_105_0_111_0_110_0_2_0_0_0_16_0_0_0_99_0_111_0_109_0_112_0_114_0_101_0_115_0_115_0_105_0_111_0_110_0_108_0_101_0_118_0_101_0_108_0_0_0_0_0_4_0_0_0_10_0_0_0_105_0_110_0_116_0_101_0_114_0_108_0_97_0_99_0_101_0_100_0_5_0_0_0_0_0_0_0_0_0_" />
+		<setting name="General_DisableDWMBeforeCapturingImage" type="1" value="True" />
+		<setting name="General_ImageFormat" type="5" value="Format: PNG; Compression level: 4" />
+		<setting name="General_ObjectTreeModel" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Tree" />
+				<row val0="Flat" />
+			</data>
+		</setting>
+		<setting name="General_ProjectLogLocation" type="5" value="Log" />
+		<setting name="General_UnitsEncoding" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="UTF-16" />
+				<row val0="UTF-8" />
+				<row val0="ANSI" />
+				<row val0="Auto" />
+			</data>
+		</setting>
+		<setting name="HipTest_ProjectID" type="2" value="-1" />
+		<setting name="HipTest_ProjectName" type="5" value="The current project is not bound to HipTest." />
+		<setting name="HipTest_SaveResults" type="1" value="True" />
+		<setting name="HipTest_SynchronizeBeforeRun" type="1" value="True" />
+		<setting name="HipTest_SynchronizeOnOpening" type="1" value="True" />
+		<setting name="HipTest_SynchronizeTestRun" type="1" value="False" />
+		<setting name="HipTest_TestRunID" type="5" value="" />
+		<setting name="HipTest_TestRunName" type="5" value="[Test run created last]" />
+		<setting name="JavaBridge_Classes" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="JavaBridge_ClassPaths" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="JavaFXOpenApp_DoNotRecognizeJavaFXStageAsAWTComponent" type="1" value="True" />
+		<setting name="JavaFXOpenApp_ExposedCustomNodes" type="6" rowIndex="-1" colIndex="2">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="JavaFXOpenApp_NodeByClassNameFilters" type="6" rowIndex="7" colIndex="2">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="1" enabled="True" />
+			</columns>
+			<data>
+				<row val0="False" val1="*" val2="False" />
+				<row val0="True" val1="javafx.scene.SubScene" val2="True" />
+				<row val0="True" val1="javafx.scene.control.Control" val2="True" />
+				<row val0="True" val1="javafx.scene.web.WebView" val2="False" />
+				<row val0="False" val1="javafx.scene.canvas.Canvas" val2="True" />
+				<row val0="False" val1="javafx.scene.image.ImageView" val2="True" />
+				<row val0="False" val1="javafx.scene.media.MediaView" val2="True" />
+				<row val0="True" val1="com.sun.javafx.scene.control.skin.ContextMenuContent$MenuItemContainer" val2="True" />
+			</data>
+		</setting>
+		<setting name="JavaOpenApp_DoNotRecognizeChildSWTAsParent" type="1" value="False" />
+		<setting name="KeyPressingDelay" type="2" value="0" />
+		<setting name="MouseMovementDelay" type="2" value="0" />
+		<setting name="ObjectMapping_Objects" type="6" rowIndex="-1" colIndex="3">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="OpenApps_ActivateSystemProcesses" type="1" value="False" />
+		<setting name="OpenApps_DbgAgent_AdvancedExceptionHandling" type="1" value="True" />
+		<setting name="OpenApps_DbgAgent_CombineClassDefinitions" type="1" value="False" />
+		<setting name="OpenApps_DbgAgent_EnableDebugAgent" type="1" value="True" />
+		<setting name="OpenApps_DbgAgent_StringLengthLimit" type="2" value="1024" />
+		<setting name="OpenApps_DbgAgent_UseStaticLibs" type="1" value="True" />
+		<setting name="OpenApps_EnableMultipleNamesForObjects" type="1" value="False" />
+		<setting name="OpenApps_FlashFlex_InstallFlashInjector" type="1" value="False" />
+		<setting name="OpenApps_FlashFlex_TrustedLocations" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="True" val1="%PRODUCT_LOCATION%\Open Apps\Flex\FlashInjector.swf" />
+			</data>
+		</setting>
+		<setting name="OpenApps_HybridMobile_AccessPolicy" type="1" value="False" />
+		<setting name="OpenApps_HybridMobile_DynamicIdentifiers" type="6" rowIndex="30" colIndex="9">
+			<columns>
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Yahoo! UI library" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;yui-gen&quot;" val5="Wildcard" val6="yui-gen*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;yui_3_&quot;" val5="Wildcard" val6="*yui_3_*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="jQuery UI library" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="3" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;ui-id-&quot;" val5="Wildcard" val6="ui-id-*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Dojo toolkit" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="5" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;dijit_&quot;" val5="Wildcard" val6="dijit_*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Other" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Do not use IDs containing GUID" val5="RegExp" val6="\h+-\h+-\h+-\h+-\h+" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Remove leading characters from IDs like &quot;c1114509959-searchform&quot;" val5="RegExp" val6="^[A-Za-z](\d\d\d\d\d+){[A-Za-z-]*}$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Remove trailing digits from IDs like &quot;unique-123456&quot;" val5="RegExp" val6="^{[A-Za-z-]+}(\d\d\d\d\d+)$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="ASP.NET" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="11" val1="-1" val2="False" val3="True" val4="Do not use IDs ending with a string like &quot;ctl00&quot;" val5="RegExp" val6="^(.*[-_$])?(ctl[0-9]+)$" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="11" val1="-1" val2="False" val3="True" val4="Remove GUIDs and ctl00-like prefixes from Sharepoint IDs" val5="RegExp" val6="(.+?_(\h+_\h+_\h+_\h+_\h+))+(.*ctr?l[0-9]+)?[_$]?{.*}$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="11" val1="-1" val2="False" val3="True" val4="For IDs containing a string like &quot;ctl00_&quot;, leave only symbols after this string" val5="RegExp" val6=".*(ctl[0-9]+[-_$]+){.*}" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha ExtJS" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-gen&quot;" val5="RegExp" val6="^(.*-)?ext-gen" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-comp&quot;" val5="RegExp" val6="^(.*-)?ext-comp" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;extdd-&quot;" val5="Wildcard" val6="extdd-*" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="15" val1="-1" val2="False" val3="True" val4="Remove digits from IDs like &quot;treepicker-1038&quot; or &quot;treepicker-1038-inputEl&quot;" val5="RegExp" val6="^{[A-Za-z-]+}-{\d\d\d\d+}{.*}$" val7="$1$3" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha Touch" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="20" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha Touch IDs" val5="RegExp" val6="^ext-{.*}-\d+$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="JavaServer Faces" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;_t14&quot;" val5="RegExp" val6="^{_t}{[0-9]+}$" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;j_id23&quot; or &quot;j_idt23&quot;" val5="RegExp" val6="^{j_idt?}{[0-9]+}$" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;frm:menuLinks:0:link&quot;" val5="RegExp" val6="(.+):{[^0-9]+}$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="22" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;frm:menuLinks:3:link&quot;" val5="RegExp" val6="(.+):(.*)" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Google Web Toolkit" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="27" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;gwt-uid-370_runButton&quot;" val5="RegExp" val6="^(gwt-uid-[0-9]+)(_{.*})?$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="27" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha GXT IDs" val5="RegExp" val6="^(x-((widget)|(auto))-.*[0-9]+)([-_]{.*})?$" val7="$1" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Custom" val5="" val6="" val7="" val8="Wildcard&#13;&#10;RegExp" val9="0" />
+			</data>
+		</setting>
+		<setting name="OpenApps_HybridMobile_IdentificationAttribute" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="ID" />
+				<row val0="Name" />
+			</data>
+		</setting>
+		<setting name="OpenApps_MethodInvokeTimeout" type="2" value="3000" />
+		<setting name="OpenApps_MSAA_ListOfAcceptedWindows" type="6" rowIndex="11" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="False" val1="*" />
+				<row val0="True" val1="MsoCommandBar*" />
+				<row val0="True" val1="_Ww*" />
+				<row val0="True" val1="OpusApp" />
+				<row val0="True" val1="Vfp*" />
+				<row val0="True" val1="bosa_sdm_Microsoft Word *" />
+				<row val0="False" val1="Internet Explorer_Server" />
+				<row val0="True" val1="XTPToolBar" />
+				<row val0="True" val1="XTPDockingPaneTabbedContainer" />
+				<row val0="True" val1="XTPTaskPanel" />
+				<row val0="True" val1="XTPReport" />
+				<row val0="True" val1="XTPPopupBar" />
+			</data>
+		</setting>
+		<setting name="OpenApps_MSAA_TreeModel" type="1" value="False" />
+		<setting name="OpenApps_PriorityOfObjects" type="6" rowIndex="13" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="NativeClrObject" />
+				<row val0="NativeSlObject" />
+				<row val0="NativeWebObject" />
+				<row val0="NativeVBObject" />
+				<row val0="NativeSafariObject" />
+				<row val0="NativeDelphiObject" />
+				<row val0="NativeOperaObject" />
+				<row val0="NativeTextObject" />
+				<row val0="NativeJavaObject" />
+				<row val0="NativeChromeObject" />
+				<row val0="NativeCPPObject" />
+				<row val0="NativeFirefoxObject" />
+				<row val0="NativeJavaFXObject" />
+				<row val0="NativeQtObject" />
+				<row val0="NativeUIAObject" />
+				<row val0="NativeMSAA" />
+			</data>
+		</setting>
+		<setting name="OpenApps_ProcessFilter_ProcessFilterMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Use all processes" />
+				<row val0="Use only tested applications" />
+				<row val0="Use only selected processes" />
+				<row val0="Ignore selected processes" />
+			</data>
+		</setting>
+		<setting name="OpenApps_ProcessFilter_ProcessList" type="6" rowIndex="-1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="OpenApps_UIA_ListOfAcceptedWindows" type="6" rowIndex="2" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="False" val1="*" />
+				<row val0="True" val1="DirectUIHWND" />
+				<row val0="True" val1="Windows.UI.Core.CoreWindow" />
+			</data>
+		</setting>
+		<setting name="OpenApps_UseNativeObjectNames" type="1" value="True" />
+		<setting name="OpenApps_Web_AddCommentsForWaitMethod" type="1" value="False" />
+		<setting name="OpenApps_Web_CSSTransitionForPagePicture" type="1" value="True" />
+		<setting name="OpenApps_Web_CustomAttributes_AttributesForNameMapping" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="True" val1="data-test-id" />
+				<row val0="True" val1="data-testid" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_EnableSupportForWebComponents" type="1" value="True" />
+		<setting name="OpenApps_Web_ObjIdentification_DynamicIdentifiers" type="6" rowIndex="29" colIndex="9">
+			<columns>
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Yahoo! UI library" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;yui-gen&quot;" val5="Wildcard" val6="yui-gen*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="0" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;yui_3_&quot;" val5="Wildcard" val6="*yui_3_*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="jQuery UI library" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="3" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;ui-id-&quot;" val5="Wildcard" val6="ui-id-*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Dojo toolkit" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="5" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;dijit_&quot;" val5="Wildcard" val6="dijit_*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Other" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Do not use IDs containing GUID" val5="RegExp" val6="\h+-\h+-\h+-\h+-\h+" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="7" val1="-1" val2="False" val3="True" val4="Remove trailing digits from IDs like &quot;unique-123456&quot;" val5="RegExp" val6="^{[A-Za-z-]+}(\d\d\d\d\d\d+)$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="ASP.NET" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="10" val1="-1" val2="False" val3="True" val4="Do not use IDs ending with a string like &quot;ctl00&quot;" val5="RegExp" val6="^(.*[-_$])?(ctl[0-9]+)$" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="10" val1="-1" val2="False" val3="True" val4="Remove GUIDs and ctl00-like prefixes from Sharepoint IDs" val5="RegExp" val6="(.+?_(\h+_\h+_\h+_\h+_\h+))+(.*ctr?l[0-9]+)?[_$]?{.*}$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="10" val1="-1" val2="False" val3="True" val4="For IDs containing a string like &quot;ctl00_&quot;, leave only symbols after this string" val5="RegExp" val6=".*(ctl[0-9]+[-_$]+){.*}" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha ExtJS" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-gen&quot;" val5="RegExp" val6="^(.*-)?ext-gen" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Do not use IDs containing &quot;ext-comp&quot;" val5="RegExp" val6="^(.*-)?ext-comp" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Do not use IDs starting with &quot;extdd-&quot;" val5="Wildcard" val6="extdd-*" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="14" val1="-1" val2="False" val3="True" val4="Remove digits from IDs like &quot;treepicker-1038&quot; or &quot;treepicker-1038-inputEl&quot;" val5="RegExp" val6="^{[A-Za-z-]+}-{\d\d\d\d+}{.*}$" val7="$1$3" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Sencha Touch" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="19" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha Touch IDs" val5="RegExp" val6="^ext-{.*}-\d+$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="JavaServer Faces" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;_t14&quot;" val5="RegExp" val6="^{_t}{[0-9]+}$" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;j_id23&quot; or &quot;j_idt23&quot;" val5="RegExp" val6="^{j_idt?}{[0-9]+}$" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;frm:menuLinks:0:link&quot;" val5="RegExp" val6="(.+):{[^0-9]+}$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="21" val1="-1" val2="False" val3="True" val4="Do not use IDs like &quot;frm:menuLinks:3:link&quot;" val5="RegExp" val6="(.+):(.*)" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Google Web Toolkit" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="26" val1="-1" val2="False" val3="True" val4="Remove all but the last part of IDs like &quot;gwt-uid-370_runButton&quot;" val5="RegExp" val6="^(gwt-uid-[0-9]+)(_{.*})?$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="26" val1="-1" val2="False" val3="True" val4="Remove dynamic parts of Sencha GXT IDs" val5="RegExp" val6="^(x-((widget)|(auto))-.*[0-9]+)([-_]{.*})?$" val7="$1" val8="Wildcard&#10;RegExp" val9="0" />
+				<row val0="-1" val1="-1" val2="True" val3="True" val4="Custom" val5="" val6="" val7="" val8="Wildcard&#10;RegExp" val9="0" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_ObjIdentification_IdentificationAttribute" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="ID" />
+				<row val0="Name" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_RecordTestedHost" type="5" value="" />
+		<setting name="OpenApps_Web_TestedHost" type="5" value="" />
+		<setting name="OpenApps_Web_TreeModel" type="6" rowIndex="3" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="DOM" />
+				<row val0="Tag" />
+				<row val0="Hybrid" />
+				<row val0="Tree" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_URLProcessing_DynamicParameters" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="*" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_URLProcessing_IgnoreDynamicURLParameters" type="1" value="True" />
+		<setting name="OpenApps_Web_UseCSSPixels" type="1" value="True" />
+		<setting name="OpenApps_Web_UseLegacyWebTestingFeatures" type="1" value="False" />
+		<setting name="OpenApps_Web_VirtBrowsers_AdvancedMode" type="1" value="False" />
+		<setting name="OpenApps_Web_VirtBrowsers_AutoLaunchWhenRecording" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="None" />
+				<row val0="Apple iPad" />
+				<row val0="Apple iPhone 3" />
+				<row val0="Apple iPhone 5" />
+				<row val0="Blackberry Z10" />
+				<row val0="Nokia Lumia 800" />
+				<row val0="Samsung Galaxy Mini" />
+				<row val0="Samsung Galaxy S3" />
+				<row val0="Samsung Nexus 10" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_VirtBrowsers_List" type="6" rowIndex="7" colIndex="9">
+			<columns>
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="4" enabled="True" />
+			</columns>
+			<data>
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Apple iPad" val6="Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25" val7="768" val8="1024" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Apple iPhone 3" val6="Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16" val7="320" val8="480" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Apple iPhone 5" val6="Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25" val7="320" val8="568" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Blackberry Z10" val6="Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.9.2372 Mobile Safari/537.10+" val7="342" val8="570" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Nokia Lumia 800" val6="Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800)" val7="480" val8="800" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Samsung Galaxy Mini" val6="Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; GT-S5570I Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" val7="240" val8="320" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Samsung Galaxy S3" val6="Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" val7="360" val8="640" val9="1" />
+				<row val0="-1" val1="-1" val2="False" val3="True" val4="False" val5="Samsung Nexus 10" val6="Mozilla/5.0 (Linux; Android 4.2.1; Nexus 10 Build/JOP40D) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.37 Safari/537.22" val7="800" val8="1280" val9="1" />
+			</data>
+		</setting>
+		<setting name="OpenApps_Web_WebPageLoadingTimeout" type="2" value="60000" />
+		<setting name="OpenApps_WPF_CompositeControls" type="6" rowIndex="2" colIndex="0">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="True" val1="ToggleButton" val2="" />
+				<row val0="True" val1="MessageWindow" val2="" />
+				<row val0="True" val1="SplitDropDownButton" val2="" />
+			</data>
+		</setting>
+		<setting name="OpenApps_WPF_ItemsTemplates" type="6" rowIndex="-1" colIndex="2">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="OpenApps_WPF_SimplifiedWPFObjectTree" type="1" value="True" />
+		<setting name="PerformanceCounters_List" type="6" rowIndex="-1" colIndex="5">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="2" enabled="True" />
+				<column type="5" enabled="True" />
+				<column type="1" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="Playback_ErrHandling_OnError" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Continue running" val1="0" />
+				<row val0="Stop project" val1="1" />
+				<row val0="Stop test item" val1="2" />
+			</data>
+		</setting>
+		<setting name="Playback_ErrHandling_OnObjectRecognitionError" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Continue running" val1="0" />
+				<row val0="Stop project" val1="1" />
+				<row val0="Stop test item" val1="2" />
+			</data>
+		</setting>
+		<setting name="Playback_ErrHandling_OnWarning" type="6" rowIndex="0" colIndex="1">
+			<columns>
+				<column type="5" enabled="True" />
+				<column type="2" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Continue running" val1="0" />
+				<row val0="Stop project" val1="1" />
+				<row val0="Stop test item" val1="2" />
+			</data>
+		</setting>
+		<setting name="Playback_ErrHandling_ShowErrorDialog" type="1" value="False" />
+		<setting name="Playback_Log_AutosaveInterval" type="2" value="0" />
+		<setting name="Playback_Log_EventCount" type="2" value="0" />
+		<setting name="Playback_Log_PostImageOnError" type="1" value="True" />
+		<setting name="Playback_ObjectSearchStrategy" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Depth-first" />
+				<row val0="Breadth-first" />
+			</data>
+		</setting>
+		<setting name="Playback_OverlappingWindow_IgnoreOverlappingWindow" type="1" value="False" />
+		<setting name="Playback_Runtime_AutoWaitTimeout" type="2" value="40000" />
+		<setting name="Playback_Runtime_DelayBetweenEvents" type="2" value="200" />
+		<setting name="Playback_Runtime_DisableMouse" type="1" value="False" />
+		<setting name="Playback_Runtime_MinimizeBeforePlayback" type="1" value="False" />
+		<setting name="Playback_Runtime_UseCaseSensitiveParameters" type="1" value="False" />
+		<setting name="Playback_StopOnError" type="1" value="False" />
+		<setting name="Playback_StopOnObjectRecognitionError" type="1" value="False" />
+		<setting name="Playback_StopOnWarning" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_ClickOnFocusedControl" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_IgnoreUnexpectedWindow" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_PressEnter" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_PressEsc" type="1" value="True" />
+		<setting name="Playback_UnexpectedWndHandling_SendCloseCommand" type="1" value="False" />
+		<setting name="Playback_UnexpectedWndHandling_StopExecution" type="1" value="False" />
+		<setting name="Recording_TestedAppsOnly" type="1" value="False" />
+		<setting name="RecreateActiveXObjects" type="1" value="False" />
+		<setting name="RunStandaloneServer" type="1" value="False" />
+		<setting name="StandaloneServerAdditionalOptions" type="5" value="" />
+		<setting name="StandaloneServerPort" type="2" value="4444" />
+		<setting name="TextRecognizer_AcceptedProcesses" type="6" rowIndex="-1" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="TextRecognizer_AcceptedWindows" type="6" rowIndex="-1" colIndex="1">
+			<columns>
+				<column type="1" enabled="True" />
+				<column type="5" enabled="True" />
+			</columns>
+			<data />
+		</setting>
+		<setting name="Visualizer_AutoUpdate" type="1" value="False" />
+		<setting name="Visualizer_AutoUpdateMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Update existing frames and capture new frames, if needed" />
+				<row val0="Update existing frames only" />
+			</data>
+		</setting>
+		<setting name="Visualizer_BindToSCC" type="1" value="False" />
+		<setting name="Visualizer_CaptureStyle" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Top-level parent" />
+				<row val0="Desktop" />
+			</data>
+		</setting>
+		<setting name="Visualizer_DeleteAll" type="1" value="True" />
+		<setting name="Visualizer_PlaybackCaptureProperties" type="1" value="False" />
+		<setting name="Visualizer_PlaybackCollectMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Off" />
+				<row val0="Capture images" />
+			</data>
+		</setting>
+		<setting name="Visualizer_RecordingCaptureProperties" type="1" value="False" />
+		<setting name="Visualizer_RecordingCollectMode" type="6" rowIndex="0" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Off" />
+				<row val0="Capture images" />
+			</data>
+		</setting>
+		<setting name="Visualizer_UseDuringPlayback" type="1" value="True" />
+		<setting name="Visualizer_UseDuringRecording" type="1" value="True" />
+		<setting name="ZFJ_Cycle" type="5" value="" />
+		<setting name="ZFJ_ExecutionStatus_Failed" type="5" value="FAIL" />
+		<setting name="ZFJ_ExecutionStatus_Passed" type="5" value="PASS" />
+		<setting name="ZFJ_ExecutionStatus_Wip" type="5" value="WIP" />
+		<setting name="ZFJ_ExecutionStepStatus_Unexecuted" type="5" value="UNEXECUTED" />
+		<setting name="ZFJ_InstanceType" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="Zephyr for Jira Server" />
+				<row val0="Zephyr for Jira Cloud" />
+			</data>
+		</setting>
+		<setting name="ZFJ_JiraLogin" type="5" value="" />
+		<setting name="ZFJ_JiraPassword" type="5" value="" />
+		<setting name="ZFJ_JiraProject" type="5" value="" />
+		<setting name="ZFJ_JiraUrl" type="5" value="" />
+		<setting name="ZFJ_TestIssueTypeName" type="5" value="Test" />
+		<setting name="ZFJ_Version" type="5" value="" />
+		<setting name="ZFJ_ZephyrAccessKey" type="5" value="" />
+		<setting name="ZFJ_ZephyrSecretKey" type="5" value="" />
+	</settings>
+	<analysis key="{502F5452-BB2D-4505-BF7A-8061179A8F10}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<issueTracking key="{38C147BE-7AFF-48CC-B5E7-5263F6189FE8}">
+		<Templates>
+			<Template Id="{1EB17ADF-E4EB-404D-97DC-AD758A1E8C1D}" ConnectionId="{00000000-0000-0000-0000-000000000000}" Description="This template is used by TestComplete&apos;s Log subsystem to post test results to an issue-tracking system. You can also use it at your desire." Name="CreateWorkItem" IsSystem="True" ItemTypeName="" ProjectName="" IsEditing="False" ItemId="">
+				<Fields>
+					<Field ItemId="{6D1530CF-E36D-46D3-8363-A814F596337E}" AliasIsRequired="True" DBFieldNameIsRequired="False" Value="" DBFieldName="" Alias="Subject" />
+					<Field ItemId="{E45E435C-C8D1-4F56-9612-A06DE273FC57}" AliasIsRequired="True" DBFieldNameIsRequired="False" Value="" DBFieldName="" Alias="Description" />
+				</Fields>
+			</Template>
+		</Templates>
+	</issueTracking>
+</Root>

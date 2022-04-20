@@ -1,0 +1,7 @@
+#!/bin/bash
+cfLoader  -DashboardRegenerator \"generateClientPortfolio=true\"
+cfLoader -RQSActivityBlotter "2010.01.22"
+cfLoader -RQSAlertGenerator \"DepositAndTransferIn 2010.01.22\"
+cfLoader -RQSAlertGenerator  \"TakingOppositeSidesOfSamePositionTest 2010.01.22\"
+cfLoader -RQSAlertGenerator \"ConcentrationTest  2010.01.22\"
+cfLoader -RQSAlertGenerator \"BuySellCancelBuyCancelSellTest 2010.01.22\"

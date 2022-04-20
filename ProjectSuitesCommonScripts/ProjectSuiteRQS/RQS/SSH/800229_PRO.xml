@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE proData SYSTEM "/usr/lib/finansoft/loader/dtd/profile_data.dtd">
+<proData xmlns="PRO_NS">
+	<header timeStamp="20100125" dest="UNI" noElem="3"/>
+	
+	<cli xmlns="CLI_NS" id="800229" rep="BD66" branch="BD">
+		<cliInfo lang="F" gender="F" birth="19650703" ssn="">
+			<name short="MALISKA BALLANTY" long="BALLANTYNE MALISKA"/>
+			<addr>
+				<line></line>
+				<city></city>
+				<prov></prov>
+				<code></code>
+				<country></country>
+			</addr>
+			<phone phoneDesc="1" phoneNum="(450) 555-4364"/>
+			<phone phoneDesc="2" phoneNum="(450) 555-5087"/>
+			<phone phoneDesc="3" phoneNum="(450) 555-1113"/>
+			<email eDesc="1" eAddr="ATUL.CHAMARD@hotmail.com"/>
+		</cliInfo>
+	</cli>
+	<acc xmlns="ACC_NS" accId="800229NA" accRep="BD66">
+		<accInfo accName="BALLANTYNE MALISKA" curr="CAD">
+			<accType key="1" value="A"/>
+		</accInfo>
+	</acc>
+	<acc xmlns="ACC_NS" accId="800229FS" accRep="BD66">
+		<accInfo accName="BALLANTYNE MALISKA" curr="CAD">
+			<accType key="1" value="A"/>
+		</accInfo>
+	</acc>
+
+	</proData>

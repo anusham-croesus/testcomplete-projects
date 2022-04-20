@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{7B30DA98-4271-45F4-AA37-C5F77ED5DBD9}">
+	<children>
+		<child name="Rapports" key="{1C1E170C-523B-4F39-B3E5-7854B2A372E8}" path="Rapports\Rapports.mds" />
+	</children>
+	<testItems key="{D35ECE18-ACA8-456D-BBF3-9B8FF149F3A3}">
+		<children>
+			<testItem key="{1C1E170C-523B-4F39-B3E5-7854B2A372E8}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{F0CDFBC9-4018-4E46-92C6-DE3975B748F3}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="VMBL" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{AC700A46-12A0-4C10-98BC-C7A73DA43EAF}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

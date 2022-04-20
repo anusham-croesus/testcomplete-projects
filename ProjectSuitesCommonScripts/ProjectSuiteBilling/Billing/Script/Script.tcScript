@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{55D76EC2-D920-4D19-8F2D-CB265E4FF275}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{4DF193E9-66D6-4FED-B5B9-6D07D4C31A86}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{96CF843E-D79F-4CD3-A3C1-6E219CA5BAA8}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{4A8C3C06-2660-49FB-A7B0-5761DC9D0697}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{C6BE8377-13FB-4414-B6C5-728764BB44DC}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{39B35E9B-6932-4DD7-BFC3-BAA0DD82818B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{2F7AB067-C73A-4BA7-BF1E-FBE40C4E9572}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{636BCA63-D9E8-41F8-A3AF-0A591FDB72F5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{2841EEF7-1BB2-49E5-B564-49E879990D2F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{D2BA6726-3E79-4B63-B246-49D76712E6BE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{DF1E020A-8E0A-4560-AAF1-DB93CB6DD2AB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{BA75650B-4787-451A-89D9-A5FB7762A027}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{6E8BA4AE-DBA8-4BB4-82F3-A185DB451B7C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{C7873D6E-BC60-43FC-B41C-185494C25D4F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{E7B286D7-B9D2-48E9-8257-0DFA9874973B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{F2D1607B-5C84-4BF7-9514-D8E40AB0408C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{9E5D06FA-9C02-42C4-A436-8C174FF96949}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{1890C962-AC18-43B7-A0B5-3395CF6AB235}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{28603A4F-444D-4498-A9F7-C15F0613A158}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="CommonCheckpoints" key="{B81450C4-3445-46A5-BADF-44E6F22626C1}" path="..\..\..\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="PDFUtils" key="{8916F97C-D840-4E8E-8BE6-3E19633C24E0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR885">
+			<child name="CR885_885_11_Check_Minimim_Fees" key="{5F811EFF-EA1C-4880-B285-15EF40A9B0D7}" path="CR885_885_11_Check_Minimim_Fees.js" />
+			<child name="CR885_885_1_Check_Rat_Min" key="{9EE94E1D-F5D8-4F3F-8245-2345173481BE}" path="CR885_885_1_Check_Rat_Min.js" />
+			<child name="CR885_885_4_Creat_FeeSchedul_AssetClass" key="{B0EED53D-EA28-41AB-9090-4AED8E623903}" path="CR885_885_4_Creat_FeeSchedul_AssetClass.js" />
+			<child name="CR885_885_3_Creat_FeeSchedul_FixedInterval" key="{41A205E2-D65B-4505-94F5-33176A7C6BC5}" path="CR885_885_3_Creat_FeeSchedul_FixedInterval.js" />
+			<child name="CR885_885_6_Creat_FeeSchedul_FixedIntervalTiredCalculMethode" key="{133E03F5-9CE5-4F47-A9BA-6C76268E2AB1}" path="CR885_885_6_Creat_FeeSchedul_FixedIntervalTiredCalculMethode.js" />
+			<child name="CR885_885_5_Creat_FeeSchedul_Standard" key="{681F8A0D-B28B-46F0-B600-F82EC9384690}" path="CR885_885_5_Creat_FeeSchedul_Standard.js" />
+			<child name="CR885_885_8_Creat_Relati_Billabl_Monthly" key="{836EE36F-42E1-4043-9763-4D87D74AA3F4}" path="CR885_885_8_Creat_Relati_Billabl_Monthly.js" />
+			<child name="CR885_885_17_Filling_Grid_Billing" key="{351052FD-72A8-4E2D-888E-A2C093B6E646}" path="CR885_885_17_Filling_Grid_Billing.js" />
+			<child name="CR885_885_14_Grid_Manag_Billing_Valid_BtnX" key="{C7D77282-A6BC-4325-A732-97D728A3CA97}" path="CR885_885_14_Grid_Manag_Billing_Valid_BtnX.js" />
+			<child name="CR885_885_14_Grid_Mang_Billing_Valid_Btn_Cancel" key="{20675014-064B-47E1-85DA-6A0463C1DC55}" path="CR885_885_14_Grid_Mang_Billing_Valid_Btn_Cancel.js" />
+			<child name="CR885_885_14_Grid_Mang_Billing_Valid_Btn_OK" key="{5422123C-0C94-463D-8257-7BA90ADA7B62}" path="CR885_885_14_Grid_Mang_Billing_Valid_Btn_OK.js" />
+			<child name="CR885_885_0_Operat_Btn_Edit" key="{05DB0979-7F0E-408B-AE5A-D3A21861D089}" path="CR885_885_0_Operat_Btn_Edit.js" />
+			<child name="CR885_885_0_Operat_Btn_Merge" key="{204FB78E-D124-4CB1-9491-FF12FAD4BFE8}" path="CR885_885_0_Operat_Btn_Merge.js" />
+			<child name="CR885_885_0_Operat_Btn_Split" key="{9427B848-8EB3-4C31-B426-2986A7019910}" path="CR885_885_0_Operat_Btn_Split.js" />
+			<child name="CR885_885_15_Survol_Win_Gril_Billing" key="{73F85D79-57BD-46B2-AD59-8F4549CF7977}" path="CR885_885_15_Survol_Win_Gril_Billing.js" />
+			<child name="CR885_885_16_Valid_MinimiZ" key="{D969B95C-5DE8-4A01-AD73-4AE5D0826CD9}" path="CR885_885_16_Valid_MinimiZ.js" />
+			<child name="CR885_885_12_Creat_Relati_Billabl_Annual" key="{7FECC1B5-1C2E-4704-9C12-C086EDA6D04A}" path="CR885_885_12_Creat_Relati_Billabl_Annual.js" />
+			<child name="CR885_885_13_Billing_RelationShip_Btn_BillNow" key="{1D773E66-128D-4EF4-92BE-B762997E8AD0}" path="CR885_885_13_Billing_RelationShip_Btn_BillNow.js" />
+			<child name="CR885_885_11_Billing_SeveralRelationships" key="{B3FDD1D9-0E6E-4BFA-B684-F1072C2586DF}" path="CR885_885_11_Billing_SeveralRelationships.js" />
+			<child name="CR885_885_10_Creat_Relati_Billabl_Semiannual" key="{EDD5B7CA-AECA-45DF-BD4A-3C6F61DDD733}" path="CR885_885_10_Creat_Relati_Billabl_Semiannual.js" />
+			<child name="CR885_885_9_Creat_Relati_Billabl_Quarterly" key="{4A604009-B2AF-4F2E-9260-FBF03A182514}" path="CR885_885_9_Creat_Relati_Billabl_Quarterly.js" />
+			<child name="CR885_885_7_CheckingIndicatorForGridTestYellow" key="{4265B4BD-FD3B-4CE9-99D2-EAB5A922A3A0}" path="CR885_885_7_CheckingIndicatorForGridTestYellow.js" />
+			<child name="CR885_7_1_StatusGril" key="{167B32E8-3A11-46D9-A013-363DEAAED4D6}" path="CR885_7_1_StatusGril.js" />
+			<child name="CR885_7_2_DeleteLineOfGrillNoAssignRelationShip" key="{6386D42C-F2C2-422D-9FAE-35514D0BAED2}" path="CR885_7_2_DeleteLineOfGrillNoAssignRelationShip.js" />
+			<child name="CR885_7_2_DeleteLineOfGrillAssignRelationShip" key="{1FEEACCB-AB80-4F50-B061-121204E63F7B}" path="CR885_7_2_DeleteLineOfGrillAssignRelationShip.js" />
+			<child name="Helper" key="{2654E003-50BD-4FEF-9EAF-0AB3A0BD1CB3}" path="Helper.js" />
+			<child name="CR885_885_7_CheckingIndicatorForGridTestRed" key="{1F892226-FC79-400D-8DF8-A4EBF9BFFF1D}" path="CR885_885_7_CheckingIndicatorForGridTestRed.js" />
+		</folder>
+		<folder name="CR0992">
+			<child name="CR0992_992_1_Print_Bill_RelationShip" key="{7613F187-AA91-44D3-B0A5-CBAED60CA5F6}" path="CR0992_992_1_Print_Bill_RelationShip.js" />
+			<child name="CR0992_992_3_Print_Bill_Client" key="{663398CA-4C83-42A4-AA1E-F4377A3E3123}" path="CR0992_992_3_Print_Bill_Client.js" />
+			<child name="CR0992_992_2_Print_Bill_Compt" key="{0F451878-3CD6-40D3-8BC3-083BB9282509}" path="CR0992_992_2_Print_Bill_Compt.js" />
+			<child name="CR0992_992_4_Print_Bill_RelationShipWithoutGrill" key="{AAA6B8B2-D889-46D9-A394-334E116E778E}" path="CR0992_992_4_Print_Bill_RelationShipWithoutGrill.js" />
+		</folder>
+		<folder name="CR1006">
+			<child name="CR1006_1006_5_Billing_RelationShip_Without_BtnBillNow" key="{4741BB67-9602-4252-8A0C-3B6E8FA753D4}" path="CR1006_1006_5_Billing_RelationShip_Without_BtnBillNow.js" />
+			<child name="CR1006_1006_4_Creat_Relati_Billabl_Annual_Methodofcalculationbylevel" key="{F4EE87A1-2C02-4013-9214-83651958064E}" path="CR1006_1006_4_Creat_Relati_Billabl_Annual_Methodofcalculationbylevel.js" />
+			<child name="CR1006_1006_1_Creat_Relati_Billabl_Monthly_Methodofcalculationbylevel" key="{9E7B9102-877A-483A-BD50-9F5DE6EE6A78}" path="CR1006_1006_1_Creat_Relati_Billabl_Monthly_Methodofcalculationbylevel.js" />
+			<child name="CR1006_1006_2_Creat_Relati_Billabl_Quarterly_Methodofcalculationbylevel" key="{4F60724F-14D7-406B-A4FE-88419B0055D7}" path="CR1006_1006_2_Creat_Relati_Billabl_Quarterly_Methodofcalculationbylevel.js" />
+			<child name="CR1006_1006_3_Creat_Relati_Billabl_Semiannual_Methodofcalculationbylevel" key="{3F0B70FA-792A-4F03-A015-895E586B8CD5}" path="CR1006_1006_3_Creat_Relati_Billabl_Semiannual_Methodofcalculationbylevel.js" />
+		</folder>
+		<folder name="SansCR">
+			<folder name="Par intervalle">
+				<child name="EndMenthQuarterly" key="{66C48EB9-362C-40D7-8735-C3C5F7F9C805}" path="EndMenthQuarterly.js" />
+				<child name="EndOfMonthAvergQuarterly" key="{133405FA-008B-43E6-8162-B032FD56A67E}" path="EndOfMonthAvergQuarterly.js" />
+				<child name="EndOfMonthAverMonthly" key="{1B5781FA-4DE3-4F2F-B3A2-0B5A9E12A8F3}" path="EndOfMonthAverMonthly.js" />
+				<child name="EndOfPeriodMensuelle" key="{E82499B4-21D6-4351-AB51-CC9D0171E604}" path="EndOfPeriodMensuelle.js" />
+				<child name="InAdvanceMonthly" key="{02E2E2D2-421F-465C-B7E9-703B322A93BD}" path="InAdvanceMonthly.js" />
+				<child name="MidOfPeridQuarterly" key="{1DB5D4DA-0715-4D8E-8817-A28C0BFEC3DC}" path="MidOfPeridQuarterly.js" />
+				<child name="MidOfPeriodMonthly" key="{CEF429E6-26D3-4B84-BC63-579DFBFD0AAA}" path="MidOfPeriodMonthly.js" />
+				<child name="StartOfPeriodQuarterly" key="{2087B0DF-3EDF-4F0C-BFE7-0C1D36F318FE}" path="StartOfPeriodQuarterly.js" />
+				<child name="StartOfPeriodMensuelle" key="{4F25A019-E7F2-4A3F-8CBC-D3A68E1FE634}" path="StartOfPeriodMensuelle.js" />
+				<child name="InAdvanceQuarterly" key="{2C7F54C4-D6B9-4BFC-A135-B9E46EDF9700}" path="InAdvanceQuarterly.js" />
+				<child name="InAdvanceQuarterly2" key="{7D4BA4CE-CFD2-4808-A889-769A40FA9A48}" path="InAdvanceQuarterly2.js" />
+			</folder>
+			<folder name="Par palier">
+				<child name="PalierStartPeriod" key="{55E1831F-BE9E-4A2E-9D99-D73E6D2ACDA9}" path="PalierStartPeriod.js" />
+				<child name="PalierStartPeriodQuarterly" key="{5E8C3EBE-791D-43BD-9C35-581BBE20AE15}" path="PalierStartPeriodQuarterly.js" />
+				<child name="Palier_end_periodMonthly" key="{EA6AE1C6-4272-44EC-80E4-0C9877FEC3F6}" path="Palier_end_periodMonthly.js" />
+				<child name="PalierEndMonthQuarterly" key="{651A3A72-FE20-411D-A655-D91376B206F2}" path="PalierEndMonthQuarterly.js" />
+				<child name="PalierMidPeriodMonth" key="{80A6EC9F-F14F-4B42-AC9F-F4F693BEF3B8}" path="PalierMidPeriodMonth.js" />
+				<child name="PalierMidQuarterly" key="{47E34BFF-1F2D-4612-B128-6F868ECCDDB7}" path="PalierMidQuarterly.js" />
+				<child name="PalierEndMonthAVQuarterly" key="{8399ACB2-93B0-4B05-9CD3-F7A5890E5C0F}" path="PalierEndMonthAVQuarterly.js" />
+				<child name="PalierInadvanceQuarterly" key="{25636CD7-C584-432B-B6BF-7A5C0D4B723E}" path="PalierInadvanceQuarterly.js" />
+				<child name="PalierDailyAvergeMonthly" key="{F33C0200-83DE-472B-8CE9-8A4B76A89650}" path="PalierDailyAvergeMonthly.js" />
+				<child name="PalierEndPeriodSemiannual" key="{19C18D66-DF0F-4DEC-8434-039F434100A4}" path="PalierEndPeriodSemiannual.js" />
+				<child name="PalierEndPeriodAnnual" key="{835CAB1C-F21C-4F9D-80C5-9D49695B8BCB}" path="PalierEndPeriodAnnual.js" />
+				<child name="PalierAnnualEndPeriodrelationShipAnnuelEnd" key="{87716890-DD6E-498B-9258-C4317C39CF00}" path="PalierAnnualEndPeriodrelationShipAnnuelEnd.js" />
+			</folder>
+			<folder name="Include in asset class">
+				<child name="End_monthAVQ2dIncludInAssetClass" key="{EDCF13BF-7FFA-4C2C-8017-8C1392E84F40}" path="End_monthAVQ2dIncludInAssetClass.js" />
+				<child name="StartOfPeriodeQuarterlyIncludeInAssetClass" key="{52310D44-C2B1-4DDE-B3AD-5B243377989B}" path="StartOfPeriodeQuarterlyIncludeInAssetClass.js" />
+				<child name="StartOfPeriodeMonthlyIncludeInAssetClass" key="{CAF5F0FE-A621-44ED-A2B9-18F0989C87EA}" path="StartOfPeriodeMonthlyIncludeInAssetClass.js" />
+				<child name="EndOfPeriodeQuarterlyIncludeInAssetClass" key="{83FA18C5-7C31-4AEA-98DE-8C61AAF2A951}" path="EndOfPeriodeQuarterlyIncludeInAssetClass.js" />
+				<child name="EndOfPeriodeMonthlyIncludeInAssetClass" key="{EC21E3F3-983A-42C6-B8E0-736C5FE7D75E}" path="EndOfPeriodeMonthlyIncludeInAssetClass.js" />
+				<child name="MidPeriodeMonthlyIncludeInAssetClass" key="{540C5EEB-42AA-4C1B-B71B-EE6FEF4E1B36}" path="MidPeriodeMonthlyIncludeInAssetClass.js" />
+				<child name="MidPeriodeQuarterlyIncludeInAssetClass" key="{F941DCFB-72AA-441C-9676-A5DE333E4E93}" path="MidPeriodeQuarterlyIncludeInAssetClass.js" />
+				<child name="StartOfPeriode2MonthlyIncludeInAssetClass" key="{24F58DF5-D14D-4E3D-9F54-5FA834686DB6}" path="StartOfPeriode2MonthlyIncludeInAssetClass.js" />
+				<child name="StartOfPeriode2QuarterlyIncludeInAssetClass" key="{A3212477-DACB-4124-A771-52752520A1C9}" path="StartOfPeriode2QuarterlyIncludeInAssetClass.js" />
+				<child name="DailyAverg2MonIncludInAssetClass" key="{924AE9D7-91DB-4E6F-A3DB-38C758D00176}" path="DailyAverg2MonIncludInAssetClass.js" />
+				<child name="End_monthAVQdIncludInAssetClass" key="{A6FA27FE-1819-4893-886C-64E589EB36DF}" path="End_monthAVQdIncludInAssetClass.js" />
+				<child name="InAdvanceMonthlyIncludInAssetClass" key="{A17EE29A-B423-4543-9445-5E1C63A8C082}" path="InAdvanceMonthlyIncludInAssetClass.js" />
+				<child name="InAdvanceQuaterly1IncludInAssetClass" key="{2EF77FBC-0D63-4251-85B1-B73AE2F79BBE}" path="InAdvanceQuaterly1IncludInAssetClass.js" />
+				<child name="InadvanceQuarterlyIncludeInAssetClass" key="{8AECBB01-7269-412B-BEA7-BE8DEDC519DD}" path="InadvanceQuarterlyIncludeInAssetClass.js" />
+			</folder>
+			<folder name="Include in Cash">
+				<child name="StartOfPeriodeMonthlyIncludeInCash" key="{11C213A9-61D7-4597-8EC4-99E9F51ACD01}" path="StartOfPeriodeMonthlyIncludeInCash.js" />
+				<child name="StartOfPeriode2MonthlyIncludeInCash" key="{06BA926C-29BA-4780-9E7F-7A3C198AEE9D}" path="StartOfPeriode2MonthlyIncludeInCash.js" />
+				<child name="StartOfPeriodeQuarterlyIncludeInCash" key="{1831C767-E83B-446C-9A88-CB35F3840EE9}" path="StartOfPeriodeQuarterlyIncludeInCash.js" />
+				<child name="StartOfPeriode2QuarterlyIncludeInCash" key="{B33CC165-467C-4EC3-AADF-9D5667872DC6}" path="StartOfPeriode2QuarterlyIncludeInCash.js" />
+				<child name="EndOfPeriodeMonthlyIncludeInCash" key="{E7F17179-7E08-42FF-B662-4DAC5F5D84EA}" path="EndOfPeriodeMonthlyIncludeInCash.js" />
+				<child name="EndOfPeriodeQuarterlyIncludeInCash" key="{301EEFC9-5D4C-4107-8D3B-5275895CCC80}" path="EndOfPeriodeQuarterlyIncludeInCash.js" />
+				<child name="EndOfPeriodeQuarterly2IncludeInCash" key="{B83902DF-0519-4930-85C6-89210ABCF931}" path="EndOfPeriodeQuarterly2IncludeInCash.js" />
+				<child name="MidPeriodeMonthlyIncludeInCash" key="{DF6BB2C6-C446-4276-A409-54EE26676520}" path="MidPeriodeMonthlyIncludeInCash.js" />
+				<child name="MidPeriodeMonthly2IncludeInCash" key="{2AC9F33A-2DAC-4496-B272-335289E4E42D}" path="MidPeriodeMonthly2IncludeInCash.js" />
+				<child name="DailyAvergMonIncludInCash" key="{B226E24A-6E90-4E93-A6A8-7B4376D76D38}" path="DailyAvergMonIncludInCash.js" />
+				<child name="End_monthAVQdIncludInCash" key="{DA4A719B-6B66-4FA3-B653-3A4994302B70}" path="End_monthAVQdIncludInCash.js" />
+				<child name="End_monthAVQ2dIncludInCash" key="{17300317-6E08-45C6-A368-A2C28352CEB2}" path="End_monthAVQ2dIncludInCash.js" />
+				<child name="InAdvanceMonthlyIncludInCash" key="{D8439EAA-A390-45BC-A601-FB44B9B7D60E}" path="InAdvanceMonthlyIncludInCash.js" />
+				<child name="InadvanceQuarterlyIncludeInCash" key="{0C99CCEA-3B48-48CD-81EC-11906633E97B}" path="InadvanceQuarterlyIncludeInCash.js" />
+				<child name="InadvanceQuarterly2IncludeInCash" key="{1026A403-EE31-4B1B-988C-3C37B9A66E07}" path="InadvanceQuarterly2IncludeInCash.js" />
+			</folder>
+			<child name="TestGrilCFPercentCas1" key="{4A571B0F-DFBD-4934-B143-7AABF62A948E}" path="TestGrilCFPercentCas1.js" />
+			<child name="TestGrilCFPercentCas2" key="{0B144DFF-C1CB-4314-92B7-646D6EBA40D7}" path="TestGrilCFPercentCas2.js" />
+			<child name="TestGrilCFPercentCas3" key="{58419023-3BD3-4CDE-BA6C-78F0D0993D78}" path="TestGrilCFPercentCas3.js" />
+			<child name="TestGrilCFPercentCas4" key="{410B1A31-21BE-40A3-9723-6CBEE696D2E5}" path="TestGrilCFPercentCas4.js" />
+			<child name="TestGrilCFPercentCas5" key="{6C2E7FFA-2092-447E-AFAE-EA37056D5C8B}" path="TestGrilCFPercentCas5.js" />
+			<child name="TestGrilCFPercentCas6" key="{18F31E26-CF05-4838-B88F-E8E7D175368E}" path="TestGrilCFPercentCas6.js" />
+			<child name="TestGrilCFMontantCas1" key="{92919020-C2B7-4783-BA98-54D4D6529FE5}" path="TestGrilCFMontantCas1.js" />
+			<child name="TestGrilCFMontantCas2" key="{DFB43D9A-D146-4CCE-8F82-F4AEE88A2C8A}" path="TestGrilCFMontantCas2.js" />
+			<child name="TestGrilCFMontantCas3" key="{2AF7F5AF-97E1-4B8F-834F-54967B12F602}" path="TestGrilCFMontantCas3.js" />
+			<child name="TestGrilCFMontantCas4" key="{A02A7F11-301D-44BC-B90D-B5503FDE5482}" path="TestGrilCFMontantCas4.js" />
+			<child name="TestGrilCFMontantCas5" key="{83B44DE9-7018-4DB0-A0F8-EFE340AC3B5C}" path="TestGrilCFMontantCas5.js" />
+		</folder>
+		<folder name="Anomalies">
+			<child name="CROES_6561_CrashChangeValueAccruedIDFieldInTheValidationGrid" key="{FAA703A6-22E5-4E49-BC8B-1B41334A4FB6}" path="CROES_6561_CrashChangeValueAccruedIDFieldInTheValidationGrid.js" />
+			<child name="CROES_7761_CrashWhenBilling" key="{7E08DAFF-879E-4F5C-9F58-C02E0EDBA594}" path="CROES_7761_CrashWhenBilling.js" />
+			<child name="CROES_6765_CrashWhenModifyingtheMEAdjustmField" key="{AD90E456-B509-450D-BDE1-450B3CC9933B}" path="CROES_6765_CrashWhenModifyingtheMEAdjustmField.js" />
+			<child name="CROES_7884_CrashTheGenerationOfExcelReports" key="{7E56AAD6-0147-42CD-B761-AE2E7DE78030}" path="CROES_7884_CrashTheGenerationOfExcelReports.js" />
+			<child name="BNC_1854_ColumnInExcDetailReporDoNotDisplayCorrectNumber" key="{62A6A9BB-D257-490F-B674-482B23BB26BF}" path="BNC_1854_ColumnInExcDetailReporDoNotDisplayCorrectNumber.js" />
+			<child name="TCVE_3549_Bill_Now_During_A_Subset_Of_Billing_Period" key="{C78636BD-5733-4E60-805B-CC01CF7FBB66}" path="TCVE_3549_Bill_Now_During_A_Subset_Of_Billing_Period.js" />
+		</folder>
+		<folder name="Préparation d&apos;environnement">
+			<child name="ExecutionCommandeSSHForInsertTransact" key="{E432BE5D-EC22-480E-815E-5485FCCAF994}" path="ExecutionCommandeSSHForInsertTransact.js" />
+		</folder>
+		<folder name="News">
+			<child name="BillingWindowValidationDefined" key="{A13103CD-9289-4EE4-B959-3E21B8D18B65}" path="BillingWindowValidationDefined.js" />
+			<child name="BillingWindowValidationTiered" key="{A73316F1-31BB-4E97-BF43-11E5F8B8A0A6}" path="BillingWindowValidationTiered.js" />
+			<child name="CashflowAdjustmentValidation" key="{BA2E5E20-CF73-44DD-A814-18FED3A2412E}" path="CashflowAdjustmentValidation.js" />
+			<child name="FixedDefEMAMonthlyExclArr" key="{5A6FB231-EE23-4C57-8CC5-88D3115B6B9D}" path="FixedDefEMAMonthlyExclArr.js" />
+			<child name="FixedDefEMAQuarterExclArr" key="{386F40E8-354C-45C6-AF9B-E44FB257C95A}" path="FixedDefEMAQuarterExclArr.js" />
+			<child name="FixedDefEndMonthlyExclArr" key="{CC2D1D6A-BBB7-4D2B-86F5-3A97289EB3CB}" path="FixedDefEndMonthlyExclArr.js" />
+			<child name="FixedDefEndQuarterExclArr" key="{CC3C93C3-7130-474D-8A98-535F78C2F6FA}" path="FixedDefEndQuarterExclArr.js" />
+			<child name="FixedDefMidMonthlyExclArr" key="{1914C208-66CF-46B2-9389-83CF114DDC56}" path="FixedDefMidMonthlyExclArr.js" />
+			<child name="FixedDefMidQuarterExclArr" key="{8CD7F9DD-B5A0-44DC-AA6A-FC5A30A1C7F1}" path="FixedDefMidQuarterExclArr.js" />
+			<child name="FixedDefStartMonthlyExclArr" key="{16044BAF-0274-49C3-BF14-C4C4CFD730F1}" path="FixedDefStartMonthlyExclArr.js" />
+			<child name="FixedDefStartQuarterExclArr" key="{89F90371-8998-4C88-AA17-116926439BDA}" path="FixedDefStartQuarterExclArr.js" />
+			<child name="FixedTierDailyMonthlyExclArr" key="{3A3C4492-113C-4A42-A058-A2E2BB6F8728}" path="FixedTierDailyMonthlyExclArr.js" />
+			<child name="FixedTierEMAQuarterExclArr" key="{EC78D468-A643-4D4B-BC0F-D909837F5053}" path="FixedTierEMAQuarterExclArr.js" />
+			<child name="FixedTierEndAnnualExclArr" key="{38085D60-C14D-4347-B819-CF1F5F06215C}" path="FixedTierEndAnnualExclArr.js" />
+			<child name="FixedTierEndAnnualExclArr2" key="{AA25FF1E-3BE7-44D1-B5C8-38DB55A6B4CE}" path="FixedTierEndAnnualExclArr2.js" />
+			<child name="FixedTierEndQuarterExclArr" key="{E5D80E77-B066-4117-BD0D-DA4721844E19}" path="FixedTierEndQuarterExclArr.js" />
+			<child name="FixedTierEndSemiExclArr" key="{385B2047-FE4D-4E53-9840-4AC77A8D57E3}" path="FixedTierEndSemiExclArr.js" />
+			<child name="FixedTierMidMonthlyExclArr" key="{EA21B9B2-3238-48AE-AD71-6CF84773919D}" path="FixedTierMidMonthlyExclArr.js" />
+			<child name="FixedTierMidQuarterExclArr" key="{D197C590-45DE-4796-82E7-16550C3F1857}" path="FixedTierMidQuarterExclArr.js" />
+			<child name="FixedTierStartMonthlyExclArr" key="{0156FECE-9ABA-4CB9-9159-E5DE3A112602}" path="FixedTierStartMonthlyExclArr.js" />
+			<child name="StdTierEndMonthlyExclArr" key="{29C17D0B-4B17-4D01-909D-B9C0DB9A1EAA}" path="StdTierEndMonthlyExclArr.js" />
+			<child name="CR992_Billing_Print_PDF_Reports_And_Graphs" key="{0B5FB66E-9DB1-4497-9714-ECE4F6621316}" path="CR992_Billing_Print_PDF_Reports_And_Graphs.js" />
+		</folder>
+		<child name="ExecutionLog" key="{286E2726-2A48-4F38-91E8-6B16337A9673}" path="ExecutionLog.js" />
+		<child name="PreExecution" key="{89EB6093-5138-43C4-BFC1-6EB39E49968D}" path="PreExecution.js" />
+		<child name="Global_variables" key="{941F82BB-89AA-4205-8FC7-A65BE4166154}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{F8F0F0FD-B84C-4105-A53D-4A88CE596E22}" path="..\..\..\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

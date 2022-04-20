@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{17DE0B43-D842-4F50-8A5F-AEA2CB6A4A58}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{796A9577-30F7-49A6-B96B-64CD20D7A769}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{BBE2B6A7-1481-4534-BAF3-B68C7E2CEE3D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{9807C6AA-D80E-4697-9342-01031E1FD2B3}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{67D2E5DD-5173-4697-9E43-F5787C9DE7C1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{FC071792-78CF-4FA8-9ABE-988689161E90}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{A56C84F9-28F6-47E7-95D8-807B71482EF8}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{78A43DD4-F0F9-401B-94B4-5743F187C7B5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{31E63DBD-C27E-4CC4-8933-147462C5685A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{67FC2FB5-9D69-4509-ADBB-8C5AB83F5FA9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{7B5C70F6-ED6C-44F5-B48E-B1BB0A29DD96}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{1C3CBF7F-72F0-4E33-8B57-2D2DA4553B3E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{8333A50E-34AF-4390-A79B-E31011794355}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{CB29A91C-6887-4360-8875-B2AF84F837D9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{460F5D9C-4C09-44C5-9F61-6FA7C5460A84}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{0AA1F5C9-DE60-4478-AECC-BFA8CCFA725F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{5C255E1A-89E8-43AE-8564-1535EA2AD1E2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{DD5CB151-D88A-497E-AE0F-9B17D30CB012}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{1382D02F-F4D0-4540-8520-4F8F5D490548}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="WebConfigurator_Get_functions" key="{089C9301-B0A9-44AD-B634-FD8E4D29597F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\WebConfigurator_Get_functions.sj" />
+			<child name="PDFUtils" key="{C550651C-F312-4227-AEB6-2C69DED72699}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR1755_Regression">
+			<child name="CR1755_TwoFactorAuthentication" key="{556EA639-4150-479A-B67F-06B367676E9B}" path="CR1755_TwoFactorAuthentication.sj" />
+			<child name="CR1755_Web1628_FlowTwoFactorCroesusPass" key="{F781CF5F-70AE-44BF-B678-5443371B821B}" path="CR1755_Web1628_FlowTwoFactorCroesusPass.sj" />
+			<child name="CR1755_Web1628_FlowWebConfiguratorPass" key="{34BF0BCE-530D-4ED6-8FCC-6C6FA7BB4680}" path="CR1755_Web1628_FlowWebConfiguratorPass.sj" />
+			<child name="CR1755_Web1628_FlowTwoFactorProfilPass" key="{85BE8276-303A-4AB3-9589-E279AB588E4C}" path="CR1755_Web1628_FlowTwoFactorProfilPass.sj" />
+			<child name="CR1755_Web1658_ModePer_FlowCroesusPass" key="{F5AAC482-D5A4-43E7-9AAD-8747F609893B}" path="CR1755_Web1658_ModePer_FlowCroesusPass.sj" />
+			<child name="CR1755_Web1658_ModePer_FlowProfilPass" key="{38FDD7BC-8C54-46F3-BEAD-AB2E060A27F2}" path="CR1755_Web1658_ModePer_FlowProfilPass.sj" />
+			<child name="CR1755_Web1653_FlowNewUserCroesusPass" key="{FEB7FB9B-A27E-485F-B971-ABF7D75CDDDE}" path="CR1755_Web1653_FlowNewUserCroesusPass.sj" />
+			<child name="CR1755_Web1653_FlowNewUserProfilPass" key="{B00CD515-2BAC-4C6A-BE37-FCAC0C1B7B11}" path="CR1755_Web1653_FlowNewUserProfilPass.sj" />
+			<child name="CR1755_Web1473_ResetPSW_WebConfigurator" key="{D2848BF1-AA44-4FA2-8ABE-68C78F29F2B8}" path="CR1755_Web1473_ResetPSW_WebConfigurator.sj" />
+			<child name="CR1755_Web1590_ValidePermisAccessWebConfig" key="{E119C512-A55A-415E-96B0-38B3B8A203AB}" path="CR1755_Web1590_ValidePermisAccessWebConfig.sj" />
+			<child name="CR1755_Web1661_MessageErrorMaximumValide" key="{325D47B8-0B85-4624-8B01-F50081E39D9F}" path="CR1755_Web1661_MessageErrorMaximumValide.sj" />
+			<child name="CR1755_Web1652_MaximumNumAttempts" key="{FB8F5A86-975F-4E49-8829-5546C3B12485}" path="CR1755_Web1652_MaximumNumAttempts.sj" />
+			<child name="CR1755_Web1433_PSWD_TENTATIVE_COUNT" key="{9D2A63F4-FFF0-477B-ACE9-9DBCA37EC5F2}" path="CR1755_Web1433_PSWD_TENTATIVE_COUNT.sj" />
+			<child name="CR1755_Web1434_BlockedAccount" key="{9C27600A-1C5A-450B-8AD3-744A1DAB2335}" path="CR1755_Web1434_BlockedAccount.sj" />
+			<child name="CR1755_Web1655_Error400_404" key="{610A28F0-7392-46E3-8341-26624E42EEBD}" path="CR1755_Web1655_Error400_404.sj" />
+			<child name="CR1755_Web1650_FlowProfileValide" key="{C247316D-0D21-4735-9617-3B719759870C}" path="CR1755_Web1650_FlowProfileValide.sj" />
+		</folder>
+		<child name="Global_variables" key="{3C7D5E05-205C-4FA4-9AD1-71D02011EA0F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{CC5EE08B-DF65-4BBE-843E-6FF9E83C6613}" path="ExecutionLog.sj" />
+		<child name="PreExecution" key="{E97FD0A0-CA94-4052-AC97-47A54924303D}" path="PreExecution.sj" />
+	</children>
+</Root>

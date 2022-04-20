@@ -1,0 +1,3 @@
+--CR1483_0210_Tit_EnvironmentPreparation_Step5_2
+
+update B_USER_SECURITY set TOTAL_VALUE =40000006 where securityid in (365178131,260119324,80094407,415320725,425339478,6360,6379,350174774) and user_num = 0 

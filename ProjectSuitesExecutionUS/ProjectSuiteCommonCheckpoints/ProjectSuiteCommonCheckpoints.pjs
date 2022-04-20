@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{CE11AD8B-1390-42A3-861F-6E456F6E718C}">
+	<children>
+		<child name="CommonCheckpoints" key="{BE60FB7D-1C85-4EC8-A7B0-F4F48DABC143}" path="CommonCheckpoints\CommonCheckpoints.mds" />
+	</children>
+	<testItems key="{C654D14A-673E-42B8-8463-5D1EDA29BA32}">
+		<children>
+			<testItem key="{BE60FB7D-1C85-4EC8-A7B0-F4F48DABC143}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{7898B759-034A-4EB1-A50A-AC1C8331C736}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="US" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{0E43A800-D279-4212-8A33-FF79EC14EE1C}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

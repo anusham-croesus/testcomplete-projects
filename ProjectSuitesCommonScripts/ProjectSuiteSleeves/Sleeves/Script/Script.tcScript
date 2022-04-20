@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{4FE6B5D5-17A1-442F-99E3-A1285AA82545}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{08082DBA-40C9-49C0-91E7-8E0B33B537AC}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{DAED08D0-C0B3-4AD2-A3CB-46DDD9E85ECD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{84767990-7C5A-426D-9D26-14A22EB32466}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{DA4DBDAA-4977-4EC2-A380-8C735C86E494}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{CA407A03-334D-41A1-AEC5-BFA930551BF5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{C9D2C04B-1F96-4B28-AFFC-5359846107EF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{C2F4DC0B-A811-4477-858F-A0B3921662CB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{A1D6A479-A21E-4673-9633-B6F898479800}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{C48C8E24-F6F6-4BF2-90FB-437C81CE6A9A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{9F1EF7F7-6784-4BED-9908-46E0A8F2C9F5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{1F7721A7-2F65-4D9F-B8AB-3F4464D3E982}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{69ABC746-2153-4A35-86CA-6C8AB6A3CFC9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{67486F9E-AAAF-4966-97C5-9BAAD3E57602}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{2ACA7CE7-AD93-4F13-9BD8-78E8BBAC5C8D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{8CEB5544-B8AD-4BA5-A13B-17456A168B6E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{56113961-E0D9-4DC9-938D-E5DAEEC793BB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{9C7C7BD7-02C6-4E25-9B63-543D636FB765}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{3998E22D-7790-4169-999E-4A57CAFE92F4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="PDFUtils" key="{6FB8922E-7A18-4F69-856C-DF671BA5AB33}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="Environment_Preparation">
+			<folder name="Sleeves_with_model">
+				<child name="EnvironmenttPreparation_CR1037_WithModel" key="{0E479217-19A4-438F-A692-D7DFB445A0E4}" path="EnvironmenttPreparation_CR1037_WithModel.js" />
+				<child name="EnviromentPreparation_SleeveFor800060NA" key="{10083013-A13A-4E9F-9C29-318E11CEF017}" path="EnviromentPreparation_SleeveFor800060NA.js" />
+				<child name="EnviromentPreparation_SleeveFor800236NA" key="{671105FB-4B61-42FE-935E-D719F3A3FCA5}" path="EnviromentPreparation_SleeveFor800236NA.js" />
+			</folder>
+			<folder name="Sleeves_without_model">
+				<child name="EnvironmentPreparation_CR1037_WithoutModel" key="{75966B3C-D25A-4364-BFDB-BD65B7A58DDF}" path="EnvironmentPreparation_CR1037_WithoutModel.js" />
+			</folder>
+			<folder name="Pref_Activation">
+				<child name="EnablePrefDataBase" key="{81F0D9E3-588F-4D6E-9D34-E24444D99285}" path="EnablePrefDataBase.js" />
+			</folder>
+			<folder name="Creation_of_model">
+				<child name="Creation_Test_Restriction_model" key="{5E753013-985B-4642-9BD6-F5B5469FCC34}" path="Creation_Test_Restriction_model.js" />
+				<child name="Creation_TESTREEQ2_model" key="{A27933A8-5BBB-4177-9454-DEDB94E81A9F}" path="Creation_TESTREEQ2_model.js" />
+				<child name="Creation_TESTPOSBLOQ1_Model" key="{B42BA3FA-A43D-4F9C-947E-80130CD381EE}" path="Creation_TESTPOSBLOQ1_Model.js" />
+				<child name="Creation_TESTPOSBLOQ2_Model" key="{913DA7F4-BAC7-46E9-8A53-479ACF75BBD2}" path="Creation_TESTPOSBLOQ2_Model.js" />
+				<child name="Creation_TESTPOSBLOQ6_Model" key="{C9B9CBE6-6182-43D4-AAE4-E22763EE3A04}" path="Creation_TESTPOSBLOQ6_Model.js" />
+				<child name="Creation_TESTPOSBLOQ8_Model" key="{E78C2F94-FF0C-480E-9970-795457FC0021}" path="Creation_TESTPOSBLOQ8_Model.js" />
+				<child name="Creation_TESTPOSBLOQ3_Model" key="{0C70E9BC-DE93-449F-93C6-C9B82FEF4586}" path="Creation_TESTPOSBLOQ3_Model.js" />
+				<child name="Creation_TESTPOSBLOQ5_model" key="{8663389C-A920-4217-BE74-219D0B11757C}" path="Creation_TESTPOSBLOQ5_model.js" />
+				<child name="Creation_CHFUND1_model" key="{19CB4C10-B297-4F3C-A9AA-ED28111149CB}" path="Creation_CHFUND1_model.js" />
+				<child name="Creation_CHFUND2_model" key="{6EDEB79C-DFEE-47D1-979E-BA97E3863496}" path="Creation_CHFUND2_model.js" />
+				<child name="Creation_TESTPOSBLOQ7_Model" key="{381AA5F4-2E1F-4AB5-8F87-4A10DB425570}" path="Creation_TESTPOSBLOQ7_Model.js" />
+				<child name="Creation_NONRACHETABLE2_Model" key="{219FBB51-D983-4B94-8D51-D3443C714C36}" path="Creation_NONRACHETABLE2_Model.js" />
+				<child name="Creation_NONRACHETABLE4_Model" key="{8945A758-A2F9-402B-A129-58B9D3C5B709}" path="Creation_NONRACHETABLE4_Model.js" />
+				<child name="Creation_CHCAN2_Model" key="{9BC4C8DF-157A-4856-B90E-4C1F677ECE06}" path="Creation_CHCAN2_Model.js" />
+				<child name="Creation_800214GT_Model" key="{181AA3E4-F9E0-499D-9350-951EB325DABB}" path="Creation_800214GT_Model.js" />
+				<child name="Creation_TESTREEQ_model" key="{94354B27-A74C-4E19-B39F-763586C2C635}" path="Creation_TESTREEQ_model.js" />
+				<child name="Creation_NONRACHETABLE1_Model" key="{6747C4D5-8F2F-4A66-A854-8E434244CDF6}" path="Creation_NONRACHETABLE1_Model.js" />
+				<child name="Creation_BCE100_Model" key="{47482558-DB1E-48EF-B491-7A54B9BFC44D}" path="Creation_BCE100_Model.js" />
+				<child name="Creation_All_Models" key="{880BFA2C-6DF0-4829-A693-06A62D1747A7}" path="Creation_All_Models.js" />
+			</folder>
+			<folder name="Add _Restriction_to_Model">
+				<child name="Add_restriction_to_CR1075_MOD1" key="{4CAFB768-7F1A-457F-A584-683DF849F012}" path="Add_restriction_to_CR1075_MOD1.js" />
+			</folder>
+			<folder name="FOR_RJ">
+				<child name="ChangeNonRedeemablePosition_ForRJ" key="{CB43C9B5-D9EB-48D9-A8F5-A6CDF254BF8F}" path="ChangeNonRedeemablePosition_ForRJ.js" />
+			</folder>
+		</folder>
+		<folder name="Restore_Environment">
+			<folder name="Pref_Deactivation">
+				<child name="DisablePrefDataBase" key="{5BFC130B-A737-4382-ACE3-76B3BA5DD7EB}" path="DisablePrefDataBase.js" />
+			</folder>
+			<folder name="Restore_Sleeves_with_model">
+				<child name="Restore_CR1037_WithModel" key="{9C5801CA-43BD-4A1F-AD1E-E8B33E654095}" path="Restore_CR1037_WithModel.js" />
+				<child name="Restore_SleeveFor800060NA" key="{FB7F1445-4E2A-48A5-AB26-282DDFDC93DB}" path="Restore_SleeveFor800060NA.js" />
+				<child name="Restore_SleeveFor800236NA" key="{50094951-3CAF-4C00-AD91-C5FAC022B802}" path="Restore_SleeveFor800236NA.js" />
+			</folder>
+			<folder name="Restore_Sleeves_without_model">
+				<child name="Restore_CR1037_WithoutModel" key="{EB22B647-C13A-437D-A2A6-676EC1340436}" path="Restore_CR1037_WithoutModel.js" />
+			</folder>
+			<folder name="Deleting_Model">
+				<child name="Deleting_Test_Restriction_model" key="{C94E3E1B-B7A6-4BC7-8988-8868E6F983AA}" path="Deleting_Test_Restriction_model.js" />
+				<child name="Deleting_TESTREEQ2_model" key="{1CA50E71-A715-4318-9608-1478A4F32371}" path="Deleting_TESTREEQ2_model.js" />
+				<child name="Deleting_TESTPOSBLOQ1_Model" key="{259169FC-901B-4F5B-8C4F-BC91C5E01243}" path="Deleting_TESTPOSBLOQ1_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ2_Model" key="{58E052BE-95C9-4E8E-BECB-7D376D907975}" path="Deleting_TESTPOSBLOQ2_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ6_Model" key="{A10FCD64-677F-404E-B10C-723C40CE9119}" path="Deleting_TESTPOSBLOQ6_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ8_Model" key="{9F12125C-C059-4254-B200-3D11A944EC6D}" path="Deleting_TESTPOSBLOQ8_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ3_Model" key="{96826873-770B-4A6C-9FF8-0CF31EEA9009}" path="Deleting_TESTPOSBLOQ3_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ5_Model" key="{37748220-DEC7-4733-A917-4C4EDD3B586D}" path="Deleting_TESTPOSBLOQ5_Model.js" />
+				<child name="Deleting_CHFUND1_model" key="{5E38FAE0-D909-444C-93B1-A2DA950916DF}" path="Deleting_CHFUND1_model.js" />
+				<child name="Deleting_CHFUND2_model" key="{4E131826-79A6-4D6B-8690-5035D068F6CD}" path="Deleting_CHFUND2_model.js" />
+				<child name="Deleting_TESTPOSBLOQ7_Model" key="{DAA02A43-B9B0-4F03-AC83-F7FE3315FDC4}" path="Deleting_TESTPOSBLOQ7_Model.js" />
+				<child name="Deleting_NONRACHETABLE2_Model" key="{FCD10CD9-1E1B-45C8-892D-DE413D7E1CA7}" path="Deleting_NONRACHETABLE2_Model.js" />
+				<child name="Deleting_NONRACHETABLE4_Model" key="{CAF48FED-2E6F-40BF-A2A1-BFA135888B01}" path="Deleting_NONRACHETABLE4_Model.js" />
+				<child name="Deleting_CHCAN2_Model" key="{890E49D0-0D44-4C3C-AEC4-A6F4B6DD3F78}" path="Deleting_CHCAN2_Model.js" />
+				<child name="Deleting_800214GT_Model" key="{406A7836-A283-4F39-A067-1B09EA94C9B0}" path="Deleting_800214GT_Model.js" />
+				<child name="Deleting_TESTREEQ_model" key="{CC1BA4A1-DEBE-4679-9D0D-7EBC4DF58AB5}" path="Deleting_TESTREEQ_model.js" />
+				<child name="Deleting_NONRACHETABLE1_Model" key="{F3CACE87-FE3F-47CA-8411-45FB2113807B}" path="Deleting_NONRACHETABLE1_Model.js" />
+				<child name="Deleting_BCE100_Model" key="{9910FA81-68B7-4E20-9A9E-EDC646606E43}" path="Deleting_BCE100_Model.js" />
+			</folder>
+			<folder name="Deleting_Restriction_from_Model">
+				<child name="Deleting_restriction_from_CR1075_MOD1" key="{E4609CB3-C97C-444F-BDA9-FAED4A8AC85D}" path="Deleting_restriction_from_CR1075_MOD1.js" />
+			</folder>
+			<folder name="FOR_RJ">
+				<child name="Restore_ChangeNonRedeemablePosition_ForRJ" key="{6E188417-20AF-4177-A7EA-BED8DF10667E}" path="Restore_ChangeNonRedeemablePosition_ForRJ.js" />
+			</folder>
+		</folder>
+		<folder name="CR1037">
+			<folder name="Creation_of_Sleeves">
+				<child name="CR1037_C1_Create_AllSleeves_Via_InvestmentObjective" key="{7E3E15F8-D43B-4222-B741-A451468B021C}" path="CR1037_C1_Create_AllSleeves_Via_InvestmentObjective.js" />
+				<child name="CR1037_C2_Create_Sleeves_Via_InvestmentObjective" key="{0393155E-EAE3-489C-AC35-02C82B968AE3}" path="CR1037_C2_Create_Sleeves_Via_InvestmentObjective.js" />
+				<child name="CR1037_C2_1_Create_SleeveWithModel_Via_InvestmentObjective" key="{1DF78238-844A-46D5-B7AF-2428D6A25FD9}" path="CR1037_C2_1_Create_SleeveWithModel_Via_InvestmentObjective.js" />
+				<child name="CR1037_C3_Create_FromSleevesManager_Via_InvestmentObjective" key="{7F8442C0-2B4A-4A46-9CF4-6F38E07596D1}" path="CR1037_C3_Create_FromSleevesManager_Via_InvestmentObjective.js" />
+				<child name="CR1037_C4_Create_AllSleeves_Via_AssetClass" key="{42329A63-41DF-42CE-B8A4-64E85D6FDF55}" path="CR1037_C4_Create_AllSleeves_Via_AssetClass.js" />
+				<child name="CR1037_C5_Create_Sleeves_Via_AssetClass" key="{BF9E3020-7986-455D-8AA1-FC69744FB5A1}" path="CR1037_C5_Create_Sleeves_Via_AssetClass.js" />
+				<child name="CR1037_C5_1_Create_Sleeves_Via_AssetClass_WithModel" key="{A303D0D7-1CE1-40C7-89C8-4A5BF958F899}" path="CR1037_C5_1_Create_Sleeves_Via_AssetClass_WithModel.js" />
+				<child name="CR1037_C7_Create_SleeveAdhoc_Via_SleevesManager" key="{6B8787D2-135E-459A-BADC-9C2848574851}" path="CR1037_C7_Create_SleeveAdhoc_Via_SleevesManager.js" />
+				<child name="CR1037_C7_1_Create_SleeveAdhoc_Via_SleevesManager_WithModel" key="{4A2810C0-BDBA-4AD8-A4FC-621E223BD52A}" path="CR1037_C7_1_Create_SleeveAdhoc_Via_SleevesManager_WithModel.js" />
+				<child name="CR1037_C9_Create_Sleeve_Via_SleevesManager" key="{6DAE7479-775D-43CD-BA8E-A25F05750204}" path="CR1037_C9_Create_Sleeve_Via_SleevesManager.js" />
+				<child name="CR1037_C10_DeleteSleeve_CheckMessage" key="{6ACD54F2-B945-4B66-93CA-13C3267D1AA8}" path="CR1037_C10_DeleteSleeve_CheckMessage.js" />
+				<child name="CR1037_C11_Create_Sleeves_ModifiedDuration" key="{A5BC3050-783D-4F25-ADA2-02EF6805B07F}" path="CR1037_C11_Create_Sleeves_ModifiedDuration.js" />
+				<child name="CR1037_C12_Create_Sleeves_Region" key="{C9E017DF-7BC0-4B51-89E7-5B42A580C9EA}" path="CR1037_C12_Create_Sleeves_Region.js" />
+				<child name="CR1037_C13_Create_Sleeves_Currency" key="{5A6EDDD9-3FE8-4351-AC01-C84A1BD3FA27}" path="CR1037_C13_Create_Sleeves_Currency.js" />
+				<child name="CR1037_C14_Create_Sleeves_AllocationMaturity" key="{746A5EEA-33A9-41A1-A0F8-ACF62CB592B0}" path="CR1037_C14_Create_Sleeves_AllocationMaturity.js" />
+				<child name="CR1037_C8_Create_Sleeve_Via_SleevesManager" key="{538FAB62-ABF8-4E29-9D8D-ED89DE6ED650}" path="CR1037_C8_Create_Sleeve_Via_SleevesManager.js" />
+				<child name="CR1037_C9_C10_C14_CreationSegments_WithDifferentOptions_And_ValidationDeletionMessage" key="{CB0745F7-63F7-4C90-A832-3E2E65421C5D}" path="CR1037_C9_C10_C14_CreationSegments_WithDifferentOptions_And_ValidationDeletionMessage.js" />
+			</folder>
+			<folder name="Modification_of_Sleeves">
+				<child name="CR1037_C1MO1_Edit_Sleeve" key="{3BF80E67-998B-4C10-8D6A-5E71769205EB}" path="CR1037_C1MO1_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO2_Edit_Sleeve" key="{F5D240FA-1405-419F-9626-32425ECCB3CD}" path="CR1037_C1MO2_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO3_Edit_Sleeve" key="{1B51E732-BF7F-4464-AE25-1C4916928944}" path="CR1037_C1MO3_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO4_Edit_Sleeve" key="{4AB559C1-CBBC-4BEC-9330-DD28850091E3}" path="CR1037_C1MO4_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO5_Edit_Sleeve" key="{2DB76143-1D6C-4B46-A1D4-D2A9A25F9F85}" path="CR1037_C1MO5_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO6_Edit_Sleeve" key="{4C700248-AFE3-41E5-8513-55BD833D2FE3}" path="CR1037_C1MO6_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO8_Edit_Sleeve" key="{8ABB83CC-7F0A-43BA-A087-CC0BA330D37A}" path="CR1037_C1MO8_Edit_Sleeve.js" />
+				<child name="CR1037_C2MO9_Edit_Sleeve" key="{6CC7947F-AE3E-45B6-BC04-6C14AA3DBD79}" path="CR1037_C2MO9_Edit_Sleeve.js" />
+				<child name="CR1037_C3MO10_Edit_Sleeve" key="{FC9E97F7-B07B-497E-A540-E7B0BD08D0F0}" path="CR1037_C3MO10_Edit_Sleeve.js" />
+			</folder>
+			<folder name="Rebalancing">
+				<child name="CR1037_C1M00R1_WinRebalancing" key="{1DCCFF5A-169E-4670-A620-29FF6EBB2B58}" path="CR1037_C1M00R1_WinRebalancing.js" />
+				<child name="CR1037_C1M00R1_1_WinRebalancing" key="{C17D714A-0C80-4DBB-B22D-7219D43FD0CD}" path="CR1037_C1M00R1_1_WinRebalancing.js" />
+			</folder>
+			<folder name="ViewSleeves">
+				<child name="CR1037_V2_Presence_of_TabSleeve" key="{9057395E-3C12-4589-993B-B680938D8709}" path="CR1037_V2_Presence_of_TabSleeve.js" />
+				<child name="CR1037_V3_ColumnSleeve" key="{5F365B46-6012-4587-9257-F7A0E8F736B6}" path="CR1037_V3_ColumnSleeve.js" />
+				<child name="CR1037_V4_FilterHasSleeves" key="{CD693E64-19F5-4762-A430-7DB2EC843BBB}" path="CR1037_V4_FilterHasSleeves.js" />
+				<child name="CR1037_V5_SearchCriterion" key="{6F0926E8-24CB-47AD-B3C9-3E49940BF983}" path="CR1037_V5_SearchCriterion.js" />
+				<child name="CR1037_V7_V8_Model" key="{91347464-FE3D-40A4-B52E-C44D7B014362}" path="CR1037_V7_V8_Model.js" />
+				<child name="CR1037_V9_Filter" key="{A56CC784-0906-4957-B089-E355684B5276}" path="CR1037_V9_Filter.js" />
+			</folder>
+			<folder name="Access_Permission">
+				<child name="CR1037_AP1_AP4_NonPresence_of_ColumnSleeve" key="{3C58AE68-5DE2-4D03-9731-96E561A8AFD4}" path="CR1037_AP1_AP4_NonPresence_of_ColumnSleeve.js" />
+				<child name="CR1037_AP2_AP5_NonPresence_of_TabSleeve" key="{DAC297B0-31B5-42DA-9093-1EEAF4FDDB1C}" path="CR1037_AP2_AP5_NonPresence_of_TabSleeve.js" />
+				<child name="CR1037_AP3_AP6_NonPresence_in_ContextualMenuOfAssetClass" key="{E8B83DCB-3D61-4496-B29F-497AC6276BE6}" path="CR1037_AP3_AP6_NonPresence_in_ContextualMenuOfAssetClass.js" />
+				<child name="CR1037_AP7_Presence_of_ColumnSleeve" key="{BEBD4885-C18E-46B6-AB3E-28F1DB67DBBD}" path="CR1037_AP7_Presence_of_ColumnSleeve.js" />
+				<child name="CR1037_AP8_Presence_of_TabSleeve" key="{75A7CD18-1604-4210-AA5C-5367E8A4763A}" path="CR1037_AP8_Presence_of_TabSleeve.js" />
+				<child name="CR1037_AP9_Presence_in_ContextualMenuOfAssetClass" key="{B4CDF8A9-9C29-4925-A72C-25793BC104D9}" path="CR1037_AP9_Presence_in_ContextualMenuOfAssetClass.js" />
+				<child name="CR1037_AP10_Presence_of_btnSleeves" key="{B81D4245-593A-4F41-9E23-899EC60BAD86}" path="CR1037_AP10_Presence_of_btnSleeves.js" />
+				<child name="CR1037_AP11_AP12_AP13_Presence_of_btns" key="{C8AEE05C-549A-46D9-B88C-22C8D204144B}" path="CR1037_AP11_AP12_AP13_Presence_of_btns.js" />
+				<child name="CR1037_AP14_AP15_Presence_of_Btns" key="{3DDC9170-6E66-4C27-A065-4AF69A737BC8}" path="CR1037_AP14_AP15_Presence_of_Btns.js" />
+				<child name="CR1037_AP4_AP5_AP6_NonPresence_ColumnSleeve_TabSleeve_And_ContextualMenuOfAssetClass" key="{AFE7CABB-4A7D-4521-8E9C-48D044333EE7}" path="CR1037_AP4_AP5_AP6_NonPresence_ColumnSleeve_TabSleeve_And_ContextualMenuOfAssetClass.js" />
+				<child name="CR1037_Fron_AP16_To_AP22_Presence_of_btnSleeves_With_UserAdamsJ" key="{98C150E1-79DB-4B4A-9345-DFE205936083}" path="CR1037_Fron_AP16_To_AP22_Presence_of_btnSleeves_With_UserAdamsJ.js" />
+				<child name="CR1037_From_AP23_To_AP29_Presence_of_Btns" key="{29FAD594-9321-4CA2-9FFA-1330E33EC0B2}" path="CR1037_From_AP23_To_AP29_Presence_of_Btns.js" />
+				<child name="CR1037_AP30_AP31_AP32_AP33_AP34_AP35_AP36_Presence_of_btnSleeves_And_Presence_in_ContextualMenuOfAssetClass" key="{B9ED54C0-7E2A-4639-A69D-5D91CDB10285}" path="CR1037_AP30_AP31_AP32_AP33_AP34_AP35_AP36_Presence_of_btnSleeves_And_Presence_in_ContextualMenuOfAssetClass.js" />
+			</folder>
+		</folder>
+		<folder name="CR1452">
+			<folder name="2_1">
+				<child name="CR1452_211_Rebalancing_Account" key="{DEA54253-CAA8-4CA1-BBC3-E8B8AE6BEEFF}" path="CR1452_211_Rebalancing_Account.js" />
+				<child name="CR1452_2111_Add_UnifiedManagedAccountsBoard" key="{B3EB1CE0-85C8-48CE-93C0-2196EA8C4166}" path="CR1452_2111_Add_UnifiedManagedAccountsBoard.js" />
+				<child name="CR1452_2112_Dashboard_UnallocatedTotalValue" key="{E562AEE0-A91C-47F2-B10F-03DECF716D7D}" path="CR1452_2112_Dashboard_UnallocatedTotalValue.js" />
+				<child name="CR1452_2115_UnifiedManagedAccountsBoard_columns" key="{B5577C38-EF12-4492-8D2C-C5F7544652F9}" path="CR1452_2115_UnifiedManagedAccountsBoard_columns.js" />
+				<child name="CR1452_2116_UnifiedManagedAccountsBoard_ClickR" key="{762668CF-60BB-466E-A364-1A812651A856}" path="CR1452_2116_UnifiedManagedAccountsBoard_ClickR.js" />
+				<child name="CR1452_213_Rebalancing_Account" key="{F5155B6D-881D-477F-B5FF-186AE6DBC36F}" path="CR1452_213_Rebalancing_Account.js" />
+				<child name="CR1452_214_Rebalance_All_Segments" key="{B4CF73B6-8DD2-4C0F-B032-5CBFEA192A1D}" path="CR1452_214_Rebalance_All_Segments.js" />
+				<child name="CR1452_216_Rebalance_All_Segments" key="{CE43FD84-9D0B-43B0-A9F5-5D2DB887D3A1}" path="CR1452_216_Rebalance_All_Segments.js" />
+				<child name="CR1452_218_Rebalance_Model" key="{AEC4BE99-C504-4B26-8851-A7E26CFD59FA}" path="CR1452_218_Rebalance_Model.js" />
+				<child name="CR1452_211_214_215_218_Rebalancing_Sleeves_WithAllMethodes" key="{A5D618CA-E7F1-46F3-970F-590D68D7157A}" path="CR1452_211_214_215_218_Rebalancing_Sleeves_WithAllMethodes.js" />
+			</folder>
+			<folder name="2_2">
+				<child name="CR1452_2212_TwoSleevesThatWanBuySameSecurity" key="{6CCA38D6-AB55-4345-B6E2-1842BF6F338E}" path="CR1452_2212_TwoSleevesThatWanBuySameSecurity.js" />
+				<child name="CR1452_2213_RebalancingAccount" key="{B6F19377-B4F3-4A65-ACB5-C6E116295013}" path="CR1452_2213_RebalancingAccount.js" />
+				<child name="CR1452_221_RebalancingAccount" key="{004867F2-1B79-413F-BF63-9B4CE365F6B2}" path="CR1452_221_RebalancingAccount.js" />
+				<child name="CR1452_222_RebalancingAllSleeves" key="{1333B485-36AA-4FB7-A9BB-B83413983DAC}" path="CR1452_222_RebalancingAllSleeves.js" />
+				<child name="CR1452_223_RebalancingAccount" key="{3AF2E755-1BC7-448F-BB87-CD780F524D7A}" path="CR1452_223_RebalancingAccount.js" />
+				<child name="CR1452_224_RebalancingAllSleeves" key="{42743E9C-07C6-4E42-A8C9-B064E10C441E}" path="CR1452_224_RebalancingAllSleeves.js" />
+				<child name="CR1452_2216_RebalancingAccount" key="{07F7F8AF-C970-499B-A27E-45BF05352336}" path="CR1452_2216_RebalancingAccount.js" />
+			</folder>
+			<folder name="2_4">
+				<child name="CR1452_241_Column_LockedPosition" key="{7849CCEF-B3FA-4553-8764-92F33312C3C2}" path="CR1452_241_Column_LockedPosition.js" />
+				<child name="CR1452_2410_Rebalancing_Message_BlockedPosition" key="{C6F466CE-E504-4A72-BE9D-6AB4697B1D4F}" path="CR1452_2410_Rebalancing_Message_BlockedPosition.js" />
+				<child name="CR1452_2411_Rebalancing_Message_BlockedPosition" key="{529FA62F-EEEF-4ACA-A3F8-FD729855C3A4}" path="CR1452_2411_Rebalancing_Message_BlockedPosition.js" />
+				<child name="CR1452_2412_Rebalancing_Message_BlockedPosition" key="{0E321DA5-82EF-468B-9361-4C6CB34D1B1D}" path="CR1452_2412_Rebalancing_Message_BlockedPosition.js" />
+				<child name="CR1452_2413_Rebalancing_Message_BlockedPosition" key="{C6DE79A5-89E0-48EA-BDDE-FC4D2D67611A}" path="CR1452_2413_Rebalancing_Message_BlockedPosition.js" />
+				<child name="CR1452_2416_RebalancingAccount_BlockedPosition" key="{3DFF004F-8ECD-4648-89A8-CE82E5DBBEA3}" path="CR1452_2416_RebalancingAccount_BlockedPosition.js" />
+				<child name="CR1452_2417_RebalancingAllSleeves_BlockedPosition" key="{1568FA67-5EB3-4028-B3B8-B88F291BA3A5}" path="CR1452_2417_RebalancingAllSleeves_BlockedPosition.js" />
+				<child name="CR1452_2418_RebalancingAccount_WithModel" key="{2ADB236A-73CD-4E5B-B80E-3A9E5530324D}" path="CR1452_2418_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_242_Column_LockedPosition" key="{898A183A-4A28-45DB-B3DF-87CA9750D68F}" path="CR1452_242_Column_LockedPosition.js" />
+				<child name="CR1452_2420_RebalancingAccount_WithModel" key="{5C97E909-5150-43B4-93ED-F0C8D519E1BA}" path="CR1452_2420_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2421_RebalancingAccount_WithModel" key="{9D96B1BD-956A-4F55-971D-A2BC6E64DB6A}" path="CR1452_2421_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2422_RebalancingAccount_WithModel" key="{797AC836-8315-4486-A03F-77C140B65F07}" path="CR1452_2422_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2423_RebalancingAccount_WithModel" key="{729FDE29-3DD5-4903-80F6-13FC90383C07}" path="CR1452_2423_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2426_RebalancingAccount_WithModel" key="{7B646666-E468-4CDA-8ADE-BB6668308002}" path="CR1452_2426_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2429_RebalancingAccount_WithModel" key="{CD860160-92A5-49AF-AAA5-1C815093207A}" path="CR1452_2429_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_243_Column_LockedPosition" key="{227CCB00-6065-4B42-9F81-21AB1E196B83}" path="CR1452_243_Column_LockedPosition.js" />
+				<child name="CR1452_2432_RebalancingAccount_WithModel" key="{5E8BA79F-0655-4745-A5AD-EFC5F5A6610C}" path="CR1452_2432_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2433_RebalancingAccount" key="{5579BC9D-A229-47AE-AFCC-8CF987C677D8}" path="CR1452_2433_RebalancingAccount.js" />
+				<child name="CR1452_2434_RebalancingSelectedSleeves" key="{EF9FC201-468A-4EA1-A5C3-1AB53241437B}" path="CR1452_2434_RebalancingSelectedSleeves.js" />
+				<child name="CR1452_2435_RebalancingSelectedSleeves" key="{9976204F-0681-42A3-91AC-F730C6B32906}" path="CR1452_2435_RebalancingSelectedSleeves.js" />
+				<child name="CR1452_2438_RebalancingSelectedSleeves" key="{5D84EBFE-0E84-428E-AD14-417FF7AA0DA0}" path="CR1452_2438_RebalancingSelectedSleeves.js" />
+				<child name="CR1452_244_TransfersBetweenSleeves_BlockedPosition" key="{3818838A-0CF3-465D-9AB9-08D65A5E04E5}" path="CR1452_244_TransfersBetweenSleeves_BlockedPosition.js" />
+				<child name="CR1452_245_Column_LockedPosition" key="{29989259-00DC-4AF2-8650-B59C8940F416}" path="CR1452_245_Column_LockedPosition.js" />
+				<child name="CR1452_249_Rebalance_All_Segments" key="{DD7D870F-EAE2-4EBE-A0EB-55FA32FA5CB7}" path="CR1452_249_Rebalance_All_Segments.js" />
+				<child name="CR1452_2419_RebalancingAccount_WithModel" key="{42B358A2-D0C6-4530-9D1B-62D9A772CF65}" path="CR1452_2419_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2425_RebalancingModel" key="{8DB75663-BCCE-47E6-A123-627155ED1CE2}" path="CR1452_2425_RebalancingModel.js" />
+				<child name="CR1452_2427_RebalancingAccount" key="{BC6AC418-3EA2-4F68-A4B9-99D9CA487954}" path="CR1452_2427_RebalancingAccount.js" />
+				<child name="CR1452_2428_RebalancingAccount" key="{4E7524A9-9BD8-441B-87CE-833DC8993515}" path="CR1452_2428_RebalancingAccount.js" />
+				<child name="CR1452_2437_RebalancingModel" key="{68A03935-E55F-49F6-97B2-B73B6D3378C0}" path="CR1452_2437_RebalancingModel.js" />
+				<child name="CR1452_248_RebalancingAccount" key="{A0C9CA47-6D5C-4CF1-910E-DF07FC487CF7}" path="CR1452_248_RebalancingAccount.js" />
+				<child name="CR1452_Validation_Column_LockedPosition_NonRedeemable" key="{14D3BEBB-F696-4DA9-A4F2-464D61A25B67}" path="CR1452_Validation_Column_LockedPosition_NonRedeemable.js" />
+				<child name="CR1452_248_249_RebalancingAccount_And_All_Segments" key="{D26B8311-2FD7-4A21-8ECE-0143555E330D}" path="CR1452_248_249_RebalancingAccount_And_All_Segments.js" />
+				<child name="CR1452_2410_2412_Rebalancing_Message_BlockedPosition" key="{EB54BC90-7FCF-4BAF-A3BA-057FFA478ACA}" path="CR1452_2410_2412_Rebalancing_Message_BlockedPosition.js" />
+			</folder>
+			<folder name="2_5_Redeemable">
+				<child name="CR1452_251_NonRedeemable" key="{C96253C9-73CA-4C7B-9BFF-CB503AF18E6F}" path="CR1452_251_NonRedeemable.js" />
+				<child name="CR1452_2510_NonRedeemableMessage" key="{5AE736B0-0B33-4800-A516-0839DF806C7B}" path="CR1452_2510_NonRedeemableMessage.js" />
+				<child name="CR1452_2514_RebalancingAccount" key="{B8377793-6536-40C9-B5A4-F51A954D1F85}" path="CR1452_2514_RebalancingAccount.js" />
+				<child name="CR1452_2515_RebalancingAllSleeves" key="{C927482B-DA27-41EE-B1F8-5AAA95D0D4FD}" path="CR1452_2515_RebalancingAllSleeves.js" />
+				<child name="CR1452_2516_RebalancingSelectedSleeves" key="{23115269-A2BD-41B4-95DE-1A360923659E}" path="CR1452_2516_RebalancingSelectedSleeves.js" />
+				<child name="CR1452_2517_RebalancingModel" key="{4167428C-FC32-4515-B246-702079009503}" path="CR1452_2517_RebalancingModel.js" />
+				<child name="CR1452_252_NonRedeemable" key="{03F68D76-62F7-46FC-82B6-AFC943A71D16}" path="CR1452_252_NonRedeemable.js" />
+				<child name="CR1452_253_NonRedeemable" key="{7C820361-3171-4BBE-86E9-D892762E6F6E}" path="CR1452_253_NonRedeemable.js" />
+				<child name="CR1452_254_NonRedeemable" key="{5368A63A-5E94-4261-B689-B0947C8490F9}" path="CR1452_254_NonRedeemable.js" />
+				<child name="CR1452_257_NonRedeemableMessage" key="{5CA7353D-FD99-4236-81B9-2DC584AD97FF}" path="CR1452_257_NonRedeemableMessage.js" />
+				<child name="CR1452_258_NonRedeemableMessage" key="{5FD31F79-A879-40FA-BCBD-4D6893ECE658}" path="CR1452_258_NonRedeemableMessage.js" />
+				<child name="CR1452_259_NonRedeemableMessage" key="{E6199878-7F7E-41FD-B91E-BC201E8C6700}" path="CR1452_259_NonRedeemableMessage.js" />
+				<child name="CR1452_2511_RebalancingAccount" key="{307B5522-F84C-40CC-ABD8-435F422BAA09}" path="CR1452_2511_RebalancingAccount.js" />
+				<child name="CR1452_2518_RebalancingAccount" key="{F7EFE510-1EF6-4071-91C4-E67EE99E31FD}" path="CR1452_2518_RebalancingAccount.js" />
+				<child name="CR1452_2519_RebalancingAllSleeves" key="{197A1603-C1B0-4DC7-870D-2730D8CB70FA}" path="CR1452_2519_RebalancingAllSleeves.js" />
+				<child name="CR1452_2520_RebalancingSelectedSleeves" key="{CBEFACE3-BD5A-4A51-B82A-96140CD8AFC4}" path="CR1452_2520_RebalancingSelectedSleeves.js" />
+				<child name="CR1452_2521_RebalancingModel" key="{F06C2398-A3A9-406A-9120-C6130A1FE46B}" path="CR1452_2521_RebalancingModel.js" />
+			</folder>
+			<folder name="2_6_Restriction">
+				<child name="CR1452_261_BtnRestriction" key="{3F5B2927-9A44-4466-811E-8685D3DE2F48}" path="CR1452_261_BtnRestriction.js" />
+				<child name="CR1452_2610_NonBlockedRestriction_RebalanceModel" key="{65400590-F4F8-43B0-9C15-F1A5932C7BCB}" path="CR1452_2610_NonBlockedRestriction_RebalanceModel.js" />
+				<child name="CR1452_2611_BlockedRestriction_Model" key="{B1A5AEF0-48C3-4FBE-863F-D18D08AFAF05}" path="CR1452_2611_BlockedRestriction_Model.js" />
+				<child name="CR1452_2613_NonBlockedRestriction_Model" key="{C4E272E3-D73C-4D54-81F6-DACAC2669F70}" path="CR1452_2613_NonBlockedRestriction_Model.js" />
+				<child name="CR1452_2615_BlockedRestriction_Model" key="{C4C25D56-11D3-44EC-ACDD-3511858655E1}" path="CR1452_2615_BlockedRestriction_Model.js" />
+				<child name="CR1452_2616_NonBlockedRestriction_Model" key="{6C8BCB48-6362-40F7-AFCE-BF87FE16F980}" path="CR1452_2616_NonBlockedRestriction_Model.js" />
+				<child name="CR1452_2617_BlockedRestriction_Model" key="{556B8083-53B8-4308-A8D5-42350F45DF4E}" path="CR1452_2617_BlockedRestriction_Model.js" />
+				<child name="CR1452_2618_NonBlockedRestriction_Model" key="{37F29070-1C24-4045-813F-438AF10926AB}" path="CR1452_2618_NonBlockedRestriction_Model.js" />
+				<child name="CR1452_2619_NonBlockedRestrictionModel_BlockedRestrictionAccount" key="{58C737DB-6EE2-4349-881B-E195511E1F84}" path="CR1452_2619_NonBlockedRestrictionModel_BlockedRestrictionAccount.js" />
+				<child name="CR1452_2620_BlockedRestriction_model" key="{F09EA299-BCC0-4D87-89DB-1AB0018EDBBA}" path="CR1452_2620_BlockedRestriction_model.js" />
+				<child name="CR1452_2621_NonBlockedRestriction_model" key="{9166B31C-1853-48AB-A04F-385F363C6454}" path="CR1452_2621_NonBlockedRestriction_model.js" />
+				<child name="CR1452_2622_NonBlockedRestrictionModel_BlockedRestrictionAccount" key="{318DC5FF-C5E4-4231-ADB3-0142E8CDB02B}" path="CR1452_2622_NonBlockedRestrictionModel_BlockedRestrictionAccount.js" />
+				<child name="CR1452_264_BlockedRestriction" key="{223E7AAF-841C-4AD6-9AE7-C3A9D2CF182B}" path="CR1452_264_BlockedRestriction.js" />
+				<child name="CR1452_265_NonBlockedRestriction" key="{A1660176-E337-405F-9EAD-B03930B61783}" path="CR1452_265_NonBlockedRestriction.js" />
+				<child name="CR1452_267_BlockedRestriction" key="{09C8E1D4-59AE-490E-A240-00B8FC238228}" path="CR1452_267_BlockedRestriction.js" />
+				<child name="CR1452_268_NonBlockedRestriction_RebalanceAllSleeves" key="{F4F84ED4-A6DF-40B2-835A-0DF21C9CDD0E}" path="CR1452_268_NonBlockedRestriction_RebalanceAllSleeves.js" />
+				<child name="CR1452_269_BlockedRestriction_RebalanceModel" key="{4DFA83FA-1D3D-4BE4-BAA2-078594A8448D}" path="CR1452_269_BlockedRestriction_RebalanceModel.js" />
+			</folder>
+			<folder name="2_7">
+				<child name="CR1452_271_Rebalance_Account_WithInactiveModel" key="{2B3DBDAD-FFE7-4B76-9D43-C07821690A08}" path="CR1452_271_Rebalance_Account_WithInactiveModel.js" />
+				<child name="CR1452_272_Rebalance_Account_WithInactiveModel" key="{5843ED1B-A691-4F8A-8188-5FD935566E3E}" path="CR1452_272_Rebalance_Account_WithInactiveModel.js" />
+				<child name="CR1452_274_Rebalance_SeveralAccounts_WithInactiveModel" key="{9F7A2719-39BC-44C6-AF53-FD4A4F1EF51C}" path="CR1452_274_Rebalance_SeveralAccounts_WithInactiveModel.js" />
+				<child name="CR1452_275_Rebalance_SeveralAccounts_WithInactiveModel" key="{785682DC-559B-4A2A-8B65-25DF67934742}" path="CR1452_275_Rebalance_SeveralAccounts_WithInactiveModel.js" />
+				<child name="CR1452_278_Rebalance_WithInactiveModel" key="{839B1E6D-DB92-4953-9288-064121ED82A8}" path="CR1452_278_Rebalance_WithInactiveModel.js" />
+				<child name="CR1452_279_Rebalance_SubModel" key="{37A61853-761A-4CF5-B8E5-1C86950F0E74}" path="CR1452_279_Rebalance_SubModel.js" />
+			</folder>
+			<folder name="2_8_CashManagement">
+				<child name="CR1452_281_CashManagement" key="{B87912EB-BD96-4773-863A-41309AA4E703}" path="CR1452_281_CashManagement.js" />
+				<child name="CR1452_2811_CashManagement_USAccount" key="{7CC2FFD6-E054-481F-8297-4073EA13F07B}" path="CR1452_2811_CashManagement_USAccount.js" />
+				<child name="CR1452_2812_RebalanceCROES3112" key="{991692DB-AF95-40F4-989A-E24BBB6EF18C}" path="CR1452_2812_RebalanceCROES3112.js" />
+				<child name="CR1452_2816_CashManagement" key="{5C1085A2-8509-4C5A-A2EA-68B4C5A3C42E}" path="CR1452_2816_CashManagement.js" />
+				<child name="CR1452_282_CashManagement" key="{A4EFDCEA-78D7-4F7B-BECF-A963651C2A58}" path="CR1452_282_CashManagement.js" />
+				<child name="CR1452_288_CashManagement" key="{9F14E611-651C-436F-A76C-7ED6706B7F3D}" path="CR1452_288_CashManagement.js" />
+				<child name="CR1452_2814_RebalancingAllSleeves" key="{F888D56D-10F6-4D33-9CBB-3099DEA7FA3D}" path="CR1452_2814_RebalancingAllSleeves.js" />
+				<child name="CR1452_2815_CashManagement" key="{8643607E-25CE-4733-B3BC-346C6655A252}" path="CR1452_2815_CashManagement.js" />
+				<child name="CR1453_2821_RebalancingModel" key="{E9FE523B-F38D-4CD1-9212-86BD92E72FED}" path="CR1453_2821_RebalancingModel.js" />
+				<child name="CR1452_2819_RebalancingModel" key="{D3045A0C-CA70-4DB0-8033-532A4708D028}" path="CR1452_2819_RebalancingModel.js" />
+			</folder>
+			<child name="CR1452_PREF_ORDER_DELAY" key="{D90F2324-7092-471E-90CD-1280617A1823}" path="CR1452_PREF_ORDER_DELAY.js" />
+			<child name="CR1452_UMA_Reconciliation_Loader_mode_full" key="{CA4F7D9A-B5B0-46D9-AF86-CAF86AFF971D}" path="CR1452_UMA_Reconciliation_Loader_mode_full.js" />
+		</folder>
+		<folder name="New_AddToSuite_CR1452" />
+		<folder name="Template-Gabarit">
+			<folder name="Anomalies">
+				<child name="TCVE_2026_JiraPF_2126AndPF_1199" key="{3A768CF2-55D0-4F8D-924D-A45553E3EBC8}" path="TCVE_2026_JiraPF_2126AndPF_1199.js" />
+			</folder>
+			<child name="TCVE_902_Template_Type_WorkTeam" key="{441AC83F-61CD-43EA-9EFF-7F6118F3B40A}" path="TCVE_902_Template_Type_WorkTeam.js" />
+			<child name="TCVE_912_TemplateCopy_Type_Firme" key="{39C5E761-CE79-435C-B9E2-C0718A7F67C6}" path="TCVE_912_TemplateCopy_Type_Firme.js" />
+		</folder>
+		<folder name="Anomalies">
+			<child name="TCVE_5891_MIB1762_Validate_RebalanceModel_NonBlockedRestriction_InA_AssetClass" key="{72649C8C-467B-4F0E-99B5-833A928A688B}" path="TCVE_5891_MIB1762_Validate_RebalanceModel_NonBlockedRestriction_InA_AssetClass.js" />
+		</folder>
+		<folder name="CR2431">
+			<child name="CR2431_TCVE_6272_DumpPreparation" key="{5E7DAB13-9954-4635-9EF7-D07A6D07C6A3}" path="CR2431_TCVE_6272_DumpPreparation.js" />
+			<child name="CR2431_TCVE_7517_AutomateMassiveAssignmentOfTemplatesFor_BNC" key="{C553DE95-827D-4E10-8616-EFBE4B7730BE}" path="CR2431_TCVE_7517_AutomateMassiveAssignmentOfTemplatesFor_BNC.js" />
+		</folder>
+		<child name="ExecutionLog" key="{719486DB-0661-4A8C-BD02-F68A3DBB1D37}" path="ExecutionLog.js" />
+		<child name="PreExecution" key="{577DF7BB-B344-488A-864B-1A9BE6ADA39F}" path="PreExecution.js" />
+		<child name="Global_variables" key="{DA0B870A-BE01-45F6-9DDE-C185C7BAE208}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{969A1391-3E5F-41C5-BBE7-4CD95CBF1BD3}" path="..\..\..\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{8EC1E74E-61BC-4B52-9AA9-CDDC2FD8FD16}">
+	<children>
+		<child name="Comptes" key="{DD8F1763-0117-4641-9317-02FA1955D9DD}" path="Comptes\Comptes.mds" />
+	</children>
+	<testItems key="{945C4DB7-FB6F-4A5C-9495-A75C5595CA5C}">
+		<children>
+			<testItem key="{DD8F1763-0117-4641-9317-02FA1955D9DD}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{4EF1E1BB-8D06-4CF9-8739-6E5DEFE3720D}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="CIBC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{572D485B-9A03-4794-AB66-E4D4889CAA9A}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

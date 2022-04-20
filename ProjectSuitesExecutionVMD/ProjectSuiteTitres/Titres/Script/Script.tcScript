@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{C86F08E0-5C83-4B25-8D2D-1F55530C1EFD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{9D06388A-7588-4BB6-8810-EEB4C81C4CF2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{F4FA7944-773C-4630-9C09-AD3FD9398C42}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{AC6B5475-ABDC-479B-AD4B-5E0A38450B89}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{3950F2C8-291C-490F-9404-1B1588E3AFAD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{6B7997D9-300F-4698-8A1D-165C46565D4F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="ExcelUtils" key="{8CA55061-8AFC-40A0-8B55-6E723BF70E39}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Common_functions" key="{0E5AA665-0D07-483C-83CB-931A58DDAAAD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="CommonCheckpoints" key="{081C979A-7655-45FF-9999-70FA0206D81C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Agenda_Get_functions" key="{5F68BC7E-1FA8-4B04-91CF-55FB9348F233}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{B745EC7D-833A-452E-A45C-AE9B65EB8B7F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{13FA9FC0-C658-4742-8BE7-3C1CAF1230E9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{B78D3851-F1CB-4C33-9996-D8C787E17DB9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{342DF528-1EF3-4F2B-98E7-CF6FDA7ED4B9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{EA704E98-BD20-4562-82B6-2829EBED5D5B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{1D66647F-FF6D-475B-B762-A2ED70FD816D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{630EC200-E68E-45DB-9851-9C7E7709727E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{27BB3E53-3354-44EB-A5E4-7CDDB5F5FA53}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{DEB1A55E-9766-431D-8712-966B135DDE4D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="DBA" key="{B81B18F3-329E-41C6-B88F-4970251FC3BF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="PDFUtils" key="{B7474087-FDB9-4FA3-B229-99BDF7F35E89}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="Regression">
+			<child name="Regression_2030_2031_2032_2033_Tit_AddSecurity" key="{1732CE96-370A-4FC0-99A1-83A8F0869308}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\Regression_2030_2031_2032_2033_Tit_AddSecurity.sj" />
+			<child name="Regression_2034_2035_2036_2037_Tit_EditSecurity" key="{30027B08-745B-41F9-BA3C-D4E90B39EB45}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\Regression_2034_2035_2036_2037_Tit_EditSecurity.sj" />
+			<child name="Regression_2038_2039_4259_2040_Tit_DeleteSecurity" key="{9AA404F1-1599-4A55-98CD-A607F2142DE4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\Regression_2038_2039_4259_2040_Tit_DeleteSecurity.sj" />
+			<child name="Regression_2041_2042_2249_Tit_Searchsecurity" key="{30A5CCAD-3546-4A8B-9132-49829528EC33}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\Regression_2041_2042_2249_Tit_Searchsecurity.sj" />
+			<child name="Regression_2050_Tit_ConfigurationColumnsValidation" key="{748D0500-89B2-443C-9D5A-BDFDFEE2DF8A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\Regression_2050_Tit_ConfigurationColumnsValidation.sj" />
+			<child name="Regression_2051_2070_2159_Tit_ValidationDesBouttonCalculatriceDonneesHistoriqueAnnuler" key="{00EA3FEA-9760-44FB-A2A2-A00F34D6392E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\Regression_2051_2070_2159_Tit_ValidationDesBouttonCalculatriceDonneesHistoriqueAnnuler.sj" />
+			<child name="Regression_2110_Tit_ValidationDuButtonTauxDeChange" key="{08A8CE59-C5C9-4E08-AEF7-EA2C8E5379C5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\Regression_2110_Tit_ValidationDuButtonTauxDeChange.sj" />
+			<child name="Regression_2146_2148_Tit_ValidationDesProfilsEtCaseMasquerChpVides" key="{EEE51C85-FB33-40BB-933C-DFC30957B94D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\Regression_2146_2148_Tit_ValidationDesProfilsEtCaseMasquerChpVides.sj" />
+			<child name="Regression_2153_2055_Tit_ValidationDuBouttonSommationEtDesURL" key="{4B6126E2-BE71-432B-8426-C8354E81E830}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\Regression_2153_2055_Tit_ValidationDuBouttonSommationEtDesURL.sj" />
+		</folder>
+		<folder name="CR1152">
+			<child name="CR1152_8926_PopulerColonneRiskRatingDu_b_titre" key="{D9FF2FA5-5471-46EA-A75E-67008A241505}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\CR1152_8926_PopulerColonneRiskRatingDu_b_titre.sj" />
+		</folder>
+		<folder name="PreExecution">
+			<child name="PreExecution" key="{7101B142-17FC-4982-8DC2-7EC242D0EAC9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\PreExecution.sj" />
+		</folder>
+		<child name="ExecutionLog" key="{386AF911-7D6C-45EA-9883-1787A4D03354}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteTitres\Titres\Script\ExecutionLog.sj" />
+		<child name="GetListOfTestsToBeRun" key="{5A20231D-2367-4514-B271-59EB19669969}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="Global_variables" key="{D47E56A0-0864-440F-B31C-05C4BF6FE612}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+	</children>
+</Root>

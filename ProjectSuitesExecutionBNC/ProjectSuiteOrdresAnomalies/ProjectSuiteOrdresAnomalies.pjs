@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{72121CD7-3FD1-493B-BC4C-545871FC572E}">
+	<children>
+		<child name="Ordres" key="{40D95271-449E-4359-B89D-DBFD9590871F}" path="OrdresAnomalies\Ordres.mds" />
+	</children>
+	<testItems key="{CCD33294-763C-4E25-A3D4-F0CD75633D88}">
+		<children>
+			<testItem key="{40D95271-449E-4359-B89D-DBFD9590871F}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{F052419B-76D4-42C2-9AC3-D4B56E6F27C6}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="BNC" />
+				</Variable>
+				<Variable Name="runStartDateTime" Type="String" Local="True">
+					<DefValue />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{920159A6-4E70-48EA-96EC-DDE44E26D92F}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

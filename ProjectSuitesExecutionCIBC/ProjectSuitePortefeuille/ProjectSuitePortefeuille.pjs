@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{A30AE817-3197-4645-9284-A1C19379D52B}">
+	<children>
+		<child name="Portefeuille" key="{2C9644B7-5CA9-41B0-93B8-287A975A35C9}" path="Portefeuille\Portefeuille.mds" />
+	</children>
+	<testItems key="{4EE0385B-7C22-4B92-A49B-B908BD5A9051}">
+		<children>
+			<testItem key="{2C9644B7-5CA9-41B0-93B8-287A975A35C9}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{BFBAADC7-F09C-4F7F-8F99-D1BAF7E76214}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="CIBC" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{23F1B161-CBB1-42D4-9E62-FF330AFE83DB}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

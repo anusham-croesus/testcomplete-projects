@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{14B2C60F-5E34-4C94-977C-A940CCA44EB0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{20F176DB-B761-4610-AE3B-D5ABB5E8E512}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{4DC93C7F-FC40-4B83-A725-942BF8EDAC99}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{77BEAEF3-4E31-4E3D-B4E4-CBC88835ED23}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{CCAEA5FC-6610-4723-A0BB-B0D6104C7301}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{9E504E3E-1869-4EF5-943B-ABCE4977D624}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{09EC4E90-6C3F-4591-ADC4-9B191ED695AD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{C3C0586D-5A63-4EED-A23B-CCA1E7D55A01}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{A017972C-539D-44F9-A9CA-AB8D33AFE027}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{6EE4E2AD-DCF6-486A-BE4C-873C99178CA1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{32D09141-1E16-46E1-8CD8-E1EA1F44CA41}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{08BB34DE-47D1-438F-8204-FDC8E7245A0B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{0F5B3099-7AFE-484E-88CC-829A7CAF79BF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{CFCAA4AC-E9A4-48CF-8E38-1F0DA4610983}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{F796B2BA-A728-4A5B-89E9-7E8156ADAFA4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{6555FB6B-050D-496C-81B8-2EBD9EBFCEFA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{FD133A16-BA9E-4B56-9181-2E5D1B196CBB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{656740D1-0C8E-4886-81C0-C4FA6C72969F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{F4C69441-709A-47D6-B708-A7E21ECBFAD2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+		</folder>
+		<folder name="TestFenetrePerformanceClient">
+			<child name="Crash_test_of_the_client_performance_window_1" key="{538899C7-0B90-401A-BC53-2A4B055DB62E}" path="Crash_test_of_the_client_performance_window_1.sj" />
+			<child name="Crash_test_of_the_client_performance_window_2" key="{2CE56C30-AA99-4CCA-AB38-FF6AA946E5CB}" path="Crash_test_of_the_client_performance_window_2.sj" />
+		</folder>
+		<folder name="TestFenetrePerformanceRelation">
+			<child name="Crash_test_of_the_relationship_performance_window_1" key="{EA8BE7B8-B53F-4B97-8657-1AD71A970F18}" path="Crash_test_of_the_relationship_performance_window_1.sj" />
+			<child name="Crash_test_of_the_relationship_performance_window_2" key="{7FC74D3E-08F6-49DB-88DC-0C2BEE9A25BA}" path="Crash_test_of_the_relationship_performance_window_2.sj" />
+		</folder>
+		<child name="Global_variables" key="{100F3A4F-50B0-4A18-8D82-D9992A92653A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+	</children>
+</Root>

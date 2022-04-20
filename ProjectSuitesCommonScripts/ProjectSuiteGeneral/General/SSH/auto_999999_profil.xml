@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE proData SYSTEM "/usr/lib/finansoft/loader/dtd/profile_data.dtd">
+<proData xmlns="PRO_NS">
+	<header timeStamp="20100125" dest="UNI" noElem="2"/>
+	
+	<cli xmlns="CLI_NS" id="999999" rep="BD88" branch="BD">
+		<cliInfo lang="F" gender="M" birth="19990101" ssn="999 999 999">
+			<name short="VALIDATIONS AUTO" long="VALIDATIONS TEST AUTO"/>
+			<addr>
+				<line>1234 RUE TEST</line>
+				<city>TEST</city>
+				<prov>QC</prov>
+				<code>H3E 1L4</code>
+				<country>CANADA</country>
+			</addr>
+			<phone phoneDesc="1" phoneNum="(450) 555-1234"/>
+			<phone phoneDesc="2" phoneNum="(450) 555-4321"/>
+			<phone phoneDesc="3" phoneNum="(450) 555-9999"/>
+			<phone phoneDesc="4" phoneNum="(450) 555-1111"/>
+			<email eDesc="1" eAddr="test@croesus.com"/>
+		</cliInfo>
+	</cli>
+	<acc xmlns="ACC_NS" accId="999999NA" accRep="BD88">
+		<accInfo accName="VALIDATIONS AUTO" curr="CAD">
+			<accType key="1" value="A"/>
+		</accInfo>
+	</acc>
+</proData>

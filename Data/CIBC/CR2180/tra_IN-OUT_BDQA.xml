@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE traData SYSTEM "/usr/lib/finansoft/loader/dtd/trans_data.dtd">
+<traData xmlns="TRA_NS">
+    <header timeStamp="20100125" dest="UNI" noElem="3"/>
+	    <accTra accId="300001NA            " noTra="0000004">
+			<tra total="-5200.00" note="TRF-OUT to 300002NA">
+			<traType type="5" typeStr="TRF"/>
+			<traDates trade="20100118" settled="20100118"/>
+			<traSec qty="0">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts accInt="0.00" totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+		<tra total="0.00" note="MFC TRF-OUT to 300002NA">
+			<traType type="5" typeStr="TRF"/>
+			<traDates trade="20100118" settled="20100118"/>
+			<traSec qty="-200">
+				<sec id="416516">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="0" isComm="0"/>
+		</tra>
+		<tra total="-10500.00" note="TRF-OUT to 300001RE">
+			<traType type="5" typeStr="TRF"/>
+			<traDates trade="20100118" settled="20100118"/>
+			<traSec qty="0">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts accInt="0.00" totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+		<tra total="0.00" note="SAP TRF-OUT to 300001RE">
+			<traType type="5" typeStr="TRF"/>
+			<traDates trade="20100118" settled="20100118"/>
+			<traSec qty="-400">
+				<sec id="599751">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="0" isComm="0"/>
+		</tra>
+	    </accTra>
+		<accTra accId="300001RE            " noTra="0000002">
+					<tra total="10500.00" note="TRF-IN from 300001NA">
+			<traType type="5" typeStr="TRF"/>
+			<traDates trade="20100118" settled="20100118"/>
+			<traSec qty="0">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts accInt="0.00" totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+		<tra total="0.00" note="SAP TRF-IN from 300001NA">
+			<traType type="5" typeStr="TRF"/>
+			<traDates trade="20100118" settled="20100118"/>
+			<traSec qty="400">
+				<sec id="599751">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="0" isComm="0"/>
+		</tra>
+	</accTra>
+		<accTra accId="300002NA            " noTra="0000002">
+			<tra total="5200.00" note="TRF-IN from 300001NA">
+			<traType type="5" typeStr="TRF"/>
+			<traDates trade="20100118" settled="20100118"/>
+			<traSec qty="0">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts accInt="0.00" totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+			<tra total="0.00" note="MFC TRF-IN from 300001NA">
+			<traType type="5" typeStr="TRF"/>
+			<traDates trade="20100118" settled="20100118"/>
+			<traSec qty="200">
+				<sec id="416516">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="0" isComm="0"/>
+		</tra>
+	</accTra>
+</traData>

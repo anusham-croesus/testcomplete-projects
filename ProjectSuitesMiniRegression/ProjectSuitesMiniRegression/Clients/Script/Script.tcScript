@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{1DE93390-D09F-4D5D-A6AC-C6E97D44B43B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{10EE48E1-0C09-40F8-BC77-0A1B35104E0F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{C92A4519-92D6-481C-87E7-5CE4DE83990F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{719D9F71-94ED-4D48-92E7-6B69F055F255}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{48701EF3-BFF3-477F-A050-CDA3783E20F3}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{0010DA62-4720-4199-937E-4394F821EBF3}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{1137E4F1-2064-46D5-B39F-A53CF457BF50}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="ExcelUtils" key="{8B579714-4E8E-48E8-AA42-A5F22DC24C30}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="DBA" key="{846A5B82-01B1-4ABF-9257-7642D4EAF51D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="CommonCheckpoints" key="{4A8DDAE0-1B90-46E1-A4B0-732BB6A661F2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Agenda_Get_functions" key="{1BA4684B-3E0E-4486-8EAA-D4C2F9E341C3}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{7C61FB2B-20B6-45BB-9963-34A5FDCA7229}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{3F969A00-8006-44AA-BEC8-382407F5B527}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{6E6ACBBB-93B1-47BC-B4DE-B1E04081E078}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{EFD27512-2DCC-4903-80D4-AD4EB5A1C676}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{33CAB7D5-0825-4A90-891E-B72D8CA71BD9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{476461DD-1277-433C-A135-C9BE8FB686D6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{2CA4EDF1-F56B-4109-95B9-0450F9A5C863}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{0C1311C3-13E4-4C17-88EB-B256949F05DC}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{F521492C-82CE-4E0D-857B-55265568E37A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="PDFUtils" key="{2607B616-59E9-4D96-9D42-E8BA6A7D2F09}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="Survol">
+			<folder name="Sum">
+				<child name="Survol_Cli_ToolBar_btnSum" key="{1469A848-1664-40C4-8215-820C4DAA614F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnSum.sj" />
+				<child name="Survol_Cli_MenuBar_EditSum" key="{0623F1F5-3066-4600-91E9-06A5062ED9BA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditSum.sj" />
+				<child name="Survol_Cli_Sum_AltS" key="{612441DE-C74F-4702-91A8-3E354798CF8C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Sum_AltS.sj" />
+			</folder>
+			<folder name="Close_Application">
+				<child name="Survol_Cli_AltF4" key="{26928E13-5E17-408E-910C-C61543635A4D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_AltF4.sj" />
+				<child name="Survol_Cli_AltQ" key="{A2001096-6F98-4FD1-82C6-1E6D15962760}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_AltQ.sj" />
+				<child name="Survol_Cli_Quitter" key="{867696E3-E675-4685-A3E5-7A9E390FC7E5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Quitter.sj" />
+				<child name="Survol_Cli_SysClose" key="{5D4B24B2-6D30-4065-95A1-22EC27C17FF7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_SysClose.sj" />
+				<child name="Survol_Cli_X" key="{59F61AD5-75E3-4910-869F-9E5989A7D468}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_X.sj" />
+			</folder>
+			<folder name="Agenda">
+				<child name="Survol_Cli_Agenda_Ctrl_Maj_L" key="{F699E105-CF9A-4191-B4A3-FB36CE2352B7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Agenda_Ctrl_Maj_L.sj" />
+				<child name="Survol_Cli_MenuBar_ToolsAgenda" key="{77EA41F3-68DD-4C35-B9BB-C8059308F3D2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_ToolsAgenda.sj" />
+				<child name="Survol_Cli_ToolBar_btnAgenda" key="{FB6BADEB-9CFA-4F71-AF7B-412EC241BE86}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnAgenda.sj" />
+			</folder>
+			<folder name="Add_Filter">
+				<child name="Survol_Cli_MenuBar_SearchAddFilter" key="{573F4D5C-B72E-42C2-8CEC-0B45FD47A310}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_SearchAddFilter.sj" />
+				<child name="Survol_Cli_ToolBar_btnQuickFilters_AddFilter" key="{8F399632-DCBE-410F-9EAC-E0EB54A28629}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnQuickFilters_AddFilter.sj" />
+			</folder>
+			<folder name="Add_Search_Criterion">
+				<child name="Survol_Cli_MenuBar_SearchCriteriaSubmenuAddSearchCriterion" key="{D097E552-CD2E-4FB9-9ABA-0C881DE8F499}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_SearchCriteriaSubmenuAddSearchCriterion.sj" />
+				<child name="Survol_Cli_Toolbar_BtnAddSearchCriterion" key="{B4F86AD7-9623-42AE-8685-24C96275ABE4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Toolbar_BtnAddSearchCriterion.sj" />
+			</folder>
+			<folder name="Archive_Documents">
+				<child name="Survol_Cli_ArchiveDoc_Ctrl_Maj_A" key="{91E74CC3-7C2F-42CA-81DA-ECE2D737F35C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ArchiveDoc_Ctrl_Maj_A.sj" />
+				<child name="Survol_Cli_MenuBar_Tools_btnArchiveMyDocuments" key="{C2979114-7E81-45B1-985A-B2ABBB8AB89F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_Tools_btnArchiveMyDocuments.sj" />
+				<child name="Survol_Cli_ToolBar_btnArchiveMyDocuments" key="{CF3D791E-8C72-461C-9574-C945E827EDE1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnArchiveMyDocuments.sj" />
+			</folder>
+			<folder name="Bond_Calculator">
+				<child name="Survol_Cli_Calculator_Ctrl_Maj_O" key="{F98A9AA9-2447-4551-9DCE-8F8FCFCD633E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Calculator_Ctrl_Maj_O.sj" />
+				<child name="Survol_Cli_MenuBar_Tools_btnCalculator" key="{F90D8744-3A91-4922-995B-AC64D6E44806}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_Tools_btnCalculator.sj" />
+				<child name="Survol_Cli_Toolbar_btnBondCalculator" key="{CCC9BF9C-D8E9-4132-B75D-845C8BDD228D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Toolbar_btnBondCalculator.sj" />
+			</folder>
+			<folder name="Internet">
+				<child name="Survol_Cli_MenuBar_Tools_Internet" key="{162A6C3D-7CF1-46A3-898B-C15B468CDB65}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_Tools_Internet.sj" />
+				<child name="Survol_Cli_ToolBar_btnInternet" key="{6CF81D97-23A3-478A-94A6-8C934A39EC26}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnInternet.sj" />
+			</folder>
+			<folder name="Financial_Instrument_Selector">
+				<folder name="Create_buy_order">
+					<child name="Survol_Cli_CreateBuyOrder_ClickR" key="{01C4518E-DB14-4A3D-A59E-5B60A3FC6B58}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_CreateBuyOrder_ClickR.sj" />
+					<child name="Survol_Cli_CreateBuyOrder_CtrlShiftB" key="{800F2ACA-A3F2-4EBD-AAA1-1FDF8097F3BA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_CreateBuyOrder_CtrlShiftB.sj" />
+					<child name="Survol_Cli_Menubar_CreateBuyOrder" key="{F2613AD9-09C1-415D-B990-DF4176DF8827}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Menubar_CreateBuyOrder.sj" />
+					<child name="Survol_Cli_Toolbar_btnCreateBuyOrder" key="{A3FF205E-520D-4004-A17F-0D87DB8A9C6B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Toolbar_btnCreateBuyOrder.sj" />
+				</folder>
+				<folder name="Create_sell_order">
+					<child name="Survol_Cli_CreateSellOrder_ClickR" key="{A6734442-8DEB-44E0-9C31-929C59BE4EF7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_CreateSellOrder_ClickR.sj" />
+					<child name="Survol_Cli_CreateSellOrder_CtrlShifts" key="{B997D96A-28BF-47D6-8DE3-1715F4167477}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_CreateSellOrder_CtrlShifts.sj" />
+					<child name="Survol_Cli_Menubar_CreateSellOrder" key="{B9DCF20F-9362-4592-ADD7-6014EC18412A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Menubar_CreateSellOrder.sj" />
+					<child name="Survol_Cli_Toolbar_btnCreateSellOrder" key="{37DA1E6B-C3D8-46D1-B0DE-11C87C08AD36}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Toolbar_btnCreateSellOrder.sj" />
+				</folder>
+			</folder>
+			<folder name="MainWin">
+				<folder name="Grid_column_ header">
+					<child name="Survol_Cli_Grid_column_header" key="{CB0247CE-C32F-4207-9780-D9CDB6D35A6B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Grid_column_header.sj" />
+				</folder>
+				<folder name="Details">
+					<child name="Survol_Cli_MainWin_Details" key="{818C77E0-BF05-4EAC-B0BA-436E9D464925}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MainWin_Details.sj" />
+				</folder>
+			</folder>
+			<folder name="Clients_Reports">
+				<child name="Survol_Cli_MenuBar_ReportsClients" key="{C81F16AB-0E42-44A4-9342-C288B397A4C0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_ReportsClients.sj" />
+				<child name="Survol_Cli_ToolBar_btnReportsAndGraphs" key="{281F8888-9A52-4F97-839A-2B7CD856288E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnReportsAndGraphs.sj" />
+			</folder>
+			<folder name="Info">
+				<child name="Survol_Cli_ClientsBar_BtnInfo" key="{3D5848B8-FD02-4F74-8515-18322C1583B0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo.sj" />
+				<child name="Survol_Cli_ContextualMenu_Functions_Info" key="{723227FA-4E2A-4E7E-B8C8-AA13C85268EB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ContextualMenu_Functions_Info.sj" />
+				<child name="Survol_Cli_MenuBar_EditFunctions_Info" key="{BAAD6E87-31C1-421E-8F3F-178C472E6934}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_Info.sj" />
+			</folder>
+			<folder name="Info(i)">
+				<child name="Survol_Cli_i_Ctrl_L" key="{3B5DD4A3-00F4-4AD8-A3CE-D322EFF4637F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_i_Ctrl_L.sj" />
+				<child name="Survol_Cli_ContextualMenu_i" key="{123D96A9-4595-4974-AFBE-60FEDC7957A0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ContextualMenu_i.sj" />
+				<child name="Survol_Cli_MenuBar_Edit_i" key="{ED95BDD9-7EBF-4F8C-8378-E16AD07EF785}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_Edit_i.sj" />
+				<child name="Survol_Cli_ToolBar_Btn_i" key="{FF656E03-7463-4E4B-B5FE-B26FDED3165F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_Btn_i.sj" />
+			</folder>
+			<folder name="Activities">
+				<child name="Survol_Cli_ClientsBar_Activities" key="{3D348777-DCBF-4B9D-BB84-7DF6A6EA7751}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_Activities.sj" />
+				<child name="Survol_Cli_ContextualMenu_Functions_Activities" key="{7E1AD0C9-3A43-4CBA-9525-F013A5C19F20}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ContextualMenu_Functions_Activities.sj" />
+				<child name="Survol_Cli_MenuBar_EditFunctions_Activities" key="{A7F135F5-A3F9-4859-A82B-B5518FAC239E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_Activities.sj" />
+			</folder>
+			<folder name="Performance">
+				<child name="Survol_Cli_ClientsBar_Performance" key="{E747036C-F536-4E75-8F73-75F0AD200560}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_Performance.sj" />
+				<child name="Survol_Cli_ContextualMenu_Functions_Performance" key="{F07A4ADF-CD59-44D0-8724-BD628972BED2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ContextualMenu_Functions_Performance.sj" />
+				<child name="Survol_Cli_MenuBar_EditFunctions_Performance" key="{CC7B8B77-B618-4EDE-BA73-043A899608D8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_Performance.sj" />
+			</folder>
+			<folder name="Print">
+				<child name="Survol_Cli_MenuBar_FilePrint" key="{1D7F4FCE-66C0-4777-90CB-81611155BCDA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_FilePrint.sj" />
+				<child name="Survol_Cli_Print_AltP" key="{A29B3C57-5AFC-4C28-9DA1-6B1FCFE4767D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Print_AltP.sj" />
+				<child name="Survol_Cli_Print_ClickR" key="{F6199038-3B47-4FE1-90E7-CA46ADD4EE5E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Print_ClickR.sj" />
+				<child name="Survol_Cli_ToolBar_btnPrint" key="{526334B2-C8AF-4BBD-B972-43A70AA2B212}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnPrint.sj" />
+			</folder>
+			<folder name="Search">
+				<child name="Survol_Cli_MenuBar_EditSearch" key="{AEDA59CC-0F4A-42DF-80F1-EAE961D44B3C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditSearch.sj" />
+				<child name="Survol_Cli_Search_KeyboardSearch" key="{6A78F141-32AE-424F-A637-7433EE878398}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Search_KeyboardSearch.sj" />
+				<child name="Survol_Cli_ToolBar_btnSearch" key="{960A4F46-D46B-47B5-A152-4F47CB6CF494}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnSearch.sj" />
+			</folder>
+			<folder name="Search_Manage">
+				<child name="Survol_Cli_MenuBar_SearchCriteriaSubmenuSearchManage" key="{7EA36B4B-B3AC-49E4-AB15-D1422F3292F7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_SearchCriteriaSubmenuSearchManage.sj" />
+				<child name="Survol_Cli_ToolBar_btnManageSearchCriteria" key="{E3FE2FAF-F6BE-4DF9-A990-E33710E23C7E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnManageSearchCriteria.sj" />
+			</folder>
+			<folder name="Lock_Application">
+				<child name="Survol_Cli_MenuBar_FileLock_BtnOk_WithoutPSW" key="{C759EB73-4AE4-4D6C-8125-96F214D98C33}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_FileLock_BtnOk_WithoutPSW.sj" />
+				<child name="Survol_Cli_MenuBar_FileLock_BtnQuit" key="{089797A0-EDCC-4F53-8E72-CBDE9DBBE016}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_FileLock_BtnQuit.sj" />
+				<child name="Survol_Cli_ToolBar_BtnLockTheApplication_BtnOk_WithPSW" key="{C2FC0ADA-D845-4187-8908-6CED45AE8140}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_BtnLockTheApplication_BtnOk_WithPSW.sj" />
+			</folder>
+			<folder name="Quick_Filters">
+				<child name="Survol_Cli_MenuBar_Search_QuickFilters_Manage" key="{0E8C67DA-025B-410C-A91D-D602BD490AB3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_Search_QuickFilters_Manage.sj" />
+				<child name="Survol_Cli_QuickFilters_Manage_Ctrl_Maj_Q" key="{6371989C-582C-4673-B733-CAB02EA464B0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_QuickFilters_Manage_Ctrl_Maj_Q.sj" />
+				<child name="Survol_Cli_ToolBar_QuickFilters_Manage" key="{30AAF505-D153-4268-8553-5E88FDF68CA7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_QuickFilters_Manage.sj" />
+			</folder>
+			<folder name="Compose_Address">
+				<child name="Survol_Cli_Internet_ComposeAddress_CtrlO" key="{40430323-48BC-4937-8BF7-199835B872DB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_Internet_ComposeAddress_CtrlO.sj" />
+				<child name="Survol_Cli_MenuBar_Tools_Internet_ComposeAddress" key="{C7C8FBE5-7EEC-4300-A7D4-783E1894CCFB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_Tools_Internet_ComposeAddress.sj" />
+				<child name="Survol_Cli_ToolBar_BtnInternet_ComposeAddress" key="{A6106AE4-07E1-4DA8-BC73-E9C9F0E13005}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_BtnInternet_ComposeAddress.sj" />
+			</folder>
+			<folder name="Add_Client">
+				<folder name="Fictitious">
+					<child name="Survol_Cli_ContextualMenu_AddFictitious" key="{556BAFE4-D9EE-43B8-9001-F8BCFE36BF34}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ContextualMenu_AddFictitious.sj" />
+					<child name="Survol_Cli_MenuBar_Edit_AddFictitious" key="{75DA4FF6-FD4F-40D8-8B28-CD6FE62E80A0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_Edit_AddFictitious.sj" />
+					<child name="Survol_Cli_ToolBar_btnAdd_Fictitious" key="{99E57FA8-2E73-4B1A-96B4-E7211B6B0CB6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnAdd_Fictitious.sj" />
+				</folder>
+				<folder name="External">
+					<child name="Survol_Cli_ContextualMenu_AddExternal" key="{42B8E57B-E619-40B8-BA96-13165E3CC0CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ContextualMenu_AddExternal.sj" />
+					<child name="Survol_Cli_MenuBar_Edit_AddExternal" key="{9126BCCF-6E02-494F-951C-326BADA5A0FF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_Edit_AddExternal.sj" />
+					<child name="Survol_Cli_ToolBar_btnAdd_External" key="{5E45325D-6299-4A3C-9ACB-46679A972D54}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ToolBar_btnAdd_External.sj" />
+				</folder>
+			</folder>
+			<folder name="Info_list">
+				<folder name="Info">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Info" key="{F373D4D9-5ED3-4785-88E9-CF61070C5AFE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_Info.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoInfo" key="{FD531FDD-EA8B-4944-96A4-429AECC8CB1A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoInfo.sj" />
+				</folder>
+				<folder name="Notes">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Notes" key="{B468777C-F452-4DB7-AD5E-E9C7DF238D9F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_Notes.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoNotes" key="{67EDFDCB-6147-4A5B-A789-8884EE2D3626}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoNotes.sj" />
+				</folder>
+				<folder name="Addresses">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Addresses" key="{CD21F432-729F-4575-BCB8-B775A0A3F9B7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_Addresses.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoAddresses" key="{8BE60AE3-D457-4491-A748-9EF624E2DEBE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoAddresses.sj" />
+				</folder>
+				<folder name="Telephones">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Telephones" key="{5344DCAC-5444-4489-9249-3DE27F301B82}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_Telephones.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_Telephones" key="{21376D78-C0B1-487D-84C8-2B7FB96CB8C4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_Telephones.sj" />
+				</folder>
+				<folder name="Email">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Email" key="{42486343-D9E1-482F-8054-89B38126A355}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_Email.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoEmail" key="{8BF6D972-D9E9-427F-9CE7-F0D429E1FEA9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoEmail.sj" />
+				</folder>
+				<folder name="Agenda">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Agenda" key="{CF025BC9-604C-4371-9351-76CCF0941BDD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_Agenda.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoAgenda" key="{B96786FE-79AD-43DD-920A-E80D014727C7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoAgenda.sj" />
+				</folder>
+				<folder name="Products_Services">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_ProductsServices" key="{7B8F716D-86D2-4F3F-AA3E-99405E47B58F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_ProductsServices.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_ProductsServices" key="{D3E25A2F-922E-4D27-A162-C1419F10A9FB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_ProductsServices.sj" />
+				</folder>
+				<folder name="InvestmentObjective">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_InvestmentObjective" key="{798546C5-CF17-432F-9B35-D53214BD073D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_InvestmentObjective.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoInvestmentObjective" key="{5909D35C-FAD5-4685-BBC3-5287368997F9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoInvestmentObjective.sj" />
+				</folder>
+				<folder name="Default Reports">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_DefaultReports" key="{8167A34D-F579-4CA3-8D53-F81F3B939F59}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_DefaultReports.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoDefaultReports" key="{4780A1AB-9BFE-40A8-A4EF-9C7E31B2A752}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoDefaultReports.sj" />
+				</folder>
+				<folder name="Default Indices">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_DefaultIndices" key="{8852DFA6-D8BC-426B-8E24-DAEBC6FE2CD9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_DefaultIndices.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoDefaultIndices" key="{F15F20B5-90C9-4543-A25E-07D7B6A04344}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoDefaultIndices.sj" />
+				</folder>
+				<folder name="Profiles">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Profiles" key="{BB94EA79-976C-40BA-8450-8D2FC90AE964}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_Profiles.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_Profiles" key="{45069427-C226-4062-9701-C9ED566769D1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_Profiles.sj" />
+				</folder>
+				<folder name="Documents">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Documents" key="{9A6929B5-9B52-4856-83FD-0F2208EA3707}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_Documents.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoDocuments" key="{F9E3CE74-2CD5-4C1F-9433-31FEB3E4861F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoDocuments.sj" />
+				</folder>
+				<folder name="Costumer Network">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_ClientNetwork" key="{8F143FBF-E70D-49F2-A990-545E48FE2ADC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_ClientNetwork.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoClientNetwork" key="{799CB985-D3C2-4072-BC9F-DD9AB5E19879}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoClientNetwork.sj" />
+				</folder>
+				<folder name="Campaigns">
+					<child name="Survol_Cli_ClientsBar_BtnInfo_Campaigns" key="{B267DC39-0148-4308-A518-F4E941D69A62}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_ClientsBar_BtnInfo_Campaigns.sj" />
+					<child name="Survol_Cli_MenuBar_EditFunctions_InfoCampaigns" key="{0B0C7708-D19C-4F74-B7B9-4523AD4A0283}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\Survol_Cli_MenuBar_EditFunctions_InfoCampaigns.sj" />
+				</folder>
+			</folder>
+		</folder>
+		<folder name="CR1352">
+			<folder name="Drag_Filters">
+				<child name="CR1352_1455_Cli_DragAccounts_toClientModule" key="{A123AFBB-B5B5-4033-BD75-0AC69F43EA2A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1455_Cli_DragAccounts_toClientModule.sj" />
+				<child name="CR1352_1456_Cli_DragClients_toClientModule" key="{7F52B526-64EE-47ED-AF20-FB1240AD8AC3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1456_Cli_DragClients_toClientModule.sj" />
+				<child name="CR1352_1457_Cli_Deactivate_DraggedFilter" key="{EBA15594-4DD9-4130-B303-1D2DE3222048}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1457_Cli_Deactivate_DraggedFilter.sj" />
+				<child name="CR1352_1459_Cli_Apply_QuickFilter_onDraggedFilter" key="{40CB5C26-23A2-446A-8298-4251690D1788}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1459_Cli_Apply_QuickFilter_onDraggedFilter.sj" />
+				<child name="CR1352_1458_Cli_DragRelationships_toClientModule" key="{031A43F9-3DC0-49EA-932C-A39CAFCACB5B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1458_Cli_DragRelationships_toClientModule.sj" />
+			</folder>
+			<folder name="Manage_Filters">
+				<child name="CR1352_1440_Cli_Cancel_Print" key="{7B749AFF-02BC-480A-A95E-1C05D98C00EC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1440_Cli_Cancel_Print.sj" />
+				<child name="CR1352_1441_Cli_StateOfBtns_forGlobalAccessFilter" key="{224804E1-65FE-47AC-BF70-A8237BA6E6E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1441_Cli_StateOfBtns_forGlobalAccessFilter.sj" />
+				<child name="CR1352_1441_Cli_StateOfBtns_forUserAccessFilter" key="{C6AC4A73-CD04-40E2-82DB-D76F4C4A2389}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1441_Cli_StateOfBtns_forUserAccessFilter.sj" />
+				<child name="CR1352_1442_Cli_ColumnSorting_inManageFilter" key="{60808D86-D232-413D-BBBE-573BC395305A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1442_Cli_ColumnSorting_inManageFilter.sj" />
+				<child name="CR1352_1443_Cli_Configuration_ManageFilter" key="{923C9BA4-93A4-43B3-98B0-5A95CB62D665}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1443_Cli_Configuration_ManageFilter.sj" />
+				<child name="CR1352_1444_Cli_ContextualMenu_Copy_inManageFilter" key="{3EE08725-C5D1-4ACB-B108-2ED9E0899F75}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1444_Cli_ContextualMenu_Copy_inManageFilter.sj" />
+				<child name="CR1352_1445_Cli_ContentsIndexHelp_inManageFilter" key="{2DA8E249-1A5C-4E93-A8BF-D96B37817472}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1445_Cli_ContentsIndexHelp_inManageFilter.sj" />
+				<child name="CR1352_1445_Cli_ContextSensitiveHelp_inManageFilter" key="{518B8A9F-DCD3-47CD-9EA8-0BF49B078D92}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1445_Cli_ContextSensitiveHelp_inManageFilter.sj" />
+				<child name="CR1352_1446_Cli_ContextualMenu_ExportToFile_inManageFilter" key="{D414C8B4-27AE-40FB-A22B-13A2CDDFED6B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1446_Cli_ContextualMenu_ExportToFile_inManageFilter.sj" />
+				<child name="CR1352_1447_Cli_ContextualMenu_ExportToExcel_inManageFilter" key="{C448BAB4-4064-497A-9049-F7D71DBE9044}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1447_Cli_ContextualMenu_ExportToExcel_inManageFilter.sj" />
+				<child name="CR1352_1449_Cli_ContextualMenu_CopyWithHeader_inManageFilter" key="{9CBAE786-977A-4C5B-AE82-E9574201EF41}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1449_Cli_ContextualMenu_CopyWithHeader_inManageFilter.sj" />
+				<child name="CR1352_1452_Cli_Search_inManageFilter" key="{825C2B8D-D191-4B56-A238-1FAC51696D3F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1452_Cli_Search_inManageFilter.sj" />
+				<child name="CR1352_1454_Cli_Open_ManageFilter_viaSearchMenu" key="{F344020A-7E90-4ECA-87E9-C0A84343DF78}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1454_Cli_Open_ManageFilter_viaSearchMenu.sj" />
+			</folder>
+			<folder name="Quick_Permanent_Filters">
+				<child name="CR1352_1153_Cli_Create_PerCurrencyFilter_Icon_Y" key="{D41A979F-BF69-45BB-BC58-B40709946BDD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1153_Cli_Create_PerCurrencyFilter_Icon_Y.sj" />
+				<child name="CR1352_1154_Cli_Create_FilterFromManageFilters" key="{89A95B70-D03F-4535-851F-654DABD7DC6B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1154_Cli_Create_FilterFromManageFilters.sj" />
+				<child name="CR1352_1164_Cli_Create_PerNoCLientFilter_FromTemFilter" key="{651D6178-EFA1-4717-9C7F-5CD4EACA2952}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1164_Cli_Create_PerNoCLientFilter_FromTemFilter.sj" />
+				<child name="CR1352_1165_Cli_Create_GlobalAccessFilter" key="{3974DDE2-3F1F-4FA5-9A97-46851ACB001D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1165_Cli_Create_GlobalAccessFilter.sj" />
+				<child name="CR1352_1166_Cli_Create_FirmAccessFilter" key="{FA8C9953-626C-4C68-86D3-ED54F4DFE842}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1166_Cli_Create_FirmAccessFilter.sj" />
+				<child name="CR1352_1167_Cli_Create_BranchAccessFilter" key="{D7857B40-94E2-4C19-A6BA-B53885080BD3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1167_Cli_Create_BranchAccessFilter.sj" />
+				<child name="CR1352_1168_Cli_Create_WorkGroupAccessFilter" key="{4AD7C943-72B4-4A3F-BB0C-D164BCC43CEC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1168_Cli_Create_WorkGroupAccessFilter.sj" />
+				<child name="CR1352_1169_Cli_Create_UserAccessFilter" key="{C213ACC4-B8D1-48E0-868B-C4CE01498941}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1169_Cli_Create_UserAccessFilter.sj" />
+				<child name="CR1352_1170_Cli_UniqueFiltreName_ForAccesLevel" key="{0E3E11C4-8E1E-485C-8843-C15F6995ED7B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1170_Cli_UniqueFiltreName_ForAccesLevel.sj" />
+				<child name="CR1352_1171_Cli_Edit_PerGlobalFilter" key="{CA11623D-9BAB-42EF-A60E-F1CC11E343AE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1171_Cli_Edit_PerGlobalFilter.sj" />
+				<child name="CR1352_1172_Cli_Edit_PerFiltre" key="{6DD36885-D5E0-4B93-9E6F-536E1260128E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1172_Cli_Edit_PerFiltre.sj" />
+				<child name="CR1352_1173_Cli_Edit_AppliedFilter" key="{193831E9-CD5C-485A-874E-E5D82687924B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1173_Cli_Edit_AppliedFilter.sj" />
+				<child name="CR1352_1174_Cli_Apply_FilterWithoutResults" key="{C9407B88-D83B-4EF3-84F5-26C4440DD647}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1174_Cli_Apply_FilterWithoutResults.sj" />
+				<child name="CR1352_1175_Cli_Delete_AppliedFilter" key="{8F312150-CCD9-4C03-988A-F4599C573B6B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1175_Cli_Delete_AppliedFilter.sj" />
+				<child name="CR1352_1175_Cli_Delete_FilterFromManageFilters" key="{A4CC2925-4E88-40F4-AB17-BD5B8EF0289F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1175_Cli_Delete_FilterFromManageFilters.sj" />
+				<child name="CR1352_1176_Cli_DeactivatePerFilter" key="{3392FB2E-04F9-499D-9F04-82800752F7FB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1176_Cli_DeactivatePerFilter.sj" />
+				<child name="CR1352_1177_Cli_Loading_PerFilter_AfterStartUp" key="{83CB8908-DEB8-46A4-A34B-2C92D60AC4D6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1177_Cli_Loading_PerFilter_AfterStartUp.sj" />
+				<child name="CR1352_1177_Cli_LoadingSeveral_PerFilter_AfterStartUp" key="{AE238984-4A36-4B35-8245-CA1DEB645046}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1177_Cli_LoadingSeveral_PerFilter_AfterStartUp.sj" />
+				<child name="CR1352_1177_Cli_LoadingSeveral_PerTemFilter_AfterStartUp" key="{6039269F-65A8-41D8-9B80-A4F176F389CC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1177_Cli_LoadingSeveral_PerTemFilter_AfterStartUp.sj" />
+				<child name="CR1352_1410_Cli_Loading_InactivePerFilter_AfterStartUp" key="{37BE30A7-494A-4CFC-9C5D-41C9080A79FF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1410_Cli_Loading_InactivePerFilter_AfterStartUp.sj" />
+				<child name="CR1352_1412_Cli_Displaying_Predefined_Filters_inFiltersMenu" key="{EEB23916-337B-405D-ACA2-0E0B246E9257}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1412_Cli_Displaying_Predefined_Filters_inFiltersMenu.sj" />
+				<child name="CR1352_1436_Cli_Delete_AppliedFilter_asTemFilter" key="{B8BCEC9C-25D8-497F-82F4-CEF46DCEA34F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1436_Cli_Delete_AppliedFilter_asTemFilter.sj" />
+				<child name="CR1352_1437_Cli_Remove_Filter_btnRedisplay" key="{37729B0C-2493-4F70-B8A6-C519EC5D273B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1437_Cli_Remove_Filter_btnRedisplay.sj" />
+				<child name="CR1352_1450_Cli_Remove_Filter_btnX" key="{812AE3D1-9FD8-4F05-AC1F-9B6238760C79}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1450_Cli_Remove_Filter_btnX.sj" />
+				<child name="CR1352_1451_Cli_AddScroll_underFiltersBar" key="{27567E0B-6B2F-42C5-AAC5-FAEF01173B14}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1451_Cli_AddScroll_underFiltersBar.sj" />
+				<child name="CR1352_1453_Cli_Create_PerCurrencyFilter_MenuBar_SearchAddFilter" key="{40945CDF-2A6D-4303-A8D1-17C0A2CF1F1C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1453_Cli_Create_PerCurrencyFilter_MenuBar_SearchAddFilter.sj" />
+				<child name="CR1352_1410_Cli_LoadingSeveral_PerFilter_AfterStartUp" key="{E652A084-980D-4582-AB98-166DE68495C3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1410_Cli_LoadingSeveral_PerFilter_AfterStartUp.sj" />
+			</folder>
+			<folder name="Quick_Temporary_Filters">
+				<child name="CR1352_1037_Cli_Create_TempCPFilter_ToolBar_btnQuickFilters" key="{7512746D-E70D-44D1-919A-835481B620D2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1037_Cli_Create_TempCPFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1038_Cli_Edit_TempFilter" key="{0F26CBAB-627A-4088-8DA2-3F2BBC8C8DBA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1038_Cli_Edit_TempFilter.sj" />
+				<child name="CR1352_1039_Cli_Edit_TempFilter_ByPermanentFilter" key="{6232C7D6-C84A-497C-8CF0-2AEAE8FDE100}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1039_Cli_Edit_TempFilter_ByPermanentFilter.sj" />
+				<child name="CR1352_1040_Cli_Create_TempTotalValueFilter_ToolBar_btnQuickFilters" key="{C925C7D0-380F-4616-A8D9-BCE417B9BCA0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1040_Cli_Create_TempTotalValueFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1041_Cli_Create_TempDateFilter_ToolBar_btnQuickFilters" key="{7174EA1F-08E0-4D42-8165-79E4DD6E0CE7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1041_Cli_Create_TempDateFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1042_Cli_Create_TempAddressFilter_ToolBar_btnQuickFilters" key="{EB5DB3A0-BAAA-42F9-9118-73C2EFF12421}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1042_Cli_Create_TempAddressFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1043_Cli_Create_TempCurrencyFilter_ToolBar_btnQuickFilters" key="{5BC0CE85-C1A0-4DD1-9B8D-9F612CDEE617}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1043_Cli_Create_TempCurrencyFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1044_Cli_Create_TempMarginFilter_ToolBar_btnQuickFilters" key="{65AF5D3A-2626-4CB0-9A51-E0E0E11E7A5B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1044_Cli_Create_TempMarginFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1045_Cli_Create_TempSINFilter_ToolBar_btnQuickFilters" key="{C2BDAC5D-E009-4BBE-BFD7-C2B013B5280A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1045_Cli_Create_TempSINFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1046_Cli_Create_TempSegmentationFilter_ToolBar_btnQuickFilters" key="{1048B170-2164-41AC-9376-F94741AFDA2E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1046_Cli_Create_TempSegmentationFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1047_Cli_Create_TempLanguageFilter_ToolBar_btnQuickFilters" key="{EA7B7C0E-D428-4075-881D-815C6AF51611}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1047_Cli_Create_TempLanguageFilter_ToolBar_btnQuickFilters.sj" />
+				<child name="CR1352_1048_Cli_CancelEdition_TempFilter" key="{3636B8E6-2233-41D9-81B1-AE875F59C0E7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1048_Cli_CancelEdition_TempFilter.sj" />
+				<child name="CR1352_1049_Cli_Deactivate_TempFilter" key="{CEB28375-C95C-4EBB-9D1A-B681F60628A4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1049_Cli_Deactivate_TempFilter.sj" />
+				<child name="CR1352_1050_Cli_EditInactive_TempFilter" key="{A757898C-914E-4A5D-A46B-225BD05F9CB1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1050_Cli_EditInactive_TempFilter.sj" />
+				<child name="CR1352_1051_Cli_Delete_TempFilter" key="{23C0512E-C034-4147-9872-B088DF2D1054}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1051_Cli_Delete_TempFilter.sj" />
+				<child name="CR1352_1053_Cli_Create_SeveralTempFilter" key="{37D485D8-A2A8-4CCE-BCE4-AB13E3AFDC06}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1053_Cli_Create_SeveralTempFilter.sj" />
+				<child name="CR1352_1054_Cli_DeactivateSimultaneously_SeveralTempFilter" key="{8837FAB2-30CB-465F-938C-A9B9D8F85993}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1054_Cli_DeactivateSimultaneously_SeveralTempFilter.sj" />
+				<child name="CR1352_1055_Cli_TempFilter_IsNotLoaded_AfterStartup" key="{C5768780-1B1F-44F2-B674-0BC8AFD60A15}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1055_Cli_TempFilter_IsNotLoaded_AfterStartup.sj" />
+				<child name="CR1352_1056_Cli_TempFilter_SavedAndLoaded_AfterStartup" key="{5022DE75-CECA-4012-9A72-CDD670F745E3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1056_Cli_TempFilter_SavedAndLoaded_AfterStartup.sj" />
+				<child name="CR1352_1345_Cli_TempFilter_SavedAndLoaded_AfterStartup_WithInitialState" key="{13E773A7-646B-4656-A9D5-D1217675134C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1345_Cli_TempFilter_SavedAndLoaded_AfterStartup_WithInitialState.sj" />
+				<child name="CR1352_1435_Cli_Delete_AppliedProfile_asTemFilter" key="{AF55B23B-F046-47D9-AA1A-728462997AAB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1435_Cli_Delete_AppliedProfile_asTemFilter.sj" />
+				<child name="CR1352_1460_Cli_Create_TempCPFilter_Icon_Y" key="{EB2F04D6-D5ED-4D0D-90D4-E68167A00947}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1460_Cli_Create_TempCPFilter_Icon_Y.sj" />
+				<child name="CR1352_1435_Cli_GroupProfil" key="{56C711E1-1E7E-49DC-8BEC-F79E67909ECF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1435_Cli_GroupProfil.js" />
+				<child name="CR1352_1413_Cli_Delete_AppliedProfile_asPerFilter" key="{991FAA76-10B2-4A46-94A7-883507E3506B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1413_Cli_Delete_AppliedProfile_asPerFilter.js" />
+			</folder>
+			<folder name="Serach_Criteria">
+				<folder name="Advanced_SearchCriteria">
+					<child name="CR1352_1485_Cli_StateOfBtns_forSearchCriteria" key="{408E9184-56FB-4A2A-A516-3F75002F0761}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1485_Cli_StateOfBtns_forSearchCriteria.sj" />
+					<child name="CR1352_1486_Cli_StateOfBtns_forSearchCriteriaTemplate" key="{E0F73C1C-9A3B-49AB-ACCE-3171C243F42A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1486_Cli_StateOfBtns_forSearchCriteriaTemplate.sj" />
+					<child name="CR1352_1487_Cli_StateOfBtns_forSearchCriteriaManualList" key="{5DBEE895-3926-44AA-9AEF-83234391A81A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1487_Cli_StateOfBtns_forSearchCriteriaManualList.sj" />
+					<child name="CR1352_1488_Cli_Create_AdvancedSearchCriteria" key="{5FBFF8C7-1D2E-4368-A002-BAF1ACB15334}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1488_Cli_Create_AdvancedSearchCriteria.sj" />
+					<child name="CR1352_1503_Cli_Apply_SearchCriteria" key="{E768F1AC-803C-44AD-B5E1-DF9B9BF3A954}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1503_Cli_Apply_SearchCriteria.sj" />
+					<child name="CR1352_1506_Cli_UniqueName_OfSearchCriteria_DifferentLevelAccess" key="{94872A97-DB3D-42F0-BFBD-6B721F0D589E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1506_Cli_UniqueName_OfSearchCriteria_DifferentLevelAccess.sj" />
+					<child name="CR1352_1506_Cli_UniqueName_OfSearchCriteria_SameLevelAccess" key="{533598C8-DD54-454F-A423-22211DD65306}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1506_Cli_UniqueName_OfSearchCriteria_SameLevelAccess.sj" />
+					<child name="CR1352_1507_Cli_CriteriaResults_RedisplayAllAndKeepCheckmarks" key="{76DE8461-A667-4918-8EC8-DEAB47F48CB7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1507_Cli_CriteriaResults_RedisplayAllAndKeepCheckmarks.js" />
+					<child name="CR1352_1508_Cli_ChangingSortOrder_forAdvancedCriteria" key="{2468400B-9A14-4525-BA5F-2AF902B7AF3B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1508_Cli_ChangingSortOrder_forAdvancedCriteria.sj" />
+					<child name="CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaNon" key="{72A6172A-5A92-482F-91B0-271D971F02F7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaNon.sj" />
+					<child name="CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaYes" key="{CA403B2D-972C-40F1-A1CD-3F621F4BB01A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1509_Cli_EditName_OfAdvancedSearchCriteriaYes.sj" />
+					<child name="CR1352_1510_Cli_EditCondition_OfAdvancedSearchCriteria" key="{F18CAD68-7ED1-4B61-9246-523297B8984E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1510_Cli_EditCondition_OfAdvancedSearchCriteria.sj" />
+					<child name="CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccess" key="{71BC32F1-4871-497C-8370-680B47FF349C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccess.sj" />
+					<child name="CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccessEditable" key="{787BB9C8-A654-420D-8E1E-645F0A9B8687}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1511_Cli_Create_SimpleSearchCriteria_BranchAccessEditable.sj" />
+					<child name="CR1352_1511_Cli_Create_SimpleSearchCriteria_FirmAccess" key="{A0564DDB-B356-4C11-9B42-1D03D5144B97}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1511_Cli_Create_SimpleSearchCriteria_FirmAccess.sj" />
+					<child name="CR1352_1511_Cli_Create_SimpleSearchCriteria_MyCriterion" key="{B588487F-3428-40E9-BB16-D39C7730547D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1511_Cli_Create_SimpleSearchCriteria_MyCriterion.sj" />
+					<child name="CR1352_1511_Cli_Create_SimpleSearchCriteria_WorkgroupAccess" key="{53A52C06-145C-4D93-B769-3A0E4E2D4B4D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1511_Cli_Create_SimpleSearchCriteria_WorkgroupAccess.sj" />
+					<child name="CR1352_1516_Cli_Edit_OfAdvancedSearchCriteria_StatusBar" key="{63C4D9A2-29B0-4D30-999D-F723315C0796}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1516_Cli_Edit_OfAdvancedSearchCriteria_StatusBar.sj" />
+					<child name="CR1352_1522_Cli_Edit_OfAdvancedSearchCriteria_ContextualMenu" key="{9A758D5C-B8F7-41E3-B559-1E5063741BD2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1522_Cli_Edit_OfAdvancedSearchCriteria_ContextualMenu.sj" />
+					<child name="CR1352_1523_Cli_EditSearchCriteria_fromSearchMenu" key="{192810EC-BF14-4175-BBCB-E076601DC2C5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1523_Cli_EditSearchCriteria_fromSearchMenu.js" />
+					<child name="CR1352_1524_Cli_Remove_ActiveCriteria" key="{5B5EA8FC-F7A3-4C35-BFDE-F5B6D364C76E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1524_Cli_Remove_ActiveCriteria.js" />
+					<child name="CR1352_1525_Cli_Delete_ActiveCriteria" key="{164108F2-9595-48A0-907F-00F96FD3DB65}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1525_Cli_Delete_ActiveCriteria.js" />
+					<child name="CR1352_1526_Cli_Edit_ActiveCriterion_SpaceBar" key="{585B9103-FE11-4FB8-B799-CEFB6338300D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1526_Cli_Edit_ActiveCriterion_SpaceBar.js" />
+					<child name="CR1352_1527_Cli_Save_DefaultClientsListCriteria_AfterStartup" key="{932163C5-F560-4C15-AD7D-AF55BDD539DD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1527_Cli_Save_DefaultClientsListCriteria_AfterStartup.js" />
+				</folder>
+				<folder name="Search_Criteria_Manager">
+					<child name="CR1352_1472_Cli_NewContextualMenu_inSearchCriteriaManage" key="{48E81BA2-9045-4D0C-862E-329EDA471504}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1472_Cli_NewContextualMenu_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1475_Cli_SearchFonction_inSearchCriteriaManage" key="{830715DB-5076-453C-95F6-9B1A5FEB38DC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1475_Cli_SearchFonction_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1476_Cli_ContextualMenu_CopyWithHeader_inSearchCriteriaManage" key="{9546CA6B-E636-4E57-92EE-55F1B0646C52}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1476_Cli_ContextualMenu_CopyWithHeader_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1477_Cli_ContextualMenu_Copy_inSearchCriteriaManage" key="{210291F1-8DE0-4280-A462-498D1A96E9CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1477_Cli_ContextualMenu_Copy_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1478_Cli_ContextualMenu_ExportToFile_inSearchCriteriaManage" key="{DC058B2E-1886-4AD5-B8CA-0C92338220AB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1478_Cli_ContextualMenu_ExportToFile_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1479_Cli_ContextualMenu_ExportToExcel_inSearchCriteriaMange" key="{FEE96979-C533-44A1-B521-262CA7D92FC4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1479_Cli_ContextualMenu_ExportToExcel_inSearchCriteriaMange.sj" />
+					<child name="CR1352_1483_Cli_ColumnSorting_inSearchCriteriaManage" key="{EF59D87F-B03B-4F19-AA3D-C0AAEB7604CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1483_Cli_ColumnSorting_inSearchCriteriaManage.sj" />
+					<child name="CR1352_1484_Cli_Configuration_SearchCriteriaManage" key="{62A4CD64-9115-48D6-ADD6-7419A8A1D41D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1484_Cli_Configuration_SearchCriteriaManage.sj" />
+					<child name="CR1352_1484_Cli_ConfigurationColStatus_SearchCriteriaManage" key="{249A3DC2-331C-4373-8B3B-E384F7D5194C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1484_Cli_ConfigurationColStatus_SearchCriteriaManage.sj" />
+					<child name="CR1352_1480_Cli_ContextIndexHelp" key="{B5505138-55D0-47A2-8DAB-18B320F448E8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1480_Cli_ContextIndexHelp.js" />
+					<child name="CR1352_1480_Cli_ContextSensitiveHelp" key="{59745AF0-63ED-408A-BE07-7ACF944428CD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1480_Cli_ContextSensitiveHelp.js" />
+				</folder>
+			</folder>
+			<folder name="Manage_Criteria_forRestrictions">
+				<child name="CR1352_1975_Cli_Add_SerachCriteria_btnAdd" key="{5D761EAB-1093-4416-B69F-31A40A640002}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1975_Cli_Add_SerachCriteria_btnAdd.js" />
+				<child name="CR1352_1975_Cli_Add_SerachCriteria_ClickR" key="{B4759FDE-C59B-49EB-A011-4600EFE4435A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1975_Cli_Add_SerachCriteria_ClickR.js" />
+				<child name="CR1352_1976_Cli_Edit_SerachCriteria_btnEdit" key="{FFFA5CB7-6A9A-4DAC-AAFD-1F5499E30E30}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1976_Cli_Edit_SerachCriteria_btnEdit.js" />
+				<child name="CR1352_1976_Cli_Edit_SerachCriteria_ClickR" key="{15ABF043-24C3-456D-927A-D31DB620CDA6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1976_Cli_Edit_SerachCriteria_ClickR.js" />
+				<child name="CR1352_1981_Cli_Delete_SerachCriteria" key="{67EAD563-D6C6-4CF1-8E06-55BF26A0C34C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1981_Cli_Delete_SerachCriteria.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu" key="{09A012FE-3F4C-4ADA-91F9-EC576F53DB8F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1982_Cli_ContextualMenu.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu_Copy" key="{78E99EE5-59CB-4249-AD7A-8D1C98A280B3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1982_Cli_ContextualMenu_Copy.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu_CopyWithHeader" key="{7BFCA1D4-C440-4E65-AC15-4CFB875D1E52}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1982_Cli_ContextualMenu_CopyWithHeader.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu_ExportToExcel" key="{AE80DEB6-B248-4A94-B467-BA1E544FE9EA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1982_Cli_ContextualMenu_ExportToExcel.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu_ExportToFile" key="{680CC940-ED6B-4C8C-AD33-BEBD1ECE73A5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1982_Cli_ContextualMenu_ExportToFile.js" />
+				<child name="CR1352_1982_Cli_ContextualMenu_IndexHelp" key="{C37918BD-12B5-4C45-9919-945394859FE5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1982_Cli_ContextualMenu_IndexHelp.js" />
+				<child name="CR1352_1982_Cli_Contextualmenu_SensitiveHelp" key="{F31A0003-1346-4732-9A78-C9A6082C8C83}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1982_Cli_Contextualmenu_SensitiveHelp.js" />
+			</folder>
+			<folder name="Manual_List">
+				<child name="CR1352_1966_Cli_Create_ManualList" key="{7F43A485-AB48-4B34-B226-9852A0CA95E8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1966_Cli_Create_ManualList.js" />
+				<child name="CR1352_1967_Edit_ManualList" key="{B2C3E358-DA8E-4D86-8ED7-71BD9EF7E9E4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1967_Edit_ManualList.js" />
+				<child name="CR1352_1968_Cli_Copy_ManualList" key="{B296D2BC-1AF2-4E19-ACB6-7FC73AEC702A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1968_Cli_Copy_ManualList.js" />
+			</folder>
+			<folder name="Client_Grid">
+				<folder name="Contextual_Menu">
+					<child name="CR1352_2020_Cli_EditSegmentation_SeveralClients_Non" key="{437406C3-2C70-4D5D-A206-566B96D583C2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2020_Cli_EditSegmentation_SeveralClients_Non.js" />
+					<child name="CR1352_2020_Cli_EditSegmentation_SeveralClients_Yes" key="{47B9A3F5-7BBE-4FD2-AD08-8A565618D15B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2020_Cli_EditSegmentation_SeveralClients_Yes.js" />
+					<child name="CR1352_2020_Cli_EditSegmentation_OneClient_Yes" key="{B19AFED7-D49C-41D1-9923-CF3BFFEC233C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2020_Cli_EditSegmentation_OneClient_Yes.js" />
+				</folder>
+				<folder name="General">
+					<child name="CR1352_2021_Cli_Edit_InfoClient" key="{7D4E2536-CEE3-4993-BFCE-9D9EFC72A396}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2021_Cli_Edit_InfoClient.js" />
+					<child name="CR1352_2022_Cli_Add_Addresses_toClients" key="{DC30EA74-7182-4107-BD94-1128DCF4A2C8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2022_Cli_Add_Addresses_toClients.js" />
+					<child name="CR1352_2021_Cli_Edit_InfoClient_Helpdsk" key="{53EAF5E2-8F6E-4B80-98A8-81CED9A6C669}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2021_Cli_Edit_InfoClient_Helpdsk.js" />
+					<child name="CR1352_2100_AssociateClient_with_relationship" key="{C7A51BC8-3BC3-46CD-A5D7-689FF477AEEE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2100_AssociateClient_with_relationship.js" />
+				</folder>
+				<folder name="Detail_Section">
+					<child name="CR1352_2074_Cli_NewFields_InfoClient" key="{0504A674-79B7-4CDD-86F3-2D6075DC677F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2074_Cli_NewFields_InfoClient.js" />
+					<child name="CR1352_2076_Cli_Visibility_inDetailsSection" key="{5FC80A84-7D24-4968-8E78-A2D895138E34}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2076_Cli_Visibility_inDetailsSection.js" />
+					<child name="CR1352_2077_Cli_Drag_FromRelatioships" key="{540896ED-8296-4AFC-AA0A-74C353F40EE8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2077_Cli_Drag_FromRelatioships.js" />
+					<child name="CR1352_2077_Cli_Drag_FromSameAdress" key="{286C2053-2F69-4EE2-9083-C15126578B62}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2077_Cli_Drag_FromSameAdress.js" />
+					<child name="CR1352_2077_Cli_Drag_MainRoot_FromDetailsSection" key="{AEC1748D-1A3D-4845-8BD0-CDD5BBD2059F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2077_Cli_Drag_MainRoot_FromDetailsSection.js" />
+					<child name="CR1352_2077_Cli_Drag_SecondaryRoot_FromDetailsSection" key="{76978601-3559-4083-AC06-47A4EDE2F2B9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2077_Cli_Drag_SecondaryRoot_FromDetailsSection.js" />
+					<child name="CR1352_2078_Cli_Add_RestrictionToClient" key="{879AD3A2-7E63-4037-9D68-280E24AA370C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2078_Cli_Add_RestrictionToClient.js" />
+					<child name="CR1352_1983_Cli_ContextualMenu_ForRootClientAndRel" key="{DC1715A0-E26A-4294-915C-03EC48A28055}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1983_Cli_ContextualMenu_ForRootClientAndRel.js" />
+					<child name="CR1352_1983_Cli_ContextualMenu_ForSecondaryRootClient" key="{B61F7A34-8BCD-435A-A626-321873DC5CCA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1983_Cli_ContextualMenu_ForSecondaryRootClient.js" />
+					<child name="CR1352_1985_Cli_ContextualMenu_Details_Ungroup" key="{7A966E89-28A6-42DC-ADC0-82A4A35AE269}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1985_Cli_ContextualMenu_Details_Ungroup.js" />
+					<child name="CR1352_1986_Cli_ContextualMenu_Details_RestrictionRootClient" key="{3FC551F4-B57D-46E3-BA5B-6C49EB7A48C8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1986_Cli_ContextualMenu_Details_RestrictionRootClient.js" />
+					<child name="CR1352_1986_Cli_ContextualMenu_Details_RestrictionSecRootClient" key="{13B11ED5-81FD-4B34-9C35-A5C07F25362A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_1986_Cli_ContextualMenu_Details_RestrictionSecRootClient.js" />
+					<child name="CR1352_2052_Cli_DetailSection_Information_RootClient" key="{76AE96C8-CBA0-486A-98EC-80FDF1279FF8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2052_Cli_DetailSection_Information_RootClient.js" />
+					<child name="CR1352_2053_Cli_DetailSection_Overview" key="{AA6949ED-E1C3-4086-80DA-31185A143459}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2053_Cli_DetailSection_Overview.js" />
+					<child name="CR1352_2054_Cli_DetailSection_Information_SecondaryRootClient" key="{AD1310EC-7984-4DA4-AEB0-B56AAF7E0961}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2054_Cli_DetailSection_Information_SecondaryRootClient.js" />
+					<child name="CR1352_2071_Cli_DetailSection_btnPlus" key="{D96FE7E1-0701-4BF0-A24C-1BE1B1BF5300}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2071_Cli_DetailSection_btnPlus.js" />
+					<child name="CR1352_2072_Cli_DetailSection_dblClick" key="{A331CE46-8F1C-4DA7-BDF1-FBD3158F3B79}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2072_Cli_DetailSection_dblClick.js" />
+					<child name="CR1352_2073_Cli_FamilyRepresentative_in_DetailSection" key="{87134058-6F9F-4783-99DD-E142F28AA48F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2073_Cli_FamilyRepresentative_in_DetailSection.js" />
+					<child name="CR1352_2075_Cli_Add_AgendaEvent" key="{8B0B36F7-F126-4612-A231-7B51DBD0B161}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2075_Cli_Add_AgendaEvent.js" />
+					<child name="CR1352_2075_Cli_Edit_SecondaryRootClient" key="{4D92B0B4-18D6-4CF6-8C25-637231AA7C44}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2075_Cli_Edit_SecondaryRootClient.js" />
+					<child name="CR1352_2075_Cli_Edit_SegmentationInfoClient" key="{B5A0E4CC-07F8-4189-9FC8-ACB841AF7FA8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2075_Cli_Edit_SegmentationInfoClient.js" />
+				</folder>
+				<folder name="Sum">
+					<child name="CR1352_2013_Cli_NoSelection_inClientGrid" key="{3AFBE810-2086-4DDE-8D6B-087008FD8854}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2013_Cli_NoSelection_inClientGrid.js" />
+					<child name="CR1352_2014_Cli_ApplySum_ToFilterResult" key="{7573FEA7-B72F-44D4-9527-3B8B3EAABD38}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2014_Cli_ApplySum_ToFilterResult.js" />
+					<child name="CR1352_2015_Cli_ApplySum_ToManualListResult" key="{1E2EAF89-5505-4A69-B430-A816A4BB3D08}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2015_Cli_ApplySum_ToManualListResult.js" />
+					<child name="CR1352_2018_Cli_ApplySum_AfterDragging" key="{2AD3C8A4-C683-4E1C-850F-6E5DA82BAD04}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2018_Cli_ApplySum_AfterDragging.js" />
+					<child name="CR1352_2019_Cli_Sum_pref_enable_client_Grouping" key="{C0CAB517-6315-43F1-8CE8-599C11E4FAD5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_2019_Cli_Sum_pref_enable_client_Grouping.js" />
+				</folder>
+			</folder>
+			<folder name="Anomalies">
+				<child name="CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_DownKey" key="{22E3321E-E345-4AC7-91E9-0D3C1D2F7DA9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_DownKey.js" />
+				<child name="CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_MouseWheel" key="{0A033F38-DDD9-41DC-93D6-165E12E1B99A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_CROES_6243_Cli_TestDeSelectionMultipleAvecShift_MouseWheel.js" />
+				<child name="CR1352_CROES_8230_Cli_TestDeSelectionMultipleAvecShift_ScrollDown" key="{1A3FEB23-BCD6-40BE-A07C-3E7935AC017A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1352_CROES_8230_Cli_TestDeSelectionMultipleAvecShift_ScrollDown.js" />
+			</folder>
+		</folder>
+		<folder name="CR1793">
+			<folder name="Anomalies">
+				<child name="CR1793_BNC_1871_Cli_DisponiAjoutrelatioFamillFirm" key="{553178D7-E71C-433D-8EC0-D277843B21E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1793_BNC_1871_Cli_DisponiAjoutrelatioFamillFirm.js" />
+				<child name="CR1793_BNC_1258_CrashWhenCreateRelationFamilFirmForClienWithMultipRoots1" key="{A295C9CD-460E-4E48-8EFF-A8B756ED04C2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1793_BNC_1258_CrashWhenCreateRelationFamilFirmForClienWithMultipRoots1.js" />
+				<child name="CR1793_BNC_1258_CrashWhenCreateRelationFamilFirmForClienWithMultipRoots2" key="{E7F5BF32-BBDB-415B-987E-B80DBDCE0780}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1793_BNC_1258_CrashWhenCreateRelationFamilFirmForClienWithMultipRoots2.js" />
+			</folder>
+			<folder name="Managements relationships">
+				<child name="CR1793_3214_Rel_ValidatTheCreatingFamilFirmRelatFromSecondaryRoot" key="{D6A6D747-6F29-4306-97B5-965B351DDDE7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1793_3214_Rel_ValidatTheCreatingFamilFirmRelatFromSecondaryRoot.js" />
+				<child name="CR1793_3220_Rel_PreventTheCreatOfFamilFirmRelatForFictifClient" key="{C2130356-34C4-4F79-8A53-0C5FEDB8F9A5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1793_3220_Rel_PreventTheCreatOfFamilFirmRelatForFictifClient.js" />
+				<child name="CR1793_3222_Rel_AssociateARootCustomerHasRelationshipFamilyFirm" key="{B2DA8BA8-B57C-458F-9B15-110590B04B56}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1793_3222_Rel_AssociateARootCustomerHasRelationshipFamilyFirm.js" />
+				<child name="CR1793_3225_Rel_PreventTheJointOfFamilFirmRelatForExterneClient" key="{E4B0E677-CA40-41B2-AF77-547FB289B974}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1793_3225_Rel_PreventTheJointOfFamilFirmRelatForExterneClient.js" />
+			</folder>
+		</folder>
+		<folder name="Anomalies">
+			<child name="CROES_7509_Cli_CrashInTheRightClickMenuRooClientInSectionDetail" key="{D966E784-31B9-4F00-977C-9D165B1EEE94}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_7509_Cli_CrashInTheRightClickMenuRooClientInSectionDetail.js" />
+			<child name="CROES_7601_CreatRelatFromCustomerWhoIsAlreadyPartOfRelatDisplayMsgNotCorrect" key="{BA878016-1DE0-470D-B37E-065C5196C611}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_7601_CreatRelatFromCustomerWhoIsAlreadyPartOfRelatDisplayMsgNotCorrect.js" />
+			<child name="CROES_8311_Cli_CrashAfterSearchingByCPCode" key="{7CBBCA28-A4B9-48FB-88AC-5E558494C4AF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_8311_Cli_CrashAfterSearchingByCPCode.js" />
+			<child name="CROES_9031_CliMissingColumnsInTheNotesGrid" key="{70E9B2E7-7FDF-4C07-B765-B6C966534134}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_9031_CliMissingColumnsInTheNotesGrid.js" />
+			<child name="CROES_6760_CliCrashWhenDeletPredefSentence" key="{FDCD7568-FD8E-41E1-A86B-A6BCCCA0F9F1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_6760_CliCrashWhenDeletPredefSentence.js" />
+			<child name="CROES_9367_Cli_CrashWinTitleCategoriWhenTryToAddCategory" key="{8C1B5C5D-E76D-4449-A8A1-22AC794CA037}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_9367_Cli_CrashWinTitleCategoriWhenTryToAddCategory.js" />
+			<child name="CROES_1687_CliDisplBlockMsgWhenTryAssocRelatwithGroupRelat" key="{4711AB39-B514-4685-B7CF-7CD4A794907A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_1687_CliDisplBlockMsgWhenTryAssocRelatwithGroupRelat.js" />
+			<child name="BNC_2222_SetFileNotVisibOnHighLevelOfTheTree" key="{70AEC3BE-F58B-4C1C-A85D-BE83B39201F8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\BNC_2222_SetFileNotVisibOnHighLevelOfTheTree.js" />
+			<child name="CROES_10346_ProfilColumnArNotUpdatautomatiAfterChangProfilValu" key="{630C27A7-16EA-4EAC-8C33-406873B78257}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_10346_ProfilColumnArNotUpdatautomatiAfterChangProfilValu.js" />
+			<child name="CROES_10382_WeCanSaveCriterWithoutGivingItName" key="{BE0F5D50-5DD3-4C29-A36B-33F71B5C0D72}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_10382_WeCanSaveCriterWithoutGivingItName.js" />
+			<child name="CROES_9345_Cli_CheckExcelExportData" key="{074E7565-7871-413D-B98F-B910CC41FF71}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_9345_Cli_CheckExcelExportData.js" />
+			<child name="CROES_6661_ProfilesAreNotInAlphabeticalOrderInColumnConfiguration" key="{DB2EF60F-AC9E-4324-92B7-AA1B449D12BC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_6661_ProfilesAreNotInAlphabeticalOrderInColumnConfiguration.js" />
+			<child name="AnomalieMaillageFromClientToAccomp" key="{EBB181ED-7C97-4C2A-8D57-CCEB634BB93C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\AnomalieMaillageFromClientToAccomp.js" />
+			<child name="AnomalieMaillageFromClientToModels" key="{8AD4AFCA-9C8F-4E3B-9BE8-894151C7198A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\AnomalieMaillageFromClientToModels.js" />
+			<child name="AnomalieMaillageFromClientToPortfolio" key="{F522DB99-6A09-454B-9780-3E5080205814}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\AnomalieMaillageFromClientToPortfolio.js" />
+			<child name="AnomalieMaillageFromClientToRelationShip" key="{47DA5C8F-59F5-4FF8-994E-AC4AD626C8F2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\AnomalieMaillageFromClientToRelationShip.js" />
+			<child name="AnomalieMaillageFromClientToSecurities" key="{D7822B72-2BAB-486E-A2F2-1CF50615EE0D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\AnomalieMaillageFromClientToSecurities.js" />
+			<child name="AnomalieMaillageFromClientToTransaction" key="{51A983DA-66DD-4366-A0DF-97CA8B8E464C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\AnomalieMaillageFromClientToTransaction.js" />
+		</folder>
+		<folder name="CR1483">
+			<child name="CR1483_Cli_CheckErrorMsgPrefMaxWorkAs" key="{566A3E41-067D-4AB7-AB18-439CDEC5AA28}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_CheckErrorMsgPrefMaxWorkAs.js" />
+			<child name="CR1483_Cli_RememberMySelection" key="{64E4B960-1D38-422C-9169-4D81DEA0C757}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_RememberMySelection.js" />
+			<child name="CR1483_Cli_Survol_Users_Selection_TabBranches" key="{52E54EF2-3F52-4306-BFAA-17A28214315E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_Survol_Users_Selection_TabBranches.js" />
+			<child name="CR1483_Cli_Check_UserSelection_IACodes" key="{82EC5590-FE62-4ADD-B8F6-2B0B0F2B862B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_Check_UserSelection_IACodes.js" />
+			<child name="CR1483_Cli_CheckErrorMsgPrefMaxWorkAs_TabIACodes" key="{19A47FDC-BC2D-48A0-9DC4-6ED04E0A84BC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_CheckErrorMsgPrefMaxWorkAs_TabIACodes.js" />
+			<child name="CR1483_Cli_CheckErrorMsgPrefMaxWorkAS_TabUsers" key="{DCF2B9F1-DE20-48A2-9210-43FFD1D59FA4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_CheckErrorMsgPrefMaxWorkAS_TabUsers.js" />
+			<child name="CR1483_Cli_RememberMySelection_TabIACodes" key="{8E3579BD-33A6-41CB-8589-BD0EB90FB36B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_RememberMySelection_TabIACodes.js" />
+			<child name="CR1483_Cli_RememberMySelection_TabUsers" key="{44BF204C-B87E-4A25-99D3-F8E562982A2B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_RememberMySelection_TabUsers.js" />
+			<child name="CR1483_Cli_Survol_Users_Selection_TabIACodes" key="{D341ECD5-7380-45E3-A05D-C2906058C230}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_Survol_Users_Selection_TabIACodes.js" />
+			<child name="CR1483_Cli_Survol_Users_Selection_TabUsers" key="{286A34FB-6751-45CF-BCA0-142DD03CC85F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_Survol_Users_Selection_TabUsers.js" />
+			<child name="CR1483_Cli_Check_BrachSelection_IACodes" key="{609D3A14-2B10-4475-A57D-131269B8C510}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Cli_Check_BrachSelection_IACodes.js" />
+			<child name="CR1483_Common_Functions" key="{C4DE742C-839D-4897-BC2D-96AB534EB857}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1483_Common_Functions.js" />
+		</folder>
+		<folder name="CR1501">
+			<folder name="Anomalies">
+				<child name="CROES_10678_Cli_FieldDateReferenceNotesMustBeEmptyDefaults" key="{E2018D2D-37BD-4397-BEC0-99806C3691DC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_10678_Cli_FieldDateReferenceNotesMustBeEmptyDefaults.js" />
+				<child name="CROES_11141_Cli_WhenAddingFilterByCreationDateTheCrashApplication" key="{E8652482-8AF8-4338-B60C-2DEA6D2EF5B0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CROES_11141_Cli_WhenAddingFilterByCreationDateTheCrashApplication.js" />
+			</folder>
+			<child name="CR1501_790_Cli_SearchWithFilterCreatedByAndOperatorIsExcluding" key="{67FDB73A-2571-421D-AE63-B8227E2D250B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_790_Cli_SearchWithFilterCreatedByAndOperatorIsExcluding.js" />
+			<child name="CR1501_804_Cli_ValidatModifPredefinSentenceWhenEnteringNotWithClickRight" key="{1A5D08A5-AD77-4691-89DD-A19C37F7CF90}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_804_Cli_ValidatModifPredefinSentenceWhenEnteringNotWithClickRight.js" />
+			<child name="CR1501_806_Cli_ValidatDeletPredefinSentenceWhenEnteringNoteWithClickRight" key="{806014EF-1912-4E02-86D4-43F49A117F2E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_806_Cli_ValidatDeletPredefinSentenceWhenEnteringNoteWithClickRight.js" />
+			<child name="CR1501_810_Cli__ValidatOperationDateTimebuttonWhenEnteringNotWithClickRight" key="{BD8B732E-37C7-4110-8017-2DF350CB5839}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_810_Cli__ValidatOperationDateTimebuttonWhenEnteringNotWithClickRight.js" />
+			<child name="CR1501_820_Cli_ValidatShadedFieldsAtBottomWindowAreReadOnlyWhenViewingNot" key="{9F2F2541-C963-4888-B0C1-4A168A05E30E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_820_Cli_ValidatShadedFieldsAtBottomWindowAreReadOnlyWhenViewingNot.js" />
+			<child name="CR1501_823_Cli__ValidatInsertingNoteToSeveralClientsAtOnce" key="{3460A6CA-3715-4BFA-B4BF-599F7B6B877B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_823_Cli__ValidatInsertingNoteToSeveralClientsAtOnce.js" />
+			<child name="CR1501_830_Cli_ValidatCopyingSelectedNoteTcustomersWithSameAddress" key="{F8E6C998-9206-4760-8939-D204207B5440}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_830_Cli_ValidatCopyingSelectedNoteTcustomersWithSameAddress.js" />
+			<child name="CR1501_752_ValidateAddingNotes_ToAClientFromTheAddANotePopUpMenu" key="{612764F7-84DF-4FBB-8434-7B1D854F913B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_752_ValidateAddingNotes_ToAClientFromTheAddANotePopUpMenu.js" />
+			<child name="CR1501_757_NoModification_OfNote_CreatedOnTheSameDayAndByTheSameUser" key="{911BFD27-B76C-47D9-A552-2A91E66906B0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_757_NoModification_OfNote_CreatedOnTheSameDayAndByTheSameUser.js" />
+			<child name="CR1501_759_NoModificationOfCreatedNoteInfoButtonTheSameDayAndByAnotherUser" key="{8A036DD8-2D47-48F8-B4FA-94DFA1A92221}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_759_NoModificationOfCreatedNoteInfoButtonTheSameDayAndByAnotherUser.js" />
+			<child name="CR1501_760_ValidationDeletionOfANoteCreatedclickRightTheSameDayAndByTheSamUser" key="{D3FE6428-0B57-47BE-85DC-017DCA7B2E73}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_760_ValidationDeletionOfANoteCreatedclickRightTheSameDayAndByTheSamUser.js" />
+			<child name="CR1501_754_ModificationOfANotClickRightCreatedTheSameDayAndByTheSameUser" key="{C0A9385C-4D92-4A56-8FCE-4CEA62065033}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_754_ModificationOfANotClickRightCreatedTheSameDayAndByTheSameUser.js" />
+			<child name="CR1501_777_Cli_FilterSearchByDateModifiedAndOperatorIsIsEarlierThan" key="{4A5B76D2-B566-4247-9A6A-2657384709F4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_777_Cli_FilterSearchByDateModifiedAndOperatorIsIsEarlierThan.js" />
+			<child name="CR1501_779_Cli_FilterSearchByDateModifiedAndOperatorIsBetween" key="{8851C5CE-27C1-45BC-8ECE-EB4EEA2201A6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_779_Cli_FilterSearchByDateModifiedAndOperatorIsBetween.js" />
+			<child name="CR1501_828_Cli_ValidationAbsenceOfNoteIconInTheGridForNoteCreatedWithTheContextMenu" key="{66CF9126-E94E-43E9-A3B6-92D70BC838DB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1501_828_Cli_ValidationAbsenceOfNoteIconInTheGridForNoteCreatedWithTheContextMenu.js" />
+		</folder>
+		<folder name="CR1806">
+			<folder name="DataHub Library">
+				<child name="CR1806_4548_Valider_le_format_du_extract_datahubextractor" key="{1053CF6F-C772-48EE-A48B-06E018797DD5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4548_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{B1158878-2C03-4B36-A8E5-4D9C7F3EBEE9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.js" />
+				<child name="CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{BC4E0C1C-0688-44BF-9426-81F3D588F844}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB" key="{37629B43-0249-4575-91CB-60DE3C0DEB07}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{A9CBBB8C-E070-4C04-8A8C-B425EFB908BE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{65BE5F44-F05F-4375-82F1-9D968362D4CB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{7020F445-7569-4030-B86E-DEDCB90D2CB0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{7C6D29CE-CA88-4FC1-AD97-61FCAFB9E441}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{B0299E8D-5DEF-4FB8-B501-69AA5AF79B26}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{EC200DCE-42B1-4143-9E0A-0F36FDC16935}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{0702E0DC-8F52-4679-978D-677AE830E31B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+				<child name="CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE" key="{F7C23799-3AD8-4115-9A19-5D3D41A1CF0A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE.js" />
+				<child name="CR1806_Helper" key="{BA7E0F71-5E03-4C6F-BC8B-DCEF45111B07}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_Helper.js" />
+			</folder>
+			<child name="CR1806_4548_Cli_Valider_le_format_du_extract_datahubextractor" key="{4AFEA96D-E9D7-4C08-8694-AD4C12BD4A7D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4548_Cli_Valider_le_format_du_extract_datahubextractor.sj" />
+			<child name="CR1806_4558_Cli_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{C899AE03-52B6-4CBF-820C-968AFE428517}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4558_Cli_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.sj" />
+			<child name="CR1806_4558_Cli_Valider_les_records_dans_la_table_B_DATA_HUB" key="{5CDF4D0A-5272-41DC-9596-079FA6A82E54}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4558_Cli_Valider_les_records_dans_la_table_B_DATA_HUB.sj" />
+			<child name="CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{BE6FC63F-BC68-47C6-B17A-38C54953D4E5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.sj" />
+			<child name="CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{6318D880-94AB-411D-A40A-5D2F85805A11}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4615_Cli_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.sj" />
+			<child name="CR1806_4679_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{D656FAB9-4F7A-41E5-80CF-CDD6F01D84B0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4679_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.sj" />
+			<child name="CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{58892CFD-94F5-4FDD-B3A6-18F172A5D1E5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.sj" />
+			<child name="CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{DD152655-B4FE-4B20-9114-B09E3FFC7A6E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4685_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.sj" />
+			<child name="CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{1F131AD7-7837-4145-AC5B-DE809DB3FD7E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.sj" />
+			<child name="CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{98D56CAC-DFD7-41F5-9245-F8BE2AE70BC5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4686_Cli_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.sj" />
+			<child name="CR1806_4717_Cli_Valider_lexportation_des_donnees_des_rapports_MULTIPLE" key="{422AD250-1EF8-4C24-A9E2-ED7108CACC88}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4717_Cli_Valider_lexportation_des_donnees_des_rapports_MULTIPLE.sj" />
+			<child name="CR1806_4557_Cli_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{FC994C1B-229B-47EC-84E3-4E6917D824C9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR1806_4557_Cli_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.sj" />
+		</folder>
+		<folder name="CR908">
+			<child name="CR908_6259_Client_PreparationAccountsAndClientsEnvironment" key="{D0BC4217-7B69-406D-A1D2-C59AEC97F215}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR908_6259_Client_PreparationAccountsAndClientsEnvironment.js" />
+			<child name="CR908_6260_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS1" key="{4471E8E9-B275-45F9-90DA-75DB54AB5C41}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR908_6260_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS1.js" />
+			<child name="CR908_6261_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS2" key="{F5E3703C-413E-4876-928C-0224A7B25B16}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR908_6261_Client_ValidateCustomerStatusWithPREFENABLECIENTSTATUS2.js" />
+			<child name="CR908_6262_Client_ReturnAccountsAndClientsToTheirInitialState" key="{CFB35392-6866-40FE-8CA6-7147858F0021}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\CR908_6262_Client_ReturnAccountsAndClientsToTheirInitialState.js" />
+		</folder>
+		<child name="Global_variables" key="{70B6FC28-25AD-4F4F-AE14-1A09E3CFF671}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{28AF3DB4-F522-4B8A-9365-91D0304B40D8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\ExecutionLog.sj" />
+		<child name="PreExecution" key="{90C4A044-C0AB-49AB-A8F1-B59951AB75B2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteClients\Clients\Script\PreExecution.js" />
+		<child name="GetListOfTestsToBeRun" key="{D7620D0D-03B8-4FA1-B113-CE2C32DCF20F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

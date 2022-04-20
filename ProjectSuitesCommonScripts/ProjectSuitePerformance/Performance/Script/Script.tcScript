@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{3E9EB5A9-3D6D-452B-8703-70C543289272}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{1699FD65-3114-42ED-BAC9-3F0A58FD288E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{19CC7F1C-F13F-44E6-99A4-A369B39B7E31}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{360B8521-463A-4FA1-9014-885EA06E7172}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{0A5FAF62-51EB-487C-8EF1-5A1136FCAAC6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{0F5EE4D8-CD48-4549-99C6-D9E91BC9EDED}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{7F0EBDD1-FDFD-4F3C-9117-A7EE16736F14}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{F730E596-0CFB-4358-9562-B37B9B19B21C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{3103C4B3-BBDA-4C4C-BD6B-2660354842B9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{798072BD-6007-4BC2-A848-C4B167E4A54D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{714C8A2A-D44E-435D-BF25-C1881BA5E14D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{0FFE6514-038C-4825-89F2-15B6686A6006}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{50711978-51B4-491F-A266-77DEAF22E99E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{DD912384-5AB2-42A4-8D34-FED7B79614A6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{A0E5BAB6-6C0D-42B8-97E5-CE04C611C54F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{8CDB1074-8604-4FE4-B1CE-EC773FBF6731}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{68021153-6B74-49CC-9647-552AFF250EE3}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{7E038081-AD22-451C-A4E1-B58CE1BC5031}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{D700342E-633F-4D65-87E6-955B9508B7ED}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="WebConfigurator_Get_functions" key="{F691FB42-A3B8-4C7B-9FE0-38081F956677}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\WebConfigurator_Get_functions.sj" />
+			<child name="PDFUtils" key="{E5251B3F-B9BA-457E-8DB0-17441D35DEBA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+			<child name="RQS_Get_functions" key="{18E4F11F-750F-4825-AAE7-8B3C9B36327B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\RQS_Get_functions.sj" />
+		</folder>
+		<folder name="Performance">
+			<folder name="Performance_Module_Accounts">
+				<child name="Performance_Acc_AlarmsBtn" key="{9A187A7D-4218-482F-B739-25D46024CA73}" path="Performance_Acc_AlarmsBtn.sj" />
+				<child name="Performance_Acc_ClickModule" key="{AC300AED-9BCC-4BAF-96C5-C90DBC0BF1DC}" path="Performance_Acc_ClickModule.sj" />
+				<child name="Performance_Acc_Drag_FromClients" key="{F0755BD0-E44B-4163-9CA6-938940698874}" path="Performance_Acc_Drag_FromClients.sj" />
+				<child name="Performance_Acc_Drag_FromRelationships" key="{F8A5D2E1-F7A8-442E-A68F-CF5F7314D13E}" path="Performance_Acc_Drag_FromRelationships.sj" />
+				<child name="Performance_Acc_Drag_FromTitres" key="{193730CB-1D98-409A-9E76-E15D9249BFE0}" path="Performance_Acc_Drag_FromTitres.sj" />
+				<child name="Performance_Acc_Drag_FromTransactions" key="{C42DE339-FEFA-4483-97E8-6EAE7949AA8B}" path="Performance_Acc_Drag_FromTransactions.sj" />
+				<child name="Performance_Acc_InfoBtn" key="{908255AF-5ECB-4925-B524-D99EB9933965}" path="Performance_Acc_InfoBtn.sj" />
+				<child name="Performance_Acc_SearchAccount" key="{45E2DEA7-327F-4624-B0C1-8EC74A7033B5}" path="Performance_Acc_SearchAccount.sj" />
+				<child name="Performance_Acc_SearchCriteria" key="{609B402C-4ECC-4207-AF07-D5EC3F1BFD22}" path="Performance_Acc_SearchCriteria.sj" />
+				<child name="Performance_Acc_SumBtn" key="{CB37D092-9DB6-4FAA-B1F2-81081A014A31}" path="Performance_Acc_SumBtn.sj" />
+				<child name="Performance_Acc_ToPortfolio_ToTransaction_ToTitre" key="{B63721D4-2758-48CE-8D29-79BA7FA9D95C}" path="Performance_Acc_ToPortfolio_ToTransaction_ToTitre.sj" />
+				<child name="Performance_Acc_Sleeves_RebalanceAccount" key="{266FD830-A023-4753-84E2-052BE5E47DB3}" path="Performance_Acc_Sleeves_RebalanceAccount.sj" />
+				<child name="Performance_Acc_Sleeves_RebalanceAllSleeves" key="{B4766D66-51F7-425F-B50D-D6410BFB5943}" path="Performance_Acc_Sleeves_RebalanceAllSleeves.sj" />
+				<child name="Performance_Acc_AssignModel_Rebalance" key="{34157F70-939C-43CC-AF65-DF862026735B}" path="Performance_Acc_AssignModel_Rebalance.sj" />
+				<child name="Performance_Acc_MSExcel_Filter" key="{4FA0518C-4DF9-4495-B727-786A9B2C0C52}" path="Performance_Acc_MSExcel_Filter.sj" />
+				<child name="Performance_Acc_CROES_11353_SearchCriteriaNBC4415" key="{24982FEE-79FD-4DAA-9D2C-F8B493A1A899}" path="Performance_Acc_CROES_11353_SearchCriteriaNBC4415.sj" />
+				<child name="Performance_Acc_PerformanceBtn" key="{EFD173FE-BFC4-4AD5-85B0-DC9CEC5BE8FD}" path="Performance_Acc_PerformanceBtn.sj" />
+				<child name="Performance_Acc_ReportBtn" key="{2A78D80C-2665-4C6D-9DB5-8D47704FB5E2}" path="Performance_Acc_ReportBtn.sj" />
+				<child name="Performance_Acc_CR2183_ImportManualList" key="{5A14E64D-54B0-44FC-AFD2-32370346A7E4}" path="Performance_Acc_CR2183_ImportManualList.sj" />
+			</folder>
+			<folder name="Performance_Module_Clients">
+				<child name="Performance_Cli_ClickModule" key="{48E86F3C-92C8-4CBF-BD85-791CAD79F9C0}" path="Performance_Cli_ClickModule.sj" />
+				<child name="Performance_Cli_Drag_FromAccounts" key="{06BB84AC-26CF-49A9-94C3-5978B38BA790}" path="Performance_Cli_Drag_FromAccounts.sj" />
+				<child name="Performance_Cli_Drag_FromRelationships" key="{3AC14C31-B228-4D49-AB57-12143D98E56D}" path="Performance_Cli_Drag_FromRelationships.sj" />
+				<child name="Performance_Cli_Drag_FromTitres" key="{B525BF6E-EB3E-4800-BA15-EF16DBA3092A}" path="Performance_Cli_Drag_FromTitres.sj" />
+				<child name="Performance_Cli_Drag_FromTransactions" key="{1F7E3342-CA07-4BB0-A401-B2820424DBBF}" path="Performance_Cli_Drag_FromTransactions.sj" />
+				<child name="Performance_Cli_InfoBtn" key="{67C49212-12AE-4632-8BCF-F2BB774B9173}" path="Performance_Cli_InfoBtn.sj" />
+				<child name="Performance_Cli_PerformanceBtn" key="{268878DB-79A0-4E4B-8983-83785DA8F8F3}" path="Performance_Cli_PerformanceBtn.sj" />
+				<child name="Performance_Cli_SearchCriteria" key="{97089FA2-BF53-4E09-8864-49C4E85FD7F1}" path="Performance_Cli_SearchCriteria.sj" />
+				<child name="Performance_Cli_SumBtn" key="{0BA8BD33-D572-42F8-A453-521F585ADF8F}" path="Performance_Cli_SumBtn.sj" />
+				<child name="Performance_Cli_ToAccount_ToPortfolio_ToTransaction_ToTitre" key="{DC6C8AEE-5782-4707-B0C2-521ED7C23BB9}" path="Performance_Cli_ToAccount_ToPortfolio_ToTransaction_ToTitre.sj" />
+				<child name="Performance_Cli_MSExcel_Filter" key="{039E98E7-36AB-431A-801A-86C1DB89CDA6}" path="Performance_Cli_MSExcel_Filter.sj" />
+				<child name="Performance_Cli_FiltreRapide_CurrencyAmongCAD" key="{D5044308-DA7E-451C-8BE3-9EF663FD54FA}" path="Performance_Cli_FiltreRapide_CurrencyAmongCAD.sj" />
+				<child name="Performance_Cli_FiltreRapide_StatusAmongOpen" key="{5AE0DFA4-A623-414B-BA6D-BA0696D871D1}" path="Performance_Cli_FiltreRapide_StatusAmongOpen.sj" />
+				<child name="Performance_Cli_SearchClient" key="{9283D196-0CF1-409B-9EE3-41583C219EDE}" path="Performance_Cli_SearchClient.sj" />
+			</folder>
+			<folder name="Performance_Module_Portfolio">
+				<child name="Performance_Por_AllBtn" key="{AF0EA404-E43A-4C06-A27B-7C1F5CA63A76}" path="Performance_Por_AllBtn.sj" />
+				<child name="Performance_Por_ChangeCurrency" key="{D36FC120-8EBF-4F19-A7F6-92FC22EA243B}" path="Performance_Por_ChangeCurrency.sj" />
+				<child name="Performance_Por_ChangeDate" key="{97BA9C66-694D-4AE1-B255-A41280E9CA41}" path="Performance_Por_ChangeDate.sj" />
+				<child name="Performance_Por_Drag_FromAccounts" key="{52580193-564B-459D-9920-8D8D68AFFF8F}" path="Performance_Por_Drag_FromAccounts.sj" />
+				<child name="Performance_Por_Drag_FromClients" key="{17A33749-B6C6-4504-A66B-B1D09DC0E4F7}" path="Performance_Por_Drag_FromClients.sj" />
+				<child name="Performance_Por_Drag_FromRelationships" key="{D1C0516E-658F-40CF-9861-FA0AD9BA7E04}" path="Performance_Por_Drag_FromRelationships.sj" />
+				<child name="Performance_Por_Drag_FromTitres" key="{55B46910-AFFB-4A64-95C4-2C8682C353E0}" path="Performance_Por_Drag_FromTitres.sj" />
+				<child name="Performance_Por_InfoBtn" key="{28C70436-6B23-4FDE-A1A7-99885D10D1C0}" path="Performance_Por_InfoBtn.sj" />
+				<child name="Performance_Por_SumBtn" key="{CCA93F77-5749-45CD-A898-40A31F6D16D8}" path="Performance_Por_SumBtn.sj" />
+				<child name="Performance_Por_SleevesBtn" key="{EFEB3077-903B-485A-B9C3-2BE22094F1AB}" path="Performance_Por_SleevesBtn.sj" />
+				<child name="Performance_Por_CreateSleeves" key="{6FB4414E-6CEF-42ED-88CF-DEA6384A590E}" path="Performance_Por_CreateSleeves.sj" />
+				<child name="Performance_Por_PerformanceBtn" key="{952A517F-3618-45AA-B5B7-938F34C5CF17}" path="Performance_Por_PerformanceBtn.sj" />
+				<child name="Performance_Por_GroupBtn" key="{8F972A73-8AFC-4210-8375-07D6CF3595D3}" path="Performance_Por_GroupBtn.sj" />
+				<child name="Performance_Por_Drag_FromAccounts_With_140_Positions" key="{6FEB1814-7EBA-49F8-B739-17816E949050}" path="Performance_Por_Drag_FromAccounts_With_140_Positions.sj" />
+			</folder>
+			<folder name="Performance_Module_Relationships">
+				<child name="Performance_Rel_ClickModule" key="{EBEB9469-666C-41B8-B09E-70D5F9B499CA}" path="Performance_Rel_ClickModule.sj" />
+				<child name="Performance_Rel_DeleteAccount_FromRelationships" key="{C7311D35-F150-4640-A590-E8813B09197D}" path="Performance_Rel_DeleteAccount_FromRelationships.sj" />
+				<child name="Performance_Rel_Drap_FromAccounts" key="{4F958DBD-1415-4CA8-80E3-F3E896CEF5C5}" path="Performance_Rel_Drap_FromAccounts.sj" />
+				<child name="Performance_Rel_Drap_FromClients" key="{8D77C99D-C9C7-4C49-8973-51BCBF2005F0}" path="Performance_Rel_Drap_FromClients.sj" />
+				<child name="Performance_Rel_Drap_FromTitres" key="{F0F40352-5B04-4CEF-A3A9-41F873D61B06}" path="Performance_Rel_Drap_FromTitres.sj" />
+				<child name="Performance_Rel_Drap_FromTransactions" key="{B9EAEBAE-F1C8-4898-9191-39E2D901B0AB}" path="Performance_Rel_Drap_FromTransactions.sj" />
+				<child name="Performance_Rel_InfoBtn" key="{083C7366-46C2-46F3-98C5-3714D4CD3204}" path="Performance_Rel_InfoBtn.sj" />
+				<child name="Performance_Rel_JoinAccounts_To_Relationships" key="{CE5460FB-2D62-43D9-9A54-A0E59CB63B0D}" path="Performance_Rel_JoinAccounts_To_Relationships.sj" />
+				<child name="Performance_Rel_JoinClients_To_Relationships" key="{AEADBF8F-A727-4FBC-AEC9-667731B81DF2}" path="Performance_Rel_JoinClients_To_Relationships.sj" />
+				<child name="Performance_Rel_View_HierarchyPanel" key="{8E1C8577-518E-4257-9579-8670EF2F7A55}" path="Performance_Rel_View_HierarchyPanel.sj" />
+				<child name="Performance_Rel_Add_NewRelationships" key="{BC7B5091-1FA0-46DE-ABAD-FB27C2253BDA}" path="Performance_Rel_Add_NewRelationships.sj" />
+				<child name="Performance_Rel_SearchRelationships" key="{BF83545C-FE07-4AE8-A4BB-1BB03B8C1D4E}" path="Performance_Rel_SearchRelationships.sj" />
+				<child name="Performance_Rel_DoubleClickRelationships" key="{F6EFE084-81A2-4FD2-8884-2E7B3DC2C2C8}" path="Performance_Rel_DoubleClickRelationships.sj" />
+				<child name="Performance_Rel_AddNoteBtn" key="{38B03B99-6E71-4122-8D7D-AC9C970153F7}" path="Performance_Rel_AddNoteBtn.sj" />
+			</folder>
+			<folder name="Performance_Module_Titres">
+				<child name="Performance_Tit_ClickModule" key="{40CAEB18-E3DD-493E-AEB8-FA2DFDDC6F42}" path="Performance_Tit_ClickModule.sj" />
+				<child name="Performance_Tit_Drag_FromAccounts" key="{4016732A-EC63-4022-B876-2C4F1F1FDF3B}" path="Performance_Tit_Drag_FromAccounts.sj" />
+				<child name="Performance_Tit_Drap_FromClients" key="{AE32BB69-9544-4592-8BA9-773D533EA49C}" path="Performance_Tit_Drap_FromClients.sj" />
+				<child name="Performance_Tit_Drap_FromTransactions" key="{1D4F925D-1279-439B-94D2-514C42ADBDD0}" path="Performance_Tit_Drap_FromTransactions.sj" />
+				<child name="Performance_Tit_FiltersIcon" key="{3FDEDE20-9231-43D7-99EB-3224C0DDF279}" path="Performance_Tit_FiltersIcon.sj" />
+				<child name="Performance_Tit_HistoricalDataBtn" key="{CFD4527D-BB41-44C2-8922-54205C500FA0}" path="Performance_Tit_HistoricalDataBtn.sj" />
+				<child name="Performance_Tit_InfoBtn" key="{5BBB9BB9-E7C7-4C8F-B7A7-EE8F336541F3}" path="Performance_Tit_InfoBtn.sj" />
+				<child name="Performance_Tit_SearchCriteria" key="{49BADAA0-8333-4C76-AEB8-94B7279CB49B}" path="Performance_Tit_SearchCriteria.sj" />
+				<child name="Performance_Tit_SearchTitre" key="{3AEB5DB3-7374-4F44-9895-EC8D04A9079A}" path="Performance_Tit_SearchTitre.sj" />
+				<child name="Performance_Tit_MSExcel" key="{E1B580BA-C63F-42FF-933B-44BF4AB90D96}" path="Performance_Tit_MSExcel.sj" />
+			</folder>
+			<folder name="Performance_Module_Transactions">
+				<child name="Performance_Tra_ClickModule" key="{F6EA7F9D-566A-416E-82A0-8E37AB6D324E}" path="Performance_Tra_ClickModule.sj" />
+				<child name="Performance_Tra_Drag_FromAccounts" key="{11CD74B6-EEFC-4C8A-93C0-C743B75E97DF}" path="Performance_Tra_Drag_FromAccounts.sj" />
+				<child name="Performance_Tra_Drag_FromClients" key="{3F02FF91-3B32-448B-95B0-9DCF5A45B7F0}" path="Performance_Tra_Drag_FromClients.sj" />
+				<child name="Performance_Tra_Drag_FromPortfolio" key="{B87E5966-2241-4551-A519-0F2F0561A688}" path="Performance_Tra_Drag_FromPortfolio.sj" />
+				<child name="Performance_Tra_Drag_FromRelationships" key="{8463D1B2-4773-4B36-A92A-A237E24A3017}" path="Performance_Tra_Drag_FromRelationships.sj" />
+				<child name="Performance_Tra_Drag_FromTitres" key="{3FD37687-E42D-4B31-8820-92AF9F7C207D}" path="Performance_Tra_Drag_FromTitres.sj" />
+				<child name="Performance_Tra_DragFromClients_Filters" key="{11A0E18C-6F25-47B7-AC6F-98F65DB328B0}" path="Performance_Tra_DragFromClients_Filters.sj" />
+				<child name="Performance_Tra_DragFromClients_Sum" key="{18056B04-0962-40EB-8C3B-2003477952A2}" path="Performance_Tra_DragFromClients_Sum.sj" />
+				<child name="Performance_Tra_DragFromPortfolio_Filters" key="{41C02609-08AD-4173-BDFC-29300FFFA916}" path="Performance_Tra_DragFromPortfolio_Filters.sj" />
+				<child name="Performance_Tra_DragFromPortfolio_Sum" key="{B09D9AB2-E724-4666-A9A9-E16E3FE7757F}" path="Performance_Tra_DragFromPortfolio_Sum.sj" />
+				<child name="Performance_Tra_DragFromTitres_Filters" key="{279150BD-C2F7-493A-9184-067CFD4394CB}" path="Performance_Tra_DragFromTitres_Filters.sj" />
+				<child name="Performance_Tra_DragFromTitres_Sum" key="{B49C8895-F8F3-4E2B-AAF3-1A00B1A995AC}" path="Performance_Tra_DragFromTitres_Sum.sj" />
+				<child name="Performance_Tra_FiltersIcon" key="{ADD4CFDE-2C8D-44C5-8D71-B9921C2251BA}" path="Performance_Tra_FiltersIcon.sj" />
+				<child name="Performance_Tra_InfoBtn" key="{F4C42414-BA7B-4E8F-8F3B-195F2C462E59}" path="Performance_Tra_InfoBtn.sj" />
+				<child name="Performance_Tra_SearchTransaction" key="{A1DBA4B9-0BDD-4011-853C-30B0AEB36BF4}" path="Performance_Tra_SearchTransaction.sj" />
+				<child name="Performance_Tra_SumIcon" key="{6D98F259-10DF-41CD-94CA-3D9ECCD865FC}" path="Performance_Tra_SumIcon.sj" />
+			</folder>
+			<folder name="Performance_SearchCriteria">
+				<child name="Performance_Create_SearchCriteria" key="{755699F9-ABB4-4CDF-9748-FA69A71ED1E7}" path="Performance_Create_SearchCriteria.sj" />
+				<child name="Performance_Delete_SearchCriteria" key="{16304E51-C9F5-439E-9400-C7C107C60A77}" path="Performance_Delete_SearchCriteria.sj" />
+			</folder>
+			<folder name="Performance_Rapport">
+				<folder name="Performance_Rapport_Clients">
+					<child name="Performance_Cli_Rapport_AssetAllocationSubcategory" key="{7B3212DF-C09C-42CA-9CBE-7CB346996253}" path="Performance_Cli_Rapport_AssetAllocationSubcategory.sj" />
+					<child name="Performance_Cli_Rapport_GainsLossesRealized" key="{AE8A3BD4-44D0-43EB-8235-C59D1211CA00}" path="Performance_Cli_Rapport_GainsLossesRealized.sj" />
+					<child name="Performance_Cli_Rapport_PortfolioEvaluation" key="{3AF116A5-0D0F-42D8-8D21-8E09F327CDFC}" path="Performance_Cli_Rapport_PortfolioEvaluation.sj" />
+					<child name="Performance_Cli_Rapport_PortfolioPerformance" key="{38A6024A-7A6F-4C73-A970-59605C80B4CB}" path="Performance_Cli_Rapport_PortfolioPerformance.sj" />
+					<child name="Performance_Cli_Rapport_ProjectedIncomeAnnual" key="{8DC838E7-E21B-407E-80E3-EF9E33E3DDC3}" path="Performance_Cli_Rapport_ProjectedIncomeAnnual.sj" />
+					<child name="Performance_Cli_Rapport_Transactions" key="{C605A1AB-7E41-43F5-A3C7-12147CBE8D8B}" path="Performance_Cli_Rapport_Transactions.sj" />
+				</folder>
+				<folder name="Performance_Rapport_Accounts">
+					<child name="Performance_Acc_Rapport_PortfolioPerformance" key="{760F90B0-6BFF-4363-929B-DBB1153260F2}" path="Performance_Acc_Rapport_PortfolioPerformance.sj" />
+					<child name="Performance_Acc_Rapport_PortfolioEvaluation" key="{BA1709EF-297B-4751-A561-822E8B0C9CA5}" path="Performance_Acc_Rapport_PortfolioEvaluation.sj" />
+					<child name="Performance_Acc_Rapport_Transactions" key="{A7DA929C-8196-426B-ADF7-21C7ACBB2C7E}" path="Performance_Acc_Rapport_Transactions.sj" />
+					<child name="Performance_Acc_Rapport_GainsLossesRealized" key="{D26121B0-92C8-4FE2-BE77-98BEFCB04DF9}" path="Performance_Acc_Rapport_GainsLossesRealized.sj" />
+					<child name="Performance_Acc_Rapport_AssetAllocationSubcategory" key="{23A8505E-EE00-4185-A06D-F8C3DC385417}" path="Performance_Acc_Rapport_AssetAllocationSubcategory.sj" />
+					<child name="Performance_Acc_Rapport_ProjectedIncomeAnnual" key="{5EAA7EEF-EAE9-4AC4-8493-E63899C8C627}" path="Performance_Acc_Rapport_ProjectedIncomeAnnual.sj" />
+					<child name="Performance_Acc_Rapport_PortfolioEvaluation_With_140_Positions" key="{0BB60107-BE53-439B-A85D-931F698A4E06}" path="Performance_Acc_Rapport_PortfolioEvaluation_With_140_Positions.sj" />
+					<child name="Performance_Acc_Rapport_PortfolioEvaluation_With_50_Positions" key="{ACB957AE-76A3-4205-82B2-6E4779B76660}" path="Performance_Acc_Rapport_PortfolioEvaluation_With_50_Positions.sj" />
+				</folder>
+				<folder name="Performance_Rapport_Relationships">
+					<child name="Performance_Rel_Rapport_PortfolioEvaluation" key="{4578A400-2ACF-4EDA-B34C-D93477C259BA}" path="Performance_Rel_Rapport_PortfolioEvaluation.sj" />
+					<child name="Performance_Rel_Rapport_PortfolioPerformance" key="{F669128B-B397-4D2E-ADD9-09B5E22127A6}" path="Performance_Rel_Rapport_PortfolioPerformance.sj" />
+					<child name="Performance_Rel_Rapport_Transactions" key="{3A06A908-C737-4174-9AB6-5D4F451B3E4F}" path="Performance_Rel_Rapport_Transactions.sj" />
+					<child name="Performance_Rel_Rapport_GainsLossesRealized" key="{88F0BED4-279F-4EAC-B273-9B465E6D5BB0}" path="Performance_Rel_Rapport_GainsLossesRealized.sj" />
+					<child name="Performance_Rel_Rapport_AssetAllocationSubcategory" key="{838E662F-EE6E-47DF-BD92-B3DD8B3A2385}" path="Performance_Rel_Rapport_AssetAllocationSubcategory.sj" />
+					<child name="Performance_Rel_Rapport_ProjectedIncomeAnnual" key="{3A49221D-CEC9-486B-AB4D-69E672A346EC}" path="Performance_Rel_Rapport_ProjectedIncomeAnnual.sj" />
+				</folder>
+			</folder>
+			<folder name="Performance_Module_Models">
+				<child name="Performance_Mod_Rebalance" key="{0A29CB37-D540-4C8F-B557-81C97A34A5C9}" path="Performance_Mod_Rebalance.sj" />
+				<child name="Performance_Mod_CR1845" key="{46C5CD99-1A34-4610-8AD7-421BDE144BF2}" path="Performance_Mod_CR1845.sj" />
+				<child name="Performance_Mod_UMA" key="{9025A815-CD66-44B3-A85C-FD2AEFF50E6E}" path="Performance_Mod_UMA.sj" />
+				<child name="Performance_Mod_ALTER_INFRA" key="{64B8DCB9-80E1-4796-A9DF-4205A18E2F64}" path="Performance_Mod_ALTER_INFRA.sj" />
+				<child name="Performance_Mod_GROW" key="{7433C30E-1D5E-442A-A213-94CD368780DE}" path="Performance_Mod_GROW.sj" />
+				<child name="Performance_Mod_GE_BLEND" key="{44703EE3-6E04-4957-9F71-56657D6AFB20}" path="Performance_Mod_GE_BLEND.sj" />
+				<child name="Performance_Mod_CASH" key="{AD9DC448-45B6-47D5-9A3A-61580E223AAA}" path="Performance_Mod_CASH.sj" />
+				<child name="Performance_Mod_TAA" key="{EEF96AF5-701E-4E58-BB5C-CF2832C892EF}" path="Performance_Mod_TAA.sj" />
+				<child name="Performance_Mod_CashMgmt_ALTER_INFRA" key="{FBB524BA-875A-4FC1-91F3-F0DABDD3B133}" path="Performance_Mod_CashMgmt_ALTER_INFRA.sj" />
+				<child name="Performance_Mod_CashMgmt_GROW" key="{34B6E56F-A44F-4237-B938-11E10E56E50C}" path="Performance_Mod_CashMgmt_GROW.sj" />
+				<child name="Performance_Mod_CashMgmt_GE_BLEND" key="{0E54D6F8-9BA5-4A6E-AEF3-AF274E6FA439}" path="Performance_Mod_CashMgmt_GE_BLEND.sj" />
+				<child name="Performance_Mod_CashMgmt_CASH" key="{E27FF9C1-25F1-4715-88D3-6527E9FCA80A}" path="Performance_Mod_CashMgmt_CASH.sj" />
+				<child name="Performance_Mod_CashMgmt_TAA" key="{013C4EE6-F2C7-4BA1-B8FB-1449061602CE}" path="Performance_Mod_CashMgmt_TAA.sj" />
+				<child name="Performance_Mod_CROISSANCEMAX" key="{A300DEF3-84F3-4E91-AB4E-3B3448A078C2}" path="Performance_Mod_CROISSANCEMAX.sj" />
+				<child name="Performance_Mod_CashMgmt_CROISSANCEMAX" key="{C37E03D9-A63C-4A1D-9E0C-C5E9043258DF}" path="Performance_Mod_CashMgmt_CROISSANCEMAX.sj" />
+				<child name="Performance_Mod_EQUILIBRE" key="{C9735429-2FFE-4544-9B4D-159ABBDD28B6}" path="Performance_Mod_EQUILIBRE.sj" />
+				<child name="Performance_Mod_CashMgmt_EQUILIBRE" key="{E4EFA639-788C-4E4B-A795-CFDD9BA61035}" path="Performance_Mod_CashMgmt_EQUILIBRE.sj" />
+				<child name="Performance_Mod_BDC5050" key="{2E609795-62C9-4FA2-AEEE-408C238D1A46}" path="Performance_Mod_BDC5050.sj" />
+				<child name="Performance_Mod_CashMgmt_BDC5050" key="{FBF8D0FD-E101-483F-BA92-B7525BCBF035}" path="Performance_Mod_CashMgmt_BDC5050.sj" />
+				<child name="Performance_Mod_SMALLBAL" key="{92C6E3B6-AF85-4C17-B589-7D0B705FECB4}" path="Performance_Mod_SMALLBAL.sj" />
+				<child name="Performance_Mod_CashMgmt_SMALLBAL" key="{7F1951E3-6E99-4A9C-8819-E9E07804134D}" path="Performance_Mod_CashMgmt_SMALLBAL.sj" />
+				<child name="Performance_Mod_GenerateOrdersAccumulator_TAA" key="{0C7A0F70-58AC-4859-9165-92FC076FBAC2}" path="Performance_Mod_GenerateOrdersAccumulator_TAA.sj" />
+			</folder>
+			<folder name="Performance_LoginCroesus">
+				<child name="Performance_LoginCroesus" key="{967986EA-483C-478F-8ECF-4EA6BF7861F1}" path="Performance_LoginCroesus.sj" />
+				<child name="Performance_Dashboard" key="{67469DB0-B437-4F9F-9495-AB85324C077A}" path="Performance_Dashboard.sj" />
+			</folder>
+			<folder name="Performance_Module_Orders">
+				<child name="Performance_Ord_MSExcel" key="{28865413-9134-4FC7-8D8C-6AD6E2E84742}" path="Performance_Ord_MSExcel.sj" />
+				<child name="Performance_Ord_SumBtn" key="{C04F27B7-7562-4B8E-A05D-558CD6F23BDA}" path="Performance_Ord_SumBtn.sj" />
+				<child name="Performance_Ord_ViewBtn" key="{99A1D37B-149F-4A3D-B1CD-DEA4894AB7D0}" path="Performance_Ord_ViewBtn.sj" />
+				<child name="Performance_Ord_ClickModule" key="{EE9ECB75-790A-4C2D-AABC-C79BD5DBD2FA}" path="Performance_Ord_ClickModule.sj" />
+				<child name="Performance_ORC_1331_LongTimeBeforePreview" key="{A0499C2A-C0D6-49E4-AF6E-3D4F9E3F0BF9}" path="Performance_ORC_1331_LongTimeBeforePreview.sj" />
+				<child name="Performance_ORC_1623_TimeTooLongBeforePreview" key="{BE081EEE-C291-4F1A-A265-384639308497}" path="Performance_ORC_1623_TimeTooLongBeforePreview.sj" />
+				<child name="Performance_ORC_3000Accounts_PercentOfPositionHeld" key="{D46E6DEB-E80D-40E2-8EDC-D1B7EA17DCA7}" path="Performance_ORC_3000Accounts_PercentOfPositionHeld.sj" />
+				<child name="Performance_ORC_3000Accounts_UnitsPerAccount" key="{85B51A90-D212-4EA3-A28D-2506A3C70D0E}" path="Performance_ORC_3000Accounts_UnitsPerAccount.sj" />
+				<child name="Performance_ORC_Over16000Accounts_UnitPerAccount" key="{BB422BC4-7085-43FF-B332-0E80E8252FE7}" path="Performance_ORC_Over16000Accounts_UnitPerAccount.sj" />
+				<child name="Performance_ORC_Over5000Accounts_UnitPerAccount" key="{6AA94FCA-3CCD-47DC-8E5B-90BDB27E7FFE}" path="Performance_ORC_Over5000Accounts_UnitPerAccount.sj" />
+				<child name="Performance_ORC_3000Accounts_PercentAccountMarketValue" key="{D1FC972B-03C1-4640-9F98-079094D537E4}" path="Performance_ORC_3000Accounts_PercentAccountMarketValue.sj" />
+				<child name="Performance_ORC_3000Accounts_DollarPerAccount" key="{66BE2F31-0627-4F3A-BB8F-B364B670E478}" path="Performance_ORC_3000Accounts_DollarPerAccount.sj" />
+				<child name="Performance_ORC_3000Accounts_PercentOfBalance_negative" key="{C56BCEC5-CC5D-4E3E-ABB3-CD993B381FC0}" path="Performance_ORC_3000Accounts_PercentOfBalance_negative.sj" />
+				<child name="Performance_ORC_3000Accounts_BlockedPosition" key="{FBCA8B08-DE81-41BB-BC7B-5C796489CDD4}" path="Performance_ORC_3000Accounts_BlockedPosition.sj" />
+				<child name="Performance_ORC_3000Accounts_CurrentSelection" key="{47130A13-34EE-42D4-ADCC-9DA97CC19B88}" path="Performance_ORC_3000Accounts_CurrentSelection.sj" />
+				<child name="Performance_ORC_3000Accounts_JustActions" key="{E4A5D6C6-76C1-4044-B9A9-A35FC004500E}" path="Performance_ORC_3000Accounts_JustActions.sj" />
+				<child name="Performance_ORC_3000Accounts_CurrentListSelection_JustActions" key="{D5B10116-66E5-4E44-A83B-DDE443BD548D}" path="Performance_ORC_3000Accounts_CurrentListSelection_JustActions.sj" />
+				<child name="Performance_ORC_3000Accounts_CurrentListSelection_WithFM" key="{D4DB1B8C-A032-40DE-B561-47005A355420}" path="Performance_ORC_3000Accounts_CurrentListSelection_WithFM.sj" />
+				<child name="Performance_ORC_Common_functions" key="{89A3DA3D-E6C6-40F2-B24C-142EBBFE1B2F}" path="Performance_ORC_Common_functions.sj" />
+			</folder>
+			<folder name="Performance_Jira">
+				<folder name="Crash">
+					<child name="Performance_CROES_6602" key="{6E37025B-2573-4B4A-BEF7-3E9E60B27902}" path="Performance_CROES_6602.sj" />
+					<child name="Performance_CROES_6604" key="{E92F0152-3B15-4CA0-8604-1DEC7875ADC8}" path="Performance_CROES_6604.sj" />
+					<child name="Performance_CROES_6743" key="{F224B9EE-FDAA-4F3A-8629-1FA8B0F933A8}" path="Performance_CROES_6743.sj" />
+					<child name="Performance_CROES_6813" key="{66D1B602-5020-4FF5-9D1F-1C6696C55761}" path="Performance_CROES_6813.sj" />
+					<child name="Performance_CROES_6820" key="{FEDCE460-E429-4ED7-8F5A-E09F52CEADE2}" path="Performance_CROES_6820.sj" />
+				</folder>
+				<folder name="Function_Tri">
+					<child name="TCVE3273_MIB764_Validate_Thesort_OnThe_LastRebalancingColumn_InThe_AssociatedPortfoliosGrid_InThePadModel" key="{1B092E48-C2F1-488C-9732-D2AE472E4E64}" path="TCVE3273_MIB764_Validate_Thesort_OnThe_LastRebalancingColumn_InThe_AssociatedPortfoliosGrid_InThePadModel.sj" />
+				</folder>
+				<child name="Performance_CROES_9160" key="{A9664D06-52D4-41FD-B9C9-E559480832E9}" path="Performance_CROES_9160.sj" />
+				<child name="Performance_BNC_2234_2235" key="{4F4A01CF-9ACC-42BF-90F3-AE398AF19F06}" path="Performance_BNC_2234_2235.sj" />
+				<child name="Performance_BNC_1918" key="{A1C64EE8-1CE6-4F7C-8E03-CD75E23BC013}" path="Performance_BNC_1918.sj" />
+				<child name="Performance_BNC_2304" key="{62BA63D7-3956-4ADD-AB51-9512AA12666B}" path="Performance_BNC_2304.sj" />
+				<child name="Performance_BNC_2288" key="{D1BB3AA0-62DD-4B58-BA51-899BCEA0341E}" path="Performance_BNC_2288.sj" />
+				<child name="Performance_CROES_10617" key="{59A661B9-D68B-4FD0-9D47-1A6C62791AE7}" path="Performance_CROES_10617.sj" />
+				<child name="Performance_CROES_6561_BNC_1784_DashboardCrash" key="{9D3D6BC0-26AA-48B6-BD80-0E4AA3D86FD2}" path="Performance_CROES_6561_BNC_1784_DashboardCrash.sj" />
+				<child name="Performance_CROES_6694" key="{DD2467E5-A90F-413B-AE81-2C8DA0214402}" path="Performance_CROES_6694.sj" />
+			</folder>
+			<folder name="Performance_WebConfigurator">
+				<child name="BNC_2369_HomePage_SearchIACode" key="{76058743-CD03-4818-BC23-2580A6357D3D}" path="BNC_2369_HomePage_SearchIACode.sj" />
+				<child name="BNC_2388_HomePage_2Characters_SearchIACode" key="{66C8F548-5DAD-4F3C-B237-62A59CCE23E6}" path="BNC_2388_HomePage_2Characters_SearchIACode.sj" />
+				<child name="BNC_2368_HomePage_ScrollIACode_DefaultBranch" key="{075B6ECA-622A-43A8-A489-037B166E9806}" path="BNC_2368_HomePage_ScrollIACode_DefaultBranch.sj" />
+				<child name="WebConfig_HomePage_SearchUser" key="{4390D85A-55DB-4D73-A45C-05E55A24C4F0}" path="WebConfig_HomePage_SearchUser.sj" />
+				<child name="WebConfig_UserPage_IACode_SearchIACode" key="{0AE0132B-34B3-483A-BB06-8250212CB1D5}" path="WebConfig_UserPage_IACode_SearchIACode.sj" />
+				<child name="WebConfig_UserPage_IACode_2Characters_SearchIACode" key="{D15DA39F-9494-4B42-BA1D-79DFF3CE5179}" path="WebConfig_UserPage_IACode_2Characters_SearchIACode.sj" />
+				<child name="WebConfig_HomePage_SearchName" key="{FBF29D76-AC8A-482E-A83C-4FA4B924F584}" path="WebConfig_HomePage_SearchName.sj" />
+			</folder>
+			<folder name="Peformance_NFR">
+				<child name="Performance_Acc_15bpsCash" key="{BD46AE29-DD25-4963-9D26-A28975CD5FEC}" path="Performance_Acc_15bpsCash.sj" />
+			</folder>
+			<folder name="Performance_RCM">
+				<child name="Performance_RCM_SwitchTransactionBlotterToAlertsTab" key="{ED627EB7-E24A-436C-A6A4-D00879EC2ECF}" path="Performance_RCM_SwitchTransactionBlotterToAlertsTab.sj" />
+				<child name="Performance_RCM_ActivateFiltersInAlertsTab" key="{1D215805-E82B-4E73-8640-3F19DA1183FE}" path="Performance_RCM_ActivateFiltersInAlertsTab.sj" />
+				<child name="Performance_RCM_DragTransactionsToCroesusTransactions" key="{4828FE7B-3CAF-4247-8095-08B189BAC873}" path="Performance_RCM_DragTransactionsToCroesusTransactions.sj" />
+				<child name="Performance_RCM_DragTransactionsToCroesusSecurities" key="{27B55E68-A44D-4755-8F14-2D7506436B4D}" path="Performance_RCM_DragTransactionsToCroesusSecurities.sj" />
+				<child name="Performance_RCM_DragTransactionsToCroesusPortfolio" key="{918ECF50-3954-49D8-8234-472DD080F71A}" path="Performance_RCM_DragTransactionsToCroesusPortfolio.sj" />
+				<child name="Performance_RCM_TransactionTabExportToExcel" key="{EB1781D1-D7A8-41A9-AF8D-926B5899FD2F}" path="Performance_RCM_TransactionTabExportToExcel.sj" />
+				<child name="Performance_RCM_AlertsTabExportToExcel" key="{B6B0BC6C-C20B-40C9-94FD-1DAFE30D4B43}" path="Performance_RCM_AlertsTabExportToExcel.sj" />
+				<child name="Performance_RCM_ReportsTabExportToExcel" key="{D9CE38A4-38BD-4D17-B3B9-22D32AD775D4}" path="Performance_RCM_ReportsTabExportToExcel.sj" />
+				<child name="Performance_RCM_TransactionTabBtnSummary" key="{803C65E5-AB60-4F8F-BC36-14FCB868B400}" path="Performance_RCM_TransactionTabBtnSummary.sj" />
+				<child name="Performance_RCM_TransactionTabBtnBulkValidate" key="{266A8802-A471-4A77-B33C-0C9702E3D25A}" path="Performance_RCM_TransactionTabBtnBulkValidate.sj" />
+				<child name="Performance_RCM_AddSpotCheckOneTransaction" key="{5D28CA7D-70F2-49AE-804A-A3E2E833D05E}" path="Performance_RCM_AddSpotCheckOneTransaction.sj" />
+				<child name="Performance_RCM_SwitchTransactionBlotterToSecurityAlertsTab" key="{7166DA93-B1DC-4C1C-9415-0E49E93E3D7B}" path="Performance_RCM_SwitchTransactionBlotterToSecurityAlertsTab.sj" />
+				<child name="Performance_RCM_SwitchSecurityAlertsToReportsTab" key="{0CFA50C9-6CE9-4CF8-BA0E-972E57F6850F}" path="Performance_RCM_SwitchSecurityAlertsToReportsTab.sj" />
+				<child name="Performance_RCM_AddSpotCheck40Transactions" key="{9DA4736A-2133-4E5C-B0FE-2BBA6A55689F}" path="Performance_RCM_AddSpotCheck40Transactions.sj" />
+				<child name="Performance_RCM_BrancheAndAllSelection" key="{FC8185D3-77AC-4160-8EF9-4EEEBB38E2ED}" path="Performance_RCM_BrancheAndAllSelection.sj" />
+				<child name="Performance_RCM_CurrentFilterEdition" key="{9B5B653E-DF51-452C-91A4-0B2D5AC4F643}" path="Performance_RCM_CurrentFilterEdition.sj" />
+				<child name="Performance_RCM_BlotterDateChange" key="{3792B003-32EC-478E-9642-05EBDEC7F875}" path="Performance_RCM_BlotterDateChange.sj" />
+				<child name="Performance_RCM_QueryLogStatusClosed" key="{9335A7A3-21A2-4193-BC9B-BA6DA5AFDA88}" path="Performance_RCM_QueryLogStatusClosed.sj" />
+				<child name="Performance_RCM_QueryLogStatusAnythingButClosed" key="{4EF49949-5F20-4E37-A787-8F02FFC62CDD}" path="Performance_RCM_QueryLogStatusAnythingButClosed.sj" />
+				<child name="Performance_RCM_QueryLogStatusAll" key="{0ABC2D21-6DA1-4933-AAE1-EF7BADCDEAC2}" path="Performance_RCM_QueryLogStatusAll.sj" />
+				<child name="Performance_RCMBtn" key="{6ADC8660-AF02-432D-BB6F-C6C4C60E45AF}" path="Performance_RCMBtn.sj" />
+				<child name="Performance_RCM_TransactionFilterAndColunmSort" key="{695ED4E8-5E86-49AD-9839-1E9FCCE2C6FC}" path="Performance_RCM_TransactionFilterAndColunmSort.sj" />
+				<child name="Performance_RCM_ChangeAlertsStatus" key="{3705C39B-0818-4461-90E1-6B0A8F7FC35F}" path="Performance_RCM_ChangeAlertsStatus.sj" />
+				<child name="Performance_RCM_Cfloader" key="{E3B90449-5052-4943-AD94-305E73DBDF41}" path="Performance_RCM_Cfloader.sj" />
+			</folder>
+			<folder name="Performance_RemoveReadOnlyAndSaveDataPerformance">
+				<child name="RemoveReadOnlyFromFileDataPerformance" key="{EE088C4A-C293-4C61-9131-EB1A7D1E1705}" path="RemoveReadOnlyFromFileDataPerformance.sj" />
+				<child name="CopyFileDataPerformanceToPAfterEndOfExecution" key="{F287CB94-968E-4AFF-A4A5-D68336E4ACBD}" path="CopyFileDataPerformanceToPAfterEndOfExecution.sj" />
+			</folder>
+			<folder name="Performance_Sleeves">
+				<child name="Performance_Sle_CR2431_Pluggin_UMATemplateAssignation" key="{F841C535-0062-4457-87CD-41713CCCC7A8}" path="Performance_Sle_CR2431_Pluggin_UMATemplateAssignation.sj" />
+			</folder>
+		</folder>
+		<folder name="simulator">
+			<child name="RunSimulator_TCVE_969" key="{1B3346FC-9019-48D7-B030-E5F233024C57}" path="RunSimulator_TCVE_969.sj" />
+			<child name="StopSimulator_TCVE_969" key="{A781935D-3A68-422C-ABBE-167148EDAFF6}" path="StopSimulator_TCVE_969.sj" />
+		</folder>
+		<child name="ExecutionLog" key="{284AB3C5-1306-4CD7-8A21-9D92261B75BC}" path="ExecutionLog.sj" />
+		<child name="PreExecution" key="{B1C36EE0-C471-457A-A07B-6302C6CB3301}" path="PreExecution.sj" />
+		<child name="Global_variables" key="{E9C4B857-C644-4493-9D0B-1F3EC328DAE9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{CD1F85BB-1061-499C-8609-0B2DF85181B6}" path="..\..\..\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

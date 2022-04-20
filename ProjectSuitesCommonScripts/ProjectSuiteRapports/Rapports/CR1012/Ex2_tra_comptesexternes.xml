@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE traData SYSTEM "/usr/lib/finansoft/loader/dtd/trans_data.dtd">
+<traData xmlns="TRA_NS">
+    <header timeStamp="20100125" dest="UNI" noElem="1"/> 
+
+	<accTra accId="~E-00002-1" noTra="00005">
+
+<tra total="0" note="Achat de PRIN BC">
+			<traType type="1" typeStr="ACHAT"/>
+			<traDates trade="20090416" settled="20090416"/>
+			<traSec qty="10000">
+				<sec id="M89953">
+					<priceInfo curr="CAD">
+						<price>25</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="-0.50" totComm="-98.50"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+
+
+<tra total="0" note="POTASH CORP OF SASK INC">
+			<traType type="5" typeStr="TRSF"/>
+			<traDates trade="20090507" settled="20090507"/>
+			<traSec qty="10000">
+				<sec id="549560">
+					<priceInfo curr="CAD">
+						<price>0</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="-0.50" totComm="-98.50"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+
+<tra total="0" note="Vente BCE">
+			<traType type="2" typeStr="VENTE"/>
+			<traDates trade="20091028" settled="20091028"/>
+			<traSec qty="-5000">
+				<sec id="070623">
+					<priceInfo curr="CAD">
+						<price>0</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="-0.50" totComm="-98.50"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+
+<tra total="0" note="Echange de SUNCOR SU">
+			<traType type="10" typeStr="EXCH"/>
+			<traDates trade="20090306" settled="20090306"/>
+			<traSec qty="10000">
+				<sec id="645700">
+					<priceInfo curr="CAD">
+						<price>0</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="-0.50" totComm="-98.50"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+
+
+<tra total="0" note="EXPL PROB">
+			<traType type="4" typeStr="TREC"/>
+			<traDates trade="20090219" settled="20090219"/>
+			<traSec qty="600">
+				<sec id="554270">
+					<priceInfo curr="CAD">
+						<price>0</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="-0.50" totComm="-98.50"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+
+
+
+			</accTra>
+	</traData>

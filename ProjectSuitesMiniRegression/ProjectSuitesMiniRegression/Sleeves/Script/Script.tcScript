@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{89FC0BBA-0C3B-4111-94B5-6D5A7248DC8A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{84E4FEDD-4CA3-4072-A0F9-93CDE20E0E81}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{3997B4AC-FB06-4B4C-ABBB-B29A118499F4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{9D03F57D-6A50-4ADC-916F-E5D133812D17}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{2BBC7E32-D788-4274-BA17-9283E95DD6BB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{FB1CAAE0-72BE-43EA-AD24-4D5CA14E441E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{CF2C4B5D-ACE0-4828-8FBA-8D56E7BB3BD5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{5DF6710C-EC90-4B0D-B9B5-B004AC904DD4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{D1336931-8B74-4755-829C-EAB44D36E1E0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{2F1F0684-44E7-49DC-8B7A-1AB4BA751D2E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{341943EC-6604-4D56-B4CD-A0232D3657E6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{93D0EDF7-CC49-41FB-9643-B418FD2CB521}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{F83E45C5-B5FF-4E7E-8FEA-9F106BAAD2F6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{D4674864-E394-4901-B525-397B6AE92CF5}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{5D21233A-9A12-4D56-A94A-7A81A235C161}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{F8EF6880-B86A-4023-9024-BC53CA72347F}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{393D4920-C666-450C-AE20-B258CC8B5D77}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{22C524C2-8CAD-48B7-BDF7-929EF3CAB60D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{A7F0F9C2-4142-4BE9-A603-6143745EA756}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="PDFUtils" key="{31D418F1-DC55-4833-AB7C-D1553BD774E6}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="Environment_Preparation">
+			<folder name="Pref_Activation">
+				<child name="EnablePrefDataBase" key="{AEB1838E-8CED-4640-861C-AD862356FD9E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\EnablePrefDataBase.js" />
+			</folder>
+			<folder name="Sleeves_with_model">
+				<child name="EnvironmenttPreparation_CR1037_WithModel" key="{94CD1B4D-5B1D-45AA-A6AF-4DF0A9700510}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\EnvironmenttPreparation_CR1037_WithModel.js" />
+				<child name="EnviromentPreparation_SleeveFor800060NA" key="{23A949BA-1703-44D9-A4DF-6419B62F3126}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\EnviromentPreparation_SleeveFor800060NA.js" />
+				<child name="EnviromentPreparation_SleeveFor800236NA" key="{4CC15643-7C5A-4828-A781-D2206B2903A6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\EnviromentPreparation_SleeveFor800236NA.js" />
+			</folder>
+			<folder name="Sleeves_without_model">
+				<child name="EnvironmentPreparation_CR1037_WithoutModel" key="{C4E09F17-410D-405F-AC00-CAE87E09F798}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\EnvironmentPreparation_CR1037_WithoutModel.js" />
+			</folder>
+			<folder name="Add_restriction_to_CR1075_MOD1">
+				<child name="Add_restriction_to_CR1075_MOD1" key="{BE4FA408-63F4-4EF5-9920-02ECA8086892}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Add_restriction_to_CR1075_MOD1.js" />
+			</folder>
+			<folder name="Creation_of_Model">
+				<child name="Creation_Test_Restriction_model" key="{52ECFAA2-24D0-4D12-B1AA-21F8C8CCB957}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_Test_Restriction_model.js" />
+				<child name="Creation_TESTREEQ2_model" key="{CE704258-8CEC-4059-8932-C6AAB1144AF3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_TESTREEQ2_model.js" />
+				<child name="Creation_TESTPOSBLOQ1_Model" key="{665C10C5-F104-45EE-97B7-4195AB92E9E1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_TESTPOSBLOQ1_Model.js" />
+				<child name="Creation_TESTPOSBLOQ2_Model" key="{F2A60E1D-8DF5-4EDA-BEC3-C171ECC0C3A9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_TESTPOSBLOQ2_Model.js" />
+				<child name="Creation_TESTPOSBLOQ3_Model" key="{E632F9F1-0675-4948-8D63-B7C2F5D9C866}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_TESTPOSBLOQ3_Model.js" />
+				<child name="Creation_TESTPOSBLOQ6_Model" key="{06EC3532-E3D1-4D4B-9E5E-FF6303CD0928}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_TESTPOSBLOQ6_Model.js" />
+				<child name="Creation_TESTPOSBLOQ8_Model" key="{3D6CEB7F-5804-4763-AAB1-E367DEC6B287}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_TESTPOSBLOQ8_Model.js" />
+				<child name="Creation_CHFUND1_model" key="{08C3DB00-6189-4DB9-B4D5-86FABBC2A387}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_CHFUND1_model.js" />
+				<child name="Creation_CHFUND2_model" key="{6FBBF41D-E39D-49E1-BCC7-346F4D51BF37}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_CHFUND2_model.js" />
+				<child name="Creation_NONRACHETABLE2_Model" key="{D9EC6717-DF90-42BF-920B-EF9657AC78E8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_NONRACHETABLE2_Model.js" />
+				<child name="Creation_TESTPOSBLOQ5_model" key="{365E5EFB-875C-4675-922D-20398F0C9F3E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_TESTPOSBLOQ5_model.js" />
+				<child name="Creation_TESTPOSBLOQ7_Model" key="{959C0B53-D110-47AD-B644-4FA055AA76C4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_TESTPOSBLOQ7_Model.js" />
+				<child name="Creation_800214GT_Model" key="{1D549D4D-0B69-4743-9316-ED745821BDCD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_800214GT_Model.js" />
+				<child name="Creation_CHCAN2_Model" key="{E96F220E-F070-4C57-9A65-BC720EEE33E2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_CHCAN2_Model.js" />
+				<child name="Creation_NONRACHETABLE4_Model" key="{9B3D47E3-6D19-454C-8DE0-ACED4D72026E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_NONRACHETABLE4_Model.js" />
+				<child name="Creation_BCE100_Model" key="{BA46412E-5B27-4FAA-B628-8F96947791DF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_BCE100_Model.js" />
+				<child name="Creation_NONRACHETABLE1_Model" key="{8AB649D3-DEA6-4239-A792-7ADFAB8C8214}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_NONRACHETABLE1_Model.js" />
+				<child name="Creation_TESTREEQ_model" key="{BF00050A-69B3-409B-8C1D-EEF1D35AB4DD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Creation_TESTREEQ_model.js" />
+			</folder>
+		</folder>
+		<folder name="Restore_Environment">
+			<folder name="Pref_Deactivation">
+				<child name="DisablePrefDataBase" key="{FE7855A9-7A61-4B48-BF68-5E19276C8363}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\DisablePrefDataBase.js" />
+			</folder>
+			<folder name="Restore_Sleeves_with_model">
+				<child name="Restore_CR1037_WithModel" key="{9D678383-3CAF-4F18-979B-7902C771F35F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Restore_CR1037_WithModel.js" />
+				<child name="Restore_SleeveFor800060NA" key="{08CE2B7A-A3D5-41DA-8A2C-F6E2EA2ED181}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Restore_SleeveFor800060NA.js" />
+				<child name="Restore_SleeveFor800236NA" key="{C4428964-0AE7-4748-AF34-89760CBD7368}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Restore_SleeveFor800236NA.js" />
+			</folder>
+			<folder name="Restore_Sleeves_without_model">
+				<child name="Restore_CR1037_WithoutModel" key="{070D34CF-B865-41B8-9EC2-0BEA5EF7747B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Restore_CR1037_WithoutModel.js" />
+			</folder>
+			<folder name="Deleting_Model">
+				<child name="Deleting_Test_Restriction_model" key="{0E0F24F3-B825-482A-BB13-03B04FD53F04}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_Test_Restriction_model.js" />
+				<child name="Deleting_TESTREEQ2_model" key="{70CF4332-6876-4A0A-A4B6-ED83650B167E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_TESTREEQ2_model.js" />
+				<child name="Deleting_TESTPOSBLOQ1_Model" key="{4396849A-DEDD-4537-9125-685045FBD760}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_TESTPOSBLOQ1_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ2_Model" key="{E018F2BF-E660-4D70-A4C8-D89BBF3210E8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_TESTPOSBLOQ2_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ3_Model" key="{8033836E-E8D4-4A48-8544-97690A9A3EFE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_TESTPOSBLOQ3_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ6_Model" key="{E940774A-7127-4D61-9ECD-EBE057978513}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_TESTPOSBLOQ6_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ8_Model" key="{1824AADD-1BB2-4CA8-B18F-E813DA8EABE9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_TESTPOSBLOQ8_Model.js" />
+				<child name="Deleting_CHFUND1_model" key="{476AE47E-0B65-42E1-BFB1-6806E9A03466}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_CHFUND1_model.js" />
+				<child name="Deleting_CHFUND2_model" key="{41A3FD8E-A598-46D0-AB8B-4DCC30FE4BBB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_CHFUND2_model.js" />
+				<child name="Deleting_NONRACHETABLE2_Model" key="{79D1B043-2A53-4523-9EB3-4DBE0986D08C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_NONRACHETABLE2_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ5_Model" key="{DDC761BE-36D7-4B94-8712-7F43D6B7840B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_TESTPOSBLOQ5_Model.js" />
+				<child name="Deleting_TESTPOSBLOQ7_Model" key="{C9EB6AC8-1A79-44EE-A3F0-14E5FFE6480E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_TESTPOSBLOQ7_Model.js" />
+				<child name="Deleting_800214GT_Model" key="{381B0C41-CDE0-46B2-9E8B-29B9A667DD3D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_800214GT_Model.js" />
+				<child name="Deleting_CHCAN2_Model" key="{14AA40EA-022B-4143-B6BE-458248ECC11B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_CHCAN2_Model.js" />
+				<child name="Deleting_NONRACHETABLE4_Model" key="{9A2E2440-9C54-4DC7-AD36-DB5F632E6FE7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_NONRACHETABLE4_Model.js" />
+				<child name="Deleting_BCE100_Model" key="{9D6B9EF0-EF72-4D2F-901C-C987B9FDA192}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_BCE100_Model.js" />
+				<child name="Deleting_NONRACHETABLE1_Model" key="{2133C45D-85A1-43EF-856A-BF4ACE55DC54}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_NONRACHETABLE1_Model.js" />
+				<child name="Deleting_TESTREEQ_model" key="{E5DBCD5B-D5EE-4F4F-BDCF-D9839A0762DA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_TESTREEQ_model.js" />
+			</folder>
+			<folder name="Deleting_restriction_from_CR1075_MOD1">
+				<child name="Deleting_restriction_from_CR1075_MOD1" key="{F60F7207-F3E3-4397-A343-32FB534896BA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\Deleting_restriction_from_CR1075_MOD1.js" />
+			</folder>
+		</folder>
+		<folder name="CR1037">
+			<folder name="Access_Permission">
+				<child name="CR1037_AP1_AP4_NonPresence_of_ColumnSleeve" key="{BD9C01B9-A1ED-4ED3-875D-71C1D4CF7604}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_AP1_AP4_NonPresence_of_ColumnSleeve.js" />
+				<child name="CR1037_AP10_Presence_of_btnSleeves" key="{DC1CC267-F366-4864-ADE6-B03548F8A9B3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_AP10_Presence_of_btnSleeves.js" />
+				<child name="CR1037_AP11_AP12_AP13_Presence_of_btns" key="{46E8A730-7074-48E0-AD28-8ECE02B5CC1E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_AP11_AP12_AP13_Presence_of_btns.js" />
+				<child name="CR1037_AP14_AP15_Presence_of_Btns" key="{B79920DA-CFA9-4817-8492-3D5BE7C6F82C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_AP14_AP15_Presence_of_Btns.js" />
+				<child name="CR1037_AP2_AP5_NonPresence_of_TabSleeve" key="{925CFE0A-78EC-4269-A136-38C1B9FEA131}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_AP2_AP5_NonPresence_of_TabSleeve.js" />
+				<child name="CR1037_AP3_AP6_NonPresence_in_ContextualMenuOfAssetClass" key="{27A2001B-233B-4F82-8CC5-25215AA44CB7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_AP3_AP6_NonPresence_in_ContextualMenuOfAssetClass.js" />
+				<child name="CR1037_AP7_Presence_of_ColumnSleeve" key="{B7CC2659-A6CB-44D2-9C32-593A32C655B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_AP7_Presence_of_ColumnSleeve.js" />
+				<child name="CR1037_AP8_Presence_of_TabSleeve" key="{5BE5BC44-3A39-4E7D-A489-2140AFA5869B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_AP8_Presence_of_TabSleeve.js" />
+				<child name="CR1037_AP9_Presence_in_ContextualMenuOfAssetClass" key="{B5AAEC1B-5893-4BEF-9D22-5C7DCDCCA87E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_AP9_Presence_in_ContextualMenuOfAssetClass.js" />
+			</folder>
+			<folder name="Creation_of_Sleeves">
+				<child name="CR1037_C1_Create_AllSleeves_Via_InvestmentObjective" key="{659519D2-4438-4907-A00F-0738B635961C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C1_Create_AllSleeves_Via_InvestmentObjective.js" />
+				<child name="CR1037_C10_DeleteSleeve_CheckMessage" key="{996884BB-E13A-43C1-A5E4-75D08DB4D765}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C10_DeleteSleeve_CheckMessage.js" />
+				<child name="CR1037_C11_Create_Sleeves_ModifiedDuration" key="{DAFAC0FE-EEAF-4775-A85C-D4CC147E816A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C11_Create_Sleeves_ModifiedDuration.js" />
+				<child name="CR1037_C12_Create_Sleeves_Region" key="{E1665268-9610-4C4D-B6EF-964CE401F076}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C12_Create_Sleeves_Region.js" />
+				<child name="CR1037_C13_Create_Sleeves_Currency" key="{F8B8279A-652A-43F2-9F1E-0C8BCDA045B2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C13_Create_Sleeves_Currency.js" />
+				<child name="CR1037_C14_Create_Sleeves_AllocationMaturity" key="{ACF6F77B-E5DC-408C-A000-80890315F40E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C14_Create_Sleeves_AllocationMaturity.js" />
+				<child name="CR1037_C2_1_Create_SleeveWithModel_Via_InvestmentObjective" key="{3353F3AE-86A8-43A6-A8E5-504268016D1F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C2_1_Create_SleeveWithModel_Via_InvestmentObjective.js" />
+				<child name="CR1037_C2_Create_Sleeves_Via_InvestmentObjective" key="{89728CA4-C351-4796-8734-69BD9A980D9A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C2_Create_Sleeves_Via_InvestmentObjective.js" />
+				<child name="CR1037_C3_Create_FromSleevesManager_Via_InvestmentObjective" key="{95C8F6AB-723A-404B-9194-642778FDE717}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C3_Create_FromSleevesManager_Via_InvestmentObjective.js" />
+				<child name="CR1037_C4_Create_AllSleeves_Via_AssetClass" key="{FACFA42C-D571-43A4-9895-6AB4DAE4B296}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C4_Create_AllSleeves_Via_AssetClass.js" />
+				<child name="CR1037_C5_1_Create_Sleeves_Via_AssetClass_WithModel" key="{DAD84D2E-47EA-4742-AEE4-95810B8E7B0C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C5_1_Create_Sleeves_Via_AssetClass_WithModel.js" />
+				<child name="CR1037_C5_Create_Sleeves_Via_AssetClass" key="{78D86C0B-071D-4CAA-8AD0-FB69545B42C5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C5_Create_Sleeves_Via_AssetClass.js" />
+				<child name="CR1037_C7_1_Create_SleeveAdhoc_Via_SleevesManager_WithModel" key="{7F15D271-1626-42ED-8C26-BBBBB32E26F5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C7_1_Create_SleeveAdhoc_Via_SleevesManager_WithModel.js" />
+				<child name="CR1037_C7_Create_SleeveAdhoc_Via_SleevesManager" key="{B49648D4-68F9-4E07-8439-22BFC49EED68}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C7_Create_SleeveAdhoc_Via_SleevesManager.js" />
+				<child name="CR1037_C8_Create_Sleeve_Via_SleevesManager" key="{7E8DF5D2-4972-4B45-91F6-3F2105736113}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C8_Create_Sleeve_Via_SleevesManager.js" />
+				<child name="CR1037_C9_Create_Sleeve_Via_SleevesManager" key="{E6FE71BB-323E-4C27-9187-A3650ADFEF57}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C9_Create_Sleeve_Via_SleevesManager.js" />
+			</folder>
+			<folder name="Modification_of_Sleeves">
+				<child name="CR1037_C1MO1_Edit_Sleeve" key="{6EFD6929-3507-45BC-9436-FEE1A1C7ABA6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C1MO1_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO2_Edit_Sleeve" key="{2335D73C-17E0-4C2C-AF40-536873748FDF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C1MO2_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO3_Edit_Sleeve" key="{BF635ECA-9AE7-44E8-99C3-5CFA915A1BE3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C1MO3_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO4_Edit_Sleeve" key="{F5EDC7AF-0346-4B43-A013-C427A538BDDC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C1MO4_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO5_Edit_Sleeve" key="{B86A9F2B-AD81-45F9-A7A1-C823F43A17FA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C1MO5_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO6_Edit_Sleeve" key="{D66C37CE-85BF-4E3B-9E49-EC1262FA3A0C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C1MO6_Edit_Sleeve.js" />
+				<child name="CR1037_C1MO8_Edit_Sleeve" key="{82252A9E-F215-4597-97BD-6C4BB9588E38}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C1MO8_Edit_Sleeve.js" />
+				<child name="CR1037_C2MO9_Edit_Sleeve" key="{6675B688-B226-469F-84A2-E9F959FCBF3C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C2MO9_Edit_Sleeve.js" />
+				<child name="CR1037_C3MO10_Edit_Sleeve" key="{2CFA25D6-88CE-4117-85FF-E5FA54D36071}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C3MO10_Edit_Sleeve.js" />
+			</folder>
+			<folder name="Rebalancing">
+				<child name="CR1037_C1M00R1_1_WinRebalancing" key="{13F6E40A-F52B-4CC2-9AEB-9A893BA4B94C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C1M00R1_1_WinRebalancing.js" />
+				<child name="CR1037_C1M00R1_WinRebalancing" key="{32348493-4C1B-4F22-8037-00A6563920E4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_C1M00R1_WinRebalancing.js" />
+			</folder>
+			<folder name="ViewSleeves">
+				<child name="CR1037_V2_Presence_of_TabSleeve" key="{23112781-D5D3-4BEA-AFB7-2941E828FA6F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_V2_Presence_of_TabSleeve.js" />
+				<child name="CR1037_V3_ColumnSleeve" key="{1171507E-0DD2-41CF-9936-2934A75CC84E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_V3_ColumnSleeve.js" />
+				<child name="CR1037_V4_FilterHasSleeves" key="{9EF8D827-8830-4C4C-B7C6-A409F76BFB11}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_V4_FilterHasSleeves.js" />
+				<child name="CR1037_V5_SearchCriterion" key="{0ABAB624-BDBD-4D7D-96D6-849F7F7732CC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_V5_SearchCriterion.js" />
+				<child name="CR1037_V7_V8_Model" key="{084FC829-9125-4A85-ACA8-7B6FD6C3B51F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_V7_V8_Model.js" />
+				<child name="CR1037_V9_Filter" key="{7B95052E-F568-44D4-B9E8-7DA8D2FB3AEC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1037_V9_Filter.js" />
+			</folder>
+		</folder>
+		<folder name="CR1452">
+			<folder name="2_1">
+				<child name="CR1452_211_Rebalancing_Account" key="{917B1913-1130-4D0B-9BE7-BE3B454012EA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_211_Rebalancing_Account.js" />
+				<child name="CR1452_2111_Add_UnifiedManagedAccountsBoard" key="{DCEBEE24-3F14-42D5-824D-894B462ACD92}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2111_Add_UnifiedManagedAccountsBoard.js" />
+				<child name="CR1452_2112_Dashboard_UnallocatedTotalValue" key="{C3BC3DE2-6F83-4C75-8FD0-B830E69EB002}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2112_Dashboard_UnallocatedTotalValue.js" />
+				<child name="CR1452_2115_UnifiedManagedAccountsBoard_columns" key="{4381F76B-361E-455A-B3CF-D56FA4D3E865}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2115_UnifiedManagedAccountsBoard_columns.js" />
+				<child name="CR1452_2116_UnifiedManagedAccountsBoard_ClickR" key="{EB38B8E2-F940-4046-B0FB-8B18A086D9E7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2116_UnifiedManagedAccountsBoard_ClickR.js" />
+				<child name="CR1452_213_Rebalancing_Account" key="{EE53B1B1-ADC0-4890-AF28-2259F2C8865A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_213_Rebalancing_Account.js" />
+				<child name="CR1452_218_Rebalance_Model" key="{6E947434-7DD5-4140-996E-825D97165F14}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_218_Rebalance_Model.js" />
+				<child name="CR1452_216_Rebalance_All_Segments" key="{D18C08EA-97FF-4920-BAD2-98F46B9760C6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_216_Rebalance_All_Segments.js" />
+				<child name="CR1452_214_Rebalance_All_Segments" key="{4F0882EA-CAFD-4F4D-8E2B-9ED2E72B2017}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_214_Rebalance_All_Segments.js" />
+			</folder>
+			<folder name="2_2">
+				<child name="CR1452_2212_TwoSleevesThatWanBuySameSecurity" key="{1D61887A-925E-4025-B3F5-8BD0C70F8D85}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2212_TwoSleevesThatWanBuySameSecurity.js" />
+				<child name="CR1452_2213_RebalancingAccount" key="{D46C2C1E-E387-4AEB-8861-7927CB33ACD6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2213_RebalancingAccount.js" />
+				<child name="CR1452_221_RebalancingAccount" key="{FF6FDBB1-D3B1-4AC9-AB83-B74FB863C97F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_221_RebalancingAccount.js" />
+				<child name="CR1452_222_RebalancingAllSleeves" key="{432CFCBD-7415-44B7-B8F4-79799025556A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_222_RebalancingAllSleeves.js" />
+				<child name="CR1452_223_RebalancingAccount" key="{14453D92-5A1A-4FE3-AD34-93BD7708F3CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_223_RebalancingAccount.js" />
+				<child name="CR1452_224_RebalancingAllSleeves" key="{EB0FC62B-B76D-4A4E-892D-7E831BD037F3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_224_RebalancingAllSleeves.js" />
+				<child name="CR1452_2216_RebalancingAccount" key="{4928EE36-4E81-46EA-90B6-ABDB0BCB2D8A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2216_RebalancingAccount.js" />
+			</folder>
+			<folder name="2_4">
+				<child name="CR1452_241_Column_LockedPosition" key="{0BC39372-E5B9-4C29-84AE-DEB41575A0B5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_241_Column_LockedPosition.js" />
+				<child name="CR1452_2410_Rebalancing_Message_BlockedPosition" key="{FAFDA41C-4663-44A9-BF70-4DE19E7BC6F2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2410_Rebalancing_Message_BlockedPosition.js" />
+				<child name="CR1452_2411_Rebalancing_Message_BlockedPosition" key="{1533A02D-7DDF-4DA0-A115-5BE6C866728F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2411_Rebalancing_Message_BlockedPosition.js" />
+				<child name="CR1452_2412_Rebalancing_Message_BlockedPosition" key="{5FCAC87E-1787-4339-BA54-E841F56BB75F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2412_Rebalancing_Message_BlockedPosition.js" />
+				<child name="CR1452_2413_Rebalancing_Message_BlockedPosition" key="{69983892-4AEC-428C-A370-0C4CF8F59333}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2413_Rebalancing_Message_BlockedPosition.js" />
+				<child name="CR1452_2416_RebalancingAccount_BlockedPosition" key="{665E3989-1A4D-49A0-A5A2-8A6C366AC1B5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2416_RebalancingAccount_BlockedPosition.js" />
+				<child name="CR1452_2417_RebalancingAllSleeves_BlockedPosition" key="{0B2D29AF-331B-4EF1-97E8-5CA533BBED79}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2417_RebalancingAllSleeves_BlockedPosition.js" />
+				<child name="CR1452_2418_RebalancingAccount_WithModel" key="{8A666BF9-4571-4B4E-B65F-4D94464A911E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2418_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_242_Column_LockedPosition" key="{171E0500-843D-4F5E-9781-FBB1EB0A30CB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_242_Column_LockedPosition.js" />
+				<child name="CR1452_2420_RebalancingAccount_WithModel" key="{D802581C-053B-4D00-A376-AA44910AC3FF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2420_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2421_RebalancingAccount_WithModel" key="{739ABB93-8873-4802-A5A7-951837217F10}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2421_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2422_RebalancingAccount_WithModel" key="{578C33DF-1CEB-487C-9EF7-473E9AE254BA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2422_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2423_RebalancingAccount_WithModel" key="{B76B6B11-2E41-48B3-A30F-8EEB86242650}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2423_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2426_RebalancingAccount_WithModel" key="{35411BF9-058E-48E1-B1A0-9B583CBC427B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2426_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2429_RebalancingAccount_WithModel" key="{EADFE982-2C0B-4B81-BFF7-3A96B895F4EB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2429_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_243_Column_LockedPosition" key="{081C6C84-60B2-4879-8AA3-7B5739A467C0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_243_Column_LockedPosition.js" />
+				<child name="CR1452_2432_RebalancingAccount_WithModel" key="{62BFA0CB-FB9F-441B-B2C0-E6C747E08B91}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2432_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2433_RebalancingAccount" key="{3C46C947-4CD5-4E61-89C0-9110ED482A34}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2433_RebalancingAccount.js" />
+				<child name="CR1452_2434_RebalancingSelectedSleeves" key="{D2933012-6BE6-4917-BDAF-F8846AB26229}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2434_RebalancingSelectedSleeves.js" />
+				<child name="CR1452_2435_RebalancingSelectedSleeves" key="{EFBB64D0-B468-4422-A84E-C68B8BCD1028}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2435_RebalancingSelectedSleeves.js" />
+				<child name="CR1452_2438_RebalancingSelectedSleeves" key="{35E6F9C2-EA68-4035-8FA9-20EB2C5EB9A5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2438_RebalancingSelectedSleeves.js" />
+				<child name="CR1452_244_TransfersBetweenSleeves_BlockedPosition" key="{CFFDB447-29C9-4B96-8B7C-F5540B354FE8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_244_TransfersBetweenSleeves_BlockedPosition.js" />
+				<child name="CR1452_245_Column_LockedPosition" key="{D4D19A54-4441-4830-A8D6-78A8F4D25025}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_245_Column_LockedPosition.js" />
+				<child name="CR1452_249_Rebalance_All_Segments" key="{3AFBDEED-071E-48DF-B76A-92C1C3E87D5B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_249_Rebalance_All_Segments.js" />
+				<child name="CR1452_2419_RebalancingAccount_WithModel" key="{E1352E15-C12F-4D20-83A4-0B742826DE57}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2419_RebalancingAccount_WithModel.js" />
+				<child name="CR1452_2425_RebalancingModel" key="{24F5A7A3-E1DE-4AEB-8B67-E055828D7443}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2425_RebalancingModel.js" />
+				<child name="CR1452_2427_RebalancingAccount" key="{AB60BE75-98BD-42CB-B9AF-1155D156E1B7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2427_RebalancingAccount.js" />
+				<child name="CR1452_2428_RebalancingAccount" key="{2FA6FADF-503B-422F-9F30-39DC9F208315}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2428_RebalancingAccount.js" />
+				<child name="CR1452_2437_RebalancingModel" key="{18E5ED08-D409-472B-A850-40C465AAD701}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2437_RebalancingModel.js" />
+				<child name="CR1452_248_RebalancingAccount" key="{E3B5CE3F-DCA5-44B2-BF8B-134B1111437C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_248_RebalancingAccount.js" />
+			</folder>
+			<folder name="2_5">
+				<child name="CR1452_251_NonRedeemable" key="{B8C82BF1-7752-4E42-BC14-BE2D4E3B6EA2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_251_NonRedeemable.js" />
+				<child name="CR1452_2510_NonRedeemableMessage" key="{824401E4-4B5E-4259-9E87-9CA1BECA4426}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2510_NonRedeemableMessage.js" />
+				<child name="CR1452_2514_RebalancingAccount" key="{22531733-8FA0-4C06-AB25-810451B85840}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2514_RebalancingAccount.js" />
+				<child name="CR1452_2515_RebalancingAllSleeves" key="{A6FECEE7-D3EC-4CC3-9C2C-7FD38BC6C778}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2515_RebalancingAllSleeves.js" />
+				<child name="CR1452_2516_RebalancingSelectedSleeves" key="{05C2E1BD-E26A-42B7-B39B-938289B16206}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2516_RebalancingSelectedSleeves.js" />
+				<child name="CR1452_2517_RebalancingModel" key="{0F16877F-1AB0-48ED-B5BA-161F5E6613AA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2517_RebalancingModel.js" />
+				<child name="CR1452_252_NonRedeemable" key="{0C7E8C3B-DEEF-4FC8-9218-22FC90D80BB2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_252_NonRedeemable.js" />
+				<child name="CR1452_253_NonRedeemable" key="{F24034B0-BFC9-4063-86B2-B70436CCD073}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_253_NonRedeemable.js" />
+				<child name="CR1452_254_NonRedeemable" key="{8E364F01-6D44-4A27-B569-F4EEBD014711}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_254_NonRedeemable.js" />
+				<child name="CR1452_257_NonRedeemableMessage" key="{EAE70B9E-07A3-4C84-8F67-C53A7259FA4D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_257_NonRedeemableMessage.js" />
+				<child name="CR1452_258_NonRedeemableMessage" key="{51F52463-E57C-4CE6-BA8A-BBF0C43EFD44}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_258_NonRedeemableMessage.js" />
+				<child name="CR1452_259_NonRedeemableMessage" key="{36DC2A72-F265-44D4-83E3-016060B52413}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_259_NonRedeemableMessage.js" />
+				<child name="CR1452_2511_RebalancingAccount" key="{0F8E4B33-B077-4415-BC90-2E78270FA8EE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2511_RebalancingAccount.js" />
+				<child name="CR1452_2518_RebalancingAccount" key="{2AFEAE9D-148E-43F4-88CD-FA776E59107C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2518_RebalancingAccount.js" />
+				<child name="CR1452_2519_RebalancingAllSleeves" key="{E07C9307-B598-4166-B422-14BC253EB034}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2519_RebalancingAllSleeves.js" />
+				<child name="CR1452_2520_RebalancingSelectedSleeves" key="{FC619565-9018-492E-9894-8120FB4E30A4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2520_RebalancingSelectedSleeves.js" />
+				<child name="CR1452_2521_RebalancingModel" key="{B57DC666-B46A-4635-B043-D9F3B6FDFA8C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2521_RebalancingModel.js" />
+			</folder>
+			<folder name="2_6">
+				<child name="CR1452_261_BtnRestriction" key="{8170F6F1-9143-451B-9B3A-B00489680897}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_261_BtnRestriction.js" />
+				<child name="CR1452_2610_NonBlockedRestriction_RebalanceModel" key="{966246FA-AD89-4B4D-BD3E-528A08B45810}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2610_NonBlockedRestriction_RebalanceModel.js" />
+				<child name="CR1452_2611_BlockedRestriction_Model" key="{496DF554-D2C7-45F1-BC30-1F7E4D7778BD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2611_BlockedRestriction_Model.js" />
+				<child name="CR1452_2613_NonBlockedRestriction_Model" key="{AB53A0E6-7BFC-42A9-BEC4-35E10EC0EFDD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2613_NonBlockedRestriction_Model.js" />
+				<child name="CR1452_2615_BlockedRestriction_Model" key="{97E67410-8416-4EDD-B214-92D56B54623C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2615_BlockedRestriction_Model.js" />
+				<child name="CR1452_2616_NonBlockedRestriction_Model" key="{2E5B1FE5-7D03-472E-BE34-ED4656104A49}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2616_NonBlockedRestriction_Model.js" />
+				<child name="CR1452_2617_BlockedRestriction_Model" key="{99265117-B6C9-4465-B713-5F14D36849B6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2617_BlockedRestriction_Model.js" />
+				<child name="CR1452_2618_NonBlockedRestriction_Model" key="{6AA96638-D4A0-4A06-AF8B-F4F34A3A7B63}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2618_NonBlockedRestriction_Model.js" />
+				<child name="CR1452_2619_NonBlockedRestrictionModel_BlockedRestrictionAccount" key="{FBD24C32-07B2-4B45-A556-850037CDE576}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2619_NonBlockedRestrictionModel_BlockedRestrictionAccount.js" />
+				<child name="CR1452_2620_BlockedRestriction_model" key="{8D8BC0D7-1369-4AB5-A79A-F436FCA23CD9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2620_BlockedRestriction_model.js" />
+				<child name="CR1452_2621_NonBlockedRestriction_model" key="{9D42F2C3-997B-4CF6-BDEB-61B4592BD2FD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2621_NonBlockedRestriction_model.js" />
+				<child name="CR1452_2622_NonBlockedRestrictionModel_BlockedRestrictionAccount" key="{7CA5F419-2A7E-4B10-80C8-F7527858734B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2622_NonBlockedRestrictionModel_BlockedRestrictionAccount.js" />
+				<child name="CR1452_264_BlockedRestriction" key="{E469670B-78A0-4F83-95E0-FFAFE1DC0C03}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_264_BlockedRestriction.js" />
+				<child name="CR1452_265_NonBlockedRestriction" key="{4CF9BD03-2E9D-4200-81F3-16327B4ACD57}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_265_NonBlockedRestriction.js" />
+				<child name="CR1452_267_BlockedRestriction" key="{7A531060-2926-4A3C-9326-7ADB7FEDC584}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_267_BlockedRestriction.js" />
+				<child name="CR1452_268_NonBlockedRestriction_RebalanceAllSleeves" key="{00836B5A-B820-400A-A7FF-50134931ECCD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_268_NonBlockedRestriction_RebalanceAllSleeves.js" />
+				<child name="CR1452_269_BlockedRestriction_RebalanceModel" key="{ABC73AD3-8A18-4D49-B7D0-C1E12D8B271B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_269_BlockedRestriction_RebalanceModel.js" />
+			</folder>
+			<folder name="2_7">
+				<child name="CR1452_271_Rebalance_Account_WithInactiveModel" key="{4A0B509C-5F46-4439-BA72-B199CE15B12C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_271_Rebalance_Account_WithInactiveModel.js" />
+				<child name="CR1452_272_Rebalance_Account_WithInactiveModel" key="{31DDBFB7-9CF4-4D5F-984F-5C107D4C3086}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_272_Rebalance_Account_WithInactiveModel.js" />
+				<child name="CR1452_274_Rebalance_SeveralAccounts_WithInactiveModel" key="{21BDF185-772B-47C5-9BA3-9F2EFEE6C6CE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_274_Rebalance_SeveralAccounts_WithInactiveModel.js" />
+				<child name="CR1452_278_Rebalance_WithInactiveModel" key="{1C75EFF7-E988-4FCA-AFE3-87180DA07ACE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_278_Rebalance_WithInactiveModel.js" />
+				<child name="CR1452_279_Rebalance_SubModel" key="{EBF48F71-D589-4CDF-8DF1-71601031433A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_279_Rebalance_SubModel.js" />
+			</folder>
+			<folder name="2_8">
+				<child name="CR1452_281_CashManagement" key="{42CEADA5-DDBE-4852-8527-B2F24A368F0B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_281_CashManagement.js" />
+				<child name="CR1452_2811_CashManagement_USAccount" key="{69145403-8DAD-4B1F-8D64-81C730E45088}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2811_CashManagement_USAccount.js" />
+				<child name="CR1452_2812_RebalanceCROES3112" key="{7833C740-6A23-4208-8BED-D1AC038B3D10}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2812_RebalanceCROES3112.js" />
+				<child name="CR1452_2816_CashManagement" key="{FB589709-4D02-451D-A093-9F25B66E7836}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2816_CashManagement.js" />
+				<child name="CR1452_282_CashManagement" key="{3ACD6289-6D02-4BC3-9A39-734F9D19927B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_282_CashManagement.js" />
+				<child name="CR1452_288_CashManagement" key="{31A1F3DE-581F-475E-88F6-F8F112D8022C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_288_CashManagement.js" />
+				<child name="CR1452_2814_RebalancingAllSleeves" key="{290B5074-1E65-4E5A-B45B-95A3C153906E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2814_RebalancingAllSleeves.js" />
+				<child name="CR1452_2815_CashManagement" key="{362CC690-12EF-4FFE-B95B-797440FB008C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2815_CashManagement.js" />
+				<child name="CR1453_2821_RebalancingModel" key="{7273921E-460A-416D-B1A2-3DF5BA8523A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1453_2821_RebalancingModel.js" />
+				<child name="CR1452_2819_RebalancingModel" key="{6EB205DD-253E-4F86-97FD-39B510999903}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_2819_RebalancingModel.js" />
+			</folder>
+			<child name="CR1452_PREF_ORDER_DELAY" key="{23D2EC3B-24B7-4ED9-A35A-F08424DD7394}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\CR1452_PREF_ORDER_DELAY.js" />
+		</folder>
+		<child name="Global_variables" key="{D051E075-6656-4BE1-B9F4-26E439DC3562}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{FD6B5250-80F6-481B-8BF8-6911914BEBFF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\ExecutionLog.js" />
+		<child name="PreExecution" key="{CBAF5823-97D4-4132-BE2D-C9E656839D33}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteSleeves\Sleeves\Script\PreExecution.js" />
+		<child name="GetListOfTestsToBeRun" key="{CF4E7889-04A5-401E-AFC0-29766D2C05FF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

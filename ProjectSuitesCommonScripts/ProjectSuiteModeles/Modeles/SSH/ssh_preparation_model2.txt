@@ -1,0 +1,5 @@
+sed -i -e 's/<add key="DateTimeNowSimulated" value="2010-01-25 8:30" \/>/-->\r\n    <add key="DateTimeNowSimulated" value="2010-01-25 8:30" \/>\r\n    <!--/g' /etc/finansoft/FrameworkServer.exe.config
+
+sed -i -e 's/<add key="DateTimeNowSimulated" value="2010-01-25 8:30"/<add key="DateTimeNowSimulated" value="2009-01-31 8:30"/g' /etc/finansoft/FrameworkServer.exe.config
+
+sudo service cfadm restart

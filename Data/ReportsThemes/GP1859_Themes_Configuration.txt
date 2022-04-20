@@ -1,0 +1,31 @@
+Thèmes utilisés :
+
+FBN (WhiteLabels) : https://drive.google.com/drive/u/0/folders/1RdrVe09T6oV3d67zsJ4qWsRhDidUSZJJ
+
+GP1859 : https://drive.google.com/drive/u/0/folders/1NgN3bbGABvkiddQTnTaykCJf_9lJnSkQ
+
+ 
+
+Étapes pour changer le thème : 
+
+Préconditions :
+
+Les thèmes GP1859 sont déjà loadés dans le dump fournit
+Étapes pour changer les thèmes :
+
+User : UNI00
+1. Loader les thèmes FBN (WhiteLabels) au niveau « GLOBAL » : Outils / configurations / rapports / configurations des défauts / thème / Global / 
+
+2. Importer / Parcourir … / « Sélectionner le dossier où se trouvent les thèmes » / Pour chaque thème / Mettre le même nom du fichier PDF dans le champ « Nom du thème » dans les 2 langues / OK
+
+3. Répéter l’étape 2 selon le nombre de thèmes à importer
+
+4. Clique sur annuler (pour éviter de changer le thème des tous les rapports de la BD)
+
+5. Configurations des défauts / Configuration spécifique / Sélectionner le rapport « Évaluation du portefeuille (trimestriel) / déployer les options / Thème / décocher « Utiliser le défaut » / assigner les thèmes selon l’excel (DAS-4677_Thèmes.xlsx) / OK
+
+6. Faire un restart du vserver. 
+
+ 
+
+*****Exécuter uniquement les rapports GP1859***

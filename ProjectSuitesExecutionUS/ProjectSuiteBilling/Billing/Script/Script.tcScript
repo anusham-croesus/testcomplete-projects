@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{F6961B72-3688-405F-A6FF-2B8B8C704D06}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{A63C1147-B525-4CCB-BEFC-61DD0CE24ADE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{64B9E670-0057-4760-81DB-3E0AB4F3BFBB}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{5128FA5A-B41D-4589-8F9E-A634A8EE0655}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{190217FB-0F99-4070-9ED9-9C7F84D73152}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{EDCB7AE6-F688-4FB8-AE47-BF6A4E4D96CC}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{15BB5EC9-9435-4E23-9729-EB3D7715F186}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{D3CC5858-6939-49C6-9017-F2B1963F45E0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{C6913A0C-836E-4C47-8295-D0B73BAE0867}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{FEACC8BC-9D6B-4E09-B523-0887B673ED54}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{51C1DC62-D7F3-4A87-9B66-9DA05A59FDD0}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{CA2C36FD-2062-417E-B334-EAAAC24AEA68}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{F3BBC6A2-F721-45EB-AEF7-89AEB527DAB9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{43A89C77-A437-4C1F-B3E4-6A69D30E801D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{9B297541-F3D3-48AA-8FF0-C5878CC549D4}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{C06FFD40-6306-426F-8B52-5178E3B161B9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{36579484-17AA-441C-9151-340E207C85DC}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{A5146C66-239D-478C-A5AF-6748CF593E9D}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{BCB0416D-3152-450A-B580-2E5469D96B7E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="CommonCheckpoints" key="{C23FBEC3-4C61-4C67-B51A-84305171D424}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="Helper" key="{C5036541-7414-44AE-A7A5-631EA4E84F64}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\Helper.js" />
+			<child name="PDFUtils" key="{45BB1ACC-B97E-42E0-84A5-60AF46007C5E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR885">
+			<child name="CR885_885_0_Operat_Btn_Edit" key="{B99D7428-F231-4FE9-9417-227050568171}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_0_Operat_Btn_Edit.js" />
+			<child name="CR885_885_0_Operat_Btn_Merge" key="{0076C129-1F02-4033-985C-A7F05B87FD2C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_0_Operat_Btn_Merge.js" />
+			<child name="CR885_885_0_Operat_Btn_Split" key="{A25C6E8D-0407-4A03-A3F6-D1318ADC79CA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_0_Operat_Btn_Split.js" />
+			<child name="CR885_885_1_Check_Rat_Min" key="{023B3BDE-2A03-4BA5-A457-B398A8988D6B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_1_Check_Rat_Min.js" />
+			<child name="CR885_885_10_Creat_Relati_Billabl_Semiannual" key="{7DF14255-6624-41BD-AE78-0EF9033047C7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_10_Creat_Relati_Billabl_Semiannual.js" />
+			<child name="CR885_885_11_Billing_SeveralRelationships" key="{E92309FC-7A34-4AC6-BF91-0F4947A08F70}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_11_Billing_SeveralRelationships.js" />
+			<child name="CR885_885_11_Check_Minimim_Fees" key="{B40EC02F-85C6-4F4F-AF02-DDB5F460375A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_11_Check_Minimim_Fees.js" />
+			<child name="CR885_885_12_Creat_Relati_Billabl_Annual" key="{A55D681D-BBF6-4C3A-85C0-67F643EC0C22}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_12_Creat_Relati_Billabl_Annual.js" />
+			<child name="CR885_885_13_Billing_RelationShip_Btn_BillNow" key="{CBE9FECD-8050-4413-A2E6-A500E80EA159}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_13_Billing_RelationShip_Btn_BillNow.js" />
+			<child name="CR885_885_14_Grid_Manag_Billing_Valid_BtnX" key="{65E1F718-39DD-4BD0-AF28-60439B80B2CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_14_Grid_Manag_Billing_Valid_BtnX.js" />
+			<child name="CR885_885_14_Grid_Mang_Billing_Valid_Btn_Cancel" key="{93B5C75B-D3CF-4A89-AF07-3D454A510C6D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_14_Grid_Mang_Billing_Valid_Btn_Cancel.js" />
+			<child name="CR885_885_14_Grid_Mang_Billing_Valid_Btn_OK" key="{6314896C-D9CE-46FF-BCBD-72EAE909CFB3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_14_Grid_Mang_Billing_Valid_Btn_OK.js" />
+			<child name="CR885_885_15_Survol_Win_Gril_Billing" key="{C49DCBAE-B20D-445B-9718-945ADE827EF8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_15_Survol_Win_Gril_Billing.js" />
+			<child name="CR885_885_16_Valid_MinimiZ" key="{6A86ACAB-3F27-4705-B5AD-422757C43E29}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_16_Valid_MinimiZ.js" />
+			<child name="CR885_885_17_Filling_Grid_Billing" key="{AFDB2B78-6E19-4E3F-A03E-8A7C07F07797}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_17_Filling_Grid_Billing.js" />
+			<child name="CR885_885_3_Creat_FeeSchedul_FixedInterval" key="{973E5C95-770A-41E2-AAE2-8F9697BFF6C2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_3_Creat_FeeSchedul_FixedInterval.js" />
+			<child name="CR885_885_4_Creat_FeeSchedul_AssetClass" key="{B4586924-828F-4AD4-A5F2-4B4FE08D9C1A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_4_Creat_FeeSchedul_AssetClass.js" />
+			<child name="CR885_885_5_Creat_FeeSchedul_Standard" key="{58B1FD64-9761-4C37-A85E-6B9699CFE4BF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_5_Creat_FeeSchedul_Standard.js" />
+			<child name="CR885_885_6_Creat_FeeSchedul_FixedIntervalTiredCalculMethode" key="{724C460C-D3A1-41F5-8940-0E31B137B7DA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_6_Creat_FeeSchedul_FixedIntervalTiredCalculMethode.js" />
+			<child name="CR885_885_8_Creat_Relati_Billabl_Monthly" key="{DF40F35F-AFDC-486D-9612-682AD0E0DE4E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_8_Creat_Relati_Billabl_Monthly.js" />
+			<child name="CR885_885_9_Creat_Relati_Billabl_Quarterly" key="{FE0A8833-9585-4057-922E-22A7172B7222}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_9_Creat_Relati_Billabl_Quarterly.js" />
+			<child name="CR885_7_1_StatusGril" key="{42E6B769-FF1D-4B03-AC09-4260C2F92085}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_7_1_StatusGril.js" />
+			<child name="CR885_7_2_DeleteLineOfGrillAssignRelationShip" key="{789CE7C3-1608-471D-8155-D94D81439E97}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_7_2_DeleteLineOfGrillAssignRelationShip.js" />
+			<child name="CR885_7_2_DeleteLineOfGrillNoAssignRelationShip" key="{DAB6CA23-81FE-4812-9BD5-E452064C596D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_7_2_DeleteLineOfGrillNoAssignRelationShip.js" />
+			<child name="CR885_885_7_CheckingIndicatorForGridTestRed" key="{BC3051DB-263E-493E-9790-2DF3B520A109}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_7_CheckingIndicatorForGridTestRed.js" />
+			<child name="CR885_885_7_CheckingIndicatorForGridTestYellow" key="{64C5C714-C13B-4550-A9B4-3653E7968F71}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR885_885_7_CheckingIndicatorForGridTestYellow.js" />
+		</folder>
+		<folder name="CR1006">
+			<child name="CR1006_1006_1_Creat_Relati_Billabl_Monthly_Methodofcalculationbylevel" key="{557BC0C8-B4A4-4E28-A586-1F9D22E23D2E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR1006_1006_1_Creat_Relati_Billabl_Monthly_Methodofcalculationbylevel.js" />
+			<child name="CR1006_1006_2_Creat_Relati_Billabl_Quarterly_Methodofcalculationbylevel" key="{9AE8055A-6E98-4586-9985-427E4597BFCE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR1006_1006_2_Creat_Relati_Billabl_Quarterly_Methodofcalculationbylevel.js" />
+			<child name="CR1006_1006_3_Creat_Relati_Billabl_Semiannual_Methodofcalculationbylevel" key="{6CCDB418-62B8-4A63-AE45-EAA056EA65C9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR1006_1006_3_Creat_Relati_Billabl_Semiannual_Methodofcalculationbylevel.js" />
+			<child name="CR1006_1006_4_Creat_Relati_Billabl_Annual_Methodofcalculationbylevel" key="{11F2FC3A-FBB6-4C9F-8F61-F315C077FFCA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR1006_1006_4_Creat_Relati_Billabl_Annual_Methodofcalculationbylevel.js" />
+			<child name="CR1006_1006_5_Billing_RelationShip_Without_BtnBillNow" key="{024DECE0-3CA5-40B3-B71E-6FD9510B3660}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR1006_1006_5_Billing_RelationShip_Without_BtnBillNow.js" />
+		</folder>
+		<folder name="CR0992">
+			<child name="CR0992_992_1_Print_Bill_RelationShip" key="{4B2636BF-2264-42EE-BD41-6EFCD8448976}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR0992_992_1_Print_Bill_RelationShip.js" />
+			<child name="CR0992_992_2_Print_Bill_Compt" key="{9DC22977-8669-4D4F-ADA9-6072724F7DF8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR0992_992_2_Print_Bill_Compt.js" />
+			<child name="CR0992_992_3_Print_Bill_Client" key="{E626B6BD-7678-48EB-93F0-45E2CDD096A7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR0992_992_3_Print_Bill_Client.js" />
+			<child name="CR0992_992_4_Print_Bill_RelationShipWithoutGrill" key="{68B0D327-A909-435D-9E69-B7C73EED6A72}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CR0992_992_4_Print_Bill_RelationShipWithoutGrill.js" />
+		</folder>
+		<folder name="SansCR">
+			<folder name="Par palier">
+				<child name="Palier_end_periodMonthly" key="{B2EB6E8E-B4AA-4465-9FC9-1CF3C90F6CC4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\Palier_end_periodMonthly.js" />
+				<child name="PalierAnnualEndPeriodrelationShipAnnuelEnd" key="{CED892E4-F429-47BA-918C-571A9B605938}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierAnnualEndPeriodrelationShipAnnuelEnd.js" />
+				<child name="PalierDailyAvergeMonthly" key="{3ABFE142-4C0A-4FAF-90C6-03AC27528AD3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierDailyAvergeMonthly.js" />
+				<child name="PalierEndMonthAVQuarterly" key="{9597E7FF-ABFA-4526-90C2-B4B1BBCF7E5D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierEndMonthAVQuarterly.js" />
+				<child name="PalierEndMonthQuarterly" key="{2F830795-E179-430E-B51A-267B66E32D66}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierEndMonthQuarterly.js" />
+				<child name="PalierEndPeriodAnnual" key="{4E1BC1D7-6D86-4DC5-9F25-1F13477D69B4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierEndPeriodAnnual.js" />
+				<child name="PalierEndPeriodSemiannual" key="{4DAD3722-884E-4B8C-835E-E3ECE2E60049}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierEndPeriodSemiannual.js" />
+				<child name="PalierInadvanceQuarterly" key="{7BDAB599-A642-4DF1-9DBB-F953B4AA2D77}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierInadvanceQuarterly.js" />
+				<child name="PalierMidPeriodMonth" key="{9C58EC8B-8C88-4F8C-AA94-519869D4B8B8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierMidPeriodMonth.js" />
+				<child name="PalierMidQuarterly" key="{FA61DC07-1E5D-4641-8806-756F33D25B40}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierMidQuarterly.js" />
+				<child name="PalierStartPeriod" key="{F6851F85-B711-4C80-85F9-7113258D9741}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierStartPeriod.js" />
+				<child name="PalierStartPeriodQuarterly" key="{C584CF59-CEFE-4EAB-A2BC-4676CB8B0937}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PalierStartPeriodQuarterly.js" />
+			</folder>
+			<folder name="Par intervalle">
+				<child name="StartOfPeriodMensuelle" key="{D4C95017-1B3C-40D5-9230-5905E4A5E71C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\StartOfPeriodMensuelle.js" />
+				<child name="EndOfPeriodMensuelle" key="{AE12DB4C-A3EB-47B4-B06C-51017ED17B5F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\EndOfPeriodMensuelle.js" />
+				<child name="StartOfPeriodQuarterly" key="{D58647BC-F7F1-4623-B97D-0826B6A88CF6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\StartOfPeriodQuarterly.js" />
+				<child name="MidOfPeridQuarterly" key="{3505FA15-E378-4DBB-B5C5-7506681B8186}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\MidOfPeridQuarterly.js" />
+				<child name="MidOfPeriodMonthly" key="{3BD4A63D-4295-47D6-A6D5-3A42B1D1D9BA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\MidOfPeriodMonthly.js" />
+				<child name="EndMenthQuarterly" key="{0EAF29FA-C105-4DF7-B581-AC8AC339008F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\EndMenthQuarterly.js" />
+				<child name="EndOfMonthAvergQuarterly" key="{B31A8574-2A44-4B36-83CF-46E183D1823E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\EndOfMonthAvergQuarterly.js" />
+				<child name="EndOfMonthAverMonthly" key="{97BE9000-3CB0-4AF0-BB51-2DFA5B7473EE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\EndOfMonthAverMonthly.js" />
+				<child name="InAdvanceMonthly" key="{800434A3-25D1-4356-A31E-2E2534AA370B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\InAdvanceMonthly.js" />
+				<child name="InAdvanceQuarterly" key="{EF38063D-1DD0-4443-815F-10708CDD6A2D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\InAdvanceQuarterly.js" />
+				<child name="InAdvanceQuarterly2" key="{11450FC1-C84B-4D0C-9D35-BF4400CADD72}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\InAdvanceQuarterly2.js" />
+			</folder>
+			<folder name="Include in asset class">
+				<child name="StartOfPeriodeQuarterlyIncludeInAssetClass" key="{8A36D56B-3180-4A5F-82E9-9A00D6A61418}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\StartOfPeriodeQuarterlyIncludeInAssetClass.js" />
+				<child name="End_monthAVQ2dIncludInAssetClass" key="{82ACE1E6-FCD0-42F0-BE5B-5EEE95B842B2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\End_monthAVQ2dIncludInAssetClass.js" />
+				<child name="DailyAverg2MonIncludInAssetClass" key="{B747D648-B119-4B51-8932-92E88D78572E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\DailyAverg2MonIncludInAssetClass.js" />
+				<child name="End_monthAVQdIncludInAssetClass" key="{02F9F1DC-7D85-43C2-9127-FABF42CC4DE4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\End_monthAVQdIncludInAssetClass.js" />
+				<child name="EndOfPeriodeMonthlyIncludeInAssetClass" key="{63676CF2-CD8B-4EB7-82BF-E3AD32968983}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\EndOfPeriodeMonthlyIncludeInAssetClass.js" />
+				<child name="EndOfPeriodeQuarterlyIncludeInAssetClass" key="{3604DF8B-BD89-4B69-A83D-E46554C169FE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\EndOfPeriodeQuarterlyIncludeInAssetClass.js" />
+				<child name="InAdvanceMonthlyIncludInAssetClass" key="{C9E1ED7D-12F3-4172-B772-A3B95148D28D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\InAdvanceMonthlyIncludInAssetClass.js" />
+				<child name="InadvanceQuarterlyIncludeInAssetClass" key="{3FADDABF-C02A-4635-AC44-DB3E6B6AB761}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\InadvanceQuarterlyIncludeInAssetClass.js" />
+				<child name="InAdvanceQuaterly1IncludInAssetClass" key="{59149F5B-8D69-4B03-9267-A2FB3093088A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\InAdvanceQuaterly1IncludInAssetClass.js" />
+				<child name="MidPeriodeMonthlyIncludeInAssetClass" key="{B81B1B01-09BB-445B-9E35-FC33EF36A7FE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\MidPeriodeMonthlyIncludeInAssetClass.js" />
+				<child name="MidPeriodeQuarterlyIncludeInAssetClass" key="{842F14AE-7B03-4379-95FC-722109B4896E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\MidPeriodeQuarterlyIncludeInAssetClass.js" />
+				<child name="StartOfPeriode2MonthlyIncludeInAssetClass" key="{480EEA70-7B54-4BA8-997D-50E92CF997AD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\StartOfPeriode2MonthlyIncludeInAssetClass.js" />
+				<child name="StartOfPeriode2QuarterlyIncludeInAssetClass" key="{F80E7222-53DB-44F0-B8DC-4171D1093AA9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\StartOfPeriode2QuarterlyIncludeInAssetClass.js" />
+				<child name="StartOfPeriodeMonthlyIncludeInAssetClass" key="{9803EA1D-FEDD-4AD5-8F27-2F2274998497}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\StartOfPeriodeMonthlyIncludeInAssetClass.js" />
+			</folder>
+			<folder name="Include in Cash">
+				<child name="DailyAvergMonIncludInCash" key="{F615A5E4-53C5-440F-8E5D-75CE38256A33}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\DailyAvergMonIncludInCash.js" />
+				<child name="End_monthAVQ2dIncludInCash" key="{6F8C9089-C74F-4863-8067-1D0ADB835577}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\End_monthAVQ2dIncludInCash.js" />
+				<child name="End_monthAVQdIncludInCash" key="{565E5180-BEF7-4728-B388-D086477EDF18}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\End_monthAVQdIncludInCash.js" />
+				<child name="EndOfPeriodeMonthlyIncludeInCash" key="{DE3F6DEC-7C1E-4C8D-8C6A-6FCDBB066E49}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\EndOfPeriodeMonthlyIncludeInCash.js" />
+				<child name="EndOfPeriodeQuarterly2IncludeInCash" key="{9FC38873-A890-468E-A2C0-67CC900E9510}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\EndOfPeriodeQuarterly2IncludeInCash.js" />
+				<child name="EndOfPeriodeQuarterlyIncludeInCash" key="{E786F198-F06E-4709-9AE8-63E2B73F447E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\EndOfPeriodeQuarterlyIncludeInCash.js" />
+				<child name="InAdvanceMonthlyIncludInCash" key="{E1A8BFF0-76E1-4121-9114-98C51AFF1BCC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\InAdvanceMonthlyIncludInCash.js" />
+				<child name="InadvanceQuarterly2IncludeInCash" key="{DB536E21-0A7F-4434-B4F9-2E7B8A75647E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\InadvanceQuarterly2IncludeInCash.js" />
+				<child name="InadvanceQuarterlyIncludeInCash" key="{5C73E2FC-173C-4535-AC0E-F182E66AB353}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\InadvanceQuarterlyIncludeInCash.js" />
+				<child name="MidPeriodeMonthly2IncludeInCash" key="{7975857D-D9E0-4543-BC8E-B372EF816176}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\MidPeriodeMonthly2IncludeInCash.js" />
+				<child name="MidPeriodeMonthlyIncludeInCash" key="{08DD087E-B4A9-481E-AE1A-D523C39C057A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\MidPeriodeMonthlyIncludeInCash.js" />
+				<child name="StartOfPeriode2MonthlyIncludeInCash" key="{4B3928E2-4FC4-431A-9FD4-B2358E179B13}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\StartOfPeriode2MonthlyIncludeInCash.js" />
+				<child name="StartOfPeriode2QuarterlyIncludeInCash" key="{4D5D2E4A-281D-4B94-BA67-C100A22A1C31}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\StartOfPeriode2QuarterlyIncludeInCash.js" />
+				<child name="StartOfPeriodeMonthlyIncludeInCash" key="{7ED68672-D6B7-4C4B-A96E-0EF39DD8B549}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\StartOfPeriodeMonthlyIncludeInCash.js" />
+				<child name="StartOfPeriodeQuarterlyIncludeInCash" key="{F1AB45DB-D01C-42C1-8962-5B693A109C47}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\StartOfPeriodeQuarterlyIncludeInCash.js" />
+			</folder>
+			<child name="TestGrilCFMontantCas1" key="{8D2C8ADC-19ED-4C1C-92FD-BCCCD99C5FF3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFMontantCas1.js" />
+			<child name="TestGrilCFMontantCas2" key="{BE441372-0CE5-4824-ADD3-B4355422483C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFMontantCas2.js" />
+			<child name="TestGrilCFMontantCas3" key="{309CAA90-5E61-4418-B24E-F2D6708DA24C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFMontantCas3.js" />
+			<child name="TestGrilCFMontantCas4" key="{0892D41D-3B17-4F3A-BFE4-2956CD0A78A4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFMontantCas4.js" />
+			<child name="TestGrilCFMontantCas5" key="{91817DCB-AB43-4BD0-875B-8C9A4D05BC19}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFMontantCas5.js" />
+			<child name="TestGrilCFPercentCas1" key="{23354904-025B-4FFA-B299-E7297D056D9C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFPercentCas1.js" />
+			<child name="TestGrilCFPercentCas2" key="{7CE225B9-F98B-42F2-AEA4-13D358C4E181}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFPercentCas2.js" />
+			<child name="TestGrilCFPercentCas3" key="{6582CFD9-CEAD-40C4-B915-BA0E11FF638D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFPercentCas3.js" />
+			<child name="TestGrilCFPercentCas4" key="{6F1F9C78-0CFE-4828-93A7-5BFBAC195F67}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFPercentCas4.js" />
+			<child name="TestGrilCFPercentCas5" key="{EDD810E1-5BDF-48F6-9B26-8D69C3DEB69F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFPercentCas5.js" />
+			<child name="TestGrilCFPercentCas6" key="{C278E4D8-D4BA-435A-A30B-9C1EE607B1AC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\TestGrilCFPercentCas6.js" />
+		</folder>
+		<folder name="Anomalies">
+			<child name="CROES_6561_CrashChangeValueAccruedIDFieldInTheValidationGrid" key="{C4CEA8CC-8844-4C5A-BF45-9A7A80A8EA03}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CROES_6561_CrashChangeValueAccruedIDFieldInTheValidationGrid.js" />
+			<child name="CROES_7884_CrashTheGenerationOfExcelReports" key="{F2B4EFF6-FB75-416B-A9C6-B78D91EC4197}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\CROES_7884_CrashTheGenerationOfExcelReports.js" />
+		</folder>
+		<child name="Global_variables" key="{B7B70C50-2C2B-48C3-9344-F16E8D617768}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{78B90F27-EDE1-4E91-A292-696C2CDB4AF7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\ExecutionLog.js" />
+		<child name="PreExecution" key="{12BEC19A-473A-48B4-B2A3-5A168194D0D1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteBilling\Billing\Script\PreExecution.js" />
+		<child name="GetListOfTestsToBeRun" key="{EAA3EE70-3C75-4DB9-8FF2-4CD3DDF70BE4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

@@ -1,0 +1,17 @@
+# Looking for a Json file 
+#PathOfJSON="/var/log/finansoft/FIXProxy.log"
+# echo $PathOfJSON > /var/log/finansoft/FIXProxy.log
+cd /var/log/finansoft/
+
+grep -c "2883=1" FIXProxy.log > /home/crweb/Test_CR1571/SearchResultsTCVE1408.txt
+grep -c "8028=549300EM9IELBMKYHT27" FIXProxy.log >> /home/crweb/Test_CR1571/SearchResultsTCVE1408.txt
+grep -c "6750=CL" FIXProxy.log >> /home/crweb/Test_CR1571/SearchResultsTCVE1408.txt
+grep -c "8025=800077-RE" FIXProxy.log >> /home/crweb/Test_CR1571/SearchResultsTCVE1408.txt
+grep -c "6750=NC" FIXProxy.log >> /home/crweb/Test_CR1571/SearchResultsTCVE1408.txt
+grep -c "8025=800259-NA" FIXProxy.log >> /home/crweb/Test_CR1571/SearchResultsTCVE1408.txt
+grep -c "6750=BU" FIXProxy.log >> /home/crweb/Test_CR1571/SearchResultsTCVE1408.txt
+grep -c "6750=MC" FIXProxy.log >> /home/crweb/Test_CR1571/SearchResultsTCVE1408.txt
+
+
+
+truncate -s 0 FIXProxy.log

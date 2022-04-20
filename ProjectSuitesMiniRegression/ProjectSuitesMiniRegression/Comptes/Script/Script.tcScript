@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Survol">
+			<folder name="Print">
+				<child name="Survol_Acc_MenuBar_FilePrint" key="{54C626CE-4279-4733-A3A5-20A9E0D93D58}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_FilePrint.sj" />
+				<child name="Survol_Acc_Print_AltP" key="{16AE8851-8B93-4521-BE87-6FF80753534D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Print_AltP.sj" />
+				<child name="Survol_Acc_Print_ClickR" key="{073B0E6F-5C01-4E25-B781-C8878FBE52C9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Print_ClickR.sj" />
+				<child name="Survol_Acc_ToolBar_btnPrint" key="{36BA2A0D-726A-49B0-978B-E456F020E96F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ToolBar_btnPrint.sj" />
+			</folder>
+			<folder name="Sum">
+				<child name="Survol_Acc_MenuBar_EditSum" key="{1FFE7752-00E4-438F-BE57-3E3B8B1543CF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_EditSum.sj" />
+				<child name="Survol_Acc_Sum_AltS" key="{14F7490D-838D-4A6E-AEB4-2D48387EBABA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Sum_AltS.sj" />
+				<child name="Survol_Acc_ToolBar_btnSum" key="{763F940E-909C-41D0-A19C-0D339CA33896}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ToolBar_btnSum.sj" />
+			</folder>
+			<folder name="Close_Application">
+				<child name="Survol_Acc_AltF4" key="{7BF03CDA-7ACE-407F-AD75-B928E1B58EA8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AltF4.sj" />
+				<child name="Survol_Acc_AltQ" key="{7736BC39-4F8F-4D6E-8884-CE9D8BA035C5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AltQ.sj" />
+				<child name="Survol_Acc_Quitter" key="{9DEAC828-C87F-4276-913C-280CBD2DB566}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Quitter.sj" />
+				<child name="Survol_Acc_SysClose" key="{9DB980DB-E8A5-470E-BC81-0822ABB3EA25}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_SysClose.sj" />
+				<child name="Survol_Acc_X" key="{7C11FAD2-D287-45B1-ACDD-C5CDD8B397DB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_X.sj" />
+			</folder>
+			<folder name="Internet">
+				<child name="Survol_Acc_MenuBar_Tools_Internet" key="{9A3D65B9-EA87-4A51-9C15-1A06823ECBF4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Tools_Internet.sj" />
+				<child name="Survol_Acc_ToolBar_btnInternet" key="{5BCD99AD-A7DC-443F-A966-3AB8EBC9850E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ToolBar_btnInternet.sj" />
+			</folder>
+			<folder name="Financial_Instrument_Selector">
+				<folder name="Create_Sell_Order">
+					<child name="Survol_Acc_CreateSellOrder_ClickR" key="{0F478DEC-86C4-41E7-A1AD-D86CDADB94E7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_CreateSellOrder_ClickR.sj" />
+					<child name="Survol_Acc_CreateSellOrder_CtrlShiftS" key="{79365FE8-AC29-40DE-9D11-88ECC3F0D200}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_CreateSellOrder_CtrlShiftS.sj" />
+					<child name="Survol_Acc_Menubar_CreateSellOrder" key="{6038C13F-0AE7-49B8-94E7-9E21264106BF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Menubar_CreateSellOrder.sj" />
+					<child name="Survol_Acc_Toolbar_btnCreateSellOrder" key="{69DEE1A9-FFC5-4B6E-AA4B-08092B1AE65B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Toolbar_btnCreateSellOrder.sj" />
+				</folder>
+				<folder name="Create_Buy_Order">
+					<child name="Survol_Acc_CreateBuyOrder_ClickR" key="{589CC2F6-5539-4309-A542-663CAE13BE49}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_CreateBuyOrder_ClickR.sj" />
+					<child name="Survol_Acc_CreateBuyOrder_CtrlShiftB" key="{278DC00F-A818-4862-84E9-38A16981C4E8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_CreateBuyOrder_CtrlShiftB.sj" />
+					<child name="Survol_Acc_Menubar_CreateBuyOrder" key="{D9446797-BD0B-4913-AC6C-61C0C0C0E7AB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Menubar_CreateBuyOrder.sj" />
+					<child name="Survol_Acc_Toolbar_btnCreateBuyOrder" key="{D07D9C41-5E93-47FB-8E29-7CF16C5D9F88}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Toolbar_btnCreateBuyOrder.sj" />
+				</folder>
+			</folder>
+			<folder name="Bond_Calculator">
+				<child name="Survol_Acc_Calculator_Ctrl_Maj_O" key="{F99A3A5A-AF86-4019-8D2A-29117BC5CBA4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Calculator_Ctrl_Maj_O.sj" />
+				<child name="Survol_Acc_MenuBar_Tools_btnCalculator" key="{85880291-B0F5-4EC6-ACAC-4371639FA5A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Tools_btnCalculator.sj" />
+				<child name="Survol_Acc_Toolbar_btnBondCalculator" key="{09A626CE-2ACE-4E9E-A2B0-DABDC3D770DE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Toolbar_btnBondCalculator.sj" />
+			</folder>
+			<folder name="Agenda">
+				<child name="Survol_Acc_Agenda_Ctrl_Maj_L" key="{565ECBFB-1603-476E-9414-14EDE9840BC2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Agenda_Ctrl_Maj_L.sj" />
+				<child name="Survol_Acc_MenuBar_ToolsAgenda" key="{BB0F2399-F960-44D3-BDF7-2716D8D714D5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_ToolsAgenda.sj" />
+				<child name="Survol_Acc_ToolBar_btnAgenda" key="{01EF022A-6E39-4A9D-AC23-FFB597A3092C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ToolBar_btnAgenda.sj" />
+			</folder>
+			<folder name="Archive_Documents">
+				<child name="Survol_Acc_ArchiveDoc_Ctrl_Maj_A" key="{648C930A-4601-4088-A4E6-820245AAF75F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ArchiveDoc_Ctrl_Maj_A.sj" />
+				<child name="Survol_Acc_MenuBar_Tools_btnArchiveMyDocuments" key="{7FD1A32B-6776-4456-B364-72549F125047}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Tools_btnArchiveMyDocuments.sj" />
+				<child name="Survol_Acc_ToolBar_BtnArchiveMyDocuments" key="{52629A87-4B23-4014-B43C-14D10D04443B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ToolBar_BtnArchiveMyDocuments.sj" />
+			</folder>
+			<folder name="Lock_Application">
+				<child name="Survol_Acc_MenuBar_FileLock_BtnOk_WithoutPSW" key="{F91FBF50-1962-4F94-A140-7D81E04063EB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_FileLock_BtnOk_WithoutPSW.sj" />
+				<child name="Survol_Acc_MenuBar_FileLock_BtnQuit" key="{C4EDEBEE-C8DA-415A-8881-C02FE8D44A56}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_FileLock_BtnQuit.sj" />
+				<child name="Survol_Acc_ToolBar_BtnLockTheApplication_BtnOk_WithPSW" key="{AE8509F3-1BA3-4B83-8703-0164B21D389E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ToolBar_BtnLockTheApplication_BtnOk_WithPSW.sj" />
+			</folder>
+			<folder name="Activities">
+				<child name="Survol_Acc_AccountsBar_Activities" key="{2FE06F42-FC45-47D0-9704-40B54492C749}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_Activities.sj" />
+				<child name="Survol_Acc_ContextualMenu_Functions_Activities" key="{D4E265C5-5B94-4E29-9A36-F71E37B8B8A3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ContextualMenu_Functions_Activities.sj" />
+				<child name="Survol_Acc_MenuBar_Activities" key="{8841BDD1-5C39-480F-85ED-3C29F79AE3B1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Activities.sj" />
+			</folder>
+			<folder name="Performance">
+				<child name="Survol_Acc_AccountsBar_Performance" key="{C1AFF938-AF9F-4FC5-B318-010D5C91CB3C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_Performance.sj" />
+				<child name="Survol_Acc_ContextualMenu_Functions_Performance" key="{BEE9EAAC-42BC-45B6-9624-49CC79EBDF37}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ContextualMenu_Functions_Performance.sj" />
+				<child name="Survol_Acc_MenuBar_Perfomance" key="{4848EB85-ECA8-4652-A623-4316B8C9106D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Perfomance.sj" />
+			</folder>
+			<folder name="Restrictions">
+				<child name="Survol_Acc_AccountsBar_Restrictions" key="{FE79A7B6-4C0C-4B7D-8DA9-4CC4BCECBDBB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_Restrictions.sj" />
+				<child name="Survol_Acc_ContextualMenu_Functions_Restrictions" key="{D1BD7502-EDAA-4E1B-BF2D-A3D710A523ED}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ContextualMenu_Functions_Restrictions.sj" />
+				<child name="Survol_Acc_MenuBar_EditFunctions_Restrictions" key="{042D5E0C-D946-4FDF-9ACE-2532A3F2CE59}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_EditFunctions_Restrictions.sj" />
+			</folder>
+			<folder name="Alarms">
+				<child name="Survol_Acc_AccountsBar_Alarms" key="{96EA6B84-CF00-4CD2-9989-B762655E3D90}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_Alarms.sj" />
+				<child name="Survol_Acc_ContextualMenu_Functions_Alarms" key="{C169D350-5C9A-430B-8FD5-AF3C8974613E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ContextualMenu_Functions_Alarms.sj" />
+				<child name="Survol_Acc_MenuBar_EditFunctions_Alarms" key="{316D5617-B8E0-4323-B71E-68C5CDF2C2F3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_EditFunctions_Alarms.sj" />
+			</folder>
+			<folder name="Info">
+				<child name="Survol_Acc_AccountsBar_BtnInfo" key="{3B3B4F74-DF78-4D02-9F67-82070954773E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_BtnInfo.sj" />
+				<child name="Survol_Acc_ContextualMenu_Functions_Info" key="{4EC7C5FB-227F-46C2-8CF9-25061576C0B2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ContextualMenu_Functions_Info.sj" />
+			</folder>
+			<folder name="Info_list">
+				<folder name="Notes">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_Notes" key="{05B836C2-4C18-4CF1-8596-BC2B1879F219}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_BtnInfo_Notes.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_Notes" key="{60C6B034-9575-458C-8E8B-E8913838C961}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Edit_Functions_Info_Notes.sj" />
+				</folder>
+				<folder name="InvestmentObjective">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_InvestmentObjective" key="{D5E5069E-1C7D-4162-B0D5-1A2669B798A5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_BtnInfo_InvestmentObjective.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_InvestmentObjective" key="{60229B89-A098-4CFA-B305-1CE5FF822B54}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Edit_Functions_Info_InvestmentObjective.sj" />
+				</folder>
+				<folder name="DefaultReports">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_DefaultReports" key="{85A197F8-6C8E-4285-939C-8BA99A0FD32F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_BtnInfo_DefaultReports.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_DefaultReports" key="{7580A00B-1714-4BAC-BF90-EDA2553AC36E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Edit_Functions_Info_DefaultReports.sj" />
+				</folder>
+				<folder name="DefaultIndices">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_DefaultIndices" key="{089886D9-009F-460A-A8D9-3F4DA149389B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_BtnInfo_DefaultIndices.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_DefaultIndices" key="{9414A244-7546-45E8-AFD8-98F912812F10}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Edit_Functions_Info_DefaultIndices.sj" />
+				</folder>
+				<folder name="Profiles">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_Profiles" key="{2F3B12BC-73B7-44F7-9B86-8A60A045CCB5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_BtnInfo_Profiles.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_Profiles" key="{DA41FA97-60E5-4622-AC70-7382B09BCD27}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Edit_Functions_Info_Profiles.sj" />
+				</folder>
+				<folder name="Dates">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_Dates" key="{DCB4824C-93EE-467B-98BD-0479C1A7DC61}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_BtnInfo_Dates.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_Dates" key="{AAA8C629-E657-475E-87A4-08C57BD283E3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Edit_Functions_Info_Dates.sj" />
+				</folder>
+				<folder name="Holders">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_Holders" key="{D3E442E7-038F-4D0B-9AE8-1DEC448B9F27}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_BtnInfo_Holders.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_Holders" key="{7B161685-8537-4DC2-9499-094611F9CE27}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Edit_Functions_Info_Holders.sj" />
+				</folder>
+				<folder name="PW1859">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_PW1859" key="{FFD9F6D3-0477-4C78-8A8B-878FFC4E5768}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_BtnInfo_PW1859.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_PW1859" key="{4EE29480-6A0D-4ABA-88ED-8ABECE46EA8B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Edit_Functions_Info_PW1859.sj" />
+				</folder>
+				<folder name="Contributions">
+					<child name="Survol_Acc_AccountsBar_BtnInfo_Contributions" key="{AB7F4841-8CDA-4485-97A7-770422240F9F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_AccountsBar_BtnInfo_Contributions.sj" />
+					<child name="Survol_Acc_MenuBar_Edit_Functions_Info_Contributions" key="{D28AA5F3-C73A-4852-90BA-1A903BEC08A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Edit_Functions_Info_Contributions.sj" />
+				</folder>
+			</folder>
+			<folder name="Add_Filter">
+				<child name="Survol_Acc_MenuBar_Search_Filters_AddAFilter" key="{9D266A94-5EDC-495E-B629-DF49ECC20D86}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Search_Filters_AddAFilter.sj" />
+				<child name="Survol_Acc_ToolBar_btnQuickFilters_AddFilter" key="{FF7B7659-05A3-4534-8AFE-2B78840FAAB6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ToolBar_btnQuickFilters_AddFilter.sj" />
+			</folder>
+			<folder name="Accounts_Reports">
+				<child name="Survol_Acc_MenuBar_ReportsAccounts" key="{D0C4BEF9-6591-4630-B965-BDCBC5B67761}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_ReportsAccounts.sj" />
+				<child name="Survol_Acc_ToolBar_btnReportsAndGraphs" key="{CE713076-E4DD-42AF-821C-F0F249657E49}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ToolBar_btnReportsAndGraphs.sj" />
+			</folder>
+			<folder name="Compose_Address">
+				<child name="Survol_Acc_Internet_ComposeAddress_CtrlO" key="{C5761C49-4A53-4457-B2D2-827B67F620D1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Internet_ComposeAddress_CtrlO.sj" />
+				<child name="Survol_Acc_MenuBar_Tools_Internet_ComposeAddress" key="{9760D48C-48A9-4614-9A70-F26A605DE633}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MenuBar_Tools_Internet_ComposeAddress.sj" />
+				<child name="Survol_Acc_ToolBar_BtnInternet_ComposeAddress" key="{B9214DED-5F11-4CA5-AE59-C22210B92ABC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_ToolBar_BtnInternet_ComposeAddress.sj" />
+			</folder>
+			<folder name="MainWin">
+				<folder name="Details">
+					<child name="Survol_Acc_MainWin_Details" key="{FEB217FA-F2AE-4ECD-A8D1-046204BDD2E4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_MainWin_Details.sj" />
+				</folder>
+				<folder name="Grid_column_ header">
+					<child name="Survol_Acc_Grid_column_header" key="{44C89CCA-F471-47A0-896B-7CAE1C67D2FF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Survol_Acc_Grid_column_header.sj" />
+				</folder>
+			</folder>
+		</folder>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{018A1080-CCE2-4D16-BCB7-7ACABB674FDD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{ADC26C3D-907D-4E50-BF90-EB91AA40E9B1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{AB4B7613-DF1F-48CE-8799-1584F142977C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{7EA012B0-024A-436B-B596-A6DE743C6757}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{C24C128D-0E97-4855-BA13-B854A98A267B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{0BF9919D-5E5C-4CB3-A597-6001E9E17FD8}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Common_functions" key="{CAEDD72E-F5D3-4004-B27C-AE16F0DF28DD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="ExcelUtils" key="{CF735C86-F4A0-46E9-B450-6CA63E54569C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="CommonCheckpoints" key="{61FF9246-80F4-494E-9F73-1D5FE122D50D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="DBA" key="{FF41EDF2-FFCA-4C5C-BA41-0C16EBE32184}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="Agenda_Get_functions" key="{43613A4E-C3F0-4BBC-B967-BDAC9012E3FE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{9A81E554-F81C-4FBF-A20B-F481C7FD1560}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Comptes_Get_functions" key="{E47FF3D7-ACC6-401D-B5D9-89E52B5511CD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{81C82A79-C42D-42CB-9CAE-86BF599D1599}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="Modeles_Get_functions" key="{CEAB8F6C-44F3-461A-A77A-A40BD35296C2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{F57B2C69-177A-42AD-92B8-41D468808845}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{AB4F94E5-C04D-4A66-8EE6-1D133C5ABFDA}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{83796113-9FE3-45BC-934D-0F500D05E9BD}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{F0AB5119-5CD2-4F76-825B-4B3ABE008C56}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{97C2849D-08C3-46F1-9611-151A001B5224}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="PDFUtils" key="{ECB2D9DD-83A2-4EF3-886A-952ABAED5A15}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="CR1352">
+			<folder name="Validate_search_criteria_and_filters">
+				<child name="CR1352_1595_Acc_Apply_a_search_criterion_and_an_active_filter" key="{D9D9A56C-F24E-461D-9C14-E304ACE92E52}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1595_Acc_Apply_a_search_criterion_and_an_active_filter.sj" />
+				<child name="CR1352_1617_Acc_Quick_Search_by_Account_Number" key="{DF2C2474-9BCF-4C56-ACA8-7B4131A17AB7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1617_Acc_Quick_Search_by_Account_Number.sj" />
+				<child name="CR1352_1618_Acc_Quick_Search_by_Name" key="{350375E2-9E93-4BEA-BE42-B4709DD75E08}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1618_Acc_Quick_Search_by_Name.sj" />
+				<child name="CR1352_1619_Acc_Quick_Search_by_IA_Code" key="{E2F5EDEF-BCA9-4D52-A4C5-FFE73B115E2F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1619_Acc_Quick_Search_by_IA_Code.sj" />
+			</folder>
+			<folder name="Validate_the_creation_updating_and_deleting_of_account">
+				<child name="CR1352_1498_Acc_Update_an_account_from_the_Info_button_with_the_rights" key="{68B437FF-EF12-4E92-923C-B7F6166F727D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1498_Acc_Update_an_account_from_the_Info_button_with_the_rights.sj" />
+				<child name="CR1352_1499_Acc_Update_an_account_from_the_Info_button_without_the_rights" key="{1D0B419D-B226-4C76-9CB9-115DC14F892E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1499_Acc_Update_an_account_from_the_Info_button_without_the_rights.sj" />
+				<child name="CR1352_1500_Acc_Verify_updates_in_summary_details" key="{3D337E04-8B0E-47D9-9CFB-E22C182DFF6B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1500_Acc_Verify_updates_in_summary_details.sj" />
+				<child name="CR1352_1519_Acc_Verify_the_creation_of_relationship_from_an_account_with_right_click" key="{98367F14-2DA7-4AD6-AD5B-C72FFDF7CE19}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1519_Acc_Verify_the_creation_of_relationship_from_an_account_with_right_click.sj" />
+				<child name="CR1352_1520_Acc_Manage_Accounts_notes" key="{7E53002F-C467-4571-AB8A-134666201BAA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1520_Acc_Manage_Accounts_notes.sj" />
+				<child name="CR1352_1532_Acc_Verify_the_creation_of_relationship_from_an_account_with_Edition_Menu" key="{D286D6B8-F03A-498C-BEB1-48585D49DF7D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1532_Acc_Verify_the_creation_of_relationship_from_an_account_with_Edition_Menu.sj" />
+				<child name="CR1352_1533_Acc_Delete_a_fictitious_account" key="{C9E1EC54-568D-436C-BAE8-18C74D599683}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1533_Acc_Delete_a_fictitious_account.sj" />
+				<child name="CR1352_1547_Acc_Delete_a_selection_of_fictitious_accounts_at_once" key="{625E19E4-1785-4496-A616-44A59BB2841C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1547_Acc_Delete_a_selection_of_fictitious_accounts_at_once.sj" />
+				<child name="CR1352_1551_Acc_Manage_Account_Profiles_and_hide_empty_profiles_checkbox" key="{DDF14107-073D-4837-A543-5F6469F45854}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1551_Acc_Manage_Account_Profiles_and_hide_empty_profiles_checkbox.sj" />
+				<child name="CR1352_1613_Acc_Update_an_external_account" key="{812847F0-BAC5-49C5-A06D-726E654D2183}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1613_Acc_Update_an_external_account.sj" />
+			</folder>
+			<folder name="Validate_the_different_actions_on_the_fields_and_columns">
+				<child name="CR1352_1557_Acc_Confirm_adding_column" key="{BE2D9AF7-1A48-4000-A565-9CB022070336}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1557_Acc_Confirm_adding_column.sj" />
+				<child name="CR1352_1558_Acc_Confirm_the_replacement_of_a_column" key="{242F4DB3-BE62-43CD-989E-574ACF32743D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1558_Acc_Confirm_the_replacement_of_a_column.sj" />
+				<child name="CR1352_1560_Acc_Validate_the_deletion_of_a_column" key="{AEDDC5A9-D68C-4DC2-BF57-2268177AA742}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1560_Acc_Validate_the_deletion_of_a_column.sj" />
+				<child name="CR1352_1561_Acc_Validate_the_default_configuration_of_column_display" key="{80171F05-FD87-43E5-A85E-10F198F0C271}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1561_Acc_Validate_the_default_configuration_of_column_display.sj" />
+				<child name="CR1352_1564_Acc_Validate_the_addition_of_a_field" key="{688FFCA2-D6A5-40E7-9779-3D4CEDDEF2FE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1564_Acc_Validate_the_addition_of_a_field.sj" />
+				<child name="CR1352_1566_Acc_Validate_the_deletion_of_a_field" key="{7AE45741-5D4D-4AC2-A69D-0EB23C02C8A2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1566_Acc_Validate_the_deletion_of_a_field.sj" />
+				<child name="CR1352_1567_Acc_Validate_the_save_of_the_columns_display_after_closing_of_Croesus" key="{552DD260-EB1B-4F6F-8351-551F850A5458}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1567_Acc_Validate_the_save_of_the_columns_display_after_closing_of_Croesus.sj" />
+				<child name="CR1352_1568_Acc_Verify_column_displacement" key="{762198DB-1AE7-4C3F-8DC1-9CE33BE3CE8A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1568_Acc_Verify_column_displacement.sj" />
+				<child name="CR1352_1575_Acc_Validate_the_addition_of_a_profiles_field" key="{702438AF-512B-4E68-AE24-2912B7EA7FE4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1575_Acc_Validate_the_addition_of_a_profiles_field.sj" />
+				<child name="CR1352_1585_Acc_Validate_column_display_after_activating_PREFs" key="{21D6407B-6142-4923-AC89-739A43ADB53A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1585_Acc_Validate_column_display_after_activating_PREFs.sj" />
+				<child name="CR1352_1614_Acc_Validate_the_addition_of_a_profiles_column" key="{82FE3886-2B2D-4412-82E1-C110771C0EED}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1614_Acc_Validate_the_addition_of_a_profiles_column.sj" />
+				<child name="CR1352_1622_Acc_Sort_Columns_by_header" key="{90211139-F4A3-4BA7-A708-6C81E127E851}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1622_Acc_Sort_Columns_by_header.sj" />
+				<child name="CR1352_1623_Acc_Sort_columns_by_right_click" key="{26250C22-5CC4-4ACD-8F5B-A176978ED255}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1623_Acc_Sort_columns_by_right_click.sj" />
+			</folder>
+			<folder name="Validate_the_operation_of_the_Summation_button">
+				<child name="CR1352_1490_Acc_Validate_the_operation_of_the_Summation_button_CAD" key="{7FFBB4FD-5095-4B2E-AD3C-29AB59194F27}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1490_Acc_Validate_the_operation_of_the_Summation_button_CAD.sj" />
+				<child name="CR1352_1491_Acc_Validate_the_operation_of_the_Summation_button_USD" key="{78663935-D06A-4458-BE35-D46C41B2E42A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1491_Acc_Validate_the_operation_of_the_Summation_button_USD.sj" />
+				<child name="CR1352_1492_Acc_Validate_the_operation_of_the_Summation_for_some_accounts" key="{AD5CB124-8ADF-4927-8C84-263E011628F7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1492_Acc_Validate_the_operation_of_the_Summation_for_some_accounts.sj" />
+				<child name="CR1352_1493_Acc_Validate_the_operation_of_the_Summation_button_with_different_levels_of_access" key="{7AC33660-7678-4C70-9715-71E5809A68EE}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1493_Acc_Validate_the_operation_of_the_Summation_button_with_different_levels_of_access.sj" />
+				<child name="CR1352_1494_Acc_Validate_the_operation_of_the_Summation_button_with_filters" key="{E9240996-6D88-48E9-BAAA-5E80E8C4F99B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1494_Acc_Validate_the_operation_of_the_Summation_button_with_filters.sj" />
+			</folder>
+			<folder name="Validate_the_various_operations_of_an_account">
+				<child name="CR1352_1501_Acc_Validate_the_operation_of_Performance_button_for_one_account" key="{CCAF0397-AB01-41B7-97B7-2B16D25AC268}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1501_Acc_Validate_the_operation_of_Performance_button_for_one_account.sj" />
+				<child name="CR1352_1502_Acc_Validate_the_operation_of_Performance_button_for_multiple_accounts" key="{674C8A6C-E7FA-4243-958E-D7776249DFB0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1502_Acc_Validate_the_operation_of_Performance_button_for_multiple_accounts.sj" />
+				<child name="CR1352_1504_Acc_Drag_an_account_to_all_modules" key="{2986AED5-1B5B-4541-AE1B-85BAA3BD6D23}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1504_Acc_Drag_an_account_to_all_modules.sj" />
+				<child name="CR1352_1505_Acc_Validate_email_sending_in_the_accounts_module" key="{1531AA65-1288-46AB-BA96-50D6825CBA68}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1505_Acc_Validate_email_sending_in_the_accounts_module.sj" />
+				<child name="CR1352_1512_Acc_Copy_and_paste_the_information_from_the_accounts_module" key="{7DBD4892-8856-4971-9059-4E9AE80030C9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1512_Acc_Copy_and_paste_the_information_from_the_accounts_module.sj" />
+				<child name="CR1352_1514_Acc_Validate_job_draft_printing_in_Accounts_module" key="{3576650A-8019-44A8-9DFC-E326065E01DA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1514_Acc_Validate_job_draft_printing_in_Accounts_module.sj" />
+				<child name="CR1352_1515_Acc_Window_printing_in_the_Accounts_module" key="{911B9B9A-6846-4A29-AE01-4C3DC5CCA6B7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1515_Acc_Window_printing_in_the_Accounts_module.sj" />
+				<child name="CR1352_1621_Acc_Assign_a_model_to_an_account" key="{F55B830D-3136-42F8-852A-D3C8831824B9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_1621_Acc_Assign_a_model_to_an_account.sj" />
+			</folder>
+			<folder name="Anomalies">
+				<child name="CR1352_CROES_6004_Acc_Wrong_Sum_when_we_have_search_criteria" key="{794AB92E-5B2D-43D1-A027-3F68F6AF8F7C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_CROES_6004_Acc_Wrong_Sum_when_we_have_search_criteria.sj" />
+				<child name="CR1352_CROES_6243_Acc_TestDeSelectionMultipleAvecShift_DownKey" key="{8F7D609E-6D61-4422-B116-80F6D2024EB5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_CROES_6243_Acc_TestDeSelectionMultipleAvecShift_DownKey.sj" />
+				<child name="CR1352_CROES_6243_Acc_TestDeSelectionMultipleAvecShift_MouseWheel" key="{1339F977-E605-400F-9C3A-FFF39B6AB882}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_CROES_6243_Acc_TestDeSelectionMultipleAvecShift_MouseWheel.sj" />
+				<child name="CR1352_CROES_8230_Acc_TestDeSelectionMultipleAvecShift_ScrollDown" key="{409FDA29-797D-4A09-A5E4-D1E0E092671B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1352_CROES_8230_Acc_TestDeSelectionMultipleAvecShift_ScrollDown.sj" />
+			</folder>
+		</folder>
+		<folder name="CR1483">
+			<child name="CR1483_Acc_CheckErrorMsgPrefMaxWorkAs" key="{1EC535E9-5F27-4FEF-990C-E1F7B41DE673}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_CheckErrorMsgPrefMaxWorkAs.sj" />
+			<child name="CR1483_Acc_RememberMySelection" key="{467EBA76-DAA4-42B9-A755-B88C89C225FB}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_RememberMySelection.sj" />
+			<child name="CR1483_Acc_Survol_Users_Selection_TabBranches" key="{FCBCC0C5-1349-43B5-A665-3DC8B727EFE0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_Survol_Users_Selection_TabBranches.sj" />
+			<child name="CR1483_Acc_Check_BranchSelection_IACodes" key="{139D46D5-0D29-47DD-BD2C-C909E060803D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_Check_BranchSelection_IACodes.sj" />
+			<child name="CR1483_Acc_Check_UserSelection_IACodes" key="{D77A7A9F-5302-4231-91DA-8AE44B45F5F6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_Check_UserSelection_IACodes.sj" />
+			<child name="CR1483_Acc_CheckErrorMsgPrefMaxWorkAs_TabIACodes" key="{C0B9CD9C-9CF8-4C5C-803B-AEC1F5E09F25}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_CheckErrorMsgPrefMaxWorkAs_TabIACodes.sj" />
+			<child name="CR1483_Acc_CheckErrorMsgPrefMaxWorkAs_TabUsers" key="{F14E0791-425C-4053-8E3A-6A98F8DBE581}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_CheckErrorMsgPrefMaxWorkAs_TabUsers.sj" />
+			<child name="CR1483_Acc_Common_Functions" key="{5D799BAE-B777-49E3-8A34-D7D1C5104C80}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_Common_Functions.sj" />
+			<child name="CR1483_Acc_RememberMySelection_TabIACodes" key="{5807CAF5-973B-4BFB-A5FC-B862D8061131}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_RememberMySelection_TabIACodes.sj" />
+			<child name="CR1483_Acc_RememberMySelection_TabUsers" key="{690C23A7-7538-43D2-8034-4DAA1D665D94}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_RememberMySelection_TabUsers.sj" />
+			<child name="CR1483_Acc_Survol_Users_Selection_TabIACodes" key="{42F48886-BA26-4347-B977-B52AC5244088}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_Survol_Users_Selection_TabIACodes.sj" />
+			<child name="CR1483_Acc_Survol_Users_Selection_TabUsers" key="{46150E72-96B3-4A3C-A930-F942486F9555}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1483_Acc_Survol_Users_Selection_TabUsers.sj" />
+		</folder>
+		<folder name="CR1501">
+			<folder name="Anomalies">
+				<folder name="Anomalies">
+					<child name="CROES_7509_Accou_CrashInTheRightClickMenuRooClientInSectionDetail" key="{83AA5C60-7298-4338-9865-0AA714BC3509}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_7509_Accou_CrashInTheRightClickMenuRooClientInSectionDetail.sj" />
+					<child name="CROES_8311_Account_CrashAfterSearchingByCPCode" key="{66B7A095-9EEA-4C7E-9E28-2DCDB10CCAEA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_8311_Account_CrashAfterSearchingByCPCode.sj" />
+					<child name="CROES_8712_CrashWhenCreatingConditionOnAnAdvancedCriterion" key="{5B82B94D-4F48-4A88-AC52-32123FAE3B95}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_8712_CrashWhenCreatingConditionOnAnAdvancedCriterion.sj" />
+					<child name="CROES_9031_ComMissingColumnsInTheNotesGrid" key="{075DEC6B-11EC-4972-B876-5E8227F8AA74}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_9031_ComMissingColumnsInTheNotesGrid.sj" />
+					<child name="CROES_1687_ComDisplBlockMsgWhenTryAssocRelatwithGroupRelat" key="{542D7DA8-10B9-4D11-8A74-BEEEF0B07CEF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_1687_ComDisplBlockMsgWhenTryAssocRelatwithGroupRelat.sj" />
+					<child name="CROES_9495_CrashApplicToAddExternAccounOrFictious" key="{E8B86F68-B2FC-46DB-8677-3C6DFFF721D1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_9495_CrashApplicToAddExternAccounOrFictious.sj" />
+					<child name="CROES_10085_CrashWhenExportExcelFilWithFilterWithoutData" key="{BD676A9F-605B-4DBB-9871-68530909E861}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_10085_CrashWhenExportExcelFilWithFilterWithoutData.sj" />
+					<child name="CROES_9345_Acc_CheckExcelExportData" key="{13F58DE3-3436-49F9-8934-8730A9A04F83}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_9345_Acc_CheckExcelExportData.sj" />
+					<child name="AnomalieMaillageFromAccompToModels" key="{681CF987-B044-4A71-AFBF-9BBB66B22D49}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\AnomalieMaillageFromAccompToModels.sj" />
+					<child name="AnomalieMaillageFromAccompToPortfolio" key="{471DB23E-D66F-4756-8083-1178B2B1A7B2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\AnomalieMaillageFromAccompToPortfolio.sj" />
+					<child name="AnomalieMaillageFromAccompToRelationShip" key="{07138892-020F-4312-84C9-7D3706055249}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\AnomalieMaillageFromAccompToRelationShip.sj" />
+					<child name="AnomalieMaillageFromAccompToSecurities" key="{506CA9EB-660C-4ABB-9614-8B9F1DE94BEF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\AnomalieMaillageFromAccompToSecurities.sj" />
+					<child name="AnomalieMaillageFromAccompToTransaction" key="{3F6B423B-D581-4DA6-BF0A-FCF19856F185}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\AnomalieMaillageFromAccompToTransaction.sj" />
+					<child name="AnomalieMaillageFromAccomptToClient" key="{756C2D55-37D9-401D-80C4-60B6356EE0DD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\AnomalieMaillageFromAccomptToClient.sj" />
+					<child name="CROES_11731_CompCrashApplicaWhenYouClickOnButtonApplyThenOkInTabCashManagement" key="{F45B0254-7A25-4CA8-9F2F-B223963371BC}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_11731_CompCrashApplicaWhenYouClickOnButtonApplyThenOkInTabCashManagement.sj" />
+				</folder>
+				<child name="CROES_10678_Comp_FieldDateReferenceNotesMustBeEmptyDefaults" key="{F20CF9D6-44C8-4927-938D-131E40C4596F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_10678_Comp_FieldDateReferenceNotesMustBeEmptyDefaults.sj" />
+				<child name="CROES_11141_Comp_WhenAddingFilterByCreationDateTheCrashApplication" key="{8019D948-47B6-4F74-9EFF-51F225FDEA05}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_11141_Comp_WhenAddingFilterByCreationDateTheCrashApplication.sj" />
+				<child name="CROES_11034_Comp_CanNotDeletePredefinedPhraseCreatedByTheUserHimself" key="{994BE229-BB0D-4731-BD6E-DCAEC7198114}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CROES_11034_Comp_CanNotDeletePredefinedPhraseCreatedByTheUserHimself.sj" />
+			</folder>
+			<child name="CR1501_833_Cli_ModificatNoteCreatedNoteClickRightTheSameDayAndByTheSameUser" key="{907AA601-35A3-440E-AEC4-DB4F297F918C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1501_833_Cli_ModificatNoteCreatedNoteClickRightTheSameDayAndByTheSameUser.sj" />
+			<child name="CR1501_838_Cli_NoModifiOfCreatedNoteWithInfoButtonTheSameDayAndByAnotherUser" key="{6F5F80AB-E878-4E71-87E3-6F2ED70311A8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1501_838_Cli_NoModifiOfCreatedNoteWithInfoButtonTheSameDayAndByAnotherUser.sj" />
+			<child name="CR1501_842_Cli_NotDeletingNoteCreatedOnTheSameDayAndByTheSameUser" key="{DA8689D8-310B-4A9B-A9F6-110CC1EB7D7C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1501_842_Cli_NotDeletingNoteCreatedOnTheSameDayAndByTheSameUser.sj" />
+			<child name="CR1501_1244_ValidatingTheModificationOfASearchFilter" key="{5CF34083-C614-4248-A7C4-C55829A8B2F3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1501_1244_ValidatingTheModificationOfASearchFilter.sj" />
+			<child name="CR1501_878_ValidationOfAdditionOfPredefinedSentenceWhenEnteringNoteFromInfoButton" key="{6DD9EFD4-741E-4B9A-B573-27636CB48F7E}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1501_878_ValidationOfAdditionOfPredefinedSentenceWhenEnteringNoteFromInfoButton.sj" />
+			<child name="CR1501_879_ValidationOfNonPresenceOfPredefinedSentenceAddedByAnotherUser" key="{31F1554D-AF8B-4002-AA68-9CBDAA6BC093}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1501_879_ValidationOfNonPresenceOfPredefinedSentenceAddedByAnotherUser.sj" />
+			<child name="CR1501_916_ModificationOfPredefinedSentenceWhenEnteringAnoteWithClickRight" key="{72E99A45-1E20-4ACA-96C9-CEEA108CF40F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1501_916_ModificationOfPredefinedSentenceWhenEnteringAnoteWithClickRight.sj" />
+			<child name="CR1501_920_NoDeletePredefinePhraseWhenEnteringANoteWithClickRightAndOtherUser" key="{76F7D90E-2444-4550-BE58-DCFC9EA51386}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1501_920_NoDeletePredefinePhraseWhenEnteringANoteWithClickRightAndOtherUser.sj" />
+			<child name="CR1501_923_ValidationOfTheOperationOfTheButtonDateAndTimeWhenEnteringANoteWithInfo" key="{47D8D902-5BCE-4A2A-BCAF-1899330BFF5F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1501_923_ValidationOfTheOperationOfTheButtonDateAndTimeWhenEnteringANoteWithInfo.sj" />
+		</folder>
+		<folder name="CR1917">
+			<child name="CR1917_Croes_4732_Acc_EnsuringIntegrityOfFrontvsBD" key="{9696076F-EF86-4C74-9F64-23DCC0383B89}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1917_Croes_4732_Acc_EnsuringIntegrityOfFrontvsBD.sj" />
+			<child name="CR1917_Croes_4733_Acc_ValidateBehaviorForFictitiousAccounts" key="{A60C258B-4B06-4FF3-B2DE-A83CB0DDC682}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1917_Croes_4733_Acc_ValidateBehaviorForFictitiousAccounts.sj" />
+			<child name="CR1917_Croes_4735_Acc_EnsuringIntegrityOfRealAccountInformationByBranch" key="{2BC14D2E-A6BE-42CE-A8BE-C342E5E6C341}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1917_Croes_4735_Acc_EnsuringIntegrityOfRealAccountInformationByBranch.sj" />
+		</folder>
+		<folder name="CR1957">
+			<child name="CR1957_Croes_4635_Acc_ValidatePerformanceGraphInAccountModule" key="{F0C5E17A-BFA1-44CC-98CF-0A0A0885C66A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1957_Croes_4635_Acc_ValidatePerformanceGraphInAccountModule.sj" />
+		</folder>
+		<folder name="CR1679">
+			<child name="CR1679_001_Acc_all_trans" key="{96F8990B-C3AC-459F-8F05-D01A6B0CF82F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1679_001_Acc_all_trans.sj" />
+			<child name="CR1679_002_Acc_full_b_statis" key="{4157E0F8-022A-4A63-91DA-6E0883926902}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1679_002_Acc_full_b_statis.sj" />
+		</folder>
+		<folder name="CR2050">
+			<child name="CR2050_5743_Mod_ValidateCriteriaWhenPrefNO" key="{8B3F321C-7374-42C5-BC86-93B055FBEA26}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR2050_5743_Mod_ValidateCriteriaWhenPrefNO.sj" />
+			<child name="CR2050_5744_Rel_ValidateAddSearchCriteriaWhenPrefNO" key="{5D23A844-9475-4204-BED1-D5C365F9218F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR2050_5744_Rel_ValidateAddSearchCriteriaWhenPrefNO.sj" />
+			<child name="CR2050_5745_Rel_ValidateSearchCriteriaNoVisibleWhenPrefNO" key="{7515E37C-2565-457C-929F-E950F46B684F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR2050_5745_Rel_ValidateSearchCriteriaNoVisibleWhenPrefNO.sj" />
+			<child name="CR2050_5746_Clt_ValidateCriteriaWhenPrefNO" key="{727854ED-3806-4459-AB7B-024D6D89FDE2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR2050_5746_Clt_ValidateCriteriaWhenPrefNO.sj" />
+			<child name="CR2050_5747_ACC_ValidateCriteriaNotPreservedWhenPrefNO" key="{49201ACE-C4FB-4ED2-846B-2DF7AADEAB2F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR2050_5747_ACC_ValidateCriteriaNotPreservedWhenPrefNO.sj" />
+			<child name="CR2050_5748_TIT_ValidateNotDisplayCriteriaWhenPrefNo" key="{6927C1FE-BA95-48D0-BF35-5899B782D723}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR2050_5748_TIT_ValidateNotDisplayCriteriaWhenPrefNo.sj" />
+			<child name="CR2050_5749_ORD_ValidateNotDisplayCriteriaWhenPrefYes" key="{289BAF06-D041-4E91-B73E-5A2456051BAD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR2050_5749_ORD_ValidateNotDisplayCriteriaWhenPrefYes.sj" />
+		</folder>
+		<folder name="Regression">
+			<child name="Regression_CROES_4115_Acc_CheckAlarmsOperationInAccountsWithAddEditButton" key="{0B736AAF-47CB-4157-BEB5-CBF7B9D38A49}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4115_Acc_CheckAlarmsOperationInAccountsWithAddEditButton.sj" />
+			<child name="Regression_CROES_4115_Acc_CheckAlarmsOperationInAccountsWithAddTitle" key="{D98E6C2B-167E-4AF1-930B-11BDFDF3091F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4115_Acc_CheckAlarmsOperationInAccountsWithAddTitle.sj" />
+			<child name="Regression_CROES_4116_Acc_AddRestrictionsToAccounts" key="{21B9FFD8-E933-4AF5-A3F5-6B97EB3AA52F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4116_Acc_AddRestrictionsToAccounts.sj" />
+			<child name="Regression_CROES_4118_Acc_ValidatePerformanceButtonOperation" key="{07C98EB2-5385-411E-88EE-EC505E60C11F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4118_Acc_ValidatePerformanceButtonOperation.sj" />
+			<child name="Regression_CROES_4119_Acc_DragAnAccountToOtherModules" key="{A3D36D84-A5F2-4DB9-83A1-8951ADB0ADF0}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4119_Acc_DragAnAccountToOtherModules.sj" />
+			<child name="Regression_CROES_4119_Acc_DragAnAccountToPortfolio" key="{A2FF6714-FB54-4D9B-9FA2-945DFF3E0314}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4119_Acc_DragAnAccountToPortfolio.sj" />
+			<child name="Regression_CROES_4119_Acc_DragAnAccountToTransactions" key="{0B029ED4-461B-4463-95C1-52ABB9422CFA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4119_Acc_DragAnAccountToTransactions.sj" />
+			<child name="Regression_CROES_4119_Acc_DragSeveralAccountsToOtherModules" key="{EF66416E-09BA-4552-AF3C-B309952B5A17}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4119_Acc_DragSeveralAccountsToOtherModules.sj" />
+			<child name="Regression_CROES_4120_Acc_ChangeColumnsConfigurationAndPrintAccountList" key="{2D010225-96E1-4F49-9D34-E1842446A938}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4120_Acc_ChangeColumnsConfigurationAndPrintAccountList.sj" />
+			<child name="Regression_CROES_4120_Acc_PrintTwoAccountsFromMenuFile" key="{EC303175-0DF5-4613-8BC1-B7F469F6C9A6}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4120_Acc_PrintTwoAccountsFromMenuFile.sj" />
+			<child name="Regression_CROES_4120_Acc_PrintTwoAccountsFromRightClick" key="{D32CC927-D95E-4C38-9794-AD1DD27F7ECD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4120_Acc_PrintTwoAccountsFromRightClick.sj" />
+			<child name="Regression_CROES_4120_Acc_PrintWithoutSelectedAccount" key="{9A5F1874-315E-43A8-9076-4D75A20DE4B9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4120_Acc_PrintWithoutSelectedAccount.sj" />
+			<child name="Regression_CROES_4122_Acc_CreateRelationshipFromAccountsByARightClicking" key="{6216A349-0D75-4826-9AC6-E5DE47B5990B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4122_Acc_CreateRelationshipFromAccountsByARightClicking.sj" />
+			<child name="Regression_CROES_4122_Acc_CreateRelationshipFromAccountsByEditionMenu" key="{7D662F87-B1FE-42AC-8407-789FFF8CA879}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4122_Acc_CreateRelationshipFromAccountsByEditionMenu.sj" />
+			<child name="Regression_CROES_4122_Acc_JoinToARelationshipFromAccountsByARightClicking" key="{3EF6F7CB-48AB-459D-A18C-1906B9638FC1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4122_Acc_JoinToARelationshipFromAccountsByARightClicking.sj" />
+			<child name="Regression_CROES_4122_Acc_JoinToARelationshipFromAccountsByEditionMenu" key="{BC943026-5652-4708-B9BD-7FD1187B97C9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4122_Acc_JoinToARelationshipFromAccountsByEditionMenu.sj" />
+			<child name="Regression_CROES_4123_Acc_DeleteSelectedAccountAtOnce" key="{3A29E050-4097-4BF5-8C4D-E48BBF4EB70F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4123_Acc_DeleteSelectedAccountAtOnce.sj" />
+			<child name="Regression_CROES_4123_Acc_ImpossibleDeleteSelectedAccounts" key="{FB3084C7-C205-4EA7-9696-79F9419BDDE8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4123_Acc_ImpossibleDeleteSelectedAccounts.sj" />
+			<child name="Regression_CROES_4124_Acc_LegalEntityIsMandatoryToSaveExternalAccount" key="{F2F9D2F1-85E6-403A-AD59-DFC487000A68}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4124_Acc_LegalEntityIsMandatoryToSaveExternalAccount.sj" />
+			<child name="Regression_CROES_4125_Acc_AccountStatus" key="{8A79271C-CE98-4924-8044-E4A1845942C7}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4125_Acc_AccountStatus.sj" />
+			<child name="Regression_CROES_4126_Acc_NotesManagementInAccount" key="{A012790E-AD46-4E7B-BA54-969A130B5BA2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4126_Acc_NotesManagementInAccount.sj" />
+			<child name="Regression_CROES_4127_Acc_ProfilesManagementInAccount" key="{6B3BFE35-D2E6-4EB0-A7C9-37A4EF421D3F}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4127_Acc_ProfilesManagementInAccount.sj" />
+			<child name="Regression_CROES_4128_Acc_CheckOperationAccountButtonInfo" key="{5B10331B-989E-4D31-AF1E-5DEF03C12C1C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4128_Acc_CheckOperationAccountButtonInfo.sj" />
+			<child name="Regression_CROES_4129_Acc_ValidateOperationSummationButton" key="{A31C221C-D865-4257-9B43-04CDD02D86A8}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4129_Acc_ValidateOperationSummationButton.sj" />
+			<child name="Regression_CROES_4131_Acc_validateConfigurableColumns" key="{BA44B89B-CF82-4882-A778-6F1C370C9F7A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4131_Acc_validateConfigurableColumns.sj" />
+			<child name="Regression_CROES_4132_Acc_AddFictitiousClient" key="{6979E5EA-2341-4FAB-856E-A49D0C5A272A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4132_Acc_AddFictitiousClient.sj" />
+			<child name="Regression_CROES_4133_Acc_ValidateCalculatedValues" key="{0B9424FC-C3F0-4915-AAD0-684FF1A0D1EA}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4133_Acc_ValidateCalculatedValues.sj" />
+			<child name="Regression_CROES_4139_Acc_AddExternalAccountWtithProfile" key="{E690F937-02BB-4665-8003-435CA316EFAF}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\Regression_CROES_4139_Acc_AddExternalAccountWtithProfile.sj" />
+		</folder>
+		<folder name="CR1806">
+			<folder name="DataHub Library">
+				<child name="CR1806_4548_Valider_le_format_du_extract_datahubextractor" key="{22C86FFA-111C-4006-9E3E-0282AF03893D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4548_Valider_le_format_du_extract_datahubextractor.js" />
+				<child name="CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{A76AB16E-72F7-4E35-8801-5E4DECFE6EAD}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4557_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.js" />
+				<child name="CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{ED5C8242-E229-49A4-9A8D-852895769890}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4558_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB" key="{081305E3-2777-49FA-A843-78CB7B8E3898}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4558_Valider_les_records_dans_la_table_B_DATA_HUB.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{AB49DDC9-B0AC-46BF-97A7-F97DB0D14C02}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.js" />
+				<child name="CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{6C4E0C02-0FE3-419B-B82D-2C59385BE892}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4615_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.js" />
+				<child name="CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{D3DE895D-89B5-402A-86C0-F21D5A4A0776}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4679_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{11277180-16B3-4BAE-A279-95B3EA864770}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.js" />
+				<child name="CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{B78D4AD3-66CB-4D96-9F11-7AE37B1DAB8A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4685_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{E4BF76B7-E89F-4852-A667-537ED28DDE46}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.js" />
+				<child name="CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{8B39D4E9-1ADA-4954-8C84-148E44767646}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4686_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.js" />
+				<child name="CR1806_Helper" key="{23E68763-4DDB-4DFF-887C-16E3BDA79FF4}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_Helper.js" />
+				<child name="CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE" key="{6860C8FC-D95F-4A16-A630-3A1A6BF0E8F9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDataHub\DataHub\Script\CR1806_4717_Valider_lexportation_des_donnees_des_rapports_MULTIPLE.js" />
+			</folder>
+			<child name="CR1806_4548_Acc_Valider_le_format_du_extract_datahubextractor" key="{29944DC0-4448-42B1-B338-A9BE9A02B359}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4548_Acc_Valider_le_format_du_extract_datahubextractor.sj" />
+			<child name="CR1806_4557_Acc_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor" key="{7A159AF6-96EE-4607-9B0F-E1C41F47A894}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4557_Acc_Valider_les_parametres_pour_l_execution_du_plugin_DataHubExtractor.sj" />
+			<child name="CR1806_4558_Acc_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB" key="{EDB952FB-197D-497A-BD85-676069F75E3B}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4558_Acc_Valider_les_champs_disponibles_dans_la_table_B_DATA_HUB.sj" />
+			<child name="CR1806_4558_Acc_Valider_les_records_dans_la_table_B_DATA_HUB" key="{44357450-B8AE-43DF-8D5B-8D34E6445AC1}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4558_Acc_Valider_les_records_dans_la_table_B_DATA_HUB.sj" />
+			<child name="CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement" key="{FA6AF91A-315F-4948-8411-32D4EE82B1A5}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_AvecSelectionEnregistrement.sj" />
+			<child name="CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement" key="{6B9FB7E1-FAEB-48E8-8E79-697D13AEADC2}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4615_Acc_Valider_lexportation_de_donnees_a_partir_de_la_selection_du_CP_SansSelectionEnregistrement.sj" />
+			<child name="CR1806_4679_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif" key="{ABF0C471-2356-413D-82B4-DADD66E1E236}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4679_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Firme_Test_Positif.sj" />
+			<child name="CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif" key="{57C5E8E4-9D56-4A34-BC33-5DFA9ED5359C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Negatif.sj" />
+			<child name="CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif" key="{57D1C6EB-59C1-490B-8F00-0AB1008430E3}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4685_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_Succursale_Test_Positif.sj" />
+			<child name="CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif" key="{C2ED3BBF-C8FE-49D1-A656-0F45AA3E6638}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Negatif.sj" />
+			<child name="CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif" key="{E187A67E-ECB0-4DB9-B30C-FF783BDBEA1C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR1806_4686_Acc_Valider_les_droits_dacces_et_historique_de_lextrait_avec_autres_utilisateurs_Niveau_User_Test_Positif.sj" />
+		</folder>
+		<folder name="CR2083">
+			<child name="CR2083_6285_Anomaly13Validation" key="{4B747472-AF7C-4B1D-BBA3-12CB5B57CB7C}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\CR2083_6285_Anomaly13Validation.sj" />
+		</folder>
+		<child name="Global_variables" key="{EBD7763C-C764-4FA9-973D-AF72FBC0955C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="ExecutionLog" key="{34C4836A-B54D-4524-8932-E66DCECEFB9A}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\ExecutionLog.sj" />
+		<child name="PreExecution" key="{CE1849E7-691C-46FC-B9F8-0D761ADEC4E9}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteComptes\Comptes\Script\PreExecution.sj" />
+		<child name="GetListOfTestsToBeRun" key="{DBCEB2D7-A44E-4EAC-B5D7-C66ED86F823D}" path="..\..\..\..\ProjectSuitesCommonScripts\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+	</children>
+</Root>

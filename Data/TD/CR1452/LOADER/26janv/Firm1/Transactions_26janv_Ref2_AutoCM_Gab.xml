@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE traData SYSTEM "/usr/lib/finansoft/loader/dtd/trans_data.dtd">
+<traData xmlns="TRA_NS">
+    <header timeStamp="20100126" dest="UNI" noElem="29"/> 
+	
+	<accTra accId="161037ER" noTra="0000001">
+		<tra total="-17111.25" note="Achat BMO  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="325">
+				<sec id="055665">
+					<priceInfo curr="CAD">
+						<price>52.650000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>
+	<accTra accId="161037RE" noTra="0000001">
+		<tra total="-8527.2" note="achat Walt Disney  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="285">
+				<sec id="221374">
+					<priceInfo curr="USD">
+						<price>29.920000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="" totFees="" totComm=""/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>
+	<accTra accId="161037NA" noTra="0000001">
+		<tra total="-15702.90" note="ACHAT B55410">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100128"/>
+			<traSec qty="1070000">
+				<sec id="B55410">
+					<priceInfo curr="CAD">
+						<price>146.523000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>	
+	</accTra>
+	<accTra accId="131037RE" noTra="0000002">
+		<tra total="-8527.2" note="achat Walt Disney  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="285">
+				<sec id="221374">
+					<priceInfo curr="USD">
+						<price>29.920000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="" totFees="" totComm=""/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="-8000.00" note="retrait">
+			<traType type="7" typeStr="RET"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="0" isTotValid="1" isComm="0"/>
+		</tra>		
+	</accTra>
+	<accTra accId="121037RE" noTra="0000002">
+		<tra total="-20584.96" note="achat Walt Disney  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="688">
+				<sec id="221374">
+					<priceInfo curr="USD">
+						<price>29.920000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="" totFees="" totComm=""/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="-1000.00" note="retrait">
+			<traType type="7" typeStr="RET"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="0" isTotValid="1" isComm="0"/>
+		</tra>		
+	</accTra>
+	<accTra accId="141037RE" noTra="0000002">
+		<tra total="-20584.96" note="achat Walt Disney  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="688">
+				<sec id="221374">
+					<priceInfo curr="USD">
+						<price>29.920000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="" totFees="" totComm=""/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="-1000.00" note="retrait">
+			<traType type="7" typeStr="RET"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="0" isTotValid="1" isComm="0"/>
+		</tra>		
+	</accTra>
+	<accTra accId="800252RE" noTra="0000002">
+		<tra total="-538.56" note="achat Walt Disney  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="18">
+				<sec id="221374">
+					<priceInfo curr="USD">
+						<price>29.920000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="" totFees="" totComm=""/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="1000.00" note="Depot">
+			<traType type="6" typeStr="DEP"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+	</accTra>
+	<accTra accId="141037NA" noTra="0000002">
+		<tra total="-9569.28" note="Achat NA ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="168">
+				<sec id="460009">
+					<priceInfo curr="CAD">
+						<price>56.960000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="10000.00" note="Depot">
+			<traType type="6" typeStr="DEP"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+	</accTra>
+	<accTra accId="151037NA" noTra="0000002">
+		<tra total="-9569.28" note="Achat NA ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="168">
+				<sec id="460009">
+					<priceInfo curr="CAD">
+						<price>56.960000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="-40000.00" note="retrait">
+			<traType type="7" typeStr="RET"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="0" isTotValid="1" isComm="0"/>
+		</tra>		
+	</accTra>
+	<accTra accId="111037NA" noTra="0000007">
+		<tra total="-3700.50" note="Achat back-date PRIN-QUEBEC">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20090514" settled="20090516"/>
+			<traSec qty="10000">
+				<sec id="M85972">
+					<priceInfo curr="CAD">
+						<price>37.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="-0.50" totComm="-47.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+		<tra total="-5549.52" note="ACHAT PRIN-QUEBEC">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100128"/>
+			<traSec qty="15000">
+				<sec id="M85972">
+					<priceInfo curr="CAD">
+						<price>37.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="-0.50" totComm="-47.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>	
+		<tra total="11331.57" note="Cancel Achat PROV C.B 5.7% 18JN29 ">
+			<traType type="1" typeStr="CXLACH"/>
+			<traDates trade="20100122" settled="20100126"/>
+			<traSec qty="-10000">
+				<sec id="B87545">
+					<priceInfo curr="CAD">
+						<price>112.700000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.50" totComm="112.00"/>
+			<indicators isCancel="1" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+		<tra total="98.51" note="PRIN QUEBEC Vente">
+			<traType type="2" typeStr="VEN"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="-100">
+				<sec id="M85972">
+					<priceInfo curr="CAD">
+						<price>99.500000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="-0.50" totComm="-98.50"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+		<tra total="-21292.50" note="Achat NA  Sleeve Act Can">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="500">
+				<sec id="460009">
+					<priceInfo curr="CAD">
+						<price>42.500000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="-0.50" totComm="-42.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>	
+		<tra total="500.00" note="INTERET backdate PROV C.B 18JN29">
+			<traType type="8" typeStr="INT"/>
+			<traDates trade="20091231" settled="20091231"/>
+			<traSec qty="">
+				<sec id="B87545">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="0" isTotValid="1" isComm="0"/>
+		</tra>
+		<tra total="250.00" note="INTERET PROV C.B 18JN29 ">
+			<traType type="8" typeStr="INT"/>
+			<traDates trade="20100126" settled="200100126"/>
+			<traSec qty="">
+				<sec id="B87545">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="0" isTotValid="1" isComm="0"/>
+		</tra>
+	</accTra>
+	<accTra accId="121037NA" noTra="0000003">
+		<tra total="-9968" note="Achat NA R000018 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100128"/>
+			<traSec qty="175">
+				<sec id="460009">
+					<priceInfo curr="CAD">
+						<price>56.960000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>	
+		<tra total="-9975" note="Achat SAP R000018 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100128"/>
+			<traSec qty="350">
+				<sec id="599751">
+					<priceInfo curr="CAD">
+						<price>28.500000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="-9985.80" note="Achat AEM R000031 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100128"/>
+			<traSec qty="178">
+				<sec id="006882">
+					<priceInfo curr="CAD">
+						<price>56.100000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>		
+	</accTra>
+	<accTra accId="800214GT" noTra="0000001">
+		<tra total="523" note="Vente BBD.B R000030 ">
+			<traType type="2" typeStr="VEN"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="-100">
+				<sec id="078336">
+					<priceInfo curr="CAD">
+						<price>5.23000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>		
+	</accTra>
+	<accTra accId="151037JW" noTra="0000005">
+		<tra total="-11335.04" note="Achat NA R0000 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100128"/>
+			<traSec qty="199">
+				<sec id="460009">
+					<priceInfo curr="CAD">
+						<price>56.960000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>	
+		<tra total="-11343" note="Achat SAP R000072 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100128"/>
+			<traSec qty="398">
+				<sec id="599751">
+					<priceInfo curr="CAD">
+						<price>28.500000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="-11332.2" note="Achat AEM R000072 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100128"/>
+			<traSec qty="202">
+				<sec id="006882">
+					<priceInfo curr="CAD">
+						<price>56.100000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="15109.6" note="Vente Walt Disney R000072">
+			<traType type="2" typeStr="VEN"/>
+			<traDates trade="20100126" settled="20100128"/>
+			<traSec qty="-505">
+				<sec id="221374">
+					<priceInfo curr="USD">
+						<price>29.920000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="1.059" totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>	
+		<tra total="13845" note="Vente Kraft R000072">
+			<traType type="2" typeStr="VEN"/>
+			<traDates trade="20100126" settled="20100128"/>
+			<traSec qty="-500">
+				<sec id="377331">
+					<priceInfo curr="USD">
+						<price>27.690000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="1.059" totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>		
+	</accTra>
+	<accTra accId="101037FS" noTra="0000003">
+		<tra total="-4272" note="Achat NA R000009 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="75">
+				<sec id="460009">
+					<priceInfo curr="CAD">
+						<price>56.960000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>	
+		<tra total="-9975" note="Achat SAP R000009 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="350">
+				<sec id="599751">
+					<priceInfo curr="CAD">
+						<price>28.500000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="-9985.80" note="Achat AEM R000009 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="178">
+				<sec id="006882">
+					<priceInfo curr="CAD">
+						<price>56.100000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>		
+	</accTra>
+	<accTra accId="111037FS" noTra="0000001">
+		<tra total="-4272" note="Achat NA R002 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="75">
+				<sec id="460009">
+					<priceInfo curr="CAD">
+						<price>56.960000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>	
+	</accTra>
+	<accTra accId="131037NA" noTra="0000003">
+		<tra total="-11392" note="Achat NA R000011 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="200">
+				<sec id="460009">
+					<priceInfo curr="CAD">
+						<price>56.960000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>	
+		<tra total="-9975" note="Achat SAP R000011 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="350">
+				<sec id="599751">
+					<priceInfo curr="CAD">
+						<price>28.500000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="-9985.80" note="Achat AEM R000011 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="178">
+				<sec id="006882">
+					<priceInfo curr="CAD">
+						<price>56.100000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>		
+	</accTra>
+	<accTra accId="101037JW" noTra="0000002">
+		<tra total="113.30" note="Div ABX">
+			<traType type="9" typeStr="DIV"/>
+			<traDates trade="20100125" settled="20100128"/>
+			<traSec qty="">
+				<sec id="059960">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="0" isTotValid="1" isComm="0"/>
+		</tra>
+		<tra total="-34314" note="Achat SAP  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="1204">
+				<sec id="599751">
+					<priceInfo curr="CAD">
+						<price>28.500000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>
+<accTra accId="151037JW" noTra="0000002">
+		<tra total="113.30" note="Div ABX">
+			<traType type="9" typeStr="DIV"/>
+			<traDates trade="20100125" settled="20100128"/>
+			<traSec qty="">
+				<sec id="059960">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="0" isTotValid="1" isComm="0"/>
+		</tra>
+		<tra total="-34314" note="Achat SAP  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="1204">
+				<sec id="599751">
+					<priceInfo curr="CAD">
+						<price>28.500000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>		
+	<accTra accId="111037JW" noTra="0000001">
+		<tra total="-10252.8" note="Achat NA ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="180">
+				<sec id="460009">
+					<priceInfo curr="CAD">
+						<price>56.960000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>	
+	</accTra>
+	<accTra accId="171037OB" noTra="0000001">	
+		<tra total="30798.9" note="Achat VEN AEM R0007 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="-549">
+				<sec id="006882">
+					<priceInfo curr="CAD">
+						<price>56.100000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>
+	<accTra accId="101037NA" noTra="0000001">
+		<tra total="-8942.72" note="Achat BBD non pas NA  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20080305" settled="20080306"/>
+			<traSec qty="157">
+				<sec id="078336">
+					<priceInfo curr="CAD">
+						<price>56.960000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>
+	<accTra accId="121037JW" noTra="0000001">
+		<tra total="-2394" note="Achat SAP R00 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="84">
+				<sec id="599751">
+					<priceInfo curr="CAD">
+						<price>28.500000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>
+	<accTra accId="800046NA" noTra="0000001">
+		<tra total="1601.38" note="Vente BCE  ">
+			<traType type="2" typeStr="VEN"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="-58">
+				<sec id="070623">
+					<priceInfo curr="CAD">
+						<price>27.6100</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>		
+	</accTra>
+	<accTra accId="800049OB" noTra="0000001">
+		<tra total="-598.4" note="achat Walt Disney R000031 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="20">
+				<sec id="221374">
+					<priceInfo curr="USD">
+						<price>29.920000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="" totFees="" totComm=""/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>
+	<accTra accId="800049NA" noTra="0000003">
+		<tra total="-4256.89" note="achat NBC566 R000030 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="357722">
+				<sec id="977852">
+					<priceInfo curr="CAD">
+						<price>11.900</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="" totFees="" totComm=""/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="-5279.644" note="achat NBC100 R000030 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="5279644">
+				<sec id="991531">
+					<priceInfo curr="CAD">
+						<price>1.000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="" totFees="" totComm=""/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="16803.12" note="Vente FID228 R000030 ">
+			<traType type="2" typeStr="VEN"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="-786258">
+				<sec id="995072">
+					<priceInfo curr="CAD">
+						<price>21.370</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="" totFees="" totComm=""/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		</accTra>
+	<accTra accId="800034JW" noTra="0000001">
+		<tra total="-1210.95" note="Achat BMO R000031 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="23">
+				<sec id="055665">
+					<priceInfo curr="CAD">
+						<price>52.650000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>
+	<accTra accId="800036GT" noTra="0000001">
+		<tra total="-10951.20" note="Achat BMO  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="208">
+				<sec id="055665">
+					<priceInfo curr="CAD">
+						<price>52.650000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>
+	<accTra accId="800273NA" noTra="0000001">
+		<tra total="-11400" note="Achat SAP R000034 ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="400">
+				<sec id="599751">
+					<priceInfo curr="CAD">
+						<price>28.500000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts totFees="0.00" totComm="0.00"/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+	</accTra>
+	<accTra accId="800063OB" noTra="0000002">
+		<tra total="-11968.00" note="achat Walt Disney  ">
+			<traType type="1" typeStr="ACH"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="400">
+				<sec id="221374">
+					<priceInfo curr="USD">
+						<price>29.920000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts xchRate="" totFees="" totComm=""/>
+			<indicators isCancel="0" isTrade="1" isQtyValid="1" isTotValid="1" isComm="1"/>
+		</tra>
+		<tra total="5000.00" note="Depot">
+			<traType type="6" typeStr="DEP"/>
+			<traDates trade="20100126" settled="20100129"/>
+			<traSec qty="">
+				<sec id="">
+					<priceInfo curr="CAD">
+						<price>0.000000</price>
+					</priceInfo>
+				</sec>
+			</traSec>
+			<amounts/>
+			<indicators isCancel="0" isTrade="0" isQtyValid="1" isTotValid="1" isComm="0"/>
+		</tra>
+	</accTra>
+	</traData>

@@ -1,0 +1,11 @@
+::Modifier le fichier dans var/lib/finansoft/configs et celui dans etc/finansoft
+
+chmod 7777 /var/lib/finansoft/configs/OrderManagementServer.exe.config
+
+sed -i -e '/<add key="FIXClientConfig" value="FIXClientConfig.cfg" \/>/d' /var/lib/finansoft/configs/OrderManagementServer.exe.config
+sed -i -e '/<add key="FIXClientConfig_SupId6" value="\/etc\/finansoft\/FIXClientConfig_SupId6.cfg" \/>/d' /var/lib/finansoft/configs/OrderManagementServer.exe.config
+
+sed -i -e 's/<add key="OrderManagementServerId" value="1" \/>/<add key="OrderManagementServerId" value="1"  \/>\r\n <add key="FIXClientConfig" value="FIXClientConfig.cfg"  \/>\r\n  <add key="IsVerifyProviderSessionHours" value="True"  \/>\r\n<add key="PreInitializeXmlSerializer" value="True"  \/>\r\n <add key="FIXThreadCount" value="4"  \/>\r\n<add key="NetworkDelaySecondsToWarm" value="15" \/>\r\n<add key="TDMutualFundCommand" value="\/etc\/finansoft\/AddSentExtension.sh" \/>\r\n<add key="TDMutualFundFolder" value="\/home\/crweb\/Test_CR1571" \/>\r\n/g' /var/lib/finansoft/configs/OrderManagementServer.exe.config
+
+SLEEP 20
+chmod 7777 /etc/finansoft/AddSentExtension.sh

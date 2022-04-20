@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Functions">
+			<folder name="Common_Get_functions">
+				<child name="Common_Get_functions" key="{A7872393-80B7-458C-9771-63B27FC05DEE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_Get_functions.sj" />
+				<child name="Common_MenuEdit_Get_functions" key="{C02100F7-BE9A-4620-BDB0-4F7E424C20E9}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuEdit_Get_functions.sj" />
+				<child name="Common_MenuFileModulesUsersHelp_Get_functions" key="{84A456CA-260B-433C-BD4F-3B9D183821B1}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuFileModulesUsersHelp_Get_functions.sj" />
+				<child name="Common_MenuReports_Get_functions" key="{DB0ADED2-35D4-42D4-9F91-6ABA7A4B600B}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuReports_Get_functions.sj" />
+				<child name="Common_MenuSearch_Get_functions" key="{7B860A46-7CEA-4C9C-97D1-A7347010726A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuSearch_Get_functions.sj" />
+				<child name="Common_MenuTools_Get_functions" key="{5FCEAF47-5891-4CAA-8D89-545492970AEF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_MenuTools_Get_functions.sj" />
+			</folder>
+			<child name="Agenda_Get_functions" key="{0FF84219-55B6-4138-B4C5-948AA2CC8718}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Agenda_Get_functions.sj" />
+			<child name="Clients_Get_functions" key="{4AB4AF24-0224-4FD8-9577-6DA18EFF912E}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Clients_Get_functions.sj" />
+			<child name="Common_functions" key="{527305F8-29AE-48D4-86C1-C2F7DE3E255C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Common_functions.sj" />
+			<child name="Comptes_Get_functions" key="{A8188FFD-A67C-4CA5-A81F-2D4D49A87992}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Comptes_Get_functions.sj" />
+			<child name="Dashboard_Get_functions" key="{17B31EDE-81CA-4581-87C5-A38353B67209}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Dashboard_Get_functions.sj" />
+			<child name="DBA" key="{3F3C841D-7F80-44ED-9E21-899F3A5BAB77}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\DBA.sj" />
+			<child name="ExcelUtils" key="{CF66E2C5-9E2D-4171-9794-9681307DC72A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\ExcelUtils.sj" />
+			<child name="Modeles_Get_functions" key="{80B14768-F330-46C2-A847-76BF5A69D654}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Modeles_Get_functions.sj" />
+			<child name="Ordres_Get_functions" key="{0CEDA338-7382-431C-A4AB-DE869912ED03}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Ordres_Get_functions.sj" />
+			<child name="Portefeuille_Get_functions" key="{87998D88-7CA9-4AC1-9C19-4A27A9368AEF}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Portefeuille_Get_functions.sj" />
+			<child name="Relations_Get_functions" key="{EF4259B9-D1CB-47BA-B5A3-FB0BB900E8F7}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Relations_Get_functions.sj" />
+			<child name="Titres_Get_functions" key="{639EA3DB-EEBD-4B8E-83CC-CAD8CECED9EE}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Titres_Get_functions.sj" />
+			<child name="Transactions_Get_functions" key="{65CDD34A-963C-49EA-89EC-BD5DC175CA4C}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Transactions_Get_functions.sj" />
+			<child name="CommonCheckpoints" key="{676E8F01-5DA8-4B15-B56E-653DB4CA2A6C}" path="..\..\..\ProjectSuiteCommonCheckpoints\CommonCheckpoints\Script\CommonCheckpoints.js" />
+			<child name="WebConfigurator_Get_functions" key="{E5D0646A-96C2-456E-BC5B-58A4DE3D5D2A}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\WebConfigurator_Get_functions.sj" />
+			<child name="SmokeTest_ConfigurateurWeb" key="{13D2F60E-8DBE-4BA2-86DE-DA13C73382D8}" path="..\..\..\ProjectSuiteGeneral\General\Script\SmokeTest_ConfigurateurWeb.sj" />
+			<child name="PDFUtils" key="{5264FE47-8021-4F90-A7C5-D86761E16B84}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\PDFUtils.sj" />
+		</folder>
+		<folder name="GP1859_Library">
+			<child name="GP1859_CR1485_064_Rel_ParamDef" key="{01F59926-F4C7-4188-8EBB-8348C06BED16}" path="GP1859_CR1485_064_Rel_ParamDef.js" />
+			<child name="GP1859_CR1485_064_Rel_ParamDef_AddBranch_Msg" key="{542652DB-471A-4297-BD46-55F60F9D1EB8}" path="GP1859_CR1485_064_Rel_ParamDef_AddBranch_Msg.js" />
+			<child name="GP1859_CR1485_069_Rel_NoParam" key="{0AD7961C-00DB-4EC1-9273-865FD37ADFD1}" path="GP1859_CR1485_069_Rel_NoParam.js" />
+			<child name="GP1859_CR1485_070_Rel_NoParam" key="{DD50FB54-FC31-4807-A9B9-B1CAFE488BE5}" path="GP1859_CR1485_070_Rel_NoParam.js" />
+			<child name="GP1859_CR1485_071_Rel_DateModf" key="{10EA1CA3-FADA-4177-8E2E-E7AB0FCA635B}" path="GP1859_CR1485_071_Rel_DateModf.js" />
+			<child name="GP1859_CR1485_072_Rel_NoParam" key="{9BBBD49C-683D-468C-A62E-A5F9DA5A8547}" path="GP1859_CR1485_072_Rel_NoParam.js" />
+			<child name="GP1859_CR1485_083_Rel_NoParam" key="{FC74FD0F-E343-403F-9DA4-D55A658FAC4A}" path="GP1859_CR1485_083_Rel_NoParam.js" />
+			<child name="GP1859_CR1485_084_Rel_NoParam" key="{86D96504-8669-4A98-BFB2-0E6A01714289}" path="GP1859_CR1485_084_Rel_NoParam.js" />
+			<child name="GP1859_CR1485_085_Rel_NoParam" key="{5F86A876-2CF8-4F5A-A3A2-C88B81C9F2D3}" path="GP1859_CR1485_085_Rel_NoParam.js" />
+			<child name="GP1859_CR1485_086_Rel_ParamDef_AddBranch" key="{21658844-B468-4540-BE7E-844702622353}" path="GP1859_CR1485_086_Rel_ParamDef_AddBranch.js" />
+			<child name="GP1859_CR1485_090_Rel_DateDef" key="{550A3AC7-42B7-49EA-B627-C0497B215B2F}" path="GP1859_CR1485_090_Rel_DateDef.js" />
+			<child name="GP1859_CR1485_091_Rel_NoParam_AddBranch" key="{0A86289C-8C2B-4E6B-8C20-D580A31D12BB}" path="GP1859_CR1485_091_Rel_NoParam_AddBranch.js" />
+			<child name="GP1859_CR1485_092_Rel_NoParam_AddBranch" key="{537A8170-C06B-4E5A-8963-F309A815DB56}" path="GP1859_CR1485_092_Rel_NoParam_AddBranch.js" />
+			<child name="GP1859_CR1485_096_Rel_NoParam_AddBranch_Msg" key="{247C6E0E-1FAC-407F-AF47-7FAD7D3E6841}" path="GP1859_CR1485_096_Rel_NoParam_AddBranch_Msg.js" />
+			<child name="GP1859_Helper" key="{556F20B0-6A82-4294-B743-CE797E9057D9}" path="GP1859_Helper.js" />
+			<child name="GP1859_PreparationBD_Relationships" key="{3DFBABC5-11DA-4ABB-8246-115CA234EB8F}" path="GP1859_PreparationBD_Relationships.js" />
+		</folder>
+		<folder name="CR1485_Library">
+			<child name="CR1485_Common_functions" key="{E8E9144B-CA51-44BD-8D1B-22E43BCE279B}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_Common_functions.sj" />
+			<child name="CR1485_PreparationBD_Relationships_Models" key="{C0942F13-9388-40C1-95F5-25BC15EC3F15}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_PreparationBD_Relationships_Models.sj" />
+			<child name="CR1485_064_Common_functions" key="{17FC23AA-A2C0-4FDB-81A0-97AD9B37DE3F}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_064_Common_functions.sj" />
+			<child name="CR1485_064_Rel_ParamDef" key="{FC0EA7E0-562B-43E2-A724-57A635B9EF93}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_064_Rel_ParamDef.sj" />
+			<child name="CR1485_064_Rel_ParamDef_AddBranch_Msg" key="{6F23D152-71B4-429D-959E-03DC86794409}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_064_Rel_ParamDef_AddBranch_Msg.sj" />
+			<child name="CR1485_069_Common_functions" key="{93CB13CC-DFC7-4FC5-BDDA-CF3B9F97499F}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_069_Common_functions.sj" />
+			<child name="CR1485_069_Rel_NoParam" key="{D57BDC20-1F59-485C-9DB9-B2D1573CE8A0}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_069_Rel_NoParam.sj" />
+			<child name="CR1485_070_Common_functions" key="{615DA6FA-75C1-4E70-827C-A844917F12EC}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_070_Common_functions.sj" />
+			<child name="CR1485_070_Rel_NoParam" key="{EB361501-5CE1-4F09-9DD5-95925A285D6C}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_070_Rel_NoParam.sj" />
+			<child name="CR1485_071_Common_functions" key="{4C0C8F01-ADE3-4D7D-976D-2AD1DFFDAA0E}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_071_Common_functions.sj" />
+			<child name="CR1485_071_Rel_DateModf" key="{DDDAFF08-3ED7-4220-97AA-560F77646C39}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_071_Rel_DateModf.sj" />
+			<child name="CR1485_072_Common_functions" key="{D3A919D0-0E61-4289-8098-1F8CFEDB41CF}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_072_Common_functions.sj" />
+			<child name="CR1485_072_Rel_NoParam" key="{98C97600-BA0F-4749-AF70-890666D47E39}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_072_Rel_NoParam.sj" />
+			<child name="CR1485_083_Common_functions" key="{2289714A-0B04-4399-96C9-5C182270B8B0}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_083_Common_functions.sj" />
+			<child name="CR1485_083_Rel_NoParam" key="{AF2E7AC3-EA51-4091-B44A-19F75E4BDC53}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_083_Rel_NoParam.sj" />
+			<child name="CR1485_084_Common_functions" key="{745A39D7-96E1-43B5-9C39-3A9C152A269B}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_084_Common_functions.sj" />
+			<child name="CR1485_084_Rel_NoParam" key="{5ACD2F8C-564D-43A3-A604-C2400B172D0D}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_084_Rel_NoParam.sj" />
+			<child name="CR1485_085_Common_functions" key="{F1FBB684-67DC-4AD1-8507-36B858C2609F}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_085_Common_functions.sj" />
+			<child name="CR1485_085_Rel_NoParam" key="{62C85EBD-FAA9-465B-A6C0-DAEB8652F163}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_085_Rel_NoParam.sj" />
+			<child name="CR1485_086_Common_functions" key="{39C92A98-03A5-47B8-B2ED-0B896C84CEE9}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_086_Common_functions.sj" />
+			<child name="CR1485_086_Rel_ParamDef_AddBranch" key="{743B47FE-90F1-4343-8131-A05CD1A4599B}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_086_Rel_ParamDef_AddBranch.sj" />
+			<child name="CR1485_090_Common_functions" key="{50CC63FD-79FA-48FE-9076-5129A33ADA78}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_090_Common_functions.sj" />
+			<child name="CR1485_090_Rel_DateDef" key="{643680F3-F555-4C2C-B71C-93D1512A5CFF}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_090_Rel_DateDef.sj" />
+			<child name="CR1485_091_Common_functions" key="{2E8B5166-5198-4245-8CAF-1027A714519A}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_091_Common_functions.sj" />
+			<child name="CR1485_091_Rel_NoParam_AddBranch" key="{C4846D92-D9FD-45E4-8753-3B69085B6D8E}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_091_Rel_NoParam_AddBranch.sj" />
+			<child name="CR1485_092_Common_functions" key="{F2EA9C85-441D-4925-951E-C16E7EAA1266}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_092_Common_functions.sj" />
+			<child name="CR1485_092_Rel_NoParam_AddBranch" key="{730BDD3D-BC07-496A-8985-3B28CDADE803}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_092_Rel_NoParam_AddBranch.sj" />
+			<child name="CR1485_096_Common_functions" key="{2D2F1DD8-AD31-4567-870F-B23658C84620}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_096_Common_functions.sj" />
+			<child name="CR1485_096_Rel_NoParam_AddBranch_Msg" key="{194C9CD3-89F9-4C01-BF51-3602EDC59EDF}" path="..\..\..\ProjectSuiteRapports\Rapports\Script\CR1485_096_Rel_NoParam_AddBranch_Msg.sj" />
+		</folder>
+		<folder name="GP1859_Default_Themes">
+			<child name="GP1859_Default_Themes_CR1485_064_Rel_ParamDef" key="{D9AFB748-5138-4DF4-A8A0-E591F310A4D1}" path="GP1859_Default_Themes_CR1485_064_Rel_ParamDef.js" />
+			<child name="GP1859_Default_Themes_CR1485_064_Rel_ParamDef_AddBranch_Msg" key="{3450C4AE-C586-4B64-ABC3-01CFFA501C13}" path="GP1859_Default_Themes_CR1485_064_Rel_ParamDef_AddBranch_Msg.js" />
+			<child name="GP1859_Default_Themes_CR1485_069_Rel_NoParam" key="{72C46A1B-609B-4042-BA4D-1A6F4B7EF1A6}" path="GP1859_Default_Themes_CR1485_069_Rel_NoParam.js" />
+			<child name="GP1859_Default_Themes_CR1485_070_Rel_NoParam" key="{A57E8B06-047D-431F-B639-CD8948F91FF9}" path="GP1859_Default_Themes_CR1485_070_Rel_NoParam.js" />
+			<child name="GP1859_Default_Themes_CR1485_071_Rel_DateModf" key="{C26A78F2-C00B-43B5-B80C-4DBBF7E91793}" path="GP1859_Default_Themes_CR1485_071_Rel_DateModf.js" />
+			<child name="GP1859_Default_Themes_CR1485_072_Rel_NoParam" key="{A3FB7EAE-8E17-46E1-A608-21F9E805010B}" path="GP1859_Default_Themes_CR1485_072_Rel_NoParam.js" />
+			<child name="GP1859_Default_Themes_CR1485_083_Rel_NoParam" key="{2ED3D629-E413-4300-875E-6AF87A8FB288}" path="GP1859_Default_Themes_CR1485_083_Rel_NoParam.js" />
+			<child name="GP1859_Default_Themes_CR1485_084_Rel_NoParam" key="{81DB9303-A1EB-47DC-800B-2A145D332DEB}" path="GP1859_Default_Themes_CR1485_084_Rel_NoParam.js" />
+			<child name="GP1859_Default_Themes_CR1485_085_Rel_NoParam" key="{EE6126C9-A922-4947-982D-3274919FB332}" path="GP1859_Default_Themes_CR1485_085_Rel_NoParam.js" />
+			<child name="GP1859_Default_Themes_CR1485_086_Rel_ParamDef_AddBranch" key="{1F3846C3-138D-4309-923E-2E35A75EA323}" path="GP1859_Default_Themes_CR1485_086_Rel_ParamDef_AddBranch.js" />
+			<child name="GP1859_Default_Themes_CR1485_090_Rel_DateDef" key="{797A0DFE-54BB-4881-8322-B84E7228C8B5}" path="GP1859_Default_Themes_CR1485_090_Rel_DateDef.js" />
+			<child name="GP1859_Default_Themes_CR1485_091_Rel_NoParam_AddBranch" key="{4CB7F168-15B2-4292-8DAA-7C30F86575F9}" path="GP1859_Default_Themes_CR1485_091_Rel_NoParam_AddBranch.js" />
+			<child name="GP1859_Default_Themes_CR1485_092_Rel_NoParam_AddBranch" key="{AB22D1C4-BB04-4206-91AB-954CCF29AE4D}" path="GP1859_Default_Themes_CR1485_092_Rel_NoParam_AddBranch.js" />
+			<child name="GP1859_Default_Themes_CR1485_096_Rel_NoParam_AddBranch_Msg" key="{83301471-14EB-42A2-8EF9-572638832724}" path="GP1859_Default_Themes_CR1485_096_Rel_NoParam_AddBranch_Msg.js" />
+			<child name="GP1859_Default_Themes_PreparationBD" key="{00A0C4CC-3DB7-4E4F-A687-367DABD04681}" path="GP1859_Default_Themes_PreparationBD.js" />
+			<child name="ExecutionLog_GP1859_Default_Themes" key="{80064919-B04A-4624-B712-3B3645384B00}" path="ExecutionLog_GP1859_Default_Themes.js" />
+			<child name="GP1859_Default_Themes_Verification" key="{BF95B5B4-D105-4CC3-AED7-15D542D931C7}" path="GP1859_Default_Themes_Verification.js" />
+		</folder>
+		<folder name="GP1859_WhiteLabels_Themes">
+			<child name="GP1859_WhiteLabels_Themes_CR1485_064_Rel_ParamDef" key="{ACF159EB-DDC7-4BBF-B07C-47B96E6D374E}" path="GP1859_WhiteLabels_Themes_CR1485_064_Rel_ParamDef.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_064_Rel_ParamDef_AddBranch_Msg" key="{5FF98CEA-CBC0-4E67-8EB9-1C5D0734F273}" path="GP1859_WhiteLabels_Themes_CR1485_064_Rel_ParamDef_AddBranch_Msg.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_069_Rel_NoParam" key="{BE4A9F79-45DC-4257-BB68-D348FE4082E9}" path="GP1859_WhiteLabels_Themes_CR1485_069_Rel_NoParam.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_070_Rel_NoParam" key="{10869346-EDC7-4B83-812E-3D49F36CA753}" path="GP1859_WhiteLabels_Themes_CR1485_070_Rel_NoParam.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_071_Rel_DateModf" key="{531F3024-92EB-4501-B922-7BD9EEA07174}" path="GP1859_WhiteLabels_Themes_CR1485_071_Rel_DateModf.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_072_Rel_NoParam" key="{A9C0941A-C667-4F82-BAF0-375066D9D0DD}" path="GP1859_WhiteLabels_Themes_CR1485_072_Rel_NoParam.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_083_Rel_NoParam" key="{7417D511-745C-45AD-86E3-5F34D9756733}" path="GP1859_WhiteLabels_Themes_CR1485_083_Rel_NoParam.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_084_Rel_NoParam" key="{FC97C761-7B02-4974-BFD9-51C39788C8E4}" path="GP1859_WhiteLabels_Themes_CR1485_084_Rel_NoParam.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_085_Rel_NoParam" key="{9AECA897-3618-4101-9A96-2D782AED7741}" path="GP1859_WhiteLabels_Themes_CR1485_085_Rel_NoParam.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_086_Rel_ParamDef_AddBranch" key="{D4102EB4-DB49-467D-9229-08920A0173BC}" path="GP1859_WhiteLabels_Themes_CR1485_086_Rel_ParamDef_AddBranch.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_090_Rel_DateDef" key="{49CACD97-7352-4E92-9346-ECA7C39B8C49}" path="GP1859_WhiteLabels_Themes_CR1485_090_Rel_DateDef.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_091_Rel_NoParam_AddBranch" key="{986ABA01-5FA6-4E3F-A279-D687A3C0B6FA}" path="GP1859_WhiteLabels_Themes_CR1485_091_Rel_NoParam_AddBranch.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_092_Rel_NoParam_AddBranch" key="{023BDF88-4ED1-49B0-B9A4-B42F00353D1F}" path="GP1859_WhiteLabels_Themes_CR1485_092_Rel_NoParam_AddBranch.js" />
+			<child name="GP1859_WhiteLabels_Themes_CR1485_096_Rel_NoParam_AddBranch_Msg" key="{5FCE23BF-AE41-4F28-B779-12DD2BA03B3F}" path="GP1859_WhiteLabels_Themes_CR1485_096_Rel_NoParam_AddBranch_Msg.js" />
+			<child name="GP1859_WhiteLabels_Themes_PreparationBD" key="{F656A04F-8E72-4CCB-BAC8-BBEE8CCA2A33}" path="GP1859_WhiteLabels_Themes_PreparationBD.js" />
+			<child name="ExecutionLog_GP1859_WhiteLabels_Themes" key="{9BFCD9B2-C0A0-41AB-A1C7-5B65CF4C4789}" path="ExecutionLog_GP1859_WhiteLabels_Themes.js" />
+		</folder>
+		<child name="Global_variables" key="{3B371D4D-9C78-4443-A373-F787A2B31BB2}" path="..\..\..\..\ProjectSuiteLibrary\Library\Script\Global_variables.sj" />
+		<child name="GetListOfTestsToBeRun" key="{56057827-E8EB-4030-BB64-B06A80480992}" path="..\..\..\ProjectSuiteDistributedTesting\ScriptsDistributedTesting\Script\GetListOfTestsToBeRun.js" />
+		<child name="ExecutionLog" key="{A60703E7-95B5-47E4-8657-44EFAB6159D6}" path="ExecutionLog.js" />
+		<child name="PreExecution" key="{884E1D9D-2E04-48FD-A2D9-6BDBC241D613}" path="PreExecution.js" />
+	</children>
+</Root>

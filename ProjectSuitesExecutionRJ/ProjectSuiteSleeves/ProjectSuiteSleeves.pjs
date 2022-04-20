@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{1E1DEA05-154C-445C-A9D7-B539CB0B1EA5}">
+	<children>
+		<child name="Sleeves" key="{25B7C23F-E3C0-4432-B37D-2911327D9022}" path="Sleeves\Sleeves.mds" />
+	</children>
+	<testItems key="{8261E6E7-9451-43FC-BB0F-2AB4F5E661FA}">
+		<children>
+			<testItem key="{25B7C23F-E3C0-4432-B37D-2911327D9022}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{E5C6EAEE-C004-43EA-8325-2FD76B9618BE}">
+		<data Version="4">
+			<Items>
+				<Variable Name="executionClient" Type="String" Local="True">
+					<DefValue StrValue="RJ" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{7921D317-62B3-46F1-BC32-1BE19215A447}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
